@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-07-22 05:27+0200\n"
+"POT-Creation-Date: 2008-07-31 08:20+0200\n"
 "PO-Revision-Date: 2008-07-31 07:15-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -37,7 +37,11 @@ msgstr "سمونګر ټاکونکی"
 #. i18n: tag string
 #. i18n: file ./interfaces/ktexteditor/editorchooser_ui.ui line 42
 #: rc.cpp:8
-msgid "Please choose the default text editing component that you wish to use in this application. If you choose <B>System Default</B>, the application will honor your changes in the Control Center. All other choices will override that setting."
+msgid ""
+"Please choose the default text editing component that you wish to use in "
+"this application. If you choose <B>System Default</B>, the application will "
+"honor your changes in the Control Center. All other choices will override "
+"that setting."
 msgstr ""
 
 #. i18n: tag string
@@ -84,8 +88,7 @@ msgstr ""
 
 #. i18n: tag string
 #. i18n: file ./kdeui/dialogs/knewpassworddialog.ui line 78
-#: rc.cpp:32
-#: kdeui/dialogs/knewpassworddialog.cpp:114
+#: rc.cpp:32 kdeui/dialogs/knewpassworddialog.cpp:114
 #: kde3support/kdeui/k3passworddialog.cpp:432
 #: kde3support/kdeui/k3passworddialog.cpp:625
 msgid "Passwords do not match"
@@ -93,8 +96,7 @@ msgstr "تېرنويې ساري نه دي"
 
 #. i18n: tag string
 #. i18n: file ./kdeui/dialogs/knewpassworddialog.ui line 100
-#: rc.cpp:35
-#: kde3support/kdeui/k3passworddialog.cpp:389
+#: rc.cpp:35 kde3support/kdeui/k3passworddialog.cpp:389
 msgid "&Verify:"
 msgstr ":باورييل&"
 
@@ -102,15 +104,13 @@ msgstr ":باورييل&"
 #. i18n: file ./kdeui/dialogs/knewpassworddialog.ui line 110
 #. i18n: tag string
 #. i18n: file ./kdeui/dialogs/kpassworddialog.ui line 138
-#: rc.cpp:38
-#: rc.cpp:152
+#: rc.cpp:38 rc.cpp:152
 msgid "Password:"
 msgstr "تېرنويې"
 
 #. i18n: tag string
 #. i18n: file ./kdeui/dialogs/knewpassworddialog.ui line 137
-#: rc.cpp:41
-#: kde3support/kdeui/k3passworddialog.cpp:410
+#: rc.cpp:41 kde3support/kdeui/k3passworddialog.cpp:410
 msgid "Password strength meter:"
 msgstr ":د تېرنويې د کلکوالي ميټر"
 
@@ -160,9 +160,7 @@ msgstr "غوراوی"
 #. i18n: file ./kdeui/dialogs/kcupsoptionsjobwidget.ui line 127
 #. i18n: tag string
 #. i18n: file ./khtml/htmlpageinfo.ui line 237
-#: rc.cpp:65
-#: rc.cpp:438
-#: khtml/ecma/debugger/localvariabledock.cpp:52
+#: rc.cpp:65 rc.cpp:438 khtml/ecma/debugger/localvariabledock.cpp:52
 #: khtml/java/kjavaappletviewer.cpp:139
 msgid "Value"
 msgstr "ارزښت"
@@ -183,8 +181,7 @@ msgstr "مخونه پر پاڼې"
 #. i18n: file ./kdeui/dialogs/kcupsoptionspageswidget.ui line 25
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/calc/calc.ui line 141
-#: rc.cpp:74
-#: rc.cpp:734
+#: rc.cpp:74 rc.cpp:734
 msgid "1"
 msgstr "۱"
 
@@ -192,8 +189,7 @@ msgstr "۱"
 #. i18n: file ./kdeui/dialogs/kcupsoptionspageswidget.ui line 35
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/calc/calc.ui line 120
-#: rc.cpp:77
-#: rc.cpp:725
+#: rc.cpp:77 rc.cpp:725
 msgid "6"
 msgstr "۶"
 
@@ -201,8 +197,7 @@ msgstr "۶"
 #. i18n: file ./kdeui/dialogs/kcupsoptionspageswidget.ui line 42
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/calc/calc.ui line 92
-#: rc.cpp:80
-#: rc.cpp:713
+#: rc.cpp:80 rc.cpp:713
 msgid "2"
 msgstr "۲"
 
@@ -210,8 +205,7 @@ msgstr "۲"
 #. i18n: file ./kdeui/dialogs/kcupsoptionspageswidget.ui line 49
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/calc/calc.ui line 134
-#: rc.cpp:83
-#: rc.cpp:731
+#: rc.cpp:83 rc.cpp:731
 msgid "9"
 msgstr "۹"
 
@@ -219,8 +213,7 @@ msgstr "۹"
 #. i18n: file ./kdeui/dialogs/kcupsoptionspageswidget.ui line 56
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/calc/calc.ui line 85
-#: rc.cpp:86
-#: rc.cpp:710
+#: rc.cpp:86 rc.cpp:710
 msgid "4"
 msgstr "۴"
 
@@ -277,13 +270,18 @@ msgstr "مخونه په نېغو څاښونو هېندارول"
 #. i18n: tag string
 #. i18n: file ./kdeui/dialogs/kshortcutsdialog.ui line 16
 #: rc.cpp:113
-msgid "Search interactively for shortcut names (e.g. Copy) or combination of keys (e.g. Ctrl+C) by typing them here."
+msgid ""
+"Search interactively for shortcut names (e.g. Copy) or combination of keys "
+"(e.g. Ctrl+C) by typing them here."
 msgstr ""
 
 #. i18n: tag string
 #. i18n: file ./kdeui/dialogs/kshortcutsdialog.ui line 23
 #: rc.cpp:116
-msgid "Here you can see a list of key bindings, i.e. associations between actions (e.g. 'Copy') shown in the left column and keys or combination of keys (e.g. Ctrl+V) shown in the right column."
+msgid ""
+"Here you can see a list of key bindings, i.e. associations between actions "
+"(e.g. 'Copy') shown in the left column and keys or combination of keys (e.g. "
+"Ctrl+V) shown in the right column."
 msgstr ""
 
 #. i18n: tag string
@@ -360,9 +358,7 @@ msgstr "تېرنويې په ياد ساتل"
 
 #. i18n: tag string
 #. i18n: file ./kdeui/sonnet/configui.ui line 28
-#: rc.cpp:158
-#: kdeui/findreplace/kfinddialog.cpp:126
-#: kfile/kfilewidget.cpp:396
+#: rc.cpp:158 kdeui/findreplace/kfinddialog.cpp:126 kfile/kfilewidget.cpp:397
 msgid "Options"
 msgstr "غوراوي"
 
@@ -394,12 +390,19 @@ msgstr ":تلواله ژبه"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 42
 #. i18n: tag string
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 58
-#: rc.cpp:173
-#: rc.cpp:185
+#: rc.cpp:173 rc.cpp:185
 msgid ""
-"<qt><p>This word was considered to be an \"unknown word\" because it does not match any entry in the dictionary currently in use. It may also be a word in a foreign language.</p>\n"
-"<p>If the word is not misspelled, you may add it to the dictionary by clicking <b>Add to Dictionary</b>. If you do not want to add the unknown word to the dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>Ignore All</b>.</p>\n"
-"<p>However, if the word is misspelled, you can try to find the correct replacement in the list below. If you cannot find a replacement there, you may type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>.</p>\n"
+"<qt><p>This word was considered to be an \"unknown word\" because it does "
+"not match any entry in the dictionary currently in use. It may also be a "
+"word in a foreign language.</p>\n"
+"<p>If the word is not misspelled, you may add it to the dictionary by "
+"clicking <b>Add to Dictionary</b>. If you do not want to add the unknown "
+"word to the dictionary, but you want to leave it unchanged, click <b>Ignore</"
+"b> or <b>Ignore All</b>.</p>\n"
+"<p>However, if the word is misspelled, you can try to find the correct "
+"replacement in the list below. If you cannot find a replacement there, you "
+"may type it in the text box below, and click <b>Replace</b> or <b>Replace "
+"All</b>.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -407,8 +410,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 45
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 39
-#: rc.cpp:179
-#: rc.cpp:803
+#: rc.cpp:179 rc.cpp:803
 msgid "Unknown word:"
 msgstr ":ناپېژندلې ويې"
 
@@ -416,8 +418,7 @@ msgstr ":ناپېژندلې ويې"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 52
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 46
-#: rc.cpp:182
-#: rc.cpp:806
+#: rc.cpp:182 rc.cpp:806
 msgid "Unknown word"
 msgstr "ناپېژندلې ويې"
 
@@ -425,8 +426,7 @@ msgstr "ناپېژندلې ويې"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 61
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 55
-#: rc.cpp:191
-#: rc.cpp:815
+#: rc.cpp:191 rc.cpp:815
 msgid "<b>misspelled</b>"
 msgstr "<b>ناسم ليکدود</b>"
 
@@ -438,10 +438,7 @@ msgstr "<b>ناسم ليکدود</b>"
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 64
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 236
-#: rc.cpp:194
-#: rc.cpp:252
-#: rc.cpp:818
-#: rc.cpp:913
+#: rc.cpp:194 rc.cpp:252 rc.cpp:818 rc.cpp:913
 msgid ""
 "<qt>\n"
 "<p>Select the language of the document you are proofing here.</p>\n"
@@ -455,8 +452,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 73
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 67
-#: rc.cpp:199
-#: rc.cpp:823
+#: rc.cpp:199 rc.cpp:823
 msgid "&Language:"
 msgstr ":ژبه&"
 
@@ -464,8 +460,7 @@ msgstr ":ژبه&"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 83
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 77
-#: rc.cpp:202
-#: rc.cpp:826
+#: rc.cpp:202 rc.cpp:826
 msgid "Text excerpt showing the unknown word in its context."
 msgstr ""
 
@@ -473,11 +468,13 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 88
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 82
-#: rc.cpp:205
-#: rc.cpp:829
+#: rc.cpp:205 rc.cpp:829
 msgid ""
 "<qt>\n"
-"<p>Here you can see a text excerpt showing the unknown word in its context. If this information is not sufficient to choose the best replacement for the unknown word, you can click on the document you are proofing, read a larger part of the text and then return here to continue proofing.</p>\n"
+"<p>Here you can see a text excerpt showing the unknown word in its context. "
+"If this information is not sufficient to choose the best replacement for the "
+"unknown word, you can click on the document you are proofing, read a larger "
+"part of the text and then return here to continue proofing.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -485,8 +482,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 94
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 88
-#: rc.cpp:210
-#: rc.cpp:834
+#: rc.cpp:210 rc.cpp:834
 msgid "... the <b>misspelled</b> word shown in context ..."
 msgstr ""
 
@@ -494,12 +490,15 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 107
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 101
-#: rc.cpp:213
-#: rc.cpp:837
+#: rc.cpp:213 rc.cpp:837
 msgid ""
 "<qt>\n"
-"<p>The unknown word was detected and considered unknown because it is not included in the dictionary.<br>\n"
-"Click here if you consider that the unknown word is not misspelled and you want to avoid wrongly detecting it again in the future. If you want to let it remain as is, but not add it to the dictionary, then click <b>Ignore</b> or <b>Ignore All</b> instead.</p>\n"
+"<p>The unknown word was detected and considered unknown because it is not "
+"included in the dictionary.<br>\n"
+"Click here if you consider that the unknown word is not misspelled and you "
+"want to avoid wrongly detecting it again in the future. If you want to let "
+"it remain as is, but not add it to the dictionary, then click <b>Ignore</b> "
+"or <b>Ignore All</b> instead.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -507,8 +506,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 110
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 104
-#: rc.cpp:219
-#: rc.cpp:843
+#: rc.cpp:219 rc.cpp:843
 msgid "<< Add to Dictionary"
 msgstr "<< ويېپانګه کې زياتول"
 
@@ -516,8 +514,7 @@ msgstr "<< ويېپانګه کې زياتول"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 133
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 139
-#: rc.cpp:222
-#: rc.cpp:854
+#: rc.cpp:222 rc.cpp:854
 msgid "Suggestion List"
 msgstr "وړانديز لړ"
 
@@ -525,12 +522,16 @@ msgstr "وړانديز لړ"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 139
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 145
-#: rc.cpp:225
-#: rc.cpp:857
+#: rc.cpp:225 rc.cpp:857
 msgid ""
 "<qt>\n"
-"<p>If the unknown word is misspelled, you should check if the correction for it is available and if it is, click on it. If none of the words in this list is a good replacement you may type the correct word in the edit box above.</p>\n"
-"<p>To correct this word click <b>Replace</b> if you want to correct only this occurrence or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
+"<p>If the unknown word is misspelled, you should check if the correction for "
+"it is available and if it is, click on it. If none of the words in this list "
+"is a good replacement you may type the correct word in the edit box above.</"
+"p>\n"
+"<p>To correct this word click <b>Replace</b> if you want to correct only "
+"this occurrence or <b>Replace All</b> if you want to correct all occurrences."
+"</p>\n"
 "</qt>"
 msgstr ""
 
@@ -538,8 +539,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 146
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 152
-#: rc.cpp:231
-#: rc.cpp:863
+#: rc.cpp:231 rc.cpp:863
 msgid "Suggested Words"
 msgstr "وړاندې شوي ويېونه"
 
@@ -551,14 +551,14 @@ msgstr "وړاندې شوي ويېونه"
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 175
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 217
-#: rc.cpp:234
-#: rc.cpp:243
-#: rc.cpp:874
-#: rc.cpp:901
+#: rc.cpp:234 rc.cpp:243 rc.cpp:874 rc.cpp:901
 msgid ""
 "<qt>\n"
-"<p>If the unknown word is misspelled, you should type the correction for your misspelled word here or select it from the list below.</p>\n"
-"<p>You can then click <b>Replace</b> if you want to correct only this occurrence of the word or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
+"<p>If the unknown word is misspelled, you should type the correction for "
+"your misspelled word here or select it from the list below.</p>\n"
+"<p>You can then click <b>Replace</b> if you want to correct only this "
+"occurrence of the word or <b>Replace All</b> if you want to correct all "
+"occurrences.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -566,8 +566,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 160
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 178
-#: rc.cpp:240
-#: rc.cpp:880
+#: rc.cpp:240 rc.cpp:880
 msgid "Replace &with:"
 msgstr ":سره &ځاېناستول"
 
@@ -575,8 +574,7 @@ msgstr ":سره &ځاېناستول"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 180
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 231
-#: rc.cpp:249
-#: rc.cpp:910
+#: rc.cpp:249 rc.cpp:910
 msgid "Language Selection"
 msgstr "د ژبې ټاکنه"
 
@@ -584,8 +582,7 @@ msgstr "د ژبې ټاکنه"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 189
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 240
-#: rc.cpp:257
-#: rc.cpp:918
+#: rc.cpp:257 rc.cpp:918
 msgid "English"
 msgstr "انګريزي"
 
@@ -593,8 +590,7 @@ msgstr "انګريزي"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 205
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 224
-#: rc.cpp:260
-#: rc.cpp:907
+#: rc.cpp:260 rc.cpp:907
 msgid "S&uggest"
 msgstr "و&ړانديزول"
 
@@ -602,11 +598,11 @@ msgstr "و&ړانديزول"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 214
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 162
-#: rc.cpp:263
-#: rc.cpp:866
+#: rc.cpp:263 rc.cpp:866
 msgid ""
 "<qt>\n"
-"<p>Click here to replace this occurrence of the unknown text with the text in the edit box above (to the left).</p>\n"
+"<p>Click here to replace this occurrence of the unknown text with the text "
+"in the edit box above (to the left).</p>\n"
 "</qt>"
 msgstr ""
 
@@ -614,9 +610,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 217
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 165
-#: rc.cpp:268
-#: rc.cpp:871
-#: kdeui/findreplace/kfinddialog.cpp:202
+#: rc.cpp:268 rc.cpp:871 kdeui/findreplace/kfinddialog.cpp:202
 msgid "&Replace"
 msgstr "ځاېناستول&"
 
@@ -624,11 +618,11 @@ msgstr "ځاېناستول&"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 226
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 129
-#: rc.cpp:271
-#: rc.cpp:846
+#: rc.cpp:271 rc.cpp:846
 msgid ""
 "<qt>\n"
-"<p>Click here to replace all occurrences of the unknown text with the text in the edit box above (to the left).</p>\n"
+"<p>Click here to replace all occurrences of the unknown text with the text "
+"in the edit box above (to the left).</p>\n"
 "</qt>"
 msgstr ""
 
@@ -636,8 +630,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 229
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 132
-#: rc.cpp:276
-#: rc.cpp:851
+#: rc.cpp:276 rc.cpp:851
 msgid "R&eplace All"
 msgstr "ټول ځ&اېناستول"
 
@@ -645,12 +638,13 @@ msgstr "ټول ځ&اېناستول"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 239
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 191
-#: rc.cpp:279
-#: rc.cpp:883
+#: rc.cpp:279 rc.cpp:883
 msgid ""
 "<qt>\n"
 "<p>Click here to let this occurrence of the unknown word remain as is.</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
+"<p>This action is useful when the word is a name, an acronym, a foreign word "
+"or any other unknown word that you want to use but not add to the dictionary."
+"</p>\n"
 "</qt>"
 msgstr ""
 
@@ -658,8 +652,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 242
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 194
-#: rc.cpp:285
-#: rc.cpp:889
+#: rc.cpp:285 rc.cpp:889
 msgid "&Ignore"
 msgstr "پرېښودل&"
 
@@ -669,13 +662,14 @@ msgstr "پرېښودل&"
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 265
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 204
-#: rc.cpp:288
-#: rc.cpp:297
-#: rc.cpp:892
+#: rc.cpp:288 rc.cpp:297 rc.cpp:892
 msgid ""
 "<qt>\n"
-"<p>Click here to let all occurrences of the unknown word remain as they are.</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
+"<p>Click here to let all occurrences of the unknown word remain as they are."
+"</p>\n"
+"<p>This action is useful when the word is a name, an acronym, a foreign word "
+"or any other unknown word that you want to use but not add to the dictionary."
+"</p>\n"
 "</qt>"
 msgstr ""
 
@@ -683,8 +677,7 @@ msgstr ""
 #. i18n: file ./kdeui/sonnet/sonnetui.ui line 255
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 207
-#: rc.cpp:294
-#: rc.cpp:898
+#: rc.cpp:294 rc.cpp:898
 msgid "I&gnore All"
 msgstr "ټول پ&رېښودل"
 
@@ -698,8 +691,7 @@ msgstr "خپلسمول"
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 4
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 4
-#: rc.cpp:306
-#: rc.cpp:453
+#: rc.cpp:306 rc.cpp:453
 msgid "&File"
 msgstr "دوتنه&"
 
@@ -715,9 +707,7 @@ msgstr "لوبه&"
 #. i18n: file ./khtml/khtml.rc line 4
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 11
-#: rc.cpp:312
-#: rc.cpp:411
-#: rc.cpp:456
+#: rc.cpp:312 rc.cpp:411 rc.cpp:456
 msgid "&Edit"
 msgstr "سمون&"
 
@@ -732,9 +722,7 @@ msgstr "خوځول&"
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 100
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 20
-#: rc.cpp:318
-#: rc.cpp:459
-#: kfile/kdiroperator.cpp:1656
+#: rc.cpp:318 rc.cpp:459 kfile/kdiroperator.cpp:1697
 msgid "&View"
 msgstr "کوت&"
 
@@ -764,8 +752,7 @@ msgstr "امستنې&"
 
 #. i18n: tag text
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 174
-#: rc.cpp:333
-#: kdeui/widgets/khelpmenu.cpp:148
+#: rc.cpp:333 kdeui/widgets/khelpmenu.cpp:148
 msgid "&Help"
 msgstr "مرسته&"
 
@@ -777,15 +764,13 @@ msgstr "اره توکپټه"
 
 #. i18n: tag string
 #. i18n: file ./kdeui/widgets/kshortcutwidget.ui line 22
-#: rc.cpp:339
-#: kdeui/dialogs/kshortcutseditor.cpp:608
+#: rc.cpp:339 kdeui/dialogs/kshortcutseditor.cpp:536
 msgid "Main:"
 msgstr ":ار"
 
 #. i18n: tag string
 #. i18n: file ./kdeui/widgets/kshortcutwidget.ui line 52
-#: rc.cpp:342
-#: kdeui/dialogs/kshortcutseditor.cpp:609
+#: rc.cpp:342 kdeui/dialogs/kshortcutseditor.cpp:537
 msgid "Alternate:"
 msgstr ":دوېمګړی"
 
@@ -799,8 +784,7 @@ msgstr "بيا راتلو ازموېنې توکی KHTML د"
 #. i18n: file ./khtml/test_regression_gui.ui line 50
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/calc/calc.ui line 78
-#: rc.cpp:348
-#: rc.cpp:707
+#: rc.cpp:348 rc.cpp:707
 msgid "0"
 msgstr "۰"
 
@@ -814,16 +798,14 @@ msgstr "د بېرته تلو ازموېنې وتۍ"
 #. i18n: file ./khtml/test_regression_gui.ui line 114
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 117
-#: rc.cpp:354
-#: rc.cpp:357
+#: rc.cpp:354 rc.cpp:357
 msgid "Pause/Continue regression testing process"
 msgstr "د بېرته تلو ازموېنې بهير ځنډول/پرمخبيول"
 
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 123
-#: rc.cpp:360
-#: kdeui/jobs/kwidgetjobtracker.cpp:434
-#: kdeui/jobs/kwidgetjobtracker.cpp:487
+#: rc.cpp:360 kdeui/jobs/kwidgetjobtracker.cpp:432
+#: kdeui/jobs/kwidgetjobtracker.cpp:485
 #: khtml/test_regression_gui_window.cpp:571
 msgid "Pause"
 msgstr "ځنډول"
@@ -832,9 +814,10 @@ msgstr "ځنډول"
 #. i18n: file ./khtml/test_regression_gui.ui line 147
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 150
-#: rc.cpp:363
-#: rc.cpp:366
-msgid "You may select a file where the log content is stored, before the regression testing started."
+#: rc.cpp:363 rc.cpp:366
+msgid ""
+"You may select a file where the log content is stored, before the regression "
+"testing started."
 msgstr ""
 
 #. i18n: tag string
@@ -881,15 +864,13 @@ msgstr "ازموېنې ځغلول HTML يوازې"
 
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 257
-#: rc.cpp:390
-#: khtml/test_regression.cpp:618
+#: rc.cpp:390 khtml/test_regression.cpp:618
 msgid "Do not suppress debug output"
 msgstr "د کړاو وتۍ نه ړنګول"
 
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 265
-#: rc.cpp:393
-#: khtml/test_regression.cpp:627
+#: rc.cpp:393 khtml/test_regression.cpp:627
 msgid "Do not use Xvfb"
 msgstr "نه ښکارول Xvfb"
 
@@ -931,8 +912,7 @@ msgstr "لاسوند خبرتياوې"
 
 #. i18n: tag string
 #. i18n: file ./khtml/htmlpageinfo.ui line 45
-#: rc.cpp:417
-#: kross/ui/view.cpp:512
+#: rc.cpp:417 kross/ui/view.cpp:512
 msgid "General"
 msgstr "ټولګړي"
 
@@ -981,21 +961,26 @@ msgstr "د جاواسکرېپټ تېروتنه"
 #. i18n: tag string
 #. i18n: file ./khtml/kjserrordlgbase.ui line 19
 #: rc.cpp:444
-msgid "This dialog provides you with notification and details of scripting errors that occur on web pages.  In many cases it is due to an error in the web site as designed by its author.  In other cases it is the result of a programming error in Konqueror.  If you suspect the former, please contact the webmaster of the site in question.  Conversely if you suspect an error in Konqueror, please file a bug report at http://bugs.kde.org/.  A test case which illustrates the problem will be appreciated."
+msgid ""
+"This dialog provides you with notification and details of scripting errors "
+"that occur on web pages.  In many cases it is due to an error in the web "
+"site as designed by its author.  In other cases it is the result of a "
+"programming error in Konqueror.  If you suspect the former, please contact "
+"the webmaster of the site in question.  Conversely if you suspect an error "
+"in Konqueror, please file a bug report at http://bugs.kde.org/.  A test case "
+"which illustrates the problem will be appreciated."
 msgstr ""
 
 #. i18n: tag string
 #. i18n: file ./khtml/kjserrordlgbase.ui line 31
-#: rc.cpp:447
-#: kdeui/util/kstandardguiitem.cpp:180
+#: rc.cpp:447 kdeui/util/kstandardguiitem.cpp:180
 #: kdeui/actions/kstandardaction_p.h:49
 msgid "&Close"
 msgstr "بندول&"
 
 #. i18n: tag string
 #. i18n: file ./khtml/kjserrordlgbase.ui line 38
-#: rc.cpp:450
-#: kdeui/util/kstandardguiitem.cpp:167
+#: rc.cpp:450 kdeui/util/kstandardguiitem.cpp:167
 #: kdeui/actions/kstandardaction_p.h:61
 msgid "C&lear"
 msgstr "پ&اکول"
@@ -1008,8 +993,7 @@ msgstr "توکپټه HTML"
 
 #. i18n: tag string
 #. i18n: file ./kross/test/testguiform.ui line 44
-#: rc.cpp:465
-#: kross/ui/view.cpp:209
+#: rc.cpp:465 kross/ui/view.cpp:209
 msgid "File:"
 msgstr ":دوتنه"
 
@@ -1029,8 +1013,7 @@ msgstr "ډلبکس ۱"
 #. i18n: file ./kross/test/testguiform.ui line 127
 #. i18n: tag string
 #. i18n: file ./kross/test/testguiform.ui line 142
-#: rc.cpp:474
-#: rc.cpp:477
+#: rc.cpp:474 rc.cpp:477
 msgid "CheckBox"
 msgstr "خوښبکس"
 
@@ -1044,8 +1027,7 @@ msgstr "بل ډلبکس"
 #. i18n: file ./kross/test/testguiform.ui line 190
 #. i18n: tag string
 #. i18n: file ./kross/test/testguiform.ui line 205
-#: rc.cpp:483
-#: rc.cpp:486
+#: rc.cpp:483 rc.cpp:486
 msgid "RadioButton"
 msgstr "رېډيو ټڼۍ"
 
@@ -1065,8 +1047,7 @@ msgstr "غږ& غږول"
 #. i18n: file ./knotify/config/knotifyconfigactionswidgetbase.ui line 42
 #. i18n: tag string
 #. i18n: file ./knotify/config/knotifyconfigactionswidgetbase.ui line 72
-#: rc.cpp:495
-#: rc.cpp:504
+#: rc.cpp:495 rc.cpp:504
 msgid "Select the sound to play"
 msgstr "هغه غږ چې ولګول شي وټاکئ"
 
@@ -1110,10 +1091,14 @@ msgstr "و&ېنا"
 #. i18n: file ./knotify/config/knotifyconfigactionswidgetbase.ui line 122
 #. i18n: tag string
 #. i18n: file ./knotify/config/knotifyconfigactionswidgetbase.ui line 144
-#: rc.cpp:520
-#: rc.cpp:533
+#: rc.cpp:520 rc.cpp:533
 #, no-c-format
-msgid "<qt>Specifies how KTTS should speak the event when received.  If you select \"Speak custom text\", enter the text in the box.  You may use the following substitution strings in the text:<dl><dt>%e</dt><dd>Name of the event</dd><dt>%a</dt><dd>Application that sent the event</dd><dt>%m</dt><dd>The message sent by the application</dd></dl></qt>"
+msgid ""
+"<qt>Specifies how KTTS should speak the event when received.  If you select "
+"\"Speak custom text\", enter the text in the box.  You may use the following "
+"substitution strings in the text:<dl><dt>%e</dt><dd>Name of the event</"
+"dd><dt>%a</dt><dd>Application that sent the event</dd><dt>%m</dt><dd>The "
+"message sent by the application</dd></dl></qt>"
 msgstr ""
 
 #. i18n: tag string
@@ -1155,7 +1140,9 @@ msgstr "هغه کاروونی ډول چې وکارول شي"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 24
 #: rc.cpp:545
-msgid "The name of the widget style, for example \"keramik\" or \"plastik\". Without quotes."
+msgid ""
+"The name of the widget style, for example \"keramik\" or \"plastik\". "
+"Without quotes."
 msgstr ""
 
 #. i18n: tag label
@@ -1167,7 +1154,9 @@ msgstr "د سولګر غږن کارول"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 31
 #: rc.cpp:551
-msgid "Whether the ordinary PC speaker should be used instead of KDE's own notifications system."
+msgid ""
+"Whether the ordinary PC speaker should be used instead of KDE's own "
+"notifications system."
 msgstr ""
 
 #. i18n: tag label
@@ -1179,8 +1168,12 @@ msgstr "کوم پايالی کاريال وکاروو"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 37
 #: rc.cpp:557
-msgid "Whenever a terminal application is launched this terminal emulator program will be used.\n"
-msgstr "هرکله چې کوم پايالی کاريال پېل شي، دا پايالی برابروونکی کړنلار به وکارول شي.\n"
+msgid ""
+"Whenever a terminal application is launched this terminal emulator program "
+"will be used.\n"
+msgstr ""
+"هرکله چې کوم پايالی کاريال پېل شي، دا پايالی برابروونکی کړنلار به وکارول "
+"شي.\n"
 
 #. i18n: tag label
 #. i18n: file ./kutils/kdeglobals.kcfg line 41
@@ -1191,8 +1184,12 @@ msgstr "د ټاکلي پلنوالي ليکنه"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 43
 #: rc.cpp:564
-msgid "This font is used when a fixed font is needed. A fixed font has a constant width.\n"
-msgstr "دا ليکبڼه هله کارول کيږي چې کومې جوتې ليکبڼې ته اړتيا وي. جوتې ليکبڼې برابر پلنوالی لري.\n"
+msgid ""
+"This font is used when a fixed font is needed. A fixed font has a constant "
+"width.\n"
+msgstr ""
+"دا ليکبڼه هله کارول کيږي چې کومې جوتې ليکبڼې ته اړتيا وي. جوتې ليکبڼې برابر "
+"پلنوالی لري.\n"
 
 #. i18n: tag label
 #. i18n: file ./kutils/kdeglobals.kcfg line 46
@@ -1239,7 +1236,9 @@ msgstr "د دندپټې ليکبڼه"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 61
 #: rc.cpp:589
-msgid "What font to use for the panel at the bottom of the screen, where the currently running applications are."
+msgid ""
+"What font to use for the panel at the bottom of the screen, where the "
+"currently running applications are."
 msgstr ""
 
 #. i18n: tag label
@@ -1305,7 +1304,9 @@ msgstr "پټې دوتنې ښودل"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 400
 #: rc.cpp:622
-msgid "Whether files starting with a dot (convention for hidden files) should be shown"
+msgid ""
+"Whether files starting with a dot (convention for hidden files) should be "
+"shown"
 msgstr ""
 
 #. i18n: tag label
@@ -1317,7 +1318,8 @@ msgstr "چټکپټه ښودل"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 406
 #: rc.cpp:628
-msgid "Whether the shortcut icons to the left in the file dialog should be shown"
+msgid ""
+"Whether the shortcut icons to the left in the file dialog should be shown"
 msgstr ""
 
 #. i18n: tag label
@@ -1329,7 +1331,8 @@ msgstr "کوم هېواد"
 #. i18n: tag whatsthis
 #. i18n: file ./kutils/kdeglobals.kcfg line 426
 #: rc.cpp:634
-msgid "Used to determine how to display numbers, currency and time/date, for example"
+msgid ""
+"Used to determine how to display numbers, currency and time/date, for example"
 msgstr ""
 
 #. i18n: tag label
@@ -1498,15 +1501,13 @@ msgstr "۸"
 #. i18n: file ./kjsembed/examples/console/console.ui line 16
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/kjsconsole/jsconsole.ui line 16
-#: rc.cpp:737
-#: rc.cpp:740
+#: rc.cpp:737 rc.cpp:740
 msgid "MainWindow"
 msgstr "ارهکړکۍ"
 
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/kjsconsole/jsconsole.ui line 109
-#: rc.cpp:743
-#: kparts/browserrun.cpp:303
+#: rc.cpp:743 kparts/browserrun.cpp:303
 msgid "Execute"
 msgstr "چلول"
 
@@ -1554,10 +1555,7 @@ msgstr "...سکرېپټ بندول"
 #. i18n: file ./threadweaver/Examples/SMIV/SMIVBase.ui line 69
 #. i18n: tag string
 #. i18n: file ./threadweaver/Examples/QProcessJob/MainWindowUi.ui line 39
-#: rc.cpp:764
-#: rc.cpp:942
-#: rc.cpp:960
-#: rc.cpp:963
+#: rc.cpp:764 rc.cpp:942 rc.cpp:960 rc.cpp:963
 msgid "Quit"
 msgstr "وتل"
 
@@ -1569,8 +1567,7 @@ msgstr "...کاريال بندول"
 
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/kjsconsole/jsconsole.ui line 197
-#: rc.cpp:770
-#: kross/ui/view.cpp:302
+#: rc.cpp:770 kross/ui/view.cpp:302
 msgid "Run"
 msgstr "ځغلول"
 
@@ -1594,8 +1591,7 @@ msgstr "...ماتټکي ته ځغلول"
 
 #. i18n: tag string
 #. i18n: file ./kjsembed/examples/kjsconsole/jsconsole.ui line 219
-#: rc.cpp:782
-#: khtml/ecma/kjs_debugwin.cpp:480
+#: rc.cpp:782 khtml/ecma/kjs_debugwin.cpp:480
 msgid "Step"
 msgstr "پړاو"
 
@@ -1609,13 +1605,9 @@ msgstr "...راتلونکې ليکې ته تلل"
 #. i18n: file ./kjsembed/examples/kjsconsole/jsconsole.ui line 230
 #. i18n: tag string
 #. i18n: file ./threadweaver/Examples/Jobs/JobsBase.ui line 90
-#: rc.cpp:788
-#: rc.cpp:939
-#: kdeui/util/kstandardguiitem.cpp:265
-#: kdeui/util/kkeyserver_x11.cpp:109
-#: kdeui/findreplace/kreplace.cpp:353
-#: khtml/ecma/kjs_debugwin.cpp:482
-#: kross/ui/view.cpp:309
+#: rc.cpp:788 rc.cpp:939 kdeui/util/kstandardguiitem.cpp:265
+#: kdeui/util/kkeyserver_x11.cpp:109 kdeui/findreplace/kreplace.cpp:353
+#: khtml/ecma/kjs_debugwin.cpp:482 kross/ui/view.cpp:309
 msgid "Stop"
 msgstr "تمول"
 
@@ -1635,12 +1627,19 @@ msgstr "<h1>لاسوند ليدانی KJSEmbed</h1>"
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 36
 #. i18n: tag string
 #. i18n: file ./kde3support/kdeui/k3spellui.ui line 52
-#: rc.cpp:797
-#: rc.cpp:809
+#: rc.cpp:797 rc.cpp:809
 msgid ""
-"<qt><p>This word was considered to be an \"unknown word\" because it does not match any entry in the dictionary currently in use. It may also be a word in a foreign language.</p>\n"
-"<p>If the word is not misspelled, you may add it to the dictionary by clicking <b>Add to Dictionary</b>. If you don't want to add the unknown word to the dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>Ignore All</b>.</p>\n"
-"<p>However, if the word is misspelled, you can try to find the correct replacement in the list below. If you cannot find a replacement there, you may type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>.</p>\n"
+"<qt><p>This word was considered to be an \"unknown word\" because it does "
+"not match any entry in the dictionary currently in use. It may also be a "
+"word in a foreign language.</p>\n"
+"<p>If the word is not misspelled, you may add it to the dictionary by "
+"clicking <b>Add to Dictionary</b>. If you don't want to add the unknown word "
+"to the dictionary, but you want to leave it unchanged, click <b>Ignore</b> "
+"or <b>Ignore All</b>.</p>\n"
+"<p>However, if the word is misspelled, you can try to find the correct "
+"replacement in the list below. If you cannot find a replacement there, you "
+"may type it in the text box below, and click <b>Replace</b> or <b>Replace "
+"All</b>.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -1653,13 +1652,17 @@ msgstr "دندې بېلګې ThreadWeaver د"
 #. i18n: tag string
 #. i18n: file ./threadweaver/Examples/Jobs/JobsBase.ui line 19
 #: rc.cpp:924
-msgid "The program executes 100 jobs in 4 threads. Each job waits for a random number of milliseconds between 1 and 1000."
+msgid ""
+"The program executes 100 jobs in 4 threads. Each job waits for a random "
+"number of milliseconds between 1 and 1000."
 msgstr ""
 
 #. i18n: tag string
 #. i18n: file ./threadweaver/Examples/Jobs/JobsBase.ui line 39
 #: rc.cpp:927
-msgid "Check to see logging information about thread activity. Watch the console output to see the log information."
+msgid ""
+"Check to see logging information about thread activity. Watch the console "
+"output to see the log information."
 msgstr ""
 
 #. i18n: tag string
@@ -1719,11 +1722,20 @@ msgstr ".دا کوم مهال دی؟ د اوسمهالولو لپاره کېکا
 #. i18n: tag string
 #. i18n: file ./threadweaver/Examples/QProcessJob/MainWindowUi.ui line 53
 #: rc.cpp:969
-msgid "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" white-space: pre-wrap; font-family:Sans Serif; font-weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">(do not know yet)</p></body></html>"
-msgstr "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" white-space: pre-wrap; font-family:Sans Serif; font-weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">(اوسه پورې نه پوهېږو)</p></body></html>"
+msgid ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
+"white-space: pre-wrap; font-family:Sans Serif; font-weight:400; font-style:"
+"normal; text-decoration:none;\"><p style=\" margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\">(do not know yet)</p></body></html>"
+msgstr ""
+"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
+"white-space: pre-wrap; font-family:Sans Serif; font-weight:400; font-style:"
+"normal; text-decoration:none;\"><p style=\" margin-top:0px; margin-"
+"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\">(اوسه پورې نه پوهېږو)</p></body></html>"
 
-#: kjs/object.cpp:620
-#: kdeui/dialogs/kmessagebox.cpp:817
+#: kjs/object.cpp:620 kdeui/dialogs/kmessagebox.cpp:817
 #: kdeui/dialogs/kmessagebox.cpp:852
 msgid "Error"
 msgstr "تېروتنه"
@@ -1759,12 +1771,14 @@ msgstr ")%1د غونډال تلواله (اوسنی:"
 
 #: interfaces/ktexteditor/templateinterface.cpp:65
 msgid ""
-"The template needs information about you, which is stored in your address book.\n"
+"The template needs information about you, which is stored in your address "
+"book.\n"
 "However, the required plugin could not be loaded.\n"
 "\n"
 "Please install the KDEPIM/Kontact package for your system."
 msgstr ""
-"کونده ستاسو په اړه خبرتياوو ته اړتيا لري، چې ستاسو په پته کتاب کې زېرمل کيږي.\n"
+"کونده ستاسو په اړه خبرتياوو ته اړتيا لري، چې ستاسو په پته کتاب کې زېرمل "
+"کيږي.\n"
 "خو، اړين لګون يې ونه شو لېښلی.\n"
 "بنډل په خپل غونډال کې ولګوﺉ. KDEPIM/Kontact لورينه وکړﺉ"
 
@@ -1788,19 +1802,13 @@ msgstr "په کوربه نوم کې د بدلون په اړه کډي خبروي"
 msgid "(c) 2001 Waldo Bastian"
 msgstr "چاپرښتې ۲۰۰۱ وېلډو بېسټين"
 
-#: kded/khostname.cpp:221
-#: kded/kbuildsycoca.cpp:645
-#: khtml/khtml_global.cpp:201
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:645 khtml/khtml_global.cpp:201
 #: kconf_update/kconf_update.cpp:965
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
 
-#: kded/khostname.cpp:221
-#: kded/kbuildsycoca.cpp:644
-#: kded/kbuildsycoca.cpp:645
-#: kross/qts/main.cpp:63
-#: kross/test/main.cpp:138
-#: kross/console/main.cpp:102
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:644 kded/kbuildsycoca.cpp:645
+#: kross/qts/main.cpp:63 kross/test/main.cpp:149 kross/console/main.cpp:102
 #: kde3support/kdeui/k3aboutdialog.cpp:184
 msgid "Author"
 msgstr "ليکوال"
@@ -1813,15 +1821,15 @@ msgstr "زوړ کوربه نوم"
 msgid "New hostname"
 msgstr "نوی کوربه نوم"
 
-#: kded/kded.cpp:739
+#: kded/kded.cpp:788
 msgid "KDE Daemon"
 msgstr "کډي ډاېمن"
 
-#: kded/kded.cpp:741
+#: kded/kded.cpp:790
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 
-#: kded/kded.cpp:744
+#: kded/kded.cpp:793
 msgid "Check Sycoca database only once"
 msgstr "سېکوکا توکبنسټ يوازې يوځل کتل"
 
@@ -1829,13 +1837,13 @@ msgstr "سېکوکا توکبنسټ يوازې يوځل کتل"
 #, kde-format
 msgid ""
 "Error creating database '%1'.\n"
-"Check that the permissions are correct on the directory and the disk is not full.\n"
+"Check that the permissions are correct on the directory and the disk is not "
+"full.\n"
 msgstr ""
 ".توکبنسټ په جوړولو کې ستونزه '%1' د\n"
 "وګورﺉ چې په پوښۍ باندې پرېښلې سمې دي او ټيکلی ډک نه دی.\n"
 
-#: kded/kbuildsycoca.cpp:416
-#: kded/kbuildsycoca.cpp:447
+#: kded/kbuildsycoca.cpp:416 kded/kbuildsycoca.cpp:447
 #: kded/kbuildsycoca.cpp:641
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
@@ -1844,7 +1852,8 @@ msgstr "KBuildSycoca"
 #, kde-format
 msgid ""
 "Error writing database '%1'.\n"
-"Check that the permissions are correct on the directory and the disk is not full.\n"
+"Check that the permissions are correct on the directory and the disk is not "
+"full.\n"
 msgstr ""
 ".توکبنسټ په ليکلو کې ستونزه '%1' د\n"
 "وګورﺉ چې په پوښۍ باندې پرېښلې سمې دي او ټيکلی ډک نه دی.\n"
@@ -1934,8 +1943,7 @@ msgstr "ته په ليکلو کې تېروتنه PTY"
 msgid "PTY operation timed out"
 msgstr "چلښت مهال بشپړ شو PTY د"
 
-#: kpty/kptydevice.cpp:446
-#: kpty/kptydevice.cpp:460
+#: kpty/kptydevice.cpp:446 kpty/kptydevice.cpp:460
 msgid "Error opening PTY"
 msgstr "په پرانيستلو کې تېروتنه PTY د"
 
@@ -2067,8 +2075,7 @@ msgstr "ميمي ډول"
 msgid "Loadable modules"
 msgstr "لېښل کېدونکې رغبېلګې"
 
-#: kdecore/kde-config.cpp:138
-#: kdecore/kde-config.cpp:148
+#: kdecore/kde-config.cpp:138 kdecore/kde-config.cpp:148
 msgid "Legacy pixmaps"
 msgstr "pixmaps پخواني"
 
@@ -3083,16 +3090,13 @@ msgctxt "@item Calendar system"
 msgid "Invalid Calendar Type"
 msgstr "ناسم کليز ډول"
 
-#: kdecore/date/kdatetime.cpp:1477
-#: kdecore/date/kdatetime.cpp:1487
-#: kdecore/date/kdatetime.cpp:2824
-#: kdecore/localization/klocale.cpp:1720
+#: kdecore/date/kdatetime.cpp:1477 kdecore/date/kdatetime.cpp:1487
+#: kdecore/date/kdatetime.cpp:2824 kdecore/localization/klocale.cpp:1720
 #: kdecore/localization/klocale.cpp:1851
 msgid "am"
 msgstr "غ.م"
 
-#: kdecore/date/kdatetime.cpp:2832
-#: kdecore/localization/klocale.cpp:1711
+#: kdecore/date/kdatetime.cpp:2832 kdecore/localization/klocale.cpp:1711
 #: kdecore/localization/klocale.cpp:1849
 msgid "pm"
 msgstr "غ.و"
@@ -3107,7 +3111,9 @@ msgid "No service matching the requirements was found."
 msgstr ".کومه داسې پالنه ونه موندل شوه چې د غوښتنو سره برابر وي"
 
 #: kdecore/util/klibloader.cpp:148
-msgid "The service provides no library, the Library key is missing in the .desktop file."
+msgid ""
+"The service provides no library, the Library key is missing in the .desktop "
+"file."
 msgstr "پالنه کوم کتابتون نه لري، په .سرپاڼه دوتنه کې د کتابتون کيلۍ نشته دی."
 
 #: kdecore/util/klibloader.cpp:152
@@ -3124,7 +3130,9 @@ msgstr "ناپېژندلې تېروتنه :KLibLoader"
 
 #: kdecore/util/kpluginloader.cpp:131
 #, kde-format
-msgid "The service '%1' provides no library or the Library key is missing in the .desktop file."
+msgid ""
+"The service '%1' provides no library or the Library key is missing in the ."
+"desktop file."
 msgstr ""
 
 #: kdecore/util/kpluginloader.cpp:163
@@ -3132,7 +3140,7 @@ msgstr ""
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:187
+#: kdecore/util/kpluginloader.cpp:190
 #, kde-format
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr ""
@@ -3232,8 +3240,7 @@ msgctxt "Socket error code RemotelyDisconnected"
 msgid "remote host closed connection"
 msgstr "لرې کوربه نښلېدنه بنده کړه"
 
-#: kdecore/network/netsupp.cpp:891
-#: kdecore/network/k3resolver.cpp:545
+#: kdecore/network/netsupp.cpp:891 kdecore/network/k3resolver.cpp:545
 msgid "no error"
 msgstr "هېڅ تېروتنه"
 
@@ -3241,8 +3248,7 @@ msgstr "هېڅ تېروتنه"
 msgid "address family for nodename not supported"
 msgstr "د غوټه نوم لپاره پته کورنۍ نه منل کيږي"
 
-#: kdecore/network/netsupp.cpp:893
-#: kdecore/network/k3resolver.cpp:547
+#: kdecore/network/netsupp.cpp:893 kdecore/network/k3resolver.cpp:547
 msgid "temporary failure in name resolution"
 msgstr "د نوم په ژورليدلو کې لنډمهاله پاتيينه"
 
@@ -3250,8 +3256,7 @@ msgstr "د نوم په ژورليدلو کې لنډمهاله پاتيينه"
 msgid "invalid value for 'ai_flags'"
 msgstr "لپاره ناسم ارزښت 'ai_جنډې' د"
 
-#: kdecore/network/netsupp.cpp:895
-#: kdecore/network/k3resolver.cpp:548
+#: kdecore/network/netsupp.cpp:895 kdecore/network/k3resolver.cpp:548
 msgid "non-recoverable failure in name resolution"
 msgstr "د نوم په ژورليدلو کې نه ګرځېدونکې پاتيينه"
 
@@ -3259,8 +3264,7 @@ msgstr "د نوم په ژورليدلو کې نه ګرځېدونکې پاتيي�
 msgid "'ai_family' not supported"
 msgstr "نه منل کيږي 'ai_کورنۍ'"
 
-#: kdecore/network/netsupp.cpp:897
-#: kdecore/network/k3resolver.cpp:550
+#: kdecore/network/netsupp.cpp:897 kdecore/network/k3resolver.cpp:550
 msgid "memory allocation failure"
 msgstr "د ياد ځانګړونې پاتيينه"
 
@@ -3268,8 +3272,7 @@ msgstr "د ياد ځانګړونې پاتيينه"
 msgid "no address associated with nodename"
 msgstr "د غوټه نوم سره کومه پته نه ده نښتې"
 
-#: kdecore/network/netsupp.cpp:899
-#: kdecore/network/k3resolver.cpp:551
+#: kdecore/network/netsupp.cpp:899 kdecore/network/k3resolver.cpp:551
 msgid "name or service not known"
 msgstr "نوم يا پالنه نه ده پېژندل شوې"
 
@@ -3457,7 +3460,9 @@ msgid "sets the application GUI style"
 msgstr "د کاريال د کښنيز کارن برسېر ډول ټاکي"
 
 #: kdecore/kernel/kcmdlineargs.cpp:314
-msgid "sets the client geometry of the main widget - see man X for the argument format"
+msgid ""
+"sets the client geometry of the main widget - see man X for the argument "
+"format"
 msgstr ""
 
 #: kdecore/kernel/kcmdlineargs.cpp:431
@@ -3468,13 +3473,11 @@ msgstr "کډي کاريال"
 msgid "Qt"
 msgstr "ک.ټ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:491
-#: khtml/khtml_part.cpp:4994
+#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:4999
 msgid "KDE"
 msgstr "کډي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:799
-#: kdecore/kernel/kcmdlineargs.cpp:819
+#: kdecore/kernel/kcmdlineargs.cpp:799 kdecore/kernel/kcmdlineargs.cpp:819
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr ".'%1' ناپېژندلې غوراوی"
@@ -3595,7 +3598,8 @@ msgstr ""
 
 #: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "The files/URLs opened by the application will be deleted after use"
-msgstr "چې د کاريال لخوا پرانيستل شي د کارونې وروسته به وړنګول شي URLsهغه دوتنې/"
+msgstr ""
+"چې د کاريال لخوا پرانيستل شي د کارونې وروسته به وړنګول شي URLsهغه دوتنې/"
 
 #: kdecore/kernel/kcmdlineargs.cpp:1589
 msgid "KDE-tempfile"
@@ -3743,8 +3747,15 @@ msgstr "نه دی ټاکل شوی"
 
 #: kdecore/kernel/kaboutdata.cpp:847
 msgctxt "replace this with information about your translation team"
-msgid "<p>KDE is translated into many languages thanks to the work of the translation teams all over the world.</p><p>For more information on KDE internationalization visit <a href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
-msgstr "<p>کډي ډېرو ژبو ته ژباړل شوې ده. د ټولې نړۍ د  ژباړه ډلو نه ډېره مننه.</p><p>د کډي د نړېوالونې په اړه د نورو خبرتياو لپاره وګورﺉ<a href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
+msgid ""
+"<p>KDE is translated into many languages thanks to the work of the "
+"translation teams all over the world.</p><p>For more information on KDE "
+"internationalization visit <a href=\"http://l10n.kde.org\">http://l10n.kde."
+"org</a></p>"
+msgstr ""
+"<p>کډي ډېرو ژبو ته ژباړل شوې ده. د ټولې نړۍ د  ژباړه ډلو نه ډېره مننه.</"
+"p><p>د کډي د نړېوالونې په اړه د نورو خبرتياو لپاره وګورﺉ<a href=\"http://"
+"l10n.kde.org\">http://l10n.kde.org</a></p>"
 
 #: kdecore/kernel/ktoolinvocation.cpp:79
 msgid "Function must be called from the main thread."
@@ -3895,8 +3906,7 @@ msgctxt "dictionary name. %1-language and %2-variant name"
 msgid "%1 [%2]"
 msgstr "%1 [%2]"
 
-#: kdecore/sycoca/kmemfile.cpp:73
-#: kdecore/sycoca/kmemfile.cpp:154
+#: kdecore/sycoca/kmemfile.cpp:73 kdecore/sycoca/kmemfile.cpp:154
 #, kde-format
 msgid "File %1 does not exist"
 msgstr "دوتنه شتون نه لري %1"
@@ -3906,8 +3916,7 @@ msgstr "دوتنه شتون نه لري %1"
 msgid "Cannot open %1 for reading"
 msgstr "د لوستلو لپاره نه شي پرانيستلی %1"
 
-#: kdecore/sycoca/kmemfile.cpp:88
-#: kdecore/sycoca/kmemfile.cpp:167
+#: kdecore/sycoca/kmemfile.cpp:88 kdecore/sycoca/kmemfile.cpp:167
 #, kde-format
 msgid "Cannot create memory segment for file %1"
 msgstr "دوتنې لپاره ياد برخه نه شي جوړولی %1 د"
@@ -3937,7 +3946,9 @@ msgstr[1] ""
 "<resource>%2</resource>"
 
 #: kdecore/services/kmimetype.cpp:129
-msgid "No mime types installed. Check that shared-mime-info is installed, and that XDG_DATA_DIRS is not set, or includes /usr/share."
+msgid ""
+"No mime types installed. Check that shared-mime-info is installed, and that "
+"XDG_DATA_DIRS is not set, or includes /usr/share."
 msgstr ""
 
 #: kdecore/localization/kencodingdetector.cpp:1116
@@ -4738,13 +4749,12 @@ msgid "Translate this entry"
 msgstr "دا ننوت ژباړل"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:71
-#: dnssd/servicemodel.cpp:101
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:71 dnssd/servicemodel.cpp:101
 msgid "Name"
 msgstr "نوم"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:49
-#: kdeui/dialogs/kshortcutseditor.cpp:633
+#: kdeui/dialogs/kshortcutseditor.cpp:561
 msgid "Description"
 msgstr "سپړاوی"
 
@@ -4772,8 +4782,7 @@ msgstr ":برېښليک پته"
 msgid "Please describe your upload."
 msgstr ".لورينه وکړﺉ خپله ورلېښنه وپېژنۍ"
 
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:80
-#: kross/ui/view.cpp:151
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:80 kross/ui/view.cpp:151
 #: kdeui/colors/kcolordialog.cpp:1157
 msgid "Name:"
 msgstr ":نوم"
@@ -5066,7 +5075,10 @@ msgid "This operation requires authentication."
 msgstr ".دا چلښت کرونې ته اړتيا لري"
 
 #: knewstuff/knewstuff2/ui/knewstuffaction.cpp:37
-msgctxt "Hot new stuff offers to Download New Data. Apps can fill in an individual string here, but Data is the default. This is in an action that gets displayed in the menu or toolbar for example."
+msgctxt ""
+"Hot new stuff offers to Download New Data. Apps can fill in an individual "
+"string here, but Data is the default. This is in an action that gets "
+"displayed in the menu or toolbar for example."
 msgid "Download New Data..."
 msgstr "نوی اومتوک رالېښل"
 
@@ -5139,16 +5151,24 @@ msgid "Unsorted"
 msgstr "نا اڼلي"
 
 #: knewstuff/knewstuff2/core/security.cpp:76
-msgid "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that <i>gpg</i> is installed, otherwise verification of downloaded resources will not be possible.</qt>"
+msgid ""
+"<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
+"<i>gpg</i> is installed, otherwise verification of downloaded resources will "
+"not be possible.</qt>"
 msgstr ""
 
 #: knewstuff/knewstuff2/core/security.cpp:198
 #, kde-format
-msgid "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</i><br />:</qt>"
+msgid ""
+"<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
+"i><br />:</qt>"
 msgstr ""
 
 #: knewstuff/knewstuff2/core/security.cpp:277
-msgid "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure that <i>gpg</i> is installed, otherwise verification of downloaded resources will not be possible.</qt>"
+msgid ""
+"<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
+"that <i>gpg</i> is installed, otherwise verification of downloaded resources "
+"will not be possible.</qt>"
 msgstr ""
 
 #: knewstuff/knewstuff2/core/security.cpp:332
@@ -5160,7 +5180,9 @@ msgid "Key used for signing:"
 msgstr ":هغه کيلۍ چې د نښونې لپاره کارول کيږي"
 
 #: knewstuff/knewstuff2/core/security.cpp:364
-msgid "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is installed, otherwise signing of the resources will not be possible.</qt>"
+msgid ""
+"<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
+"installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
 #: dnssd/servicemodel.cpp:102
@@ -5180,104 +5202,102 @@ msgstr " درېدلی"
 msgid " %1/s "
 msgstr " %1/س"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:334
+#: kdeui/jobs/kwidgetjobtracker.cpp:332
 #, kde-format
 msgid "%2 of %3 complete"
 msgid_plural "%2 of %3 complete"
 msgstr[0] "بشپړ شوی %3 له %2"
 msgstr[1] "بشپړ شوي %3 له %2"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:351
-#: kdeui/jobs/kwidgetjobtracker.cpp:363
+#: kdeui/jobs/kwidgetjobtracker.cpp:349 kdeui/jobs/kwidgetjobtracker.cpp:361
 #, kde-format
 msgid "%2 / %1 folder"
 msgid_plural "%2 / %1 folders"
 msgstr[0] "پوښۍ %2 / %1"
 msgstr[1] "پوښۍ %2 / %1"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:353
-#: kdeui/jobs/kwidgetjobtracker.cpp:366
+#: kdeui/jobs/kwidgetjobtracker.cpp:351 kdeui/jobs/kwidgetjobtracker.cpp:364
 #, kde-format
 msgid "%2 / %1 file"
 msgid_plural "%2 / %1 files"
 msgstr[0] "دوتنه %2 / %1"
 msgstr[1] "دوتنې %2 / %1"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:376
+#: kdeui/jobs/kwidgetjobtracker.cpp:374
 #, kde-format
 msgid "%1 % of %2 "
 msgstr "%1 % له %2 "
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:379
+#: kdeui/jobs/kwidgetjobtracker.cpp:377
 #, kde-format
 msgid "%2 % of 1 file"
 msgid_plural "%2 % of %1 files"
 msgstr[0] "له يوې دوتنې %2 %"
 msgstr[1] "دوتنو %1 له %2 %"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:381
+#: kdeui/jobs/kwidgetjobtracker.cpp:379
 #, kde-format
 msgid "%1 %"
 msgstr "%1 %"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:394
+#: kdeui/jobs/kwidgetjobtracker.cpp:392
 msgid "Stalled"
 msgstr ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:399
+#: kdeui/jobs/kwidgetjobtracker.cpp:397
 #, kde-format
 msgid "%2/s ( %3 remaining )"
 msgid_plural "%2/s ( %3 remaining )"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:402
+#: kdeui/jobs/kwidgetjobtracker.cpp:400
 #, kde-format
 msgctxt "speed in bytes per second"
 msgid "%1/s"
 msgstr "%1/س"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:421
+#: kdeui/jobs/kwidgetjobtracker.cpp:419
 #, kde-format
 msgid "%1/s (done)"
 msgstr "%1/س (شوی)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:428
+#: kdeui/jobs/kwidgetjobtracker.cpp:426
 msgid "Resume"
 msgstr "پرمخبيول"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:463
+#: kdeui/jobs/kwidgetjobtracker.cpp:461
 msgid "Source:"
 msgstr ":سرچينه"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:471
+#: kdeui/jobs/kwidgetjobtracker.cpp:469
 msgid "Destination:"
 msgstr ":موخه"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:519
+#: kdeui/jobs/kwidgetjobtracker.cpp:517
 msgid "&Keep this window open after transfer is complete"
 msgstr "د لېږنې د بشپړېدو نه وروسته دا کړکۍ پرانيستې ساتل&"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:528
+#: kdeui/jobs/kwidgetjobtracker.cpp:526
 msgid "Open &File"
 msgstr "دوتنه &پرانيستل"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:535
+#: kdeui/jobs/kwidgetjobtracker.cpp:533
 msgid "Open &Destination"
 msgstr "موخه &پرانيستل"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:552
+#: kdeui/jobs/kwidgetjobtracker.cpp:550
 msgid "Progress Dialog"
 msgstr "پرمختګ کړکۍ"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:565
+#: kdeui/jobs/kwidgetjobtracker.cpp:563
 #, kde-format
 msgid "%1 folder"
 msgid_plural "%1 folders"
 msgstr[0] "پوښۍ %1"
 msgstr[1] "پوښۍ %1"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:566
+#: kdeui/jobs/kwidgetjobtracker.cpp:564
 #, kde-format
 msgid "%1 file"
 msgid_plural "%1 files"
@@ -5288,8 +5308,7 @@ msgstr[1] "دوتنې %1"
 msgid "Redo"
 msgstr "بياکړ"
 
-#: kdeui/util/kundostack.cpp:67
-#: kdeui/util/kkeyserver_x11.cpp:112
+#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:112
 msgid "Undo"
 msgstr "ناکړ"
 
@@ -5322,8 +5341,7 @@ msgstr "هوکې&"
 msgid "&Cancel"
 msgstr "بندول&"
 
-#: kdeui/util/kstandardguiitem.cpp:116
-#: khtml/java/kjavaappletserver.cpp:816
+#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:816
 msgid "&Yes"
 msgstr "هو&"
 
@@ -5331,8 +5349,7 @@ msgstr "هو&"
 msgid "Yes"
 msgstr "هو"
 
-#: kdeui/util/kstandardguiitem.cpp:121
-#: khtml/java/kjavaappletserver.cpp:809
+#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:809
 msgid "&No"
 msgstr "نه&"
 
@@ -5349,11 +5366,11 @@ msgid "Discard changes"
 msgstr "بدلونونه پرېښودل"
 
 #: kdeui/util/kstandardguiitem.cpp:127
-msgid "Pressing this button will discard all recent changes made in this dialog"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog"
 msgstr ""
 
-#: kdeui/util/kstandardguiitem.cpp:133
-#: kdeui/actions/kstandardaction_p.h:46
+#: kdeui/util/kstandardguiitem.cpp:133 kdeui/actions/kstandardaction_p.h:46
 msgid "&Save"
 msgstr "ساتل&"
 
@@ -5369,8 +5386,7 @@ msgstr "نه ساتل&"
 msgid "Do not save data"
 msgstr "اومتوک نه ساتل"
 
-#: kdeui/util/kstandardguiitem.cpp:144
-#: kdeui/actions/kstandardaction_p.h:47
+#: kdeui/util/kstandardguiitem.cpp:144 kdeui/actions/kstandardaction_p.h:47
 msgid "Save &As..."
 msgstr "...ساتل &په"
 
@@ -5388,7 +5404,8 @@ msgstr "بدلونونه کارول"
 
 #: kdeui/util/kstandardguiitem.cpp:151
 msgid ""
-"When clicking <b>Apply</b>, the settings will be handed over to the program, but the dialog will not be closed.\n"
+"When clicking <b>Apply</b>, the settings will be handed over to the program, "
+"but the dialog will not be closed.\n"
 "Use this to try different settings."
 msgstr ""
 
@@ -5401,7 +5418,10 @@ msgid "Enter Administrator Mode"
 msgstr "پازوال اکر ته ننوتل"
 
 #: kdeui/util/kstandardguiitem.cpp:160
-msgid "When clicking <b>Administrator Mode</b> you will be prompted for the administrator (root) password in order to make changes which require root privileges."
+msgid ""
+"When clicking <b>Administrator Mode</b> you will be prompted for the "
+"administrator (root) password in order to make changes which require root "
+"privileges."
 msgstr ""
 
 #: kdeui/util/kstandardguiitem.cpp:168
@@ -5412,8 +5432,7 @@ msgstr "ننوتۍ پاکول"
 msgid "Clear the input in the edit field"
 msgstr "د سمون ډګر ننوتۍ پاکول"
 
-#: kdeui/util/kstandardguiitem.cpp:174
-#: kdeui/actions/kstandardaction.cpp:87
+#: kdeui/util/kstandardguiitem.cpp:174 kdeui/actions/kstandardaction.cpp:107
 msgctxt "show help"
 msgid "&Help"
 msgstr "مرسته&"
@@ -5434,8 +5453,7 @@ msgstr "تلوالې&"
 msgid "Reset all items to their default values"
 msgstr "ټول توکي خپل تلواله ارزښتونو ته ګرځول"
 
-#: kdeui/util/kstandardguiitem.cpp:194
-#: kdeui/actions/kstandardaction.cpp:72
+#: kdeui/util/kstandardguiitem.cpp:194 kdeui/actions/kstandardaction.cpp:92
 msgctxt "go back"
 msgid "&Back"
 msgstr "شاته&"
@@ -5444,8 +5462,7 @@ msgstr "شاته&"
 msgid "Go back one step"
 msgstr "يو پړاو شاته ورتلل"
 
-#: kdeui/util/kstandardguiitem.cpp:202
-#: kdeui/actions/kstandardaction.cpp:78
+#: kdeui/util/kstandardguiitem.cpp:202 kdeui/actions/kstandardaction.cpp:98
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "مخکې&"
@@ -5454,8 +5471,7 @@ msgstr "مخکې&"
 msgid "Go forward one step"
 msgstr "يو پړاو مخکې ورتلل"
 
-#: kdeui/util/kstandardguiitem.cpp:213
-#: kdeui/actions/kstandardaction_p.h:50
+#: kdeui/util/kstandardguiitem.cpp:213 kdeui/actions/kstandardaction_p.h:50
 msgid "&Print..."
 msgstr "...چاپول&"
 
@@ -5479,8 +5495,7 @@ msgstr "ړنګول&"
 msgid "Delete item(s)"
 msgstr "توکي ړنګول"
 
-#: kdeui/util/kstandardguiitem.cpp:232
-#: kdeui/actions/kstandardaction_p.h:44
+#: kdeui/util/kstandardguiitem.cpp:232 kdeui/actions/kstandardaction_p.h:44
 msgid "&Open..."
 msgstr "...پرانيستل&"
 
@@ -5488,8 +5503,7 @@ msgstr "...پرانيستل&"
 msgid "Open file"
 msgstr "دوتنه پرانيستل"
 
-#: kdeui/util/kstandardguiitem.cpp:238
-#: kdeui/actions/kstandardaction_p.h:53
+#: kdeui/util/kstandardguiitem.cpp:238 kdeui/actions/kstandardaction_p.h:53
 msgid "&Quit"
 msgstr "وتل&"
 
@@ -5514,8 +5528,7 @@ msgstr "ورننويستل&"
 msgid "Confi&gure..."
 msgstr "...ساز&ول"
 
-#: kdeui/util/kstandardguiitem.cpp:260
-#: kdeui/findreplace/kfinddialog.cpp:210
+#: kdeui/util/kstandardguiitem.cpp:260 kdeui/findreplace/kfinddialog.cpp:210
 msgid "&Find"
 msgstr "لټول&"
 
@@ -5524,8 +5537,7 @@ msgid "Add"
 msgstr "زياتول"
 
 #: kdeui/util/kstandardguiitem.cpp:275
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:300
-#: kross/ui/view.cpp:330
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:300 kross/ui/view.cpp:330
 msgid "Remove"
 msgstr "ړنګول"
 
@@ -5533,8 +5545,7 @@ msgstr "ړنګول"
 msgid "Test"
 msgstr "ازموېل"
 
-#: kdeui/util/kstandardguiitem.cpp:285
-#: kfile/kdiroperator.cpp:1649
+#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1690
 msgid "Properties"
 msgstr "ځانتياوې"
 
@@ -5543,7 +5554,10 @@ msgid "&Overwrite"
 msgstr "ځاېناستول&"
 
 #: kdeui/util/kwhatsthismanager.cpp:35
-msgid "<b>Not Defined</b><br/>There is no \"What's This\" help assigned to this widget. If you want to help us to describe the widget, you are welcome to <a href=\"submit-whatsthis\">send us your own \"What's This\" help</a> for it."
+msgid ""
+"<b>Not Defined</b><br/>There is no \"What's This\" help assigned to this "
+"widget. If you want to help us to describe the widget, you are welcome to <a "
+"href=\"submit-whatsthis\">send us your own \"What's This\" help</a> for it."
 msgstr ""
 
 #: kdeui/util/kkeyserver_x11.cpp:101
@@ -5586,8 +5600,7 @@ msgstr "ځانتياوې"
 msgid "Front"
 msgstr "مخه"
 
-#: kdeui/util/kkeyserver_x11.cpp:114
-#: kfile/kurlbutton.cpp:90
+#: kdeui/util/kkeyserver_x11.cpp:114 kfile/kurlbutton.cpp:90
 msgid "Copy"
 msgstr "لمېسل"
 
@@ -5595,8 +5608,7 @@ msgstr "لمېسل"
 msgid "Open"
 msgstr "پرانيستل"
 
-#: kdeui/util/kkeyserver_x11.cpp:116
-#: kfile/kurlbutton.cpp:94
+#: kdeui/util/kkeyserver_x11.cpp:116 kfile/kurlbutton.cpp:94
 msgid "Paste"
 msgstr "سرېښل"
 
@@ -5608,8 +5620,7 @@ msgstr "لټول"
 msgid "Cut"
 msgstr "سکڼل"
 
-#: kdeui/util/kkeyserver_x11.cpp:119
-#: kdeui/dialogs/kshortcutsdialog.cpp:61
+#: kdeui/util/kkeyserver_x11.cpp:119 kdeui/dialogs/kshortcutsdialog.cpp:61
 msgid "Print"
 msgstr "چاپول"
 
@@ -5636,7 +5647,8 @@ msgstr "کوم ساری توکی شتون نه لري.\n"
 #: kdeui/dialogs/knewpassworddialog.cpp:74
 #: kde3support/kdeui/k3passworddialog.cpp:416
 msgid ""
-"The password strength meter gives an indication of the security of the password you have entered.  To improve the strength of the password, try:\n"
+"The password strength meter gives an indication of the security of the "
+"password you have entered.  To improve the strength of the password, try:\n"
 " - using a longer password;\n"
 " - using a mixture of upper- and lower-case letters;\n"
 " - using numbers or symbols, such as #, as well as letters."
@@ -5668,7 +5680,8 @@ msgstr "تاسو دوه بېلې تېرنويې وليکلې. لورينه وک�
 #: kdeui/dialogs/knewpassworddialog.cpp:216
 #: kde3support/kdeui/k3passworddialog.cpp:508
 msgid ""
-"The password you have entered has a low strength. To improve the strength of the password, try:\n"
+"The password you have entered has a low strength. To improve the strength of "
+"the password, try:\n"
 " - using a longer password;\n"
 " - using a mixture of upper- and lower-case letters;\n"
 " - using numbers or symbols as well as letters.\n"
@@ -5840,27 +5853,22 @@ msgstr "."
 msgid "Details"
 msgstr "خبرتياوې"
 
-#: kdeui/dialogs/kmessagebox.cpp:429
-#: kdeui/dialogs/kmessagebox.cpp:493
+#: kdeui/dialogs/kmessagebox.cpp:429 kdeui/dialogs/kmessagebox.cpp:493
 msgid "Question"
 msgstr "پوښتنه"
 
-#: kdeui/dialogs/kmessagebox.cpp:449
-#: kdeui/dialogs/kmessagebox.cpp:514
-#: kdeui/dialogs/kmessagebox.cpp:604
-#: kdeui/dialogs/kmessagebox.cpp:687
+#: kdeui/dialogs/kmessagebox.cpp:449 kdeui/dialogs/kmessagebox.cpp:514
+#: kdeui/dialogs/kmessagebox.cpp:604 kdeui/dialogs/kmessagebox.cpp:687
 #: kdeui/dialogs/kmessagebox.cpp:777
 msgid "Do not ask again"
 msgstr "بيا نه پوښتل"
 
-#: kdeui/dialogs/kmessagebox.cpp:584
-#: kdeui/dialogs/kmessagebox.cpp:667
+#: kdeui/dialogs/kmessagebox.cpp:584 kdeui/dialogs/kmessagebox.cpp:667
 #: kdeui/dialogs/kmessagebox.cpp:757
 msgid "Warning"
 msgstr "خبرتيا"
 
-#: kdeui/dialogs/kmessagebox.cpp:900
-#: kdeui/dialogs/kmessagebox.cpp:933
+#: kdeui/dialogs/kmessagebox.cpp:900 kdeui/dialogs/kmessagebox.cpp:933
 msgid "Sorry"
 msgstr "بښنه غواړو"
 
@@ -5874,14 +5882,12 @@ msgstr "دا استوزه بيا نه ښودل"
 
 #: kdeui/dialogs/kmessagebox.cpp:1046
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:73
-#: kdeui/widgets/khelpmenu.cpp:263
-#: kde3support/kdeui/k3aboutdialog.cpp:1045
+#: kdeui/widgets/khelpmenu.cpp:263 kde3support/kdeui/k3aboutdialog.cpp:1045
 #, kde-format
 msgid "About %1"
 msgstr "په اړه %1 د"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69
-#: kutils/kcmultidialog.cpp:105
+#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:105
 msgid "Configure"
 msgstr "سازول"
 
@@ -5916,17 +5922,19 @@ msgid "Configure Toolbars"
 msgstr "توکپټې سازول"
 
 #: kdeui/dialogs/kedittoolbar.cpp:526
-msgid "Do you really want to reset all toolbars of this application to their default? The changes will be applied immediately."
-msgstr "تاسو په رښتيا غواړﺉ چې د دې کاريال ټولې توکپټې خپل تلواله امستنو ته بيا وزېرمﺉ؟ بدلونونه به په سمدستي توګه وکارول شي."
+msgid ""
+"Do you really want to reset all toolbars of this application to their "
+"default? The changes will be applied immediately."
+msgstr ""
+"تاسو په رښتيا غواړﺉ چې د دې کاريال ټولې توکپټې خپل تلواله امستنو ته بيا "
+"وزېرمﺉ؟ بدلونونه به په سمدستي توګه وکارول شي."
 
 #: kdeui/dialogs/kedittoolbar.cpp:526
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:526
-#: khtml/khtmlview.cpp:2886
-#: khtml/khtmlview.cpp:2919
-#: khtml/html/html_formimpl.cpp:2186
+#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2879
+#: khtml/khtmlview.cpp:2912 khtml/html/html_formimpl.cpp:2186
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -5954,7 +5962,8 @@ msgid "%1"
 msgstr "%1"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1046
-msgid "This element will be replaced with all the elements of an embedded component."
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
 #: kdeui/dialogs/kedittoolbar.cpp:1048
@@ -5967,7 +5976,9 @@ msgid "<Merge %1>"
 msgstr "<سره ننويستل %1>"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1056
-msgid "This is a dynamic list of actions. You can move it, but if you remove it you will not be able to re-add it."
+msgid ""
+"This is a dynamic list of actions. You can move it, but if you remove it you "
+"will not be able to re-add it."
 msgstr ""
 
 #: kdeui/dialogs/kedittoolbar.cpp:1057
@@ -5975,8 +5986,7 @@ msgstr ""
 msgid "ActionList: %1"
 msgstr "%1 چارلړ:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1157
-#: kdeui/dialogs/kedittoolbar.cpp:1184
+#: kdeui/dialogs/kedittoolbar.cpp:1157 kdeui/dialogs/kedittoolbar.cpp:1184
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
@@ -5986,81 +5996,63 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "انځورن بدلول"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:104
-#: kdeui/dialogs/kshortcutseditor.cpp:629
+#: kdeui/dialogs/kshortcutseditor.cpp:107
+#: kdeui/dialogs/kshortcutseditor.cpp:557
 msgid "Shortcuts"
 msgstr "لنډلاري"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:492
-#: kdeui/dialogs/kshortcutseditor.cpp:524
-#: kdeui/dialogs/kshortcutseditor.cpp:540
-#: kdeui/widgets/kkeysequencewidget.cpp:124
+#: kdeui/dialogs/kshortcutseditor.cpp:460
+#: kdeui/dialogs/kshortcutseditor.cpp:476
+#: kdeui/widgets/kkeysequencewidget.cpp:135
 msgid "Key Conflict"
 msgstr "کيلۍ ټکر"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:493
-#: kdeui/widgets/kkeysequencewidget.cpp:125
-#, kde-format
-msgid ""
-"The '%1' key combination has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kdeui/dialogs/kshortcutseditor.cpp:497
-#: kdeui/dialogs/kshortcutseditor.cpp:515
-#: kdeui/dialogs/kshortcutseditor.cpp:529
-#: kdeui/dialogs/kshortcutseditor.cpp:545
-#: kdeui/shortcuts/kglobalaccel.cpp:439
-#: kdeui/widgets/kkeysequencewidget.cpp:128
-msgid "Reassign"
-msgstr "بياټاکل"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:509
-msgid "Conflict with Standard Application Shortcut"
-msgstr "د کره کاريال لنډلارې سره ټکر"
-
-#: kdeui/dialogs/kshortcutseditor.cpp:510
-#, kde-format
-msgid ""
-"The '%1' key combination is also used for the standard action \"%2\" that some applications use.\n"
-"Do you really want to use it as a global shortcut as well?"
-msgstr ""
-
-#: kdeui/dialogs/kshortcutseditor.cpp:525
+#: kdeui/dialogs/kshortcutseditor.cpp:461
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:541
+#: kdeui/dialogs/kshortcutseditor.cpp:465
+#: kdeui/dialogs/kshortcutseditor.cpp:481 kdeui/shortcuts/kglobalaccel.cpp:439
+#: kdeui/widgets/kkeysequencewidget.cpp:139
+#: kdeui/widgets/kkeysequencewidget.cpp:430
+msgid "Reassign"
+msgstr "بياټاکل"
+
+#: kdeui/dialogs/kshortcutseditor.cpp:477
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:590
+#: kdeui/dialogs/kshortcutseditor.cpp:518
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "لپاره لنډلار %1 د"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:610
+#: kdeui/dialogs/kshortcutseditor.cpp:538
 msgid "Global:"
 msgstr "سراسر:"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:625
+#: kdeui/dialogs/kshortcutseditor.cpp:553
 msgid "Action Name"
 msgstr "چار نوم"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:65
-msgid "<qt>No information available.<br />The supplied KAboutData object does not exist.</qt>"
+msgid ""
+"<qt>No information available.<br />The supplied KAboutData object does not "
+"exist.</qt>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:92
 #, kde-format
-msgid "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %3</html>"
+msgid ""
+"<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %3</"
+"html>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:125
@@ -6086,8 +6078,12 @@ msgstr "ل&يکوالان"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:152
 #: kde3support/kdeui/k3aboutapplication.cpp:107
-msgid "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report bugs.\n"
-msgstr ".وکاروﺉ <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> لورينه وکړﺉ د کړاونو د راپورولو لپاره\n"
+msgid ""
+"Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report "
+"bugs.\n"
+msgstr ""
+".وکاروﺉ <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> لورينه وکړﺉ "
+"د کړاونو د راپورولو لپاره\n"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:155
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:160
@@ -6155,14 +6151,16 @@ msgstr ":د تړنۍ ليکنه"
 msgid "Link URL:"
 msgstr ":URL د تړنې"
 
-#: kdeui/dialogs/kbugreport.cpp:92
-#: kdeui/dialogs/kbugreport.cpp:117
+#: kdeui/dialogs/kbugreport.cpp:92 kdeui/dialogs/kbugreport.cpp:117
 msgid "Submit Bug Report"
 msgstr "کړاو راپور لېږل"
 
 #: kdeui/dialogs/kbugreport.cpp:129
-msgid "Your email address. If incorrect, use the Configure Email button to change it"
-msgstr "ستاسو برېښليک پته. که چېرې ناسمه وي، د بدلولو لپاره يې د برېښليک سازول تڼۍ وکاروﺉ"
+msgid ""
+"Your email address. If incorrect, use the Configure Email button to change it"
+msgstr ""
+"ستاسو برېښليک پته. که چېرې ناسمه وي، د بدلولو لپاره يې د برېښليک سازول تڼۍ "
+"وکاروﺉ"
 
 #: kdeui/dialogs/kbugreport.cpp:130
 msgid "From:"
@@ -6194,7 +6192,9 @@ msgid "Send this bug report to %1."
 msgstr ".ته لېږل %1 دا کړاو راپور"
 
 #: kdeui/dialogs/kbugreport.cpp:166
-msgid "The application for which you wish to submit a bug report - if incorrect, please use the Report Bug menu item of the correct application"
+msgid ""
+"The application for which you wish to submit a bug report - if incorrect, "
+"please use the Report Bug menu item of the correct application"
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:167
@@ -6202,7 +6202,9 @@ msgid "Application: "
 msgstr ":کاريال"
 
 #: kdeui/dialogs/kbugreport.cpp:195
-msgid "The version of this application - please make sure that no newer version is available before sending a bug report"
+msgid ""
+"The version of this application - please make sure that no newer version is "
+"available before sending a bug report"
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:202
@@ -6248,12 +6250,18 @@ msgstr ":س&رليک"
 
 #: kdeui/dialogs/kbugreport.cpp:262
 msgid ""
-"Enter the text (in English if possible) that you wish to submit for the bug report.\n"
-"If you press \"Send\", a mail message will be sent to the maintainer of this program.\n"
+"Enter the text (in English if possible) that you wish to submit for the bug "
+"report.\n"
+"If you press \"Send\", a mail message will be sent to the maintainer of this "
+"program.\n"
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:283
-msgid "<qt>To submit a bug report, click on the button below. This will open a web browser window on <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> where you will find a form to fill in. The information displayed above will be transferred to that server.</qt>"
+msgid ""
+"<qt>To submit a bug report, click on the button below. This will open a web "
+"browser window on <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
+"where you will find a form to fill in. The information displayed above will "
+"be transferred to that server.</qt>"
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:295
@@ -6266,19 +6274,31 @@ msgid "unknown"
 msgstr "ناڅرګند"
 
 #: kdeui/dialogs/kbugreport.cpp:408
-msgid "You must specify both a subject and a description before the report can be sent."
+msgid ""
+"You must specify both a subject and a description before the report can be "
+"sent."
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:418
 msgid ""
-"<p>You chose the severity <b>Critical</b>. Please note that this severity is intended only for bugs that</p><ul><li>break unrelated software on the system (or the whole system)</li><li>cause serious data loss</li><li>introduce a security hole on the system where the affected package is installed</li></ul>\n"
-"<p>Does the bug you are reporting cause any of the above damage? If it does not, please select a lower severity. Thank you!</p>"
+"<p>You chose the severity <b>Critical</b>. Please note that this severity is "
+"intended only for bugs that</p><ul><li>break unrelated software on the "
+"system (or the whole system)</li><li>cause serious data loss</"
+"li><li>introduce a security hole on the system where the affected package is "
+"installed</li></ul>\n"
+"<p>Does the bug you are reporting cause any of the above damage? If it does "
+"not, please select a lower severity. Thank you!</p>"
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:429
 msgid ""
-"<p>You chose the severity <b>Grave</b>. Please note that this severity is intended only for bugs that</p><ul><li>make the package in question unusable or mostly so</li><li>cause data loss</li><li>introduce a security hole allowing access to the accounts of users who use the affected package</li></ul>\n"
-"<p>Does the bug you are reporting cause any of the above damage? If it does not, please select a lower severity. Thank you!</p>"
+"<p>You chose the severity <b>Grave</b>. Please note that this severity is "
+"intended only for bugs that</p><ul><li>make the package in question unusable "
+"or mostly so</li><li>cause data loss</li><li>introduce a security hole "
+"allowing access to the accounts of users who use the affected package</li></"
+"ul>\n"
+"<p>Does the bug you are reporting cause any of the above damage? If it does "
+"not, please select a lower severity. Thank you!</p>"
 msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:443
@@ -6322,23 +6342,60 @@ msgstr "د کډي په اړه"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:49
 #, kde-format
-msgid "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></html>"
-msgstr "<html><font size=\"5\">ک سرپاڼه چاپېريال</font><br /><b>%1 نسخه</b></html>"
+msgid ""
+"<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
+"html>"
+msgstr ""
+"<html><font size=\"5\">ک سرپاڼه چاپېريال</font><br /><b>%1 نسخه</b></html>"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:59
-msgid "<html>The <b>K Desktop Environment</b> is written and maintained by the KDE Team, a world-wide network of software engineers committed to <a href=\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> development.<br /><br />No single group, company or organization controls the KDE source code. Everyone is welcome to contribute to KDE.<br /><br />Visit <a href=\"http://www.kde.org/\">http://www.kde.org</a> for more information on the KDE project.</html>"
+msgid ""
+"<html>The <b>K Desktop Environment</b> is written and maintained by the KDE "
+"Team, a world-wide network of software engineers committed to <a href="
+"\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> development."
+"<br /><br />No single group, company or organization controls the KDE source "
+"code. Everyone is welcome to contribute to KDE.<br /><br />Visit <a href="
+"\"http://www.kde.org/\">http://www.kde.org</a> for more information on the "
+"KDE project.</html>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:74
-msgid "<html>Software can always be improved, and the KDE Team is ready to do so. However, you - the user - must tell us when something does not work as expected or could be done better.<br /><br />The K Desktop Environment has a bug tracking system. Visit <a href=\"http://bugs.kde.org/\">http://bugs.kde.org</a> or use the \"Report Bug...\" dialog from the \"Help\" menu to report bugs.<br /><br />If you have a suggestion for improvement then you are welcome to use the bug tracking system to register your wish. Make sure you use the severity called \"Wishlist\".</html>"
+msgid ""
+"<html>Software can always be improved, and the KDE Team is ready to do so. "
+"However, you - the user - must tell us when something does not work as "
+"expected or could be done better.<br /><br />The K Desktop Environment has a "
+"bug tracking system. Visit <a href=\"http://bugs.kde.org/\">http://bugs.kde."
+"org</a> or use the \"Report Bug...\" dialog from the \"Help\" menu to report "
+"bugs.<br /><br />If you have a suggestion for improvement then you are "
+"welcome to use the bug tracking system to register your wish. Make sure you "
+"use the severity called \"Wishlist\".</html>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:91
-msgid "<html>You do not have to be a software developer to be a member of the KDE team. You can join the national teams that translate program interfaces. You can provide graphics, themes, sounds, and improved documentation. You decide!<br /><br />Visit <a href=\"http://www.kde.org/jobs/\">http://www.kde.org/jobs/</a> for information on some projects in which you can participate.<br /><br />If you need more information or documentation, then a visit to <a href=\"http://techbase.kde.org/\">http://techbase.kde.org</a> will provide you with what you need.</html>"
+msgid ""
+"<html>You do not have to be a software developer to be a member of the KDE "
+"team. You can join the national teams that translate program interfaces. You "
+"can provide graphics, themes, sounds, and improved documentation. You decide!"
+"<br /><br />Visit <a href=\"http://www.kde.org/jobs/\">http://www.kde.org/"
+"jobs/</a> for information on some projects in which you can participate.<br /"
+"><br />If you need more information or documentation, then a visit to <a "
+"href=\"http://techbase.kde.org/\">http://techbase.kde.org</a> will provide "
+"you with what you need.</html>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:111
-msgid "<html>KDE is available free of charge, but making it is not free.<br /><br />Thus, the KDE team formed the KDE e.V., a non-profit organization legally founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in legal and financial matters. See <a href=\"http://www.kde-ev.org/\">http://www.kde-ev.org</a> for information on the KDE e.V.<br /><br />The KDE team does need financial support. Most of the money is used to reimburse members and others on expenses they experienced when contributing to KDE. You are encouraged to support KDE through a financial donation, using one of the ways described at <a href=\"http://www.kde.org/support/\">http://www.kde.org/support/</a>.<br /><br />Thank you very much in advance for your support.</html>"
+msgid ""
+"<html>KDE is available free of charge, but making it is not free.<br /><br /"
+">Thus, the KDE team formed the KDE e.V., a non-profit organization legally "
+"founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in "
+"legal and financial matters. See <a href=\"http://www.kde-ev.org/\">http://"
+"www.kde-ev.org</a> for information on the KDE e.V.<br /><br />The KDE team "
+"does need financial support. Most of the money is used to reimburse members "
+"and others on expenses they experienced when contributing to KDE. You are "
+"encouraged to support KDE through a financial donation, using one of the "
+"ways described at <a href=\"http://www.kde.org/support/\">http://www.kde.org/"
+"support/</a>.<br /><br />Thank you very much in advance for your support.</"
+"html>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:127
@@ -6376,11 +6433,15 @@ msgid "Add Fallback Language"
 msgstr "دوېمه ژبه زياتول"
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:137
-msgid "Adds one more language which will be used if other translations do not contain a proper translation."
+msgid ""
+"Adds one more language which will be used if other translations do not "
+"contain a proper translation."
 msgstr ""
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:226
-msgid "The language for this application has been changed. The change will take effect the next time the application is started."
+msgid ""
+"The language for this application has been changed. The change will take "
+"effect the next time the application is started."
 msgstr ""
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:227
@@ -6396,11 +6457,15 @@ msgid "Fallback language:"
 msgstr ":دوېمه ژبه"
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:311
-msgid "This is the main application language which will be used first, before any other languages."
+msgid ""
+"This is the main application language which will be used first, before any "
+"other languages."
 msgstr ""
 
 #: kdeui/dialogs/kswitchlanguagedialog_p.cpp:312
-msgid "This is the language which will be used if any previous languages do not contain a proper translation."
+msgid ""
+"This is the language which will be used if any previous languages do not "
+"contain a proper translation."
 msgstr ""
 
 #: kdeui/dialogs/kpassworddialog.cpp:70
@@ -6441,7 +6506,9 @@ msgid "Preview of the selected font"
 msgstr "د ټاکل شوې ليکبڼې مخکوت"
 
 #: kdeui/fonts/kfontrequester.cpp:218
-msgid "This is a preview of the selected font. You can change it by clicking the \"Choose...\" button."
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
 msgstr ""
 
 #: kdeui/fonts/kfontrequester.cpp:223
@@ -6451,10 +6518,12 @@ msgstr "ليکبڼې مخکوت \"%1\" د"
 
 #: kdeui/fonts/kfontrequester.cpp:224
 #, kde-format
-msgid "This is a preview of the \"%1\" font. You can change it by clicking the \"Choose...\" button."
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
 msgstr ""
 
-#: kdeui/fonts/kfontdialog.cpp:76
+#: kdeui/fonts/kfontdialog.cpp:75
 msgid "Select Font"
 msgstr "ليکبڼه ټاکل"
 
@@ -6536,20 +6605,17 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr ".دلته تاسو د کارولو ليکبڼه ډول ټاکلی شﺉ"
 
-#: kdeui/fonts/kfontchooser.cpp:292
-#: kdeui/fonts/kfontchooser.cpp:614
+#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:614
 msgctxt "@item font"
 msgid "Regular"
 msgstr "ساده"
 
-#: kdeui/fonts/kfontchooser.cpp:293
-#: kdeui/fonts/kfontchooser.cpp:635
+#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:635
 msgctxt "@item font"
 msgid "Italic"
 msgstr "کوږ"
 
-#: kdeui/fonts/kfontchooser.cpp:294
-#: kdeui/fonts/kfontchooser.cpp:636
+#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:636
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "رېونده"
@@ -6574,7 +6640,10 @@ msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr ""
 
 #: kdeui/fonts/kfontchooser.cpp:319
-msgid "Here you can switch between fixed font size and font size to be calculated dynamically and adjusted to changing environment (e.g. widget dimensions, paper size)."
+msgid ""
+"Here you can switch between fixed font size and font size to be calculated "
+"dynamically and adjusted to changing environment (e.g. widget dimensions, "
+"paper size)."
 msgstr ""
 
 #: kdeui/fonts/kfontchooser.cpp:344
@@ -6590,11 +6659,12 @@ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "چټک نسواري ګيدړ په لټ سپي ټوپ وهي"
 
 #: kdeui/fonts/kfontchooser.cpp:384
-msgid "This sample text illustrates the current settings. You may edit it to test special characters."
+msgid ""
+"This sample text illustrates the current settings. You may edit it to test "
+"special characters."
 msgstr ""
 
-#: kdeui/fonts/kfontchooser.cpp:400
-#: kdeui/fonts/kfontchooser.cpp:413
+#: kdeui/fonts/kfontchooser.cpp:400 kdeui/fonts/kfontchooser.cpp:413
 msgid "Actual Font"
 msgstr "اره ليکبڼه"
 
@@ -6731,7 +6801,10 @@ msgid "Start replace"
 msgstr "ځاېناستی پېلول"
 
 #: kdeui/findreplace/kfinddialog.cpp:204
-msgid "<qt>If you press the <b>Replace</b> button, the text you entered above is searched for within the document and any occurrence is replaced with the replacement text.</qt>"
+msgid ""
+"<qt>If you press the <b>Replace</b> button, the text you entered above is "
+"searched for within the document and any occurrence is replaced with the "
+"replacement text.</qt>"
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:211
@@ -6739,11 +6812,14 @@ msgid "Start searching"
 msgstr "پلټنه پېلول"
 
 #: kdeui/findreplace/kfinddialog.cpp:212
-msgid "<qt>If you press the <b>Find</b> button, the text you entered above is searched for within the document.</qt>"
+msgid ""
+"<qt>If you press the <b>Find</b> button, the text you entered above is "
+"searched for within the document.</qt>"
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:218
-msgid "Enter a pattern to search for, or select a previous pattern from the list."
+msgid ""
+"Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:221
@@ -6752,14 +6828,20 @@ msgstr "که چېرې توانول شوی وي، ساده څرګندنه وپل�
 
 #: kdeui/findreplace/kfinddialog.cpp:223
 msgid "Click here to edit your regular expression using a graphical editor."
-msgstr "د کښنيز سمونګر په کارولو سره د خپلې ساده څرګندنې د سمولو لپاره دلته کېکاږﺉ."
+msgstr ""
+"د کښنيز سمونګر په کارولو سره د خپلې ساده څرګندنې د سمولو لپاره دلته کېکاږﺉ."
 
 #: kdeui/findreplace/kfinddialog.cpp:225
 msgid "Enter a replacement string, or select a previous one from the list."
 msgstr "د ځاېناستونې يو مزی وليکﺉ، يا د لړ نه کوم مخکنی وټاکﺉ."
 
 #: kdeui/findreplace/kfinddialog.cpp:227
-msgid "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</b></code> is an integer number, will be replaced with the corresponding capture (\"parenthesized substring\") from the pattern.<p>To include (a literal <code><b>\\N</b></code> in your replacement, put an extra backslash in front of it, like <code><b>\\\\N</b></code>.</p></qt>"
+msgid ""
+"<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</"
+"b></code> is an integer number, will be replaced with the corresponding "
+"capture (\"parenthesized substring\") from the pattern.<p>To include (a "
+"literal <code><b>\\N</b></code> in your replacement, put an extra backslash "
+"in front of it, like <code><b>\\\\N</b></code>.</p></qt>"
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:234
@@ -6779,7 +6861,9 @@ msgid "Only search within the current selection."
 msgstr "يوازې په اوسنۍ ټاکنه کې لټول."
 
 #: kdeui/findreplace/kfinddialog.cpp:242
-msgid "Perform a case sensitive search: entering the pattern 'Joe' will not match 'joe' or 'JOE', only 'Joe'."
+msgid ""
+"Perform a case sensitive search: entering the pattern 'Joe' will not match "
+"'joe' or 'JOE', only 'Joe'."
 msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:245
@@ -6859,8 +6943,7 @@ msgstr "تاسو ته ښايي چې د پلټلو لپاره څه وليکﺉ."
 msgid "Invalid regular expression."
 msgstr "ناسمه ساده څرګندنه."
 
-#: kdeui/findreplace/kreplace.cpp:49
-#: kdeui/findreplace/kreplace.cpp:53
+#: kdeui/findreplace/kreplace.cpp:49 kdeui/findreplace/kreplace.cpp:53
 msgid "Replace"
 msgstr "ځاېناستول"
 
@@ -6877,26 +6960,22 @@ msgstr "پرېښودل&"
 msgid "Replace '%1' with '%2'?"
 msgstr "سره ځاېناستول غواړﺉ؟ '%2' د '%1'"
 
-#: kdeui/findreplace/kreplace.cpp:138
-#: kdeui/findreplace/kreplace.cpp:334
+#: kdeui/findreplace/kreplace.cpp:138 kdeui/findreplace/kreplace.cpp:334
 msgid "No text was replaced."
 msgstr "کومه ليکنه ونه ځاېناستول شوه."
 
-#: kdeui/findreplace/kreplace.cpp:140
-#: kdeui/findreplace/kreplace.cpp:336
+#: kdeui/findreplace/kreplace.cpp:140 kdeui/findreplace/kreplace.cpp:336
 #, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "۱ ځاېناستونه وشوه."
 msgstr[1] "ځاېناستونې وشوې. %1"
 
-#: kdeui/findreplace/kreplace.cpp:341
-#: kdeui/findreplace/kfind.cpp:614
+#: kdeui/findreplace/kreplace.cpp:341 kdeui/findreplace/kfind.cpp:614
 msgid "Beginning of document reached."
 msgstr "د لاسوند پېل ورسېدو."
 
-#: kdeui/findreplace/kreplace.cpp:343
-#: kdeui/findreplace/kfind.cpp:616
+#: kdeui/findreplace/kreplace.cpp:343 kdeui/findreplace/kfind.cpp:616
 msgid "End of document reached."
 msgstr "د لاسوند پای ورسېدو."
 
@@ -6945,8 +7024,7 @@ msgstr "راتلونکی لټول"
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>راتلونکې پېښېدنه لټول غواړﺉ؟ '<b>%1</b>' د</qt>"
 
-#: kdeui/findreplace/kfind.cpp:587
-#: kdeui/findreplace/kfind.cpp:607
+#: kdeui/findreplace/kfind.cpp:587 kdeui/findreplace/kfind.cpp:607
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
@@ -6993,7 +7071,8 @@ msgstr "د سراسر لنډلار سره ټکر"
 #: kdeui/shortcuts/kglobalaccel.cpp:433
 #, kde-format
 msgid ""
-"The '%1' key combination has already been allocated to the global action \"%2\" in %3.\n"
+"The '%1' key combination has already been allocated to the global action \"%2"
+"\" in %3.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
@@ -7019,7 +7098,9 @@ msgstr "ناسمه تڼۍ"
 
 #: kdeui/shortcuts/kgesture.cpp:540
 #, kde-format
-msgctxt "a kind of mouse gesture: hold down one mouse button, then press another button"
+msgctxt ""
+"a kind of mouse gesture: hold down one mouse button, then press another "
+"button"
 msgid "Hold %1, then push %2"
 msgstr ""
 
@@ -7268,6 +7349,207 @@ msgctxt "@action"
 msgid "Next Item in List"
 msgstr "په لړ کې راتلونکی توکی"
 
+#: kdeui/shortcuts/kstandardshortcut.cpp:128
+#, fuzzy
+#| msgid "Open &Recent"
+msgctxt "@action"
+msgid "OpenRecent"
+msgstr "اوسني &پرانيستل"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:129
+#, fuzzy
+#| msgid "Save As"
+msgctxt "@action"
+msgid "SaveAs"
+msgstr "ساتل په"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:130
+#, fuzzy
+#| msgid "Re&vert"
+msgctxt "@action"
+msgid "Revert"
+msgstr "ب&ېرته"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:131
+#, fuzzy
+#| msgid "Print Preview"
+msgctxt "@action"
+msgid "PrintPreview"
+msgstr "چاپ مخليد"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:132
+#, fuzzy
+#| msgid "Main:"
+msgctxt "@action"
+msgid "Mail"
+msgstr ":ار"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:133
+#, fuzzy
+#| msgid "C&lear"
+msgctxt "@action"
+msgid "Clear"
+msgstr "پ&اکول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:134
+#, fuzzy
+#| msgid "&Actual Size"
+msgctxt "@action"
+msgid "ActualSize"
+msgstr "ار کچ&"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:135
+#, fuzzy
+#| msgid "&Fit to Page"
+msgctxt "@action"
+msgid "FitToPage"
+msgstr "مخ سره برابرول&"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:136
+#, fuzzy
+#| msgid "Fit to Page &Width"
+msgctxt "@action"
+msgid "FitToWidth"
+msgstr "د &مخ پلنوالي سره برابرول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:137
+#, fuzzy
+#| msgid "Fit to Page &Height"
+msgctxt "@action"
+msgid "FitToHeight"
+msgstr "د مخ &اوږدوالي سره برابرول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:138
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Zoom In"
+msgctxt "@action"
+msgid "Zoom"
+msgstr "لوډېرول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:139
+msgctxt "@action"
+msgid "Goto"
+msgstr ""
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:140
+#, fuzzy
+#| msgid "&Go to Page..."
+msgctxt "@action"
+msgid "GotoPage"
+msgstr "...مخ ته ورتلل&"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:141
+#, fuzzy
+#| msgid "Close Document"
+msgctxt "@action"
+msgid "DocumentBack"
+msgstr "لاسوند بندول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:142
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Forward"
+msgctxt "@action"
+msgid "DocumentForward"
+msgstr "مخکې"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:143
+#, fuzzy
+#| msgid "&Edit Bookmarks"
+msgctxt "@action"
+msgid "EditBookmarks"
+msgstr "ليکنښې &سمول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:144
+#, fuzzy
+#| msgid "&Spelling..."
+msgctxt "@action"
+msgid "Spelling"
+msgstr "...ليکدود&"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:145
+#, fuzzy
+#| msgid "Show &Toolbar"
+msgctxt "@action"
+msgid "ShowToolbar"
+msgstr "توکپټه &ښودل"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:146
+#, fuzzy
+#| msgid "Show St&atusbar"
+msgctxt "@action"
+msgid "ShowStatusbar"
+msgstr "ان&کړپټه ښودل"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:147
+#, fuzzy
+#| msgid "Options"
+msgctxt "@action"
+msgid "SaveOptions"
+msgstr "غوراوي"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:148
+msgctxt "@action"
+msgid "KeyBindings"
+msgstr ""
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:149
+#, fuzzy
+#| msgid "Reference"
+msgctxt "@action"
+msgid "Preferences"
+msgstr "اخځ"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:150
+#, fuzzy
+#| msgid "Configure Toolbars"
+msgctxt "@action"
+msgid "ConfigureToolbars"
+msgstr "توکپټې سازول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:151
+#, fuzzy
+#| msgid "Configure Notifications"
+msgctxt "@action"
+msgid "ConfigureNotifications"
+msgstr "يادښتونه سازول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:152
+#, fuzzy
+#| msgid "Tip of the Day"
+msgctxt "@action"
+msgid "TipofDay"
+msgstr "د ورځې نکته"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:153
+#, fuzzy
+#| msgid "&Report Bug..."
+msgctxt "@action"
+msgid "ReportBug"
+msgstr "کړاو راپورول&"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:154
+#, fuzzy
+#| msgid "Switch Application Language"
+msgctxt "@action"
+msgid "SwitchApplicationLanguage"
+msgstr "د کاريال ژبه ونجول"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:155
+#, fuzzy
+#| msgid "&About"
+msgctxt "@action"
+msgid "AboutApp"
+msgstr "په اړه&"
+
+#: kdeui/shortcuts/kstandardshortcut.cpp:156
+#, fuzzy
+#| msgid "About KDE"
+msgctxt "@action"
+msgid "AboutKDE"
+msgstr "د کډي په اړه"
+
 #: kdeui/shortcuts/kcheckaccelerators.cpp:157
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
@@ -7279,7 +7561,7 @@ msgid "Disable automatic checking"
 msgstr "خپلکارې کتنه ناتوانول"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:170
-#: kdeui/widgets/kdatepicker.cpp:699
+#: kdeui/widgets/kdatepicker.cpp:708
 msgctxt "@action:button"
 msgid "Close"
 msgstr "بندول"
@@ -7297,7 +7579,10 @@ msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>ګړنديوال زيات شول (يوازې ستاسو د خبرتيا لپاره)</h2>"
 
 #: kdeui/kernel/kapplication.cpp:621
-msgctxt "Dear Translator! Translate this string to the string 'LTR' in left-to-right languages (as English) or to 'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout."
+msgctxt ""
+"Dear Translator! Translate this string to the string 'LTR' in left-to-right "
+"languages (as English) or to 'RTL' in right-to-left languages (such as "
+"Hebrew and Arabic) to get proper widget layout."
 msgid "LTR"
 msgstr "ښنک"
 
@@ -7350,28 +7635,30 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
 
-#: kdeui/actions/kstandardaction.cpp:84
+#: kdeui/actions/kstandardaction.cpp:104
 msgctxt "home page"
 msgid "&Home"
 msgstr "کور&"
 
-#: kdeui/actions/kstandardaction.cpp:488
-#: kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:512 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "غورنۍ پټه ښودل&"
 
-#: kdeui/actions/kstandardaction.cpp:494
+#: kdeui/actions/kstandardaction.cpp:518
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "غورنۍ پټه ښودل<p>د پټولو نه وروسته بېرته غورنۍ پټه ښکاره کوي</p>"
 
-#: kdeui/actions/kstandardaction.cpp:511
-#: kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:535 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "ان&کړپټه ښودل"
 
-#: kdeui/actions/kstandardaction.cpp:514
-msgid "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the bottom of the window used for status information."
-msgstr "انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده او د انکړ خبرتياوو لپاره کارول کيږي."
+#: kdeui/actions/kstandardaction.cpp:538
+msgid ""
+"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+"bottom of the window used for status information."
+msgstr ""
+"انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده "
+"او د انکړ خبرتياوو لپاره کارول کيږي."
 
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:163
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:853
@@ -7381,25 +7668,25 @@ msgstr "انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړ
 msgid "Desktop %1"
 msgstr "%1 سرپاڼه"
 
-#: kdeui/sonnet/dialog.cpp:66
+#: kdeui/sonnet/dialog.cpp:65
 msgctxt "@title:window"
 msgid "Check Spelling"
 msgstr "ليکدود کتل"
 
-#: kdeui/sonnet/dialog.cpp:68
+#: kdeui/sonnet/dialog.cpp:67
 msgctxt "@action:button"
 msgid "&Finished"
 msgstr "بشپړ شو&"
 
-#: kdeui/sonnet/dialog.cpp:157
+#: kdeui/sonnet/dialog.cpp:156
 msgid "Spell check stopped."
 msgstr ".ليکدود کتنه وتمول شوه"
 
-#: kdeui/sonnet/dialog.cpp:165
+#: kdeui/sonnet/dialog.cpp:164
 msgid "Spell check canceled."
 msgstr ".ليکدود کتنه بنده شوه"
 
-#: kdeui/sonnet/dialog.cpp:300
+#: kdeui/sonnet/dialog.cpp:299
 msgid "Spell check complete."
 msgstr ".ليکدود کتنه بشپړه شوه"
 
@@ -7407,8 +7694,7 @@ msgstr ".ليکدود کتنه بشپړه شوه"
 msgid "Sonnet Configuration"
 msgstr "د سونېټ سازونه"
 
-#: kdeui/sonnet/highlighter.cpp:227
-#: kdeui/sonnet/highlighter.cpp:248
+#: kdeui/sonnet/highlighter.cpp:227 kdeui/sonnet/highlighter.cpp:248
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:470
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:576
 msgid "As-you-type spell checking enabled."
@@ -7417,7 +7703,8 @@ msgstr ".د ليکلو سره سم ليکدود کتنه وتوانول شوه"
 #: kdeui/sonnet/highlighter.cpp:229
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:578
 msgid "Too many misspelled words. As-you-type spell checking disabled."
-msgstr "ډېر زيات ناسم ليکل شوي وييونه. د ليکلو سره سم ليکدود کتنه وناتوانول شوه."
+msgstr ""
+"ډېر زيات ناسم ليکل شوي وييونه. د ليکلو سره سم ليکدود کتنه وناتوانول شوه."
 
 #: kdeui/sonnet/highlighter.cpp:250
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:472
@@ -7432,8 +7719,7 @@ msgstr "توکپټې کې زياتول"
 msgid "Configure Shortcut..."
 msgstr "...لنډلار سازول"
 
-#: kdeui/xmlgui/kxmlguibuilder.cpp:174
-#: kdeui/xmlgui/kxmlguibuilder.cpp:342
+#: kdeui/xmlgui/kxmlguibuilder.cpp:174 kdeui/xmlgui/kxmlguibuilder.cpp:342
 msgid "No text"
 msgstr "هېڅ ليکنه"
 
@@ -7453,8 +7739,7 @@ msgstr ":شته&"
 msgid "&Selected:"
 msgstr ":ټاکل شوی&"
 
-#: kdeui/widgets/kcharselect.cpp:272
-#: kdeui/widgets/kcharselect.cpp:274
+#: kdeui/widgets/kcharselect.cpp:272 kdeui/widgets/kcharselect.cpp:274
 msgid "Enter a search term or character here"
 msgstr "پلټون ويې يا لوښته دلته وليکﺉ"
 
@@ -7478,13 +7763,11 @@ msgstr "يوه ټولۍ وټاکﺉ"
 msgid "Select a block to be displayed"
 msgstr "د ښودلو لپاره يو غونډ وټاکﺉ"
 
-#: kdeui/widgets/kcharselect.cpp:456
-#: kdeui/widgets/kcharselect.cpp:458
+#: kdeui/widgets/kcharselect.cpp:456 kdeui/widgets/kcharselect.cpp:458
 msgid "Character:"
 msgstr ":لوښه"
 
-#: kdeui/widgets/kcharselect.cpp:458
-#: kdeui/widgets/kcharselect.cpp:685
+#: kdeui/widgets/kcharselect.cpp:458 kdeui/widgets/kcharselect.cpp:685
 msgid "Non-printable"
 msgstr "نه-چاپېدونکي"
 
@@ -7583,7 +7866,9 @@ msgstr ""
 #: kdeui/widgets/kcharselect.cpp:686
 #, kde-format
 msgctxt "Character"
-msgid "<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code point: %4<br />(In decimal: %5)</qt>"
+msgid ""
+"<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code point: "
+"%4<br />(In decimal: %5)</qt>"
 msgstr ""
 
 #: kdeui/widgets/kcharselect-translation.cpp:23
@@ -8672,20 +8957,41 @@ msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
 
 #: kdeui/widgets/kkeysequencewidget.cpp:136
+#, kde-format
+msgid ""
+"The '%1' key combination has already been allocated to the \"%2\" action.\n"
+"Do you want to reassign it from that action to the current one?"
+msgstr ""
+
+#: kdeui/widgets/kkeysequencewidget.cpp:147
 msgid "Shortcut conflict"
 msgstr "لنډلاري ټکر"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:137
+#: kdeui/widgets/kkeysequencewidget.cpp:148
 #, kde-format
-msgid "<qt>The '%1' key combination is already used by the <b>%2</b> action.<br>Please select a different one.</qt>"
+msgid ""
+"<qt>The '%1' key combination is already used by the <b>%2</b> action."
+"<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:384
+#: kdeui/widgets/kkeysequencewidget.cpp:424
+msgid "Conflict with Standard Application Shortcut"
+msgstr "د کره کاريال لنډلارې سره ټکر"
+
+#: kdeui/widgets/kkeysequencewidget.cpp:425
+#, kde-format
+msgid ""
+"The '%1' key combination is also used for the standard action \"%2\" that "
+"some applications use.\n"
+"Do you really want to use it as a global shortcut as well?"
+msgstr ""
+
+#: kdeui/widgets/kkeysequencewidget.cpp:457
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "ننوتۍ"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:391
+#: kdeui/widgets/kkeysequencewidget.cpp:464
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "هېڅ"
@@ -8706,12 +9012,11 @@ msgstr "بره &خوځول"
 msgid "Move &Down"
 msgstr "ښکته &خوځول"
 
-#: kdeui/widgets/khistorycombobox.cpp:178
-#: khtml/rendering/render_form.cpp:568
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:568
 msgid "Clear &History"
 msgstr "مخينه &پاکول"
 
-#: kdeui/widgets/khistorycombobox.cpp:318
+#: kdeui/widgets/khistorycombobox.cpp:317
 msgid "No further item in the history."
 msgstr "په مخينه کې نور توکي نشته دی."
 
@@ -8727,8 +9032,7 @@ msgstr "ګړيالغوندې چورلول&"
 msgid "Rotate &Counterclockwise"
 msgstr "سرچپه &ګړېغوندې چورلول"
 
-#: kdeui/widgets/khelpmenu.cpp:153
-#: kdeui/actions/kstandardaction_p.h:111
+#: kdeui/widgets/khelpmenu.cpp:153 kdeui/actions/kstandardaction_p.h:111
 #, kde-format
 msgid "%1 &Handbook"
 msgstr "لاسکتاب& %1"
@@ -8737,24 +9041,20 @@ msgstr "لاسکتاب& %1"
 msgid "What's &This"
 msgstr "دا &څه دي"
 
-#: kdeui/widgets/khelpmenu.cpp:172
-#: kdeui/actions/kstandardaction_p.h:114
+#: kdeui/widgets/khelpmenu.cpp:172 kdeui/actions/kstandardaction_p.h:114
 msgid "&Report Bug..."
 msgstr "کړاو راپورول&"
 
-#: kdeui/widgets/khelpmenu.cpp:182
-#: kdeui/actions/kstandardaction_p.h:115
+#: kdeui/widgets/khelpmenu.cpp:182 kdeui/actions/kstandardaction_p.h:115
 msgid "Switch Application &Language..."
 msgstr "...د کاريال &ژبه ونجول"
 
-#: kdeui/widgets/khelpmenu.cpp:193
-#: kdeui/actions/kstandardaction_p.h:116
+#: kdeui/widgets/khelpmenu.cpp:193 kdeui/actions/kstandardaction_p.h:116
 #, kde-format
 msgid "&About %1"
 msgstr "په اړه %1 د&"
 
-#: kdeui/widgets/khelpmenu.cpp:198
-#: kdeui/actions/kstandardaction_p.h:117
+#: kdeui/widgets/khelpmenu.cpp:198 kdeui/actions/kstandardaction_p.h:117
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
 
@@ -8815,37 +9115,31 @@ msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "تلواله"
 
-#: kdeui/widgets/ktoolbar.cpp:298
-#: kdeui/widgets/ktoolbar.cpp:318
+#: kdeui/widgets/ktoolbar.cpp:298 kdeui/widgets/ktoolbar.cpp:318
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "(%1x%2) کوچنی"
 
-#: kdeui/widgets/ktoolbar.cpp:300
-#: kdeui/widgets/ktoolbar.cpp:320
+#: kdeui/widgets/ktoolbar.cpp:300 kdeui/widgets/ktoolbar.cpp:320
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "(%1x%2) منځی"
 
-#: kdeui/widgets/ktoolbar.cpp:302
-#: kdeui/widgets/ktoolbar.cpp:322
+#: kdeui/widgets/ktoolbar.cpp:302 kdeui/widgets/ktoolbar.cpp:322
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "(%1x%2) لوی"
 
-#: kdeui/widgets/ktoolbar.cpp:304
-#: kdeui/widgets/ktoolbar.cpp:324
+#: kdeui/widgets/ktoolbar.cpp:304 kdeui/widgets/ktoolbar.cpp:324
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "(%1x%2) غټ"
 
-#: kdeui/widgets/ktoolbar.cpp:344
-#: kdeui/widgets/ktoolbar.cpp:1376
+#: kdeui/widgets/ktoolbar.cpp:344 kdeui/widgets/ktoolbar.cpp:1376
 msgid "Unlock Toolbars"
 msgstr "توکپټې ناکولپول"
 
-#: kdeui/widgets/ktoolbar.cpp:344
-#: kdeui/widgets/ktoolbar.cpp:1376
+#: kdeui/widgets/ktoolbar.cpp:344 kdeui/widgets/ktoolbar.cpp:1376
 msgid "Lock Toolbars"
 msgstr "توکپټې کولپول"
 
@@ -8873,18 +9167,15 @@ msgstr "سيمه"
 msgid "Comment"
 msgstr "څرګندون"
 
-#: kdeui/widgets/ktextedit.cpp:373
-#: kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:373 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kdeui/widgets/ktextedit.cpp:376
-#: kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:376 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kdeui/widgets/ktextedit.cpp:380
-#: kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:380 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
@@ -8926,8 +9217,7 @@ msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "خځلنۍ تشول"
 
-#: kfile/kfilefiltercombo.cpp:36
-#: kfile/kfilewidget.cpp:1621
+#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1661
 msgid "*|All Files"
 msgstr "ټولې دوتنې|*"
 
@@ -8935,74 +9225,78 @@ msgstr "ټولې دوتنې|*"
 msgid "All Supported Files"
 msgstr "ټولې منل کېدونکې دوتنې"
 
-#: kfile/kfilewidget.cpp:230
-msgid "<qt>While typing in the text area, you may be presented with possible matches. This feature can be controlled by clicking with the right mouse button and selecting a preferred mode from the <b>Text Completion</b> menu."
+#: kfile/kfilewidget.cpp:242
+msgid ""
+"<qt>While typing in the text area, you may be presented with possible "
+"matches. This feature can be controlled by clicking with the right mouse "
+"button and selecting a preferred mode from the <b>Text Completion</b> menu."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:296
+#: kfile/kfilewidget.cpp:308
 #, kde-format
 msgid "Drive: %1"
 msgstr "%1 چليځ:"
 
-#: kfile/kfilewidget.cpp:368
-#, kde-format
-msgid "<qt>Click this button to enter the parent folder.<br /><br />For instance, if the current location is file:/home/%1 clicking this button will take you to file:/home.</qt>"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:373
+#: kfile/kfilewidget.cpp:371
 msgid "Click this button to move backwards one step in the browsing history."
 msgstr "دا تڼۍ کېکاږﺉ چې په لټون مخينه کې يو پړاو شاته ولاړ شﺉ."
 
-#: kfile/kfilewidget.cpp:375
+#: kfile/kfilewidget.cpp:373
 msgid "Click this button to move forward one step in the browsing history."
 msgstr "دا تڼۍ کېکاږﺉ چې په لټون مخينه کې يو پړاو مخکې ولاړ شﺉ."
 
-#: kfile/kfilewidget.cpp:378
+#: kfile/kfilewidget.cpp:376
 msgid "Click this button to reload the contents of the current location."
 msgstr "دا تڼۍ کېکاږﺉ چې د اوسني ځای منځپانګې بيا راولېښﺉ."
 
-#: kfile/kfilewidget.cpp:381
+#: kfile/kfilewidget.cpp:379
 msgid "Click this button to create a new folder."
 msgstr "د نوې کړکۍ جوړولو لپاره دا تڼۍ کېکاږﺉ"
 
-#: kfile/kfilewidget.cpp:384
+#: kfile/kfilewidget.cpp:385
 msgid "Show Places Navigation Panel"
 msgstr "د ځايونو چلونې چوکاټ ښودل"
 
-#: kfile/kfilewidget.cpp:391
+#: kfile/kfilewidget.cpp:392
 msgid "Show Bookmarks"
 msgstr "ليکنښې ښودل"
 
-#: kfile/kfilewidget.cpp:398
-msgid "<qt>This is the preferences menu for the file dialog. Various options can be accessed from this menu including: <ul><li>how files are sorted in the list</li><li>types of view, including icon and list</li><li>showing of hidden files</li><li>the Places navigation panel</li><li>file previews</li><li>separating folders from files</li></ul></qt>"
+#: kfile/kfilewidget.cpp:399
+msgid ""
+"<qt>This is the preferences menu for the file dialog. Various options can be "
+"accessed from this menu including: <ul><li>how files are sorted in the list</"
+"li><li>types of view, including icon and list</li><li>showing of hidden "
+"files</li><li>the Places navigation panel</li><li>file previews</"
+"li><li>separating folders from files</li></ul></qt>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:442
-#: kfile/kfileplaceeditdialog.cpp:116
+#: kfile/kfilewidget.cpp:445 kfile/kfileplaceeditdialog.cpp:116
 msgid "&Location:"
 msgstr ":ځای&"
 
-#: kfile/kfilewidget.cpp:471
-msgid "<qt>This is the filter to apply to the file list. File names that do not match the filter will not be shown.<p>You may select from one of the preset filters in the drop down menu, or you may enter a custom filter directly into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
+#: kfile/kfilewidget.cpp:481
+msgid ""
+"<qt>This is the filter to apply to the file list. File names that do not "
+"match the filter will not be shown.<p>You may select from one of the preset "
+"filters in the drop down menu, or you may enter a custom filter directly "
+"into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:477
+#: kfile/kfilewidget.cpp:487
 msgid "&Filter:"
 msgstr ":چاڼ&"
 
-#: kfile/kfilewidget.cpp:700
-#: kfile/kfilewidget.cpp:742
-#: kfile/kfilewidget.cpp:1558
+#: kfile/kfilewidget.cpp:714 kfile/kfilewidget.cpp:763
+#: kfile/kfilewidget.cpp:1598
 msgid "You can only select local files."
 msgstr "تاسو يوازې ځايي دوتنې ټاکلی شﺉ"
 
-#: kfile/kfilewidget.cpp:701
-#: kfile/kfilewidget.cpp:743
-#: kfile/kfilewidget.cpp:1559
+#: kfile/kfilewidget.cpp:715 kfile/kfilewidget.cpp:764
+#: kfile/kfilewidget.cpp:1599
 msgid "Remote Files Not Accepted"
 msgstr "لرې دوتنې نه منل کيږي"
 
-#: kfile/kfilewidget.cpp:733
+#: kfile/kfilewidget.cpp:754
 #, kde-format
 msgid ""
 "%1\n"
@@ -9011,33 +9305,47 @@ msgstr ""
 "%1\n"
 ".وي URL داسې نه ښکاري چې يو سم\n"
 
-#: kfile/kfilewidget.cpp:733
+#: kfile/kfilewidget.cpp:754
 msgid "Invalid URL"
 msgstr "URL ناسم"
 
-#: kfile/kfilewidget.cpp:1168
+#: kfile/kfilewidget.cpp:1189
 msgid "This is the name to save the file as."
 msgstr "دا هغه نوم دی چې دوتنه پرې وساتل شي."
 
-#: kfile/kfilewidget.cpp:1173
-msgid "This is the list of files to open. More than one file can be specified by listing several files, separated by spaces."
+#: kfile/kfilewidget.cpp:1194
+msgid ""
+"This is the list of files to open. More than one file can be specified by "
+"listing several files, separated by spaces."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1180
+#: kfile/kfilewidget.cpp:1201
 msgid "This is the name of the file to open."
 msgstr ".دا د هغه دوتنې نوم دی چې پرانيستل شي"
 
-#: kfile/kfilewidget.cpp:1490
+#: kfile/kfilewidget.cpp:1375
+#, fuzzy, kde-format
+#| msgid ""
+#| "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
+msgstr ""
+"نومې دوتنه د مخکې نه شتون لري. تاسو يې په ډاډمنه توګه ځاېناستول غواړﺉ؟ \"%1\""
+
+#: kfile/kfilewidget.cpp:1376 khtml/khtml_ext.cpp:928
+msgid "Overwrite File?"
+msgstr "دوتنه ځاېناستول غواړﺉ؟"
+
+#: kfile/kfilewidget.cpp:1530
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1492
+#: kfile/kfilewidget.cpp:1532
 msgid "Invalid Filenames"
 msgstr "ناسم دوتنه نومونه"
 
-#: kfile/kfilewidget.cpp:1521
+#: kfile/kfilewidget.cpp:1561
 #, kde-format
 msgid ""
 "The requested filenames\n"
@@ -9046,48 +9354,62 @@ msgid ""
 "make sure every filename is enclosed in double quotes."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1525
+#: kfile/kfilewidget.cpp:1565
 msgid "Filename Error"
 msgstr "د دوتنه نوم تېروتنه"
 
-#: kfile/kfilewidget.cpp:1618
+#: kfile/kfilewidget.cpp:1658
 msgid "*|All Folders"
 msgstr "*|ټولۍ پوښۍ"
 
-#: kfile/kfilewidget.cpp:1756
-#: kparts/browserrun.cpp:384
+#: kfile/kfilewidget.cpp:1796 kparts/browserrun.cpp:384
 msgid "&Open"
 msgstr "پرانيستل&"
 
-#: kfile/kfilewidget.cpp:1905
+#: kfile/kfilewidget.cpp:1952
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr "(%1) دوتنه نوم او ش&اتاړی په خپلکارې توګه ټاکل"
 
-#: kfile/kfilewidget.cpp:1906
+#: kfile/kfilewidget.cpp:1953
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr "شاتاړی <b>%1</b>"
 
-#: kfile/kfilewidget.cpp:1914
+#: kfile/kfilewidget.cpp:1961
 msgid "Automatically select filename e&xtension"
 msgstr "د دوتنې نوم ش&اتاړی په خپلکارې توګه ټاکل"
 
-#: kfile/kfilewidget.cpp:1915
+#: kfile/kfilewidget.cpp:1962
 msgid "a suitable extension"
 msgstr "يو وړ شاتاړی"
 
-#: kfile/kfilewidget.cpp:1925
+#: kfile/kfilewidget.cpp:1972
 #, kde-format
-msgid "This option enables some convenient features for saving files with extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area will be updated if you change the file type to save in.<br /><br /></li><li>If no extension is specified in the <b>%2</b> text area when you click <b>Save</b>, %3 will be added to the end of the filename (if the filename does not already exist). This extension is based on the file type that you have chosen to save in.<br /><br />If you do not want KDE to supply an extension for the filename, you can either turn this option off or you can suppress it by adding a period (.) to the end of the filename (the period will be automatically removed).</li></ol>If unsure, keep this option enabled as it makes your files more manageable."
+msgid ""
+"This option enables some convenient features for saving files with "
+"extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area "
+"will be updated if you change the file type to save in.<br /><br /></"
+"li><li>If no extension is specified in the <b>%2</b> text area when you "
+"click <b>Save</b>, %3 will be added to the end of the filename (if the "
+"filename does not already exist). This extension is based on the file type "
+"that you have chosen to save in.<br /><br />If you do not want KDE to supply "
+"an extension for the filename, you can either turn this option off or you "
+"can suppress it by adding a period (.) to the end of the filename (the "
+"period will be automatically removed).</li></ol>If unsure, keep this option "
+"enabled as it makes your files more manageable."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:2220
+#: kfile/kfilewidget.cpp:2267
 msgid "Bookmarks"
 msgstr "ليکنښې"
 
-#: kfile/kfilewidget.cpp:2224
-msgid "<qt>This button allows you to bookmark specific locations. Click on this button to open the bookmark menu where you may add, edit or select a bookmark.<br /><br />These bookmarks are specific to the file dialog, but otherwise operate like bookmarks elsewhere in KDE.</qt>"
+#: kfile/kfilewidget.cpp:2271
+msgid ""
+"<qt>This button allows you to bookmark specific locations. Click on this "
+"button to open the bookmark menu where you may add, edit or select a "
+"bookmark.<br /><br />These bookmarks are specific to the file dialog, but "
+"otherwise operate like bookmarks elsewhere in KDE.</qt>"
 msgstr ""
 
 #: kfile/kfileplacesmodel.cpp:101
@@ -9099,8 +9421,7 @@ msgstr "کور"
 msgid "Network"
 msgstr "ځال"
 
-#: kfile/kfileplacesmodel.cpp:107
-#: kfile/kfileplacesmodel.cpp:110
+#: kfile/kfileplacesmodel.cpp:107 kfile/kfileplacesmodel.cpp:110
 msgid "Root"
 msgstr "ولۍ"
 
@@ -9133,13 +9454,12 @@ msgstr ""
 msgid "An error occurred while accessing '%1'"
 msgstr "ته د لاسرسي پر مهال ستونزه رامنځته شوه '%1'"
 
-#: kfile/kurlnavigator.cpp:644
+#: kfile/kurlnavigator.cpp:658
 msgid "Custom Path"
 msgstr "دوديز يونلور"
 
-#: kfile/kdirselectdialog.cpp:115
-#: kfile/kdiroperator.cpp:642
-#: kfile/kdiroperator.cpp:650
+#: kfile/kdirselectdialog.cpp:115 kfile/kdiroperator.cpp:662
+#: kfile/kdiroperator.cpp:670
 msgid "New Folder"
 msgstr "نوې پوښۍ"
 
@@ -9158,14 +9478,12 @@ msgstr ""
 ":نوې پوښۍ جوړول په\n"
 "%1"
 
-#: kfile/kdirselectdialog.cpp:143
-#: kfile/kdiroperator.cpp:677
+#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:697
 #, kde-format
 msgid "A file or folder named %1 already exists."
 msgstr ".نومې دوتنه يا پوښۍ د مخکې نه شتون لري %1"
 
-#: kfile/kdirselectdialog.cpp:147
-#: kfile/kdiroperator.cpp:680
+#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:700
 msgid "You do not have permission to create that folder."
 msgstr ".د هغې پوښۍ د جوړولو پرېښلې نه لرﺉ"
 
@@ -9194,7 +9512,10 @@ msgid "Edit Places Entry"
 msgstr "د ځايونو ننوت سمول"
 
 #: kfile/kfileplaceeditdialog.cpp:99
-msgid "<qt>This is the text that will appear in the Places panel.<br /><br />The description should consist of one or two words that will help you remember what this entry refers to.</qt>"
+msgid ""
+"<qt>This is the text that will appear in the Places panel.<br /><br />The "
+"description should consist of one or two words that will help you remember "
+"what this entry refers to.</qt>"
 msgstr ""
 
 #: kfile/kfileplaceeditdialog.cpp:102
@@ -9203,11 +9524,17 @@ msgstr ":سپړاوی&"
 
 #: kfile/kfileplaceeditdialog.cpp:112
 #, kde-format
-msgid "<qt>This is the location associated with the entry. Any valid URL may be used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde.org/pub/kde/stable<br /><br />By clicking on the button next to the text edit box you can browse to an appropriate URL.</qt>"
+msgid ""
+"<qt>This is the location associated with the entry. Any valid URL may be "
+"used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde."
+"org/pub/kde/stable<br /><br />By clicking on the button next to the text "
+"edit box you can browse to an appropriate URL.</qt>"
 msgstr ""
 
 #: kfile/kfileplaceeditdialog.cpp:125
-msgid "<qt>This is the icon that will appear in the Places panel.<br /><br />Click on the button to select a different icon.</qt>"
+msgid ""
+"<qt>This is the icon that will appear in the Places panel.<br /><br />Click "
+"on the button to select a different icon.</qt>"
 msgstr ""
 
 #: kfile/kfileplaceeditdialog.cpp:127
@@ -9221,14 +9548,17 @@ msgstr "(%1) يوازې د دې کاريال د کارولو پر مهال ښو�
 
 #: kfile/kfileplaceeditdialog.cpp:149
 #, kde-format
-msgid "<qt>Select this setting if you want this entry to show only when using the current application (%1).<br /><br />If this setting is not selected, the entry will be available in all applications.</qt>"
+msgid ""
+"<qt>Select this setting if you want this entry to show only when using the "
+"current application (%1).<br /><br />If this setting is not selected, the "
+"entry will be available in all applications.</qt>"
 msgstr ""
 
 #: kfile/kfiletreeview.cpp:184
 msgid "Show Hidden Folders"
 msgstr "پټې پوښۍ ښودل"
 
-#: kfile/kdiroperator.cpp:651
+#: kfile/kdiroperator.cpp:671
 #, kde-format
 msgid ""
 "Create new folder in:\n"
@@ -9237,15 +9567,15 @@ msgstr ""
 ":نوې پوښۍ جوړول په\n"
 "%1"
 
-#: kfile/kdiroperator.cpp:695
+#: kfile/kdiroperator.cpp:715
 msgid "You did not select a file to delete."
 msgstr ".تاسو د ړنګولو لپاره کومه دوتنه نه ده ټاکلې"
 
-#: kfile/kdiroperator.cpp:696
+#: kfile/kdiroperator.cpp:716
 msgid "Nothing to Delete"
 msgstr "هېڅ ړنګول"
 
-#: kfile/kdiroperator.cpp:717
+#: kfile/kdiroperator.cpp:737
 #, kde-format
 msgid ""
 "<qt>Do you really want to delete\n"
@@ -9254,30 +9584,30 @@ msgstr ""
 "<qt>تاسو په رښتيا غواړﺉ چې ويې ړنګوﺉ\n"
 " <b>'%1'</b>؟</qt>"
 
-#: kfile/kdiroperator.cpp:719
+#: kfile/kdiroperator.cpp:739
 msgid "Delete File"
 msgstr "دوتنه ړنګول"
 
-#: kfile/kdiroperator.cpp:724
+#: kfile/kdiroperator.cpp:744
 #, kde-format
 msgid "Do you really want to delete this item?"
 msgid_plural "Do you really want to delete these %1 items?"
 msgstr[0] "تاسو په رښتيا غواړﺉ چې دا توکی وړنګوﺉ؟"
 msgstr[1] "تاسو په رښتيا غواړﺉ چې دا %1 توکي وړنګوﺉ؟ "
 
-#: kfile/kdiroperator.cpp:726
+#: kfile/kdiroperator.cpp:746
 msgid "Delete Files"
 msgstr "دوتنې ړنګول"
 
-#: kfile/kdiroperator.cpp:757
+#: kfile/kdiroperator.cpp:777
 msgid "You did not select a file to trash."
 msgstr ".تاسو د خځلنۍ ته لېږلو لپاره کومه دوتنه نه ده ټاکلې"
 
-#: kfile/kdiroperator.cpp:758
+#: kfile/kdiroperator.cpp:778
 msgid "Nothing to Trash"
 msgstr "هېڅ خځلنۍ ته لېږل"
 
-#: kfile/kdiroperator.cpp:775
+#: kfile/kdiroperator.cpp:795
 #, kde-format
 msgid ""
 "<qt>Do you really want to trash\n"
@@ -9286,97 +9616,107 @@ msgstr ""
 "<qt>تاسو په رښتيا غواړﺉ چې خځلنۍ ته يې ولېږﺉ\n"
 " <b>'%1'</b>؟</qt>"
 
-#: kfile/kdiroperator.cpp:777
+#: kfile/kdiroperator.cpp:797
 msgid "Trash File"
 msgstr "خځلنۍ دوتنه"
 
-#: kfile/kdiroperator.cpp:778
-#: kfile/kdiroperator.cpp:785
+#: kfile/kdiroperator.cpp:798 kfile/kdiroperator.cpp:805
 msgctxt "to trash"
 msgid "&Trash"
 msgstr "خځلنۍ&"
 
-#: kfile/kdiroperator.cpp:782
+#: kfile/kdiroperator.cpp:802
 #, kde-format
 msgid "translators: not called for n == 1"
 msgid_plural "Do you really want to trash these %1 items?"
 msgstr[0] "translators: not called for n == 1"
 msgstr[1] "Do you really want to trash these %1 items?"
 
-#: kfile/kdiroperator.cpp:784
+#: kfile/kdiroperator.cpp:804
 msgid "Trash Files"
 msgstr "خځلنۍ دوتنې"
 
-#: kfile/kdiroperator.cpp:911
-#: kfile/kdiroperator.cpp:1028
+#: kfile/kdiroperator.cpp:931 kfile/kdiroperator.cpp:1048
 msgid "The specified folder does not exist or was not readable."
 msgstr ".ټاکل شوې پوښۍ شتون نه لري يا د لوستلو وړ نه وه"
 
-#: kfile/kdiroperator.cpp:1561
+#: kfile/kdiroperator.cpp:1590
 msgid "Menu"
 msgstr "غورنۍ"
 
-#: kfile/kdiroperator.cpp:1565
+#: kfile/kdiroperator.cpp:1594
 msgid "Parent Folder"
 msgstr "پلرينه پوښۍ"
 
-#: kfile/kdiroperator.cpp:1572
+#: kfile/kdiroperator.cpp:1601
 msgid "Home Folder"
 msgstr "کور پوښۍ"
 
-#: kfile/kdiroperator.cpp:1575
+#: kfile/kdiroperator.cpp:1604
 msgid "Reload"
 msgstr "بيالېښل"
 
-#: kfile/kdiroperator.cpp:1578
+#: kfile/kdiroperator.cpp:1607
 msgid "New Folder..."
 msgstr "...نوې پوښۍ"
 
-#: kfile/kdiroperator.cpp:1583
+#: kfile/kdiroperator.cpp:1612
 msgid "Move to Trash"
 msgstr "خځلنۍ ته لېږل"
 
-#: kfile/kdiroperator.cpp:1589
+#: kfile/kdiroperator.cpp:1618
 msgid "Delete"
 msgstr "ړنګول"
 
-#: kfile/kdiroperator.cpp:1596
+#: kfile/kdiroperator.cpp:1625
 msgid "Sorting"
 msgstr "اڼل کيږي"
 
-#: kfile/kdiroperator.cpp:1599
+#: kfile/kdiroperator.cpp:1628
 msgid "By Name"
 msgstr "په نوم"
 
-#: kfile/kdiroperator.cpp:1603
+#: kfile/kdiroperator.cpp:1632
 msgid "By Size"
 msgstr "په کچ"
 
-#: kfile/kdiroperator.cpp:1607
+#: kfile/kdiroperator.cpp:1636
 msgid "By Date"
 msgstr "په نېټه"
 
-#: kfile/kdiroperator.cpp:1611
+#: kfile/kdiroperator.cpp:1640
 msgid "By Type"
 msgstr "په ډول"
 
-#: kfile/kdiroperator.cpp:1615
+#: kfile/kdiroperator.cpp:1644
 msgid "Descending"
 msgstr "له پايه"
 
-#: kfile/kdiroperator.cpp:1625
+#: kfile/kdiroperator.cpp:1654
 msgid "Short View"
 msgstr "لنډ کوت"
 
-#: kfile/kdiroperator.cpp:1630
+#: kfile/kdiroperator.cpp:1659
 msgid "Detailed View"
 msgstr "سپړاوی کوت"
 
-#: kfile/kdiroperator.cpp:1639
+#: kfile/kdiroperator.cpp:1664
+#, fuzzy
+#| msgid "Detailed View"
+msgid "Tree View"
+msgstr "سپړاوی کوت"
+
+#: kfile/kdiroperator.cpp:1669
+#, fuzzy
+#| msgid "Detailed View"
+msgid "Detailed Tree View"
+msgstr "سپړاوی کوت"
+
+#: kfile/kdiroperator.cpp:1680
 msgid "Show Hidden Files"
 msgstr "پټې دوتنې ښودل"
 
-#: kfile/kdiroperator.cpp:1643
+#: kfile/kdiroperator.cpp:1684
 msgid "Show Preview"
 msgstr "مخکوت ښودل"
 
@@ -9388,8 +9728,14 @@ msgstr "د ځای چلونې لپاره کېکاږﺉ"
 msgid "Click to Edit Location"
 msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 
-#: kfile/kurlbutton.cpp:101
-#: kross/ui/view.cpp:505
+#: kfile/kurlupbutton.cpp:30
+#, fuzzy
+#| msgid "Parent Folder"
+msgctxt "@info:tooltip"
+msgid "Parent Folder"
+msgstr "پلرينه پوښۍ"
+
+#: kfile/kurlbutton.cpp:101 kross/ui/view.cpp:505
 msgid "Edit"
 msgstr "سمون"
 
@@ -9409,11 +9755,8 @@ msgstr "Testkhtml"
 msgid "a basic web browser using the KHTML library"
 msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
 
-#: khtml/khtml_run.cpp:97
-#: khtml/khtml_part.cpp:3997
-#: khtml/khtml_part.cpp:4207
-#: khtml/khtml_part.cpp:4593
-#: kparts/browserrun.cpp:444
+#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:4002 khtml/khtml_part.cpp:4212
+#: khtml/khtml_part.cpp:4598 kparts/browserrun.cpp:444
 msgid "Save As"
 msgstr "ساتل په"
 
@@ -9470,11 +9813,15 @@ msgid "Put output in <directory> instead of <base_dir>/output"
 msgstr ""
 
 #: khtml/test_regression.cpp:630
-msgid "Directory containing tests, basedir and output directories. Only regarded if -b is not specified."
+msgid ""
+"Directory containing tests, basedir and output directories. Only regarded if "
+"-b is not specified."
 msgstr ""
 
 #: khtml/test_regression.cpp:631
-msgid "Relative path to testcase, or directory of testcases to be run (equivalent to -t)."
+msgid ""
+"Relative path to testcase, or directory of testcases to be run (equivalent "
+"to -t)."
 msgstr ""
 
 #: khtml/test_regression.cpp:633
@@ -9567,18 +9914,15 @@ msgstr "په &نوي ټوپ کې پرانيستل"
 msgid "Reload Frame"
 msgstr "چوکاټ بيالېښل"
 
-#: khtml/khtml_ext.cpp:503
-#: khtml/khtml_part.cpp:412
+#: khtml/khtml_ext.cpp:503 khtml/khtml_part.cpp:412
 msgid "Print Frame..."
 msgstr "...چوکاټ چاپول"
 
-#: khtml/khtml_ext.cpp:509
-#: khtml/khtml_part.cpp:284
+#: khtml/khtml_ext.cpp:509 khtml/khtml_part.cpp:284
 msgid "Save &Frame As..."
 msgstr "...چوکاټ &ساتل لکه"
 
-#: khtml/khtml_ext.cpp:514
-#: khtml/khtml_part.cpp:266
+#: khtml/khtml_ext.cpp:514 khtml/khtml_part.cpp:266
 msgid "View Frame Source"
 msgstr "د چوکاټ سرچينه کتل"
 
@@ -9642,37 +9986,31 @@ msgstr "تړنه ساتل لکه"
 msgid "Save Image As"
 msgstr "انځور ساتل لکه"
 
-#: khtml/khtml_ext.cpp:779
-#: khtml/khtml_ext.cpp:792
+#: khtml/khtml_ext.cpp:779 khtml/khtml_ext.cpp:792
 msgid "Add URL to Filter"
 msgstr "چاڼ ته زياتول URL"
 
-#: khtml/khtml_ext.cpp:780
-#: khtml/khtml_ext.cpp:793
+#: khtml/khtml_ext.cpp:780 khtml/khtml_ext.cpp:793
 msgid "Enter the URL:"
 msgstr ":ليکئ URL"
 
 #: khtml/khtml_ext.cpp:928
 #, kde-format
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr "نومې دوتنه د مخکې نه شتون لري. تاسو يې په ډاډمنه توګه ځاېناستول غواړﺉ؟ \"%1\""
-
-#: khtml/khtml_ext.cpp:928
-msgid "Overwrite File?"
-msgstr "دوتنه ځاېناستول غواړﺉ؟"
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"نومې دوتنه د مخکې نه شتون لري. تاسو يې په ډاډمنه توګه ځاېناستول غواړﺉ؟ \"%1\""
 
 #: khtml/khtml_ext.cpp:928
 msgid "Overwrite"
 msgstr "ځاېناستول"
 
-#: khtml/khtml_ext.cpp:989
-#: kparts/browserrun.cpp:415
+#: khtml/khtml_ext.cpp:989 kparts/browserrun.cpp:415
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: khtml/khtml_ext.cpp:990
-#: kparts/browserrun.cpp:416
+#: khtml/khtml_ext.cpp:990 kparts/browserrun.cpp:416
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -9693,15 +10031,33 @@ msgid "%1%"
 msgstr "%1%"
 
 #: khtml/khtml_printsettings.cpp:31
-msgid "<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, images contained in the HTML page will be printed. Printing may take longer and use more ink or toner.</p><p>If this checkbox is disabled, only the text of the HTML page will be printed, without the included images. Printing will be faster and use less ink or toner.</p> </qt>"
+msgid ""
+"<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, "
+"images contained in the HTML page will be printed. Printing may take longer "
+"and use more ink or toner.</p><p>If this checkbox is disabled, only the text "
+"of the HTML page will be printed, without the included images. Printing will "
+"be faster and use less ink or toner.</p> </qt>"
 msgstr ""
 
 #: khtml/khtml_printsettings.cpp:43
-msgid "<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, the printout of the HTML document will contain a header line at the top of each page. This header contains the current date, the location URL of the printed page and the page number.</p><p>If this checkbox is disabled, the printout of the HTML document will not contain such a header line.</p> </qt>"
+msgid ""
+"<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, "
+"the printout of the HTML document will contain a header line at the top of "
+"each page. This header contains the current date, the location URL of the "
+"printed page and the page number.</p><p>If this checkbox is disabled, the "
+"printout of the HTML document will not contain such a header line.</p> </qt>"
 msgstr ""
 
 #: khtml/khtml_printsettings.cpp:56
-msgid "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is enabled, the printout of the HTML document will be black and white only, and all colored background will be converted into white. Printout will be faster and use less ink or toner.</p><p>If this checkbox is disabled, the printout of the HTML document will happen in the original color settings as you see in your application. This may result in areas of full-page color (or grayscale, if you use a black+white printer). Printout will possibly happen slower and will certainly use much more toner or ink.</p> </qt>"
+msgid ""
+"<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
+"enabled, the printout of the HTML document will be black and white only, and "
+"all colored background will be converted into white. Printout will be faster "
+"and use less ink or toner.</p><p>If this checkbox is disabled, the printout "
+"of the HTML document will happen in the original color settings as you see "
+"in your application. This may result in areas of full-page color (or "
+"grayscale, if you use a black+white printer). Printout will possibly happen "
+"slower and will certainly use much more toner or ink.</p> </qt>"
 msgstr ""
 
 #: khtml/khtml_printsettings.cpp:71
@@ -9720,6 +10076,18 @@ msgstr "انځورونه چاپول"
 msgid "Print header"
 msgstr "سرۍ چاپول"
 
+#: khtml/khtml_settings.cpp:154
+msgid "Accept"
+msgstr "منل"
+
+#: khtml/khtml_settings.cpp:155
+msgid "Reject"
+msgstr "نه منل"
+
+#: khtml/khtml_settings.cpp:792
+msgid "Filter error"
+msgstr "د چاڼ تېروتنه"
+
 #: khtml/khtml_part.cpp:261
 msgid "View Do&cument Source"
 msgstr "د لا&سوند سرچينه کتل"
@@ -9732,8 +10100,7 @@ msgstr "د لاسوند خبرتياوې کتل"
 msgid "Save &Background Image As..."
 msgstr "...شاليد &انځور ساتل لکه"
 
-#: khtml/khtml_part.cpp:296
-#: khtml/khtml_part.cpp:4301
+#: khtml/khtml_part.cpp:296 khtml/khtml_part.cpp:4306
 msgid "SSL"
 msgstr "SSL"
 
@@ -9762,7 +10129,9 @@ msgid "Enlarge Font"
 msgstr "ليکبڼه لويول"
 
 #: khtml/khtml_part.cpp:362
-msgid "Enlarge Font<br /><br />Make the font in this window bigger. Click and hold down the mouse button for a menu with all available font sizes."
+msgid ""
+"Enlarge Font<br /><br />Make the font in this window bigger. Click and hold "
+"down the mouse button for a menu with all available font sizes."
 msgstr ""
 
 #: khtml/khtml_part.cpp:366
@@ -9770,20 +10139,34 @@ msgid "Shrink Font"
 msgstr "ليکبڼه وړول"
 
 #: khtml/khtml_part.cpp:370
-msgid "Shrink Font<br /><br />Make the font in this window smaller. Click and hold down the mouse button for a menu with all available font sizes."
+msgid ""
+"Shrink Font<br /><br />Make the font in this window smaller. Click and hold "
+"down the mouse button for a menu with all available font sizes."
 msgstr ""
 
 #: khtml/khtml_part.cpp:376
-msgid "Find text<br /><br />Shows a dialog that allows you to find text on the displayed page."
-msgstr "ليکنه لټول<br /><br />.يوه داسې کړکۍ پرانيزې چې تاسو پرې په کتل شوي مخ ليکنه لټولی شﺉ"
+msgid ""
+"Find text<br /><br />Shows a dialog that allows you to find text on the "
+"displayed page."
+msgstr ""
+"ليکنه لټول<br /><br />.يوه داسې کړکۍ پرانيزې چې تاسو پرې په کتل شوي مخ ليکنه "
+"لټولی شﺉ"
 
 #: khtml/khtml_part.cpp:380
-msgid "Find next<br /><br />Find the next occurrence of the text that you have found using the <b>Find Text</b> function"
-msgstr "راتلونکی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې راتلونکې پېښه لټول چې په"
+msgid ""
+"Find next<br /><br />Find the next occurrence of the text that you have "
+"found using the <b>Find Text</b> function"
+msgstr ""
+"راتلونکی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې "
+"راتلونکې پېښه لټول چې په"
 
 #: khtml/khtml_part.cpp:386
-msgid "Find previous<br /><br />Find the previous occurrence of the text that you have found using the <b>Find Text</b> function"
-msgstr "مخکنی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې مخکنۍ پېښه لټول چې په"
+msgid ""
+"Find previous<br /><br />Find the previous occurrence of the text that you "
+"have found using the <b>Find Text</b> function"
+msgstr ""
+"مخکنی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې مخکنۍ "
+"پېښه لټول چې په"
 
 #: khtml/khtml_part.cpp:390
 msgid "Find Text as You Type"
@@ -9794,302 +10177,306 @@ msgid "Find Links as You Type"
 msgstr "د ليکلو سره سم تړنه لټول"
 
 #: khtml/khtml_part.cpp:416
-msgid "Print Frame<br /><br />Some pages have several frames. To print only a single frame, click on it and then use this function."
-msgstr "چوکاټ چاپول<br /><br />.ځېنې مخونه ډېر چوکاټونه لري. د يوګړي چوکاټ د چاپولو لپاره، په هغې کېکاږﺉ او بيا دا کړنه وکاروﺉ"
+msgid ""
+"Print Frame<br /><br />Some pages have several frames. To print only a "
+"single frame, click on it and then use this function."
+msgstr ""
+"چوکاټ چاپول<br /><br />.ځېنې مخونه ډېر چوکاټونه لري. د يوګړي چوکاټ د چاپولو "
+"لپاره، په هغې کېکاږﺉ او بيا دا کړنه وکاروﺉ"
 
 #: khtml/khtml_part.cpp:426
 msgid "Toggle Caret Mode"
 msgstr ""
 
-#: khtml/khtml_part.cpp:659
+#: khtml/khtml_part.cpp:661
 #, kde-format
 msgid "The fake user-agent '%1' is in use."
 msgstr ""
 
-#: khtml/khtml_part.cpp:1142
+#: khtml/khtml_part.cpp:1146
 msgid "This web page contains coding errors."
 msgstr "دا ګورت پاڼه د کوډونې تېروتنې لري"
 
-#: khtml/khtml_part.cpp:1184
+#: khtml/khtml_part.cpp:1188
 msgid "&Hide Errors"
 msgstr "تېروتنې پټول&"
 
-#: khtml/khtml_part.cpp:1185
+#: khtml/khtml_part.cpp:1189
 msgid "&Disable Error Reporting"
 msgstr "د تېروتنې راپورونه ناتوانول&"
 
-#: khtml/khtml_part.cpp:1229
+#: khtml/khtml_part.cpp:1233
 #, kde-format
 msgid "<qt><b>Error</b>: %1: %2</qt>"
 msgstr "<qt><b>تېروتنه</b>: %1: %2</qt>"
 
-#: khtml/khtml_part.cpp:1278
+#: khtml/khtml_part.cpp:1282
 #, kde-format
 msgid "<qt><b>Error</b>: node %1: %2</qt>"
 msgstr "<qt>%2 :%1 غوټه :<b>تېروتنه</b></qt>"
 
-#: khtml/khtml_part.cpp:1388
+#: khtml/khtml_part.cpp:1392
 msgid "Display Images on Page"
 msgstr "انځورونه پر مخ ښودل"
 
-#: khtml/khtml_part.cpp:1745
+#: khtml/khtml_part.cpp:1749
 #, kde-format
 msgid "Error: %1 - %2"
 msgstr "%2 - %1 :تېروتنه"
 
-#: khtml/khtml_part.cpp:1750
+#: khtml/khtml_part.cpp:1754
 msgid "The requested operation could not be completed"
 msgstr "غوښتل شوی چلښت نه شي بشپړېدلی"
 
-#: khtml/khtml_part.cpp:1756
+#: khtml/khtml_part.cpp:1760
 msgid "Technical Reason: "
 msgstr ":تخنيکي لامل"
 
-#: khtml/khtml_part.cpp:1761
+#: khtml/khtml_part.cpp:1765
 msgid "Details of the Request:"
 msgstr ":د غوښتنې خبرتياوې"
 
-#: khtml/khtml_part.cpp:1763
+#: khtml/khtml_part.cpp:1767
 #, kde-format
 msgid "URL: %1"
 msgstr "%1 :URL"
 
-#: khtml/khtml_part.cpp:1766
+#: khtml/khtml_part.cpp:1770
 #, kde-format
 msgid "Protocol: %1"
 msgstr "%1 باندره:"
 
-#: khtml/khtml_part.cpp:1769
+#: khtml/khtml_part.cpp:1773
 #, kde-format
 msgid "Date and Time: %1"
 msgstr "%1 :نېټه او مهال"
 
-#: khtml/khtml_part.cpp:1771
+#: khtml/khtml_part.cpp:1775
 #, kde-format
 msgid "Additional Information: %1"
 msgstr "%1 زياتي خبرتياوې:"
 
-#: khtml/khtml_part.cpp:1773
+#: khtml/khtml_part.cpp:1777
 msgid "Description:"
 msgstr ":سپړاوی"
 
-#: khtml/khtml_part.cpp:1779
+#: khtml/khtml_part.cpp:1783
 msgid "Possible Causes:"
 msgstr ":شوني لاملونه"
 
-#: khtml/khtml_part.cpp:1786
+#: khtml/khtml_part.cpp:1790
 msgid "Possible Solutions:"
 msgstr ":شونې حللارې"
 
-#: khtml/khtml_part.cpp:2147
+#: khtml/khtml_part.cpp:2151
 msgid "Page loaded."
 msgstr ".مخ لېښل شوی"
 
-#: khtml/khtml_part.cpp:2149
+#: khtml/khtml_part.cpp:2153
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] ".نه لېښل شوی %2 انځور د %1"
 msgstr[1] ".نه لېښل شوی %2 انځورونه د %1"
 
-#: khtml/khtml_part.cpp:2310
+#: khtml/khtml_part.cpp:2314
 msgid "Automatic Detection"
 msgstr "خپلکارې اوچتونه"
 
-#: khtml/khtml_part.cpp:3805
-#: khtml/khtml_part.cpp:3892
-#: khtml/khtml_part.cpp:3903
+#: khtml/khtml_part.cpp:3810 khtml/khtml_part.cpp:3897
+#: khtml/khtml_part.cpp:3908
 msgid " (In new window)"
 msgstr " (په نوې کړکۍ کې)"
 
-#: khtml/khtml_part.cpp:3844
+#: khtml/khtml_part.cpp:3849
 msgid "Symbolic Link"
 msgstr "پېلامي تړنه"
 
-#: khtml/khtml_part.cpp:3846
+#: khtml/khtml_part.cpp:3851
 #, kde-format
 msgid "%1 (Link)"
 msgstr "(تړنه) %1"
 
-#: khtml/khtml_part.cpp:3866
+#: khtml/khtml_part.cpp:3871
 #, kde-format
 msgid "%2 (%1 bytes)"
 msgstr "(%1 باېټه) %2"
 
-#: khtml/khtml_part.cpp:3870
+#: khtml/khtml_part.cpp:3875
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 ک)"
 
-#: khtml/khtml_part.cpp:3905
+#: khtml/khtml_part.cpp:3910
 msgid " (In other frame)"
 msgstr " (په بل چوکاټ کې)"
 
-#: khtml/khtml_part.cpp:3910
+#: khtml/khtml_part.cpp:3915
 msgid "Email to: "
 msgstr ":ته لېکل"
 
-#: khtml/khtml_part.cpp:3916
+#: khtml/khtml_part.cpp:3921
 msgid " - Subject: "
 msgstr ":سرليک - "
 
-#: khtml/khtml_part.cpp:3918
+#: khtml/khtml_part.cpp:3923
 msgid " - CC: "
 msgstr "  :څ.ل - "
 
-#: khtml/khtml_part.cpp:3920
+#: khtml/khtml_part.cpp:3925
 msgid " - BCC: "
 msgstr "  :پ.ل - "
 
-#: khtml/khtml_part.cpp:4002
+#: khtml/khtml_part.cpp:4007
 #, kde-format
-msgid "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow the link?</qt>"
+msgid ""
+"<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
+"the link?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4003
+#: khtml/khtml_part.cpp:4008
 msgid "Follow"
 msgstr "ورتلل"
 
-#: khtml/khtml_part.cpp:4104
+#: khtml/khtml_part.cpp:4109
 msgid "Frame Information"
 msgstr "د چوکاټ خبرتياوې"
 
-#: khtml/khtml_part.cpp:4110
+#: khtml/khtml_part.cpp:4115
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[ځانتياوې]</a>"
 
-#: khtml/khtml_part.cpp:4195
+#: khtml/khtml_part.cpp:4200
 msgid "Save Background Image As"
 msgstr "شاليد انځور ساتل لکه"
 
-#: khtml/khtml_part.cpp:4299
+#: khtml/khtml_part.cpp:4304
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4318
+#: khtml/khtml_part.cpp:4323
 msgid "Save Frame As"
 msgstr "چوکاټ ساتل لکه"
 
-#: khtml/khtml_part.cpp:4362
+#: khtml/khtml_part.cpp:4367
 msgid "&Find in Frame..."
 msgstr "...په چوکاټ کې لټول&"
 
-#: khtml/khtml_part.cpp:4364
-#: kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4369 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "...لټول&"
 
-#: khtml/khtml_part.cpp:4886
+#: khtml/khtml_part.cpp:4891
 msgid ""
-"Warning:  This is a secure form but it is attempting to send your data back unencrypted.\n"
+"Warning:  This is a secure form but it is attempting to send your data back "
+"unencrypted.\n"
 "A third party may be able to intercept and view this information.\n"
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4889
-#: khtml/khtml_part.cpp:4898
-#: khtml/khtml_part.cpp:4922
+#: khtml/khtml_part.cpp:4894 khtml/khtml_part.cpp:4903
+#: khtml/khtml_part.cpp:4927
 msgid "Network Transmission"
 msgstr "ځال لېږدون"
 
-#: khtml/khtml_part.cpp:4889
-#: khtml/khtml_part.cpp:4899
+#: khtml/khtml_part.cpp:4894 khtml/khtml_part.cpp:4904
 msgid "&Send Unencrypted"
 msgstr "کوډه ناکښلې لېږل&"
 
-#: khtml/khtml_part.cpp:4896
+#: khtml/khtml_part.cpp:4901
 msgid ""
-"Warning: Your data is about to be transmitted across the network unencrypted.\n"
+"Warning: Your data is about to be transmitted across the network "
+"unencrypted.\n"
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4920
+#: khtml/khtml_part.cpp:4925
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4923
+#: khtml/khtml_part.cpp:4928
 msgid "&Send Email"
 msgstr "برېښليک لېږل&"
 
-#: khtml/khtml_part.cpp:4944
+#: khtml/khtml_part.cpp:4949
 #, kde-format
-msgid "<qt>The form will be submitted to <br /><b>%1</b><br />on your local filesystem.<br />Do you want to submit the form?</qt>"
+msgid ""
+"<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
+"filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4945
-#: khtml/khtmlview.cpp:2872
-#: khtml/khtmlview.cpp:2914
-#: khtml/html/html_formimpl.cpp:1586
-#: khtml/html/html_formimpl.cpp:2194
+#: khtml/khtml_part.cpp:4950 khtml/khtmlview.cpp:2865 khtml/khtmlview.cpp:2907
+#: khtml/html/html_formimpl.cpp:1586 khtml/html/html_formimpl.cpp:2194
 msgid "Submit"
 msgstr "لېږل"
 
-#: khtml/khtml_part.cpp:4994
-msgid "This site attempted to attach a file from your computer in the form submission. The attachment was removed for your protection."
+#: khtml/khtml_part.cpp:4999
+msgid ""
+"This site attempted to attach a file from your computer in the form "
+"submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5998
+#: khtml/khtml_part.cpp:6004
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/س)"
 
-#: khtml/khtml_part.cpp:6911
+#: khtml/khtml_part.cpp:6920
 msgid "Security Warning"
 msgstr "د خونديتوب خبرتيا"
 
-#: khtml/khtml_part.cpp:6917
+#: khtml/khtml_part.cpp:6926
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:6918
-#: khtml/java/kjavaappletserver.cpp:790
+#: khtml/khtml_part.cpp:6927 khtml/java/kjavaappletserver.cpp:790
 msgid "Security Alert"
 msgstr "د خونديتوب خبرونه"
 
-#: khtml/khtml_part.cpp:7268
+#: khtml/khtml_part.cpp:7277
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7325
+#: khtml/khtml_part.cpp:7334
 msgid "&Close Wallet"
 msgstr "کڅوړه بندول&"
 
-#: khtml/khtml_part.cpp:7368
+#: khtml/khtml_part.cpp:7377
 msgid "JavaScript &Debugger"
 msgstr "جاواسکرېپټ &کړاوتمبوونی"
 
-#: khtml/khtml_part.cpp:7401
+#: khtml/khtml_part.cpp:7410
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ".مخ په جاواسکرېپټ د نوې کړکۍ پرانيستلو ته پرې نه ښودل شو"
 
-#: khtml/khtml_part.cpp:7407
+#: khtml/khtml_part.cpp:7416
 msgid "Popup Window Blocked"
 msgstr "بړبوکيزه کړکۍ بنده شوه"
 
-#: khtml/khtml_part.cpp:7407
+#: khtml/khtml_part.cpp:7416
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7420
+#: khtml/khtml_part.cpp:7429
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "بنده شوې بړبوکيزه کړکۍ ښودل&"
 msgstr[1] "بندې شوې بړبوکيزې کړکۍ ښودل %1&"
 
-#: khtml/khtml_part.cpp:7421
+#: khtml/khtml_part.cpp:7430
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7423
+#: khtml/khtml_part.cpp:7432
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "...د جاواسکرېپټ د نوې کړکۍ تګلارې سازول&"
 
@@ -10110,8 +10497,7 @@ msgstr ".جوړونې پوښۍ وټاکﺉ 'khtml/' لورينه وکړﺉ يو�
 msgid "Available Tests: %1 (ignored: %2)"
 msgstr "(پرېښودل شوې: %2) :%1 شته ازموېنې"
 
-#: khtml/test_regression_gui_window.cpp:563
-#: khtml/ecma/kjs_debugwin.cpp:481
+#: khtml/test_regression_gui_window.cpp:563 khtml/ecma/kjs_debugwin.cpp:481
 #: khtml/ecma/debugger/debugwindow.cpp:177
 msgid "Continue"
 msgstr "پرمخبيول"
@@ -10132,39 +10518,39 @@ msgstr "پرېښودلو ته زياتول"
 msgid "Remove from ignores..."
 msgstr "له پرېښودلو نه ړنګول"
 
-#: khtml/khtmlview.cpp:1844
+#: khtml/khtmlview.cpp:1837
 msgid "Find stopped."
 msgstr ".پلټون وتمول شو"
 
-#: khtml/khtmlview.cpp:1855
+#: khtml/khtmlview.cpp:1848
 msgid "Starting -- find links as you type"
 msgstr "پېليږي -- د ليکنې سره سم تړنې لټول"
 
-#: khtml/khtmlview.cpp:1861
+#: khtml/khtmlview.cpp:1854
 msgid "Starting -- find text as you type"
 msgstr "پېليږي -- د ليکنې سره سم ليکنه لټول"
 
-#: khtml/khtmlview.cpp:1884
+#: khtml/khtmlview.cpp:1877
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr ".\"%1\" :تړنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1889
+#: khtml/khtmlview.cpp:1882
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr ".\"%1\" :تړنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1897
+#: khtml/khtmlview.cpp:1890
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr ".\"%1\" :ليکنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1902
+#: khtml/khtmlview.cpp:1895
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr ".\"%1\" :ليکنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1950
+#: khtml/khtmlview.cpp:1943
 msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
@@ -10193,18 +10579,15 @@ msgstr "تجزيه کولو تېروتنه XML"
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
 
-#: khtml/ecma/kjs_debugwin.cpp:298
-#: khtml/ecma/debugger/errordlg.cpp:35
+#: khtml/ecma/kjs_debugwin.cpp:298 khtml/ecma/debugger/errordlg.cpp:35
 msgid "JavaScript Error"
 msgstr "د جاواسکرېپټ تېروتنه"
 
-#: khtml/ecma/kjs_debugwin.cpp:315
-#: khtml/ecma/debugger/errordlg.cpp:50
+#: khtml/ecma/kjs_debugwin.cpp:315 khtml/ecma/debugger/errordlg.cpp:50
 msgid "&Do not show this message again"
 msgstr "دا استوزه بيا نه ښودل&"
 
-#: khtml/ecma/kjs_debugwin.cpp:385
-#: khtml/ecma/debugger/debugwindow.cpp:122
+#: khtml/ecma/kjs_debugwin.cpp:385 khtml/ecma/debugger/debugwindow.cpp:122
 msgid "JavaScript Debugger"
 msgstr "جاواسکرېپټ کړاوتمبوونی"
 
@@ -10233,8 +10616,7 @@ msgstr "پرمخبيول&"
 msgid "St&op"
 msgstr "تم&ول"
 
-#: khtml/ecma/kjs_debugwin.cpp:476
-#: khtml/ecma/debugger/debugwindow.cpp:171
+#: khtml/ecma/kjs_debugwin.cpp:476 khtml/ecma/debugger/debugwindow.cpp:171
 msgid "&Break at Next Statement"
 msgstr "په راتلونکې څرګندۍ کې ماتول&"
 
@@ -10243,8 +10625,7 @@ msgctxt "Next breakpoint"
 msgid "Next"
 msgstr "راتلونکی"
 
-#: khtml/ecma/kjs_debugwin.cpp:848
-#: khtml/ecma/debugger/debugwindow.cpp:581
+#: khtml/ecma/kjs_debugwin.cpp:848 khtml/ecma/debugger/debugwindow.cpp:581
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "تېروتنه تجزيه کول %2 ليکې %1 د"
@@ -10260,8 +10641,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: khtml/ecma/kjs_debugwin.cpp:870
-#: khtml/ecma/debugger/debugwindow.cpp:618
+#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:618
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -10276,7 +10656,8 @@ msgstr ""
 
 #: khtml/ecma/kjs_binding.cpp:184
 msgid ""
-"A script on this page is causing KHTML to freeze. If it continues to run, other applications may become less responsive.\n"
+"A script on this page is causing KHTML to freeze. If it continues to run, "
+"other applications may become less responsive.\n"
 "Do you want to abort the script?"
 msgstr ""
 
@@ -10288,8 +10669,7 @@ msgstr "جاواسکرېپټ"
 msgid "&Abort"
 msgstr "بندول&"
 
-#: khtml/ecma/kjs_window.cpp:1591
-#: khtml/ecma/kjs_html.cpp:2121
+#: khtml/ecma/kjs_window.cpp:1591 khtml/ecma/kjs_html.cpp:2121
 msgid "Confirmation: JavaScript Popup"
 msgstr "باوريينه: د جاواسکرېپټ بړبوکيزه"
 
@@ -10303,16 +10683,18 @@ msgstr ""
 
 #: khtml/ecma/kjs_window.cpp:1597
 #, kde-format
-msgid "<qt>This site is requesting to open<p>%1</p>in a new browser window via JavaScript.<br />Do you want to allow this?</qt>"
-msgstr "<qt>پر جاواسکرېپټ په يوه نوې کړکۍ کې پرانيزي. <p>%1</p> دا پاڼه غواړي چې<br />تاسو د دې پرېښلې ورکول غواړﺉ؟</qt>"
+msgid ""
+"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
+"JavaScript.<br />Do you want to allow this?</qt>"
+msgstr ""
+"<qt>پر جاواسکرېپټ په يوه نوې کړکۍ کې پرانيزي. <p>%1</p> دا پاڼه غواړي چې<br /"
+">تاسو د دې پرېښلې ورکول غواړﺉ؟</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1599
-#: khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1599 khtml/ecma/kjs_html.cpp:2128
 msgid "Allow"
 msgstr "پرېښل"
 
-#: khtml/ecma/kjs_window.cpp:1599
-#: khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1599 khtml/ecma/kjs_html.cpp:2128
 msgid "Do Not Allow"
 msgstr "نه پرېښل"
 
@@ -10326,12 +10708,16 @@ msgstr "باوريينه اړينه ده"
 
 #: khtml/ecma/kjs_window.cpp:2880
 #, kde-format
-msgid "Do you want a bookmark pointing to the location \"%1\" to be added to your collection?"
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" to be added to your "
+"collection?"
 msgstr ""
 
 #: khtml/ecma/kjs_window.cpp:2883
 #, kde-format
-msgid "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be added to your collection?"
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
+"added to your collection?"
 msgstr ""
 
 #: khtml/ecma/kjs_window.cpp:2891
@@ -10348,13 +10734,17 @@ msgstr "نه منل"
 
 #: khtml/ecma/kjs_html.cpp:2123
 msgid ""
-"This site is submitting a form which will open up a new browser window via JavaScript.\n"
+"This site is submitting a form which will open up a new browser window via "
+"JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
 #: khtml/ecma/kjs_html.cpp:2126
 #, kde-format
-msgid "<qt>This site is submitting a form which will open <p>%1</p> in a new browser window via JavaScript.<br />Do you want to allow the form to be submitted?</qt>"
+msgid ""
+"<qt>This site is submitting a form which will open <p>%1</p> in a new "
+"browser window via JavaScript.<br />Do you want to allow the form to be "
+"submitted?</qt>"
 msgstr ""
 
 #: khtml/ecma/debugger/debugdocument.cpp:210
@@ -10408,7 +10798,9 @@ msgid "Ready"
 msgstr "چمتو"
 
 #: khtml/ecma/debugger/debugwindow.cpp:798
-msgid "Don't know where to evaluate the expression. Please pause a script or open a source file."
+msgid ""
+"Don't know where to evaluate the expression. Please pause a script or open a "
+"source file."
 msgstr ""
 
 #: khtml/ecma/debugger/debugwindow.cpp:834
@@ -10456,7 +10848,8 @@ msgstr "بياهم لېږل&"
 
 #: khtml/html/html_formimpl.cpp:381
 msgid ""
-"You are about to transfer the following files from your local computer to the Internet.\n"
+"You are about to transfer the following files from your local computer to "
+"the Internet.\n"
 "Do you really want to continue?"
 msgstr ""
 
@@ -10485,12 +10878,19 @@ msgid "Do Not Store"
 msgstr "نه زېرمل"
 
 #: khtml/html/html_formimpl.cpp:640
-msgid "Konqueror has the ability to store the password in an encrypted wallet. When the wallet is unlocked, it can then automatically restore the login information next time you submit this form. Do you want to store the information now?"
+msgid ""
+"Konqueror has the ability to store the password in an encrypted wallet. When "
+"the wallet is unlocked, it can then automatically restore the login "
+"information next time you submit this form. Do you want to store the "
+"information now?"
 msgstr ""
 
 #: khtml/html/html_formimpl.cpp:645
 #, kde-format
-msgid "Konqueror has the ability to store the password in an encrypted wallet. When the wallet is unlocked, it can then automatically restore the login information next time you visit %1. Do you want to store the information now?"
+msgid ""
+"Konqueror has the ability to store the password in an encrypted wallet. When "
+"the wallet is unlocked, it can then automatically restore the login "
+"information next time you visit %1. Do you want to store the information now?"
 msgstr ""
 
 #: khtml/html/html_formimpl.cpp:2575
@@ -10616,13 +11016,15 @@ msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesof
 #: kinit/kinit.cpp:486
 msgid ""
 "Unable to start new process.\n"
-"The system may have reached the maximum number of open files possible or the maximum number of open files that you are allowed to use has been reached."
+"The system may have reached the maximum number of open files possible or the "
+"maximum number of open files that you are allowed to use has been reached."
 msgstr ""
 
 #: kinit/kinit.cpp:505
 msgid ""
 "Unable to create new process.\n"
-"The system may have reached the maximum number of processes possible or the maximum number of processes that you are allowed to use has been reached."
+"The system may have reached the maximum number of processes possible or the "
+"maximum number of processes that you are allowed to use has been reached."
 msgstr ""
 
 #: kinit/kinit.cpp:614
@@ -10659,15 +11061,12 @@ msgstr ""
 msgid "KDEInit could not launch '%1'."
 msgstr ".نه شي پرانيستلی '%1' KDEInit"
 
-#: kinit/klauncher.cpp:661
-#: kinit/klauncher.cpp:686
-#: kinit/klauncher.cpp:701
+#: kinit/klauncher.cpp:661 kinit/klauncher.cpp:686 kinit/klauncher.cpp:701
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr ".پالنه نه شي موندلی '%1'"
 
-#: kinit/klauncher.cpp:717
-#: kinit/klauncher.cpp:753
+#: kinit/klauncher.cpp:717 kinit/klauncher.cpp:753
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr ""
@@ -10731,39 +11130,31 @@ msgstr ".نوی سکرېپټ زياتول"
 msgid "Remove selected script."
 msgstr ".ټاکل شوی سکرېپټ ړنګول"
 
-#: kross/qts/main.cpp:57
-#: kross/console/main.cpp:94
+#: kross/qts/main.cpp:57 kross/console/main.cpp:94
 msgid "Kross"
 msgstr "کراس"
 
-#: kross/qts/main.cpp:58
-#: kross/console/main.cpp:96
+#: kross/qts/main.cpp:58 kross/console/main.cpp:96
 msgid "KDE application to run Kross scripts."
 msgstr "د کراس سکرېپټونو ځغلولو لپاره د کډي کاريال"
 
-#: kross/qts/main.cpp:60
-#: kross/console/main.cpp:98
+#: kross/qts/main.cpp:60 kross/console/main.cpp:98
 msgid "(C) 2006 Sebastian Sauer"
 msgstr "چاپرښتې ۲۰۰۶ سېبېسټين ساور"
 
-#: kross/qts/main.cpp:61
-#: kross/console/main.cpp:99
+#: kross/qts/main.cpp:61 kross/console/main.cpp:99
 msgid "Run Kross scripts."
 msgstr ".کراس سکرېپټونه ځغلول"
 
-#: kross/qts/main.cpp:63
-#: kross/test/main.cpp:138
-#: kross/console/main.cpp:102
+#: kross/qts/main.cpp:63 kross/test/main.cpp:149 kross/console/main.cpp:102
 msgid "Sebastian Sauer"
 msgstr "سېبېسټين ساور"
 
-#: kross/qts/main.cpp:69
-#: kross/test/main.cpp:141
-#: kross/console/main.cpp:108
+#: kross/qts/main.cpp:69 kross/test/main.cpp:152 kross/console/main.cpp:108
 msgid "Scriptfile"
 msgstr "سکرېپټ دوتنه"
 
-#: kross/core/manager.cpp:140
+#: kross/core/manager.cpp:147
 msgid "Level of safety of the Ruby interpreter"
 msgstr "د ربي ژباړونکي د خونديتوب کچه"
 
@@ -10797,23 +11188,23 @@ msgstr "\"%1\" داسې ژباړونکی نشته"
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "\"%1\" د ژباړونکي لپاره سکرېپټ جوړولو کې پاتی راغی"
 
-#: kross/test/main.cpp:130
+#: kross/test/main.cpp:141
 msgid "KrossTest"
 msgstr "کراس ازموېل"
 
-#: kross/test/main.cpp:132
+#: kross/test/main.cpp:143
 msgid "KDE application to test the Kross framework."
 msgstr ".د کراس دندچوکاټ ازموېلو لپاره د کډي کاريال"
 
-#: kross/test/main.cpp:134
+#: kross/test/main.cpp:145
 msgid "(C) 2005-2007 Sebastian Sauer"
 msgstr "چاپرښتې ۲۰۰۵-۲۰۰۷ سېبېسټين ساور"
 
-#: kross/test/main.cpp:135
+#: kross/test/main.cpp:146
 msgid "Test the Kross framework!"
 msgstr "د کراس دندچوکاټ ازموېل!"
 
-#: kross/modules/form.cpp:273
+#: kross/modules/form.cpp:290
 msgid "Abort?"
 msgstr "بندول غواړﺉ؟"
 
@@ -11020,7 +11411,9 @@ msgstr ".رغبېلګه ونه موندل شوه %1"
 
 #: kutils/kcmoduleloader.cpp:77
 #, kde-format
-msgid "<qt><p>The diagnostics is:<br />The desktop file %1 could not be found.</p></qt>"
+msgid ""
+"<qt><p>The diagnostics is:<br />The desktop file %1 could not be found.</p></"
+"qt>"
 msgstr ""
 
 #: kutils/kcmoduleloader.cpp:79
@@ -11029,7 +11422,9 @@ msgid "The module %1 is disabled."
 msgstr ".رغبېلګه ناتوانول شوې ده %1"
 
 #: kutils/kcmoduleloader.cpp:80
-msgid "<qt><p>Either the hardware/software the module configures is not available or the module has been disabled by the administrator.</p></qt>"
+msgid ""
+"<qt><p>Either the hardware/software the module configures is not available "
+"or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
 #: kutils/kcmoduleloader.cpp:133
@@ -11039,7 +11434,9 @@ msgstr ".رغبېلګه سمه سازون رغبېلګه نه ده %1"
 
 #: kutils/kcmoduleloader.cpp:134
 #, kde-format
-msgid "<qt>The diagnostics is:<br />The desktop file %1 does not specify a library.</qt>"
+msgid ""
+"<qt>The diagnostics is:<br />The desktop file %1 does not specify a library."
+"</qt>"
 msgstr ""
 
 #: kutils/kcmoduleloader.cpp:153
@@ -11048,26 +11445,44 @@ msgstr ".د رغبېلګې په لېښلو کې تېروتنه"
 
 #: kutils/kcmoduleloader.cpp:153
 #, kde-format
-msgid "<qt>The diagnostics is:<br />%1<p>Possible reasons:</p><ul><li>An error occurred during your last KDE upgrade leaving an orphaned control module</li><li>You have old third party modules lying around.</li></ul><p>Check these points carefully and try to remove the module mentioned in the error message. If this fails, consider contacting your distributor or packager.</p></qt>"
+msgid ""
+"<qt>The diagnostics is:<br />%1<p>Possible reasons:</p><ul><li>An error "
+"occurred during your last KDE upgrade leaving an orphaned control module</"
+"li><li>You have old third party modules lying around.</li></ul><p>Check "
+"these points carefully and try to remove the module mentioned in the error "
+"message. If this fails, consider contacting your distributor or packager.</"
+"p></qt>"
 msgstr ""
 
 #: kutils/kcmoduleloader.cpp:168
-msgid "<qt><p>Possible reasons:<ul><li>An error occurred during your last KDE upgrade leaving an orphaned control module</li><li>You have old third party modules lying around.</li></ul></p><p>Check these points carefully and try to remove the module mentioned in the error message. If this fails, consider contacting your distributor or packager.</p></qt>"
+msgid ""
+"<qt><p>Possible reasons:<ul><li>An error occurred during your last KDE "
+"upgrade leaving an orphaned control module</li><li>You have old third party "
+"modules lying around.</li></ul></p><p>Check these points carefully and try "
+"to remove the module mentioned in the error message. If this fails, consider "
+"contacting your distributor or packager.</p></qt>"
 msgstr ""
 
 #: kutils/kpluginselector.cpp:136
-msgid "Automatic changes have been performed due to plugin dependencies. Click here for further information"
-msgstr "د لګون د اړتياوو له امله خپلکاري بدلونونه سرته ورسېدل. د نورو خبرتياوو لپاره دلته کېکاږﺉ"
+msgid ""
+"Automatic changes have been performed due to plugin dependencies. Click here "
+"for further information"
+msgstr ""
+"د لګون د اړتياوو له امله خپلکاري بدلونونه سرته ورسېدل. د نورو خبرتياوو لپاره "
+"دلته کېکاږﺉ"
 
 #: kutils/kpluginselector.cpp:203
-msgid "Automatic changes have been performed in order to satisfy plugin dependencies:\n"
+msgid ""
+"Automatic changes have been performed in order to satisfy plugin "
+"dependencies:\n"
 msgstr "د لګون د اړتياوو د بشپړولو لپاره خپلکاري بدلونونه سرته ورسېدل:\n"
 
 #: kutils/kpluginselector.cpp:207
 #, kde-format
 msgid ""
 "\n"
-"    %1 plugin has been automatically checked because of the dependency of %2 plugin"
+"    %1 plugin has been automatically checked because of the dependency of %2 "
+"plugin"
 msgstr ""
 "\n"
 "    لګون د اړتياوو له امله په خپلکارې توګه وکتل شو %2 لګون د %1"
@@ -11076,7 +11491,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "\n"
-"    %1 plugin has been automatically unchecked because of its dependency on %2 plugin"
+"    %1 plugin has been automatically unchecked because of its dependency on %"
+"2 plugin"
 msgstr ""
 "\n"
 "    لګون سره د تړاو له امله په خپلکارې توګه وناکتل شو %2 لګون د %1"
@@ -11116,11 +11532,17 @@ msgid "Print Preview"
 msgstr "چاپ مخليد"
 
 #: kutils/kcmoduleproxy.cpp:134
-msgid "<b>Changes in this section require root access.</b><br />On applying your changes you will have to supply your root password."
+msgid ""
+"<b>Changes in this section require root access.</b><br />On applying your "
+"changes you will have to supply your root password."
 msgstr ""
 
 #: kutils/kcmoduleproxy.cpp:141
-msgid "This section requires special permissions, probably for system-wide changes; therefore, it is required that you provide the root password to be able to change the module's properties. If you cannot provide the password, the changes of the module cannot be saved "
+msgid ""
+"This section requires special permissions, probably for system-wide changes; "
+"therefore, it is required that you provide the root password to be able to "
+"change the module's properties. If you cannot provide the password, the "
+"changes of the module cannot be saved "
 msgstr ""
 
 #: kutils/kcmoduleproxy.cpp:162
@@ -11133,7 +11555,7 @@ msgstr "کې پرانيستل شوې %1 دا سازونې برخه د مخکې �
 msgid "Select Components"
 msgstr "رغتوکي ټاکل"
 
-#: kutils/ksettings/dialog.cpp:227
+#: kutils/ksettings/dialog.cpp:232
 msgid "Enable component"
 msgstr "رغتوکی توانول"
 
@@ -11149,18 +11571,15 @@ msgstr "سکرېپټونو د ځغلولو لپاره کاريال KJSEmbed د \
 msgid "(C) 2005-2006 The KJSEmbed Authors"
 msgstr "ليکوالان KJSEmbed چاپرښتې ۲۰۰۵-۲۰۰۶، د"
 
-#: kjsembed/kjscmd/kjscmd.cpp:150
-#: kjsembed/kjscmd/kjscmd.cpp:151
+#: kjsembed/kjscmd/kjscmd.cpp:150 kjsembed/kjscmd/kjscmd.cpp:151
 msgid "Execute script without gui support"
 msgstr "سکرېپټ بې له کښنيز کارن برسېر د ملاتړ نه چلول"
 
-#: kjsembed/kjscmd/kjscmd.cpp:152
-#: kjsembed/kjscmd/kjscmd.cpp:153
+#: kjsembed/kjscmd/kjscmd.cpp:152 kjsembed/kjscmd/kjscmd.cpp:153
 msgid "start interactive kjs interpreter"
 msgstr "چارنده ک.ج.س ژباړونکی پېلول"
 
-#: kjsembed/kjscmd/kjscmd.cpp:154
-#: kjsembed/kjscmd/kjscmd.cpp:155
+#: kjsembed/kjscmd/kjscmd.cpp:154 kjsembed/kjscmd/kjscmd.cpp:155
 msgid "start without KDE KApplication support."
 msgstr ".بې له کډي ک.کاريال د ملاتړ نه پېلول"
 
@@ -11191,7 +11610,8 @@ msgstr ".د ارزښتمنېو ناسم شمېر"
 
 #: kjsembed/kjsembed/qobject_binding.cpp:412
 #, kde-format
-msgid "The slot asked for %1 arguments but there are only %2 arguments available."
+msgid ""
+"The slot asked for %1 arguments but there are only %2 arguments available."
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:610
@@ -11315,8 +11735,7 @@ msgstr "دوتنه نه شي پرانيستلی '%1'"
 msgid "Could not create temporary file."
 msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
-#: kjsembed/kjsembed/builtins.cpp:89
-#: kjsembed/kjsembed/builtins.cpp:129
+#: kjsembed/kjsembed/builtins.cpp:89 kjsembed/kjsembed/builtins.cpp:129
 #, kde-format
 msgid "Error encountered while processing include '%1' line %2: %3"
 msgstr ""
@@ -11336,8 +11755,7 @@ msgstr ".دوتنه ونه موندل شوه %1"
 msgid "library only takes 1 argument, not %1."
 msgstr ".%1 کتابتون يوازې ۱ ارزښتمنۍ اخلي، نه"
 
-#: kjsembed/kjsembed/kjsembed.cpp:273
-#: kjsembed/kjsembed/kjsembed.cpp:295
+#: kjsembed/kjsembed/kjsembed.cpp:273 kjsembed/kjsembed/kjsembed.cpp:295
 #, kde-format
 msgid "%1 is not a function and cannot be called."
 msgstr "کومه کړنه نه ده او اړيکنيو ورسره نه شي کېدی. %1"
@@ -11398,8 +11816,7 @@ msgstr "%1 :ناکړ"
 msgid "Redo: %1"
 msgstr "%1 :بياکړ"
 
-#: kde3support/kdeui/k3command.cpp:421
-#: kdeui/actions/kstandardaction_p.h:55
+#: kde3support/kdeui/k3command.cpp:421 kdeui/actions/kstandardaction_p.h:55
 msgid "&Undo"
 msgstr "ناکړ&"
 
@@ -11481,15 +11898,13 @@ msgctxt "@label:listbox"
 msgid "&Client:"
 msgstr ":پېرن&"
 
-#: kde3support/kdeui/k3sconfig.cpp:256
-#: kde3support/kdeui/k3sconfig.cpp:416
+#: kde3support/kdeui/k3sconfig.cpp:256 kde3support/kdeui/k3sconfig.cpp:416
 #: kde3support/kdeui/k3sconfig.cpp:680
 msgctxt "@item Spelling dictionary"
 msgid "Hebrew"
 msgstr "هېبرو"
 
-#: kde3support/kdeui/k3sconfig.cpp:261
-#: kde3support/kdeui/k3sconfig.cpp:421
+#: kde3support/kdeui/k3sconfig.cpp:261 kde3support/kdeui/k3sconfig.cpp:421
 #: kde3support/kdeui/k3sconfig.cpp:685
 msgctxt "@item Spelling dictionary"
 msgid "Turkish"
@@ -11605,27 +12020,23 @@ msgctxt "@item Spelling dictionary"
 msgid "Unknown"
 msgstr "ناپېژندلی"
 
-#: kde3support/kdeui/k3sconfig.cpp:462
-#: kde3support/kdeui/k3sconfig.cpp:618
+#: kde3support/kdeui/k3sconfig.cpp:462 kde3support/kdeui/k3sconfig.cpp:618
 msgctxt "@item Spelling dictionary"
 msgid "<application>ISpell</application> Default"
 msgstr "<application>ISpell</application> تلواله"
 
-#: kde3support/kdeui/k3sconfig.cpp:510
-#: kde3support/kdeui/k3sconfig.cpp:666
+#: kde3support/kdeui/k3sconfig.cpp:510 kde3support/kdeui/k3sconfig.cpp:666
 #, kde-format
 msgctxt "@item Spelling dictionary: %1 dictionary name, %2 file name"
 msgid "Default - %1 [%2]"
 msgstr "[%2] %1 - تلواله"
 
-#: kde3support/kdeui/k3sconfig.cpp:531
-#: kde3support/kdeui/k3sconfig.cpp:693
+#: kde3support/kdeui/k3sconfig.cpp:531 kde3support/kdeui/k3sconfig.cpp:693
 msgctxt "@item Spelling dictionary"
 msgid "<application>ASpell</application> Default"
 msgstr "<application>اسپېل</application> تلواله"
 
-#: kde3support/kdeui/k3sconfig.cpp:596
-#: kde3support/kdeui/k3sconfig.cpp:758
+#: kde3support/kdeui/k3sconfig.cpp:596 kde3support/kdeui/k3sconfig.cpp:758
 #, kde-format
 msgctxt "@item Spelling dictionary: %1 dictionary name"
 msgid "Default - %1"
@@ -11645,8 +12056,11 @@ msgstr "دنده"
 
 #: kde3support/kdeui/k3aboutdialog.cpp:684
 #, kde-format
-msgid "<html><font size=\"5\">%1</font><br/><b>version %2</b><br/>Using KDE %3</html>"
-msgstr "<html><font size=\"5\">%1</font><br/><b>%2 نسخه</b><br/>کاروي %3 کډي</html>"
+msgid ""
+"<html><font size=\"5\">%1</font><br/><b>version %2</b><br/>Using KDE %3</"
+"html>"
+msgstr ""
+"<html><font size=\"5\">%1</font><br/><b>%2 نسخه</b><br/>کاروي %3 کډي</html>"
 
 #: kde3support/kdeui/k3aboutdialog.cpp:686
 #, kde-format
@@ -11723,11 +12137,14 @@ msgid "Only run modules whose filenames match the regexp."
 msgstr ".سره ساري وي regexp يوازې هغه رغبېلګې ځغلول چې دوتنه نومونه يې د"
 
 #: kde3support/kunittest/modrunner.cpp:47
-msgid "Only run tests modules which are found in the folder. Use the query option to select modules."
+msgid ""
+"Only run tests modules which are found in the folder. Use the query option "
+"to select modules."
 msgstr ""
 
 #: kde3support/kunittest/modrunner.cpp:48
-msgid "Disables debug capturing. You typically use this option when you use the GUI."
+msgid ""
+"Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 
 #: kde3support/kunittest/modrunner.cpp:50
@@ -11778,7 +12195,9 @@ msgid "Named Colors"
 msgstr "نومول شوي رنګونه"
 
 #: kdeui/colors/kcolordialog.cpp:664
-msgid "Unable to read X11 RGB color strings. The following file location(s) were examined:\n"
+msgid ""
+"Unable to read X11 RGB color strings. The following file location(s) were "
+"examined:\n"
 msgstr ""
 
 #: kdeui/colors/kcolordialog.cpp:949
@@ -11838,18 +12257,6 @@ msgstr "...دوديز"
 msgid "TETest"
 msgstr "TETest"
 
-#: khtml/khtml_settings.cc:153
-msgid "Accept"
-msgstr "منل"
-
-#: khtml/khtml_settings.cc:154
-msgid "Reject"
-msgstr "نه منل"
-
-#: khtml/khtml_settings.cc:791
-msgid "Filter error"
-msgstr "د چاڼ تېروتنه"
-
 #: kwallet/backend/kwalletbackend.cc:263
 msgid "Already open."
 msgstr ".د مخکنې پرانيستل شوی"
@@ -11886,8 +12293,7 @@ msgstr ".د لوستلو تېروتنه - کېدی شي ناسمه تېرنوي�
 msgid "Decryption error."
 msgstr ".د کوډه ناکښنې تېروتنه"
 
-#: kdecore/util/qtest_kde.h:85
-#: kdecore/util/qtest_kde.h:131
+#: kdecore/util/qtest_kde.h:85 kdecore/util/qtest_kde.h:131
 msgid "KDE Test Program"
 msgstr "د کډي ازموېنې کړنلار"
 
@@ -11934,8 +12340,7 @@ msgstr "سکڼ_ل"
 msgid "&Copy"
 msgstr "لمېسل&"
 
-#: kdeui/actions/kstandardaction_p.h:59
-#: kdeui/actions/kstandardaction_p.h:60
+#: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
 msgid "&Paste"
 msgstr "سرېښل&"
 
@@ -12076,3 +12481,8 @@ msgstr "دا &څه دي؟"
 msgid "Tip of the &Day"
 msgstr "د &ورځې نکته"
 
+#: kross/qts/values_p.h:69
+#, fuzzy, kde-format
+#| msgid "No such interpreter \"%1\""
+msgid "No such function \"%1\""
+msgstr "\"%1\" داسې ژباړونکی نشته"
