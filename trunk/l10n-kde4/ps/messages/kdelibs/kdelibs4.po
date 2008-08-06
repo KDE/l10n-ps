@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-08-05 08:25+0200\n"
+"POT-Creation-Date: 2008-08-06 08:58+0200\n"
 "PO-Revision-Date: 2008-07-31 07:15-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -11249,19 +11249,19 @@ msgstr "ايان رينهرټ ګيسر"
 msgid "Daniel Molkentin"
 msgstr "ډېنيل مولکېنټېن"
 
-#: nepomuk/core/resource.cpp:368
+#: nepomuk/core/resource.cpp:384
 msgid "Success"
 msgstr "بری"
 
-#: nepomuk/core/resource.cpp:370
+#: nepomuk/core/resource.cpp:386
 msgid "Communication error"
 msgstr "د اړيکې تېروتنه"
 
-#: nepomuk/core/resource.cpp:372
+#: nepomuk/core/resource.cpp:388
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
-#: nepomuk/core/resource.cpp:374
+#: nepomuk/core/resource.cpp:390
 msgid "Unknown error"
 msgstr "ناپېژندلې تېروتنه"
 
