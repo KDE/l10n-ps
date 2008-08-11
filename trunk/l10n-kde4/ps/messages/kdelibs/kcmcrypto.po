@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: certexport.cpp:51
 msgid "X509 Certificate Export"
