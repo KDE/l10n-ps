@@ -30,13 +30,11 @@ msgstr ""
 msgid "(Custom)"
 msgstr "(دوديز)"
 
-#: chfacedlg.cpp:113
-#: main.cpp:258
+#: chfacedlg.cpp:113 main.cpp:258
 msgid "There was an error loading the image."
 msgstr "د انځور په لېښلو کې کومه ستونزه رامنځته شوه."
 
-#: chfacedlg.cpp:131
-#: chfacedlg.cpp:167
+#: chfacedlg.cpp:131 chfacedlg.cpp:167
 #, kde-format
 msgid ""
 "There was an error saving the image:\n"
@@ -117,8 +115,7 @@ msgstr "اېلېکس زېپېډا"
 msgid "Hans Karlsson"
 msgstr "هېنس کېرلسن"
 
-#: main.cpp:98
-#: main.cpp:99
+#: main.cpp:98 main.cpp:99
 msgid "Icons"
 msgstr "انځورنونه"
 
@@ -127,11 +124,16 @@ msgid "Hermann Thomas"
 msgstr "هېرمن ټامس"
 
 #: main.cpp:102
-msgid "<qt>Here you can change your personal information, which will be used in mail programs and word processors, for example. You can change your login password by clicking <em>Change Password</em>.</qt>"
+msgid ""
+"<qt>Here you can change your personal information, which will be used in "
+"mail programs and word processors, for example. You can change your login "
+"password by clicking <em>Change Password</em>.</qt>"
 msgstr ""
 
 #: main.cpp:116
-msgid "A program error occurred: the internal program 'kdepasswd' could not be found. You will not be able to change your password."
+msgid ""
+"A program error occurred: the internal program 'kdepasswd' could not be "
+"found. You will not be able to change your password."
 msgstr ""
 
 #: main.cpp:215
@@ -149,7 +151,8 @@ msgstr "اړينه ده چې تاسو سمه تېرنويې وليکئ."
 #: main.cpp:232
 #, kde-format
 msgid ""
-"An error occurred and your password has probably not been changed. The error message was:\n"
+"An error occurred and your password has probably not been changed. The error "
+"message was:\n"
 "%1"
 msgstr ""
 
@@ -158,8 +161,7 @@ msgstr ""
 msgid "There was an error saving the image: %1"
 msgstr "%1 د انځور په ساتلو کې کومه ستونزه رامنځته شوه:"
 
-#: main.cpp:272
-#: main.cpp:306
+#: main.cpp:272 main.cpp:306
 msgid "Your administrator has disallowed changing your image."
 msgstr ""
 
@@ -306,4 +308,3 @@ msgstr "ستاسو نومونه"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "ستاسو برېښليکونه"
-
