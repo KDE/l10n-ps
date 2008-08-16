@@ -11,6 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: interfaces/kimproxy/interface/dbusinstantmessenger.desktop:4
 msgctxt "Comment"
