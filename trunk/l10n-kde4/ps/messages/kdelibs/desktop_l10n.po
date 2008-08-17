@@ -348,8 +348,7 @@ msgctxt "Name"
 msgid "Serbian"
 msgstr "سربي"
 
-#: sr/sr@latin/messages/entry.desktop:2
-#: sr@latin/messages/entry.desktop:2
+#: sr/sr@latin/messages/entry.desktop:2 sr@latin/messages/entry.desktop:2
 msgctxt "Name"
 msgid "Serbian Latin"
 msgstr "سربيايي لاټيني"
@@ -433,4 +432,3 @@ msgstr "چينايي (هانګ کانګ)"
 msgctxt "Name"
 msgid "Chinese"
 msgstr "چينايي"
-
