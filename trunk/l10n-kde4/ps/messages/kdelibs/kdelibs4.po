@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-04 09:39+0200\n"
+"POT-Creation-Date: 2008-09-08 09:39+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5982,7 +5982,7 @@ msgstr "دا استوزه بيا نه ښودل"
 
 #: kdeui/dialogs/kmessagebox.cpp:1021
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:73
-#: kdeui/widgets/khelpmenu.cpp:263 kde3support/kdeui/k3aboutdialog.cpp:1045
+#: kdeui/widgets/khelpmenu.cpp:264 kde3support/kdeui/k3aboutdialog.cpp:1045
 #, kde-format
 msgid "About %1"
 msgstr "په اړه %1 د"
@@ -6709,17 +6709,17 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr ".دلته تاسو د کارولو ليکبڼه ډول ټاکلی شﺉ"
 
-#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:614
+#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:618
 msgctxt "@item font"
 msgid "Regular"
 msgstr "ساده"
 
-#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:635
+#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:639
 msgctxt "@item font"
 msgid "Italic"
 msgstr "کوږ"
 
-#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:636
+#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:640
 msgctxt "@item font"
 msgid "Oblique"
 msgstr "رېونده"
@@ -6777,7 +6777,7 @@ msgstr "اره ليکبڼه"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:621
+#: kdeui/fonts/kfontchooser.cpp:625
 #, kde-format
 msgctxt "@item Font style"
 msgid "%1"
@@ -7208,394 +7208,445 @@ msgctxt ""
 msgid "Hold %1, then push %2"
 msgstr ""
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:63
+#: kdeui/shortcuts/kstandardshortcut.cpp:85
 msgctxt "@action"
 msgid "Open"
 msgstr "پرانيستل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:64
+#: kdeui/shortcuts/kstandardshortcut.cpp:86
 msgctxt "@action"
 msgid "New"
 msgstr "نوی"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:65
+#: kdeui/shortcuts/kstandardshortcut.cpp:87
 msgctxt "@action"
 msgid "Close"
 msgstr "بندول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:66
+#: kdeui/shortcuts/kstandardshortcut.cpp:88
 msgctxt "@action"
 msgid "Save"
 msgstr "ساتل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:67
+#: kdeui/shortcuts/kstandardshortcut.cpp:89
 msgctxt "@action"
 msgid "Print"
 msgstr "چاپول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:68
+#: kdeui/shortcuts/kstandardshortcut.cpp:90
 msgctxt "@action"
 msgid "Quit"
 msgstr "وتل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:71
+#: kdeui/shortcuts/kstandardshortcut.cpp:93
 msgctxt "@action"
 msgid "Undo"
 msgstr "ناکړ"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:72
+#: kdeui/shortcuts/kstandardshortcut.cpp:94
 msgctxt "@action"
 msgid "Redo"
 msgstr "بياکړ"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:73
+#: kdeui/shortcuts/kstandardshortcut.cpp:95
 msgctxt "@action"
 msgid "Cut"
 msgstr "سکڼل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:74
+#: kdeui/shortcuts/kstandardshortcut.cpp:96
 msgctxt "@action"
 msgid "Copy"
 msgstr "لمېسل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:75
+#: kdeui/shortcuts/kstandardshortcut.cpp:97
 msgctxt "@action"
 msgid "Paste"
 msgstr "سرېښل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:76
+#: kdeui/shortcuts/kstandardshortcut.cpp:98
 msgctxt "@action"
 msgid "Paste Selection"
 msgstr "ټاکنه سرېښل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:78
+#: kdeui/shortcuts/kstandardshortcut.cpp:100
 msgctxt "@action"
 msgid "Select All"
 msgstr "ټول ټاکل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:79
+#: kdeui/shortcuts/kstandardshortcut.cpp:101
 msgctxt "@action"
 msgid "Deselect"
 msgstr "ناټاکل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:80
+#: kdeui/shortcuts/kstandardshortcut.cpp:102
 msgctxt "@action"
 msgid "Delete Word Backwards"
 msgstr "شاته ويې ړنګول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:81
+#: kdeui/shortcuts/kstandardshortcut.cpp:103
 msgctxt "@action"
 msgid "Delete Word Forward"
 msgstr "مخکې ويې ړنګول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:83
+#: kdeui/shortcuts/kstandardshortcut.cpp:105
 msgctxt "@action"
 msgid "Find"
 msgstr "لټول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:84
+#: kdeui/shortcuts/kstandardshortcut.cpp:106
 msgctxt "@action"
 msgid "Find Next"
 msgstr "راتلونکی لټول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:85
+#: kdeui/shortcuts/kstandardshortcut.cpp:107
 msgctxt "@action"
 msgid "Find Prev"
 msgstr "مخکنی لټول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:86
+#: kdeui/shortcuts/kstandardshortcut.cpp:108
 msgctxt "@action"
 msgid "Replace"
 msgstr "ځاېناستول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:89
+#: kdeui/shortcuts/kstandardshortcut.cpp:111
 msgctxt "@action Go to main page"
 msgid "Home"
 msgstr "کور"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:90
+#: kdeui/shortcuts/kstandardshortcut.cpp:112
 msgctxt "@action Beginning of document"
 msgid "Begin"
 msgstr "پېلول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:91
+#: kdeui/shortcuts/kstandardshortcut.cpp:113
 msgctxt "@action End of document"
 msgid "End"
 msgstr "پای"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:92
+#: kdeui/shortcuts/kstandardshortcut.cpp:114
 msgctxt "@action"
 msgid "Prior"
 msgstr "پخوانی"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:93
+#: kdeui/shortcuts/kstandardshortcut.cpp:115
 msgctxt "@action Opposite to Prior"
 msgid "Next"
 msgstr "راتلونکی"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:95
+#: kdeui/shortcuts/kstandardshortcut.cpp:117
 msgctxt "@action"
 msgid "Up"
 msgstr "پاس"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:96
+#: kdeui/shortcuts/kstandardshortcut.cpp:118
 msgctxt "@action"
 msgid "Back"
 msgstr "شاته"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:97
+#: kdeui/shortcuts/kstandardshortcut.cpp:119
 msgctxt "@action"
 msgid "Forward"
 msgstr "مخکې"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:98
+#: kdeui/shortcuts/kstandardshortcut.cpp:120
 msgctxt "@action"
 msgid "Reload"
 msgstr "بيالېښل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:100
+#: kdeui/shortcuts/kstandardshortcut.cpp:122
 msgctxt "@action"
 msgid "Beginning of Line"
 msgstr "د ليکې پېل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:101
+#: kdeui/shortcuts/kstandardshortcut.cpp:123
 msgctxt "@action"
 msgid "End of Line"
 msgstr "د ليکې پای"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:102
+#: kdeui/shortcuts/kstandardshortcut.cpp:124
 msgctxt "@action"
 msgid "Go to Line"
 msgstr "ليکې ته ورتلل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:103
+#: kdeui/shortcuts/kstandardshortcut.cpp:125
 msgctxt "@action"
 msgid "Backward Word"
 msgstr "ويې شاته کول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:104
+#: kdeui/shortcuts/kstandardshortcut.cpp:126
 msgctxt "@action"
 msgid "Forward Word"
 msgstr "ويې مخکې کول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:106
+#: kdeui/shortcuts/kstandardshortcut.cpp:128
 msgctxt "@action"
 msgid "Add Bookmark"
 msgstr "ليکنښه زياتول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:107
+#: kdeui/shortcuts/kstandardshortcut.cpp:129
 msgctxt "@action"
 msgid "Zoom In"
 msgstr "لوډېرول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:108
+#: kdeui/shortcuts/kstandardshortcut.cpp:130
 msgctxt "@action"
 msgid "Zoom Out"
 msgstr "لوکمول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:109
+#: kdeui/shortcuts/kstandardshortcut.cpp:131
 msgctxt "@action"
 msgid "Full Screen Mode"
 msgstr "ټولې پردې اکر"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:111
+#: kdeui/shortcuts/kstandardshortcut.cpp:133
 msgctxt "@action"
 msgid "Show Menu Bar"
 msgstr "غورنۍ پټه ښودل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:112
+#: kdeui/shortcuts/kstandardshortcut.cpp:134
 msgctxt "@action"
 msgid "Activate Next Tab"
 msgstr "راتلونکی ټوپ چارندول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:113
+#: kdeui/shortcuts/kstandardshortcut.cpp:135
 msgctxt "@action"
 msgid "Activate Previous Tab"
 msgstr "مخکنی ټوپ چارندول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:116
+#: kdeui/shortcuts/kstandardshortcut.cpp:138
 msgctxt "@action"
 msgid "Help"
 msgstr "مرسته"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:117
+#: kdeui/shortcuts/kstandardshortcut.cpp:139
 msgctxt "@action"
 msgid "What's This"
 msgstr "دا څه دي"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:120
+#: kdeui/shortcuts/kstandardshortcut.cpp:142
 msgctxt "@action"
 msgid "Text Completion"
 msgstr "د ليکنې بشپړېدنه"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:121
+#: kdeui/shortcuts/kstandardshortcut.cpp:143
 msgctxt "@action"
 msgid "Previous Completion Match"
 msgstr "مخکنی بشپړېدنې ساری"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:122
+#: kdeui/shortcuts/kstandardshortcut.cpp:144
 msgctxt "@action"
 msgid "Next Completion Match"
 msgstr "راتلونکی بشپړېدنې ساری"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:123
+#: kdeui/shortcuts/kstandardshortcut.cpp:145
 msgctxt "@action"
 msgid "Substring Completion"
 msgstr "د څېرمه مزي بشپړېدنه"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:125
+#: kdeui/shortcuts/kstandardshortcut.cpp:147
 msgctxt "@action"
 msgid "Previous Item in List"
 msgstr "په لړ کې مخکنی توکی"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:126
+#: kdeui/shortcuts/kstandardshortcut.cpp:148
 msgctxt "@action"
 msgid "Next Item in List"
 msgstr "په لړ کې راتلونکی توکی"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:128
+#: kdeui/shortcuts/kstandardshortcut.cpp:150
+#, fuzzy
+#| msgid "Open &Recent"
 msgctxt "@action"
-msgid "OpenRecent"
-msgstr "اوسنی پرانيستل"
+msgid "Open Recent"
+msgstr "اوسني &پرانيستل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:129
+#: kdeui/shortcuts/kstandardshortcut.cpp:151
+#, fuzzy
+#| msgid "Save As"
 msgctxt "@action"
-msgid "SaveAs"
+msgid "Save As"
 msgstr "ساتل په"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:130
+#: kdeui/shortcuts/kstandardshortcut.cpp:152
 msgctxt "@action"
 msgid "Revert"
 msgstr "بېرته"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:131
+#: kdeui/shortcuts/kstandardshortcut.cpp:153
+#, fuzzy
+#| msgid "Print Preview"
 msgctxt "@action"
-msgid "PrintPreview"
+msgid "Print Preview"
 msgstr "چاپ مخليد"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:132
+#: kdeui/shortcuts/kstandardshortcut.cpp:154
 msgctxt "@action"
 msgid "Mail"
 msgstr "ليک"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:133
+#: kdeui/shortcuts/kstandardshortcut.cpp:155
 msgctxt "@action"
 msgid "Clear"
 msgstr "پاکول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:134
+#: kdeui/shortcuts/kstandardshortcut.cpp:156
+#, fuzzy
+#| msgid "&Actual Size"
 msgctxt "@action"
-msgid "ActualSize"
-msgstr "ار کچ"
+msgid "Actual Size"
+msgstr "ار کچ&"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:135
+#: kdeui/shortcuts/kstandardshortcut.cpp:157
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "FitToPage"
 msgctxt "@action"
-msgid "FitToPage"
+msgid "Fit To Page"
 msgstr "مخ سره برابرول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:136
+#: kdeui/shortcuts/kstandardshortcut.cpp:158
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "FitToWidth"
 msgctxt "@action"
-msgid "FitToWidth"
+msgid "Fit To Width"
 msgstr "پلنوالي سره برابرول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:137
+#: kdeui/shortcuts/kstandardshortcut.cpp:159
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "FitToHeight"
 msgctxt "@action"
-msgid "FitToHeight"
+msgid "Fit To Height"
 msgstr "اوږدوالي سره برابرول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:138
+#: kdeui/shortcuts/kstandardshortcut.cpp:160
 msgctxt "@action"
 msgid "Zoom"
 msgstr "لويول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:139
+#: kdeui/shortcuts/kstandardshortcut.cpp:161
 msgctxt "@action"
 msgid "Goto"
 msgstr "ته ورتلل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:140
+#: kdeui/shortcuts/kstandardshortcut.cpp:162
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "GotoPage"
 msgctxt "@action"
-msgid "GotoPage"
+msgid "Goto Page"
 msgstr "مخ ته ورتلل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:141
+#: kdeui/shortcuts/kstandardshortcut.cpp:163
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "DocumentBack"
 msgctxt "@action"
-msgid "DocumentBack"
+msgid "Document Back"
 msgstr "لاسوند شاته"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:142
+#: kdeui/shortcuts/kstandardshortcut.cpp:164
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "DocumentForward"
 msgctxt "@action"
-msgid "DocumentForward"
+msgid "Document Forward"
 msgstr "لاسوند مخکې"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:143
+#: kdeui/shortcuts/kstandardshortcut.cpp:165
+#, fuzzy
+#| msgid "&Edit Bookmarks"
 msgctxt "@action"
-msgid "EditBookmarks"
-msgstr "ليکنښې سمول"
+msgid "Edit Bookmarks"
+msgstr "ليکنښې &سمول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:144
+#: kdeui/shortcuts/kstandardshortcut.cpp:166
 msgctxt "@action"
 msgid "Spelling"
 msgstr "ليکدود"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:145
+#: kdeui/shortcuts/kstandardshortcut.cpp:167
+#, fuzzy
+#| msgid "Show &Toolbar"
 msgctxt "@action"
-msgid "ShowToolbar"
-msgstr "توکپټه ښودل"
+msgid "Show Toolbar"
+msgstr "توکپټه &ښودل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:146
+#: kdeui/shortcuts/kstandardshortcut.cpp:168
+#, fuzzy
+#| msgid "Show St&atusbar"
 msgctxt "@action"
-msgid "ShowStatusbar"
-msgstr "انکړپټه ښودل"
+msgid "Show Statusbar"
+msgstr "ان&کړپټه ښودل"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:147
+#: kdeui/shortcuts/kstandardshortcut.cpp:169
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "SaveOptions"
 msgctxt "@action"
-msgid "SaveOptions"
+msgid "Save Options"
 msgstr "د ساتلو غوراوي"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:148
+#: kdeui/shortcuts/kstandardshortcut.cpp:170
 msgctxt "@action"
-msgid "KeyBindings"
+msgid "Key Bindings"
 msgstr ""
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:149
+#: kdeui/shortcuts/kstandardshortcut.cpp:171
 msgctxt "@action"
 msgid "Preferences"
 msgstr "غوراوي"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:150
+#: kdeui/shortcuts/kstandardshortcut.cpp:172
+#, fuzzy
+#| msgid "Configure Toolbars"
 msgctxt "@action"
-msgid "ConfigureToolbars"
+msgid "Configure Toolbars"
 msgstr "توکپټې سازول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:151
+#: kdeui/shortcuts/kstandardshortcut.cpp:173
+#, fuzzy
+#| msgid "Configure Notifications"
 msgctxt "@action"
-msgid "ConfigureNotifications"
+msgid "Configure Notifications"
 msgstr "يادښتونه سازول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:152
+#: kdeui/shortcuts/kstandardshortcut.cpp:174
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "TipofDay"
 msgctxt "@action"
-msgid "TipofDay"
+msgid "Tip Of Day"
 msgstr "د ورځې نکته"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:153
+#: kdeui/shortcuts/kstandardshortcut.cpp:175
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "ReportBug"
 msgctxt "@action"
-msgid "ReportBug"
+msgid "Report Bug"
 msgstr "کړاو راپورول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:154
+#: kdeui/shortcuts/kstandardshortcut.cpp:176
+#, fuzzy
+#| msgid "Switch Application Language"
 msgctxt "@action"
-msgid "SwitchApplicationLanguage"
+msgid "Switch Application Language"
 msgstr "د کاريال ژبه ونجول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:155
+#: kdeui/shortcuts/kstandardshortcut.cpp:177
+#, fuzzy
+#| msgid "Quit application"
 msgctxt "@action"
-msgid "AboutApp"
-msgstr "په اړه"
+msgid "About Application"
+msgstr "کاريال بندول"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:156
+#: kdeui/shortcuts/kstandardshortcut.cpp:178
+#, fuzzy
+#| msgid "About KDE"
 msgctxt "@action"
-msgid "AboutKDE"
+msgid "About KDE"
 msgstr "د کډي په اړه"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:157
@@ -9056,19 +9107,19 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "هېڅ"
 
-#: kdeui/widgets/keditlistbox.cpp:323
+#: kdeui/widgets/keditlistbox.cpp:328
 msgid "&Add"
 msgstr "زياتول&"
 
-#: kdeui/widgets/keditlistbox.cpp:335
+#: kdeui/widgets/keditlistbox.cpp:340
 msgid "&Remove"
 msgstr "ړنګول&"
 
-#: kdeui/widgets/keditlistbox.cpp:347
+#: kdeui/widgets/keditlistbox.cpp:352
 msgid "Move &Up"
 msgstr "بره &خوځول"
 
-#: kdeui/widgets/keditlistbox.cpp:352
+#: kdeui/widgets/keditlistbox.cpp:357
 msgid "Move &Down"
 msgstr "ښکته &خوځول"
 
@@ -9101,20 +9152,20 @@ msgstr "لاسکتاب& %1"
 msgid "What's &This"
 msgstr "دا &څه دي"
 
-#: kdeui/widgets/khelpmenu.cpp:172 kdeui/actions/kstandardaction_p.h:114
+#: kdeui/widgets/khelpmenu.cpp:173 kdeui/actions/kstandardaction_p.h:114
 msgid "&Report Bug..."
 msgstr "کړاو راپورول&"
 
-#: kdeui/widgets/khelpmenu.cpp:182 kdeui/actions/kstandardaction_p.h:115
+#: kdeui/widgets/khelpmenu.cpp:183 kdeui/actions/kstandardaction_p.h:115
 msgid "Switch Application &Language..."
 msgstr "...د کاريال &ژبه ونجول"
 
-#: kdeui/widgets/khelpmenu.cpp:193 kdeui/actions/kstandardaction_p.h:116
+#: kdeui/widgets/khelpmenu.cpp:194 kdeui/actions/kstandardaction_p.h:116
 #, kde-format
 msgid "&About %1"
 msgstr "په اړه %1 د&"
 
-#: kdeui/widgets/khelpmenu.cpp:198 kdeui/actions/kstandardaction_p.h:117
+#: kdeui/widgets/khelpmenu.cpp:199 kdeui/actions/kstandardaction_p.h:117
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
 
@@ -12010,6 +12061,54 @@ msgstr "د &ورځې نکته"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
+
+#~ msgctxt "@action"
+#~ msgid "OpenRecent"
+#~ msgstr "اوسنی پرانيستل"
+
+#~ msgctxt "@action"
+#~ msgid "SaveAs"
+#~ msgstr "ساتل په"
+
+#~ msgctxt "@action"
+#~ msgid "PrintPreview"
+#~ msgstr "چاپ مخليد"
+
+#~ msgctxt "@action"
+#~ msgid "ActualSize"
+#~ msgstr "ار کچ"
+
+#~ msgctxt "@action"
+#~ msgid "EditBookmarks"
+#~ msgstr "ليکنښې سمول"
+
+#~ msgctxt "@action"
+#~ msgid "ShowToolbar"
+#~ msgstr "توکپټه ښودل"
+
+#~ msgctxt "@action"
+#~ msgid "ShowStatusbar"
+#~ msgstr "انکړپټه ښودل"
+
+#~ msgctxt "@action"
+#~ msgid "ConfigureToolbars"
+#~ msgstr "توکپټې سازول"
+
+#~ msgctxt "@action"
+#~ msgid "ConfigureNotifications"
+#~ msgstr "يادښتونه سازول"
+
+#~ msgctxt "@action"
+#~ msgid "SwitchApplicationLanguage"
+#~ msgstr "د کاريال ژبه ونجول"
+
+#~ msgctxt "@action"
+#~ msgid "AboutApp"
+#~ msgstr "په اړه"
+
+#~ msgctxt "@action"
+#~ msgid "AboutKDE"
+#~ msgstr "د کډي په اړه"
 
 #~ msgid "Search"
 #~ msgstr "پلټون"
