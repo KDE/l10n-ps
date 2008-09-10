@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-08 09:39+0200\n"
+"POT-Creation-Date: 2008-09-10 10:15+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6033,8 +6033,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2879
-#: khtml/khtmlview.cpp:2912 khtml/html/html_formimpl.cpp:2186
+#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2882
+#: khtml/khtmlview.cpp:2915 khtml/html/html_formimpl.cpp:2186
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -7874,107 +7874,107 @@ msgstr "يوه ټولۍ وټاکﺉ"
 msgid "Select a block to be displayed"
 msgstr "د ښودلو لپاره يو غونډ وټاکﺉ"
 
-#: kdeui/widgets/kcharselect.cpp:589 kdeui/widgets/kcharselect.cpp:591
+#: kdeui/widgets/kcharselect.cpp:590 kdeui/widgets/kcharselect.cpp:592
 msgid "Character:"
 msgstr ":لوښه"
 
-#: kdeui/widgets/kcharselect.cpp:591 kdeui/widgets/kcharselect.cpp:836
+#: kdeui/widgets/kcharselect.cpp:592 kdeui/widgets/kcharselect.cpp:837
 msgid "Non-printable"
 msgstr "نه-چاپېدونکي"
 
-#: kdeui/widgets/kcharselect.cpp:595
+#: kdeui/widgets/kcharselect.cpp:596
 msgid "Name: "
 msgstr ":نوم"
 
-#: kdeui/widgets/kcharselect.cpp:603
+#: kdeui/widgets/kcharselect.cpp:604
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:607
+#: kdeui/widgets/kcharselect.cpp:608
 msgid "Alias names:"
 msgstr ":پورنوم نومونه"
 
-#: kdeui/widgets/kcharselect.cpp:615
+#: kdeui/widgets/kcharselect.cpp:616
 msgid "Notes:"
 msgstr ":يادښتونه"
 
-#: kdeui/widgets/kcharselect.cpp:623
+#: kdeui/widgets/kcharselect.cpp:624
 msgid "See also:"
 msgstr ":دا هم وګورﺉ"
 
-#: kdeui/widgets/kcharselect.cpp:635
+#: kdeui/widgets/kcharselect.cpp:636
 msgid "Equivalents:"
 msgstr ":ورته"
 
-#: kdeui/widgets/kcharselect.cpp:643
+#: kdeui/widgets/kcharselect.cpp:644
 msgid "Approximate equivalents:"
 msgstr ":نږدې ورته"
 
-#: kdeui/widgets/kcharselect.cpp:652
+#: kdeui/widgets/kcharselect.cpp:653
 msgid "CJK Ideograph Information"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:655
+#: kdeui/widgets/kcharselect.cpp:656
 msgid "Definition in English: "
 msgstr ":پېژنداوی په انګريزي"
 
-#: kdeui/widgets/kcharselect.cpp:660
+#: kdeui/widgets/kcharselect.cpp:661
 msgid "Mandarin Pronunciation: "
 msgstr ":مېنډېرين لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:665
+#: kdeui/widgets/kcharselect.cpp:666
 msgid "Cantonese Pronunciation: "
 msgstr ":کېنټوني لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:670
+#: kdeui/widgets/kcharselect.cpp:671
 msgid "Japanese On Pronunciation: "
 msgstr ":چاپانۍ ان لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:675
+#: kdeui/widgets/kcharselect.cpp:676
 msgid "Japanese Kun Pronunciation: "
 msgstr ":چاپانۍ کون لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:680
+#: kdeui/widgets/kcharselect.cpp:681
 msgid "Tang Pronunciation: "
 msgstr ":ټېنګ لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:685
+#: kdeui/widgets/kcharselect.cpp:686
 msgid "Korean Pronunciation: "
 msgstr ":کوريايي لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:691
+#: kdeui/widgets/kcharselect.cpp:692
 msgid "General Character Properties"
 msgstr "ټولګړې لوښه ځانتياوې"
 
-#: kdeui/widgets/kcharselect.cpp:692
+#: kdeui/widgets/kcharselect.cpp:693
 msgid "Block: "
 msgstr ":غونډ"
 
-#: kdeui/widgets/kcharselect.cpp:693
+#: kdeui/widgets/kcharselect.cpp:694
 msgid "Unicode category: "
 msgstr ":يونيکوډ ټولۍ"
 
-#: kdeui/widgets/kcharselect.cpp:697
+#: kdeui/widgets/kcharselect.cpp:698
 msgid "Various Useful Representations"
 msgstr "ډېرې کارېدونکې وړانديزونې"
 
-#: kdeui/widgets/kcharselect.cpp:698
+#: kdeui/widgets/kcharselect.cpp:699
 msgid "UTF-8:"
 msgstr ":UTF-۸"
 
-#: kdeui/widgets/kcharselect.cpp:701
+#: kdeui/widgets/kcharselect.cpp:702
 msgid "UTF-16: "
 msgstr ":UTF-۱۶ "
 
-#: kdeui/widgets/kcharselect.cpp:702
+#: kdeui/widgets/kcharselect.cpp:703
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:705
+#: kdeui/widgets/kcharselect.cpp:706
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:837
+#: kdeui/widgets/kcharselect.cpp:838
 #, kde-format
 msgctxt "Character"
 msgid ""
@@ -9975,7 +9975,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4941 khtml/khtmlview.cpp:2865 khtml/khtmlview.cpp:2907
+#: khtml/khtml_part.cpp:4941 khtml/khtmlview.cpp:2868 khtml/khtmlview.cpp:2910
 #: khtml/html/html_formimpl.cpp:1586 khtml/html/html_formimpl.cpp:2194
 msgid "Submit"
 msgstr "لېږل"
@@ -10085,39 +10085,39 @@ msgstr "پرېښودلو ته زياتول"
 msgid "Remove from ignores..."
 msgstr "له پرېښودلو نه ړنګول"
 
-#: khtml/khtmlview.cpp:1837
+#: khtml/khtmlview.cpp:1840
 msgid "Find stopped."
 msgstr ".پلټون وتمول شو"
 
-#: khtml/khtmlview.cpp:1848
+#: khtml/khtmlview.cpp:1851
 msgid "Starting -- find links as you type"
 msgstr "پېليږي -- د ليکنې سره سم تړنې لټول"
 
-#: khtml/khtmlview.cpp:1854
+#: khtml/khtmlview.cpp:1857
 msgid "Starting -- find text as you type"
 msgstr "پېليږي -- د ليکنې سره سم ليکنه لټول"
 
-#: khtml/khtmlview.cpp:1877
+#: khtml/khtmlview.cpp:1880
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr ".\"%1\" :تړنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1882
+#: khtml/khtmlview.cpp:1885
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr ".\"%1\" :تړنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1890
+#: khtml/khtmlview.cpp:1893
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr ".\"%1\" :ليکنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1895
+#: khtml/khtmlview.cpp:1898
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr ".\"%1\" :ليکنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1943
+#: khtml/khtmlview.cpp:1946
 msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
@@ -10142,7 +10142,7 @@ msgstr ""
 msgid "XML parsing error"
 msgstr "تجزيه کولو تېروتنه XML"
 
-#: khtml/xml/dom_docimpl.cpp:2224
+#: khtml/xml/dom_docimpl.cpp:2225
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
 
@@ -10236,11 +10236,11 @@ msgstr "جاواسکرېپټ"
 msgid "&Abort"
 msgstr "بندول&"
 
-#: khtml/ecma/kjs_window.cpp:1574 khtml/ecma/kjs_html.cpp:2121
+#: khtml/ecma/kjs_window.cpp:1581 khtml/ecma/kjs_html.cpp:2121
 msgid "Confirmation: JavaScript Popup"
 msgstr "باوريينه: د جاواسکرېپټ بړبوکيزه"
 
-#: khtml/ecma/kjs_window.cpp:1577
+#: khtml/ecma/kjs_window.cpp:1584
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -10248,7 +10248,7 @@ msgstr ""
 "دا پاڼه غواړﺉ چې پر جاواسکرېپټ يوه نوې لټووني کړکۍ پرانيزي.\n"
 "تاسو د دې پرېښلې ورکول غواړﺉ؟"
 
-#: khtml/ecma/kjs_window.cpp:1580
+#: khtml/ecma/kjs_window.cpp:1587
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -10257,45 +10257,45 @@ msgstr ""
 "<qt>پر جاواسکرېپټ په يوه نوې کړکۍ کې پرانيزي. <p>%1</p> دا پاڼه غواړي چې<br /"
 ">تاسو د دې پرېښلې ورکول غواړﺉ؟</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1582 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2128
 msgid "Allow"
 msgstr "پرېښل"
 
-#: khtml/ecma/kjs_window.cpp:1582 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2128
 msgid "Do Not Allow"
 msgstr "نه پرېښل"
 
-#: khtml/ecma/kjs_window.cpp:1882
+#: khtml/ecma/kjs_window.cpp:1889
 msgid "Close window?"
 msgstr "کړکۍ بندول غواړﺉ؟"
 
-#: khtml/ecma/kjs_window.cpp:1882
+#: khtml/ecma/kjs_window.cpp:1889
 msgid "Confirmation Required"
 msgstr "باوريينه اړينه ده"
 
-#: khtml/ecma/kjs_window.cpp:2740
+#: khtml/ecma/kjs_window.cpp:2747
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2743
+#: khtml/ecma/kjs_window.cpp:2750
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2751
+#: khtml/ecma/kjs_window.cpp:2758
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "جاواسکرېپټ د ليکنښې ورننويستلو هڅه وکړه"
 
-#: khtml/ecma/kjs_window.cpp:2755
+#: khtml/ecma/kjs_window.cpp:2762
 msgid "Insert"
 msgstr "ورننويستل"
 
-#: khtml/ecma/kjs_window.cpp:2755
+#: khtml/ecma/kjs_window.cpp:2762
 msgid "Disallow"
 msgstr "نه منل"
 
