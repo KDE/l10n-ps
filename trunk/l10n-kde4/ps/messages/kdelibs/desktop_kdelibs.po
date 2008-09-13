@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-11 07:51+0000\n"
+"POT-Creation-Date: 2008-09-13 08:29+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1333,16 +1333,6 @@ msgstr ""
 #: kio/misc/kssld/kssld.desktop:85
 msgctxt "Comment"
 msgid "KSSL daemon module for KDED"
-msgstr ""
-
-#: kio/misc/kwalletd/kwalletd.desktop:8
-msgctxt "Name"
-msgid "KWallet Daemon Module"
-msgstr ""
-
-#: kio/misc/kwalletd/kwalletd.desktop:83
-msgctxt "Comment"
-msgid "KWallet daemon module for KDED"
 msgstr ""
 
 #: kio/misc/mms.protocol:11
