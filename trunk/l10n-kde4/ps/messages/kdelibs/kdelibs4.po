@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-19 09:27+0200\n"
+"POT-Creation-Date: 2008-09-21 09:46+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6168,7 +6168,7 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "انځورن بدلول"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:114
+#: kdeui/dialogs/kshortcutseditor.cpp:113
 #: kdeui/dialogs/kshortcutseditor.cpp:581
 msgid "Shortcuts"
 msgstr "لنډلاري"
@@ -7805,6 +7805,18 @@ msgstr "تلواله"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
+
+#: kdeui/actions/kaction.cpp:79
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguouity.\n"
+"No action will be triggered."
+msgstr ""
+
+#: kdeui/actions/kaction.cpp:83
+msgid "Ambiguous shortcut detected"
+msgstr ""
 
 #: kdeui/actions/kstandardaction.cpp:104
 msgctxt "home page"
@@ -11807,6 +11819,30 @@ msgstr "KUnitTest ModRunner"
 #: kde3support/kunittest/modrunner.cpp:51
 msgid "(C) 2005 Jeroen Wijnhout"
 msgstr "چاپرښتې ۲۰۰۵، جېراېن وېجنهاټ"
+
+#: kformula/FormulaCommand.cpp:32
+#, fuzzy
+#| msgid "Add Comment"
+msgid "Add Elements"
+msgstr "څرګندون زياتول"
+
+#: kformula/FormulaCommand.cpp:61
+#, fuzzy
+#| msgctxt "KCharselect unicode block name"
+#| msgid "Block Elements"
+msgid "Remove Elements"
+msgstr "غونډ توکونه"
+
+#: kformula/FormulaCommand.cpp:91
+#, fuzzy
+#| msgctxt "KCharselect unicode block name"
+#| msgid "Block Elements"
+msgid "Replace Element"
+msgstr "غونډ توکونه"
+
+#: kformula/FormulaCommand.cpp:139
+msgid "Attribute Changed"
+msgstr ""
 
 #: kdeui/colors/kcolordialog.cpp:97
 msgctxt "palette name"
