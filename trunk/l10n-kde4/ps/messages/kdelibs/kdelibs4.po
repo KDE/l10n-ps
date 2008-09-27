@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-26 09:45+0200\n"
+"POT-Creation-Date: 2008-09-27 10:30+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -7972,107 +7972,107 @@ msgstr "يوه ټولۍ وټاکﺉ"
 msgid "Select a block to be displayed"
 msgstr "د ښودلو لپاره يو غونډ وټاکﺉ"
 
-#: kdeui/widgets/kcharselect.cpp:625 kdeui/widgets/kcharselect.cpp:627
+#: kdeui/widgets/kcharselect.cpp:626 kdeui/widgets/kcharselect.cpp:628
 msgid "Character:"
 msgstr ":لوښه"
 
-#: kdeui/widgets/kcharselect.cpp:627 kdeui/widgets/kcharselect.cpp:872
+#: kdeui/widgets/kcharselect.cpp:628 kdeui/widgets/kcharselect.cpp:874
 msgid "Non-printable"
 msgstr "نه-چاپېدونکي"
 
-#: kdeui/widgets/kcharselect.cpp:631
+#: kdeui/widgets/kcharselect.cpp:632
 msgid "Name: "
 msgstr ":نوم"
 
-#: kdeui/widgets/kcharselect.cpp:639
+#: kdeui/widgets/kcharselect.cpp:640
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:643
+#: kdeui/widgets/kcharselect.cpp:644
 msgid "Alias names:"
 msgstr ":پورنوم نومونه"
 
-#: kdeui/widgets/kcharselect.cpp:651
+#: kdeui/widgets/kcharselect.cpp:652
 msgid "Notes:"
 msgstr ":يادښتونه"
 
-#: kdeui/widgets/kcharselect.cpp:659
+#: kdeui/widgets/kcharselect.cpp:660
 msgid "See also:"
 msgstr ":دا هم وګورﺉ"
 
-#: kdeui/widgets/kcharselect.cpp:671
+#: kdeui/widgets/kcharselect.cpp:672
 msgid "Equivalents:"
 msgstr ":ورته"
 
-#: kdeui/widgets/kcharselect.cpp:679
+#: kdeui/widgets/kcharselect.cpp:680
 msgid "Approximate equivalents:"
 msgstr ":نږدې ورته"
 
-#: kdeui/widgets/kcharselect.cpp:688
+#: kdeui/widgets/kcharselect.cpp:689
 msgid "CJK Ideograph Information"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:691
+#: kdeui/widgets/kcharselect.cpp:692
 msgid "Definition in English: "
 msgstr ":پېژنداوی په انګريزي"
 
-#: kdeui/widgets/kcharselect.cpp:696
+#: kdeui/widgets/kcharselect.cpp:697
 msgid "Mandarin Pronunciation: "
 msgstr ":مېنډېرين لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:701
+#: kdeui/widgets/kcharselect.cpp:702
 msgid "Cantonese Pronunciation: "
 msgstr ":کېنټوني لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:706
+#: kdeui/widgets/kcharselect.cpp:707
 msgid "Japanese On Pronunciation: "
 msgstr ":چاپانۍ ان لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:711
+#: kdeui/widgets/kcharselect.cpp:712
 msgid "Japanese Kun Pronunciation: "
 msgstr ":چاپانۍ کون لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:716
+#: kdeui/widgets/kcharselect.cpp:717
 msgid "Tang Pronunciation: "
 msgstr ":ټېنګ لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:721
+#: kdeui/widgets/kcharselect.cpp:722
 msgid "Korean Pronunciation: "
 msgstr ":کوريايي لوستنه"
 
-#: kdeui/widgets/kcharselect.cpp:727
+#: kdeui/widgets/kcharselect.cpp:728
 msgid "General Character Properties"
 msgstr "ټولګړې لوښه ځانتياوې"
 
-#: kdeui/widgets/kcharselect.cpp:728
+#: kdeui/widgets/kcharselect.cpp:729
 msgid "Block: "
 msgstr ":غونډ"
 
-#: kdeui/widgets/kcharselect.cpp:729
+#: kdeui/widgets/kcharselect.cpp:730
 msgid "Unicode category: "
 msgstr ":يونيکوډ ټولۍ"
 
-#: kdeui/widgets/kcharselect.cpp:733
+#: kdeui/widgets/kcharselect.cpp:734
 msgid "Various Useful Representations"
 msgstr "ډېرې کارېدونکې وړانديزونې"
 
-#: kdeui/widgets/kcharselect.cpp:734
+#: kdeui/widgets/kcharselect.cpp:735
 msgid "UTF-8:"
 msgstr ":UTF-۸"
 
-#: kdeui/widgets/kcharselect.cpp:737
+#: kdeui/widgets/kcharselect.cpp:738
 msgid "UTF-16: "
 msgstr ":UTF-۱۶ "
 
-#: kdeui/widgets/kcharselect.cpp:738
+#: kdeui/widgets/kcharselect.cpp:739
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:741
+#: kdeui/widgets/kcharselect.cpp:742
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:873
+#: kdeui/widgets/kcharselect.cpp:875
 #, kde-format
 msgctxt "Character"
 msgid ""
