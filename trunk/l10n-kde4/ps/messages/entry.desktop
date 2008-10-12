@@ -1,6 +1,7 @@
 [KCM Locale]
 Name=Pashto
 Name[be@latin]=Puštu
+Name[ca]=Paixtu
 Name[el]=Πάστο
 Name[es]=Pastún
 Name[et]=Puštu
@@ -13,6 +14,7 @@ Name[nds]=Paschtuunsch
 Name[pa]=ਪੁਸ਼ਤੋ
 Name[ps]=پښتو
 Name[pt_BR]=Pachto
+Name[tg]=Пушту
 Name[tr]=Pashto Dili
 Name[uk]=Пушту
 Name[x-test]=xxPashtoxx
