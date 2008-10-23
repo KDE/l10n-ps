@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-22 10:36+0200\n"
+"POT-Creation-Date: 2008-10-23 09:36+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6129,8 +6129,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2971
-#: khtml/khtmlview.cpp:3004 khtml/html/html_formimpl.cpp:2165
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2972
+#: khtml/khtmlview.cpp:3005 khtml/html/html_formimpl.cpp:2165
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -10122,7 +10122,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4951 khtml/khtmlview.cpp:2957 khtml/khtmlview.cpp:2999
+#: khtml/khtml_part.cpp:4951 khtml/khtmlview.cpp:2958 khtml/khtmlview.cpp:3000
 #: khtml/html/html_formimpl.cpp:1579 khtml/html/html_formimpl.cpp:2173
 msgid "Submit"
 msgstr "لېږل"
@@ -10232,39 +10232,39 @@ msgstr "پرېښودلو ته زياتول"
 msgid "Remove from ignores..."
 msgstr "له پرېښودلو نه ړنګول"
 
-#: khtml/khtmlview.cpp:1922
+#: khtml/khtmlview.cpp:1923
 msgid "Find stopped."
 msgstr ".پلټون وتمول شو"
 
-#: khtml/khtmlview.cpp:1933
+#: khtml/khtmlview.cpp:1934
 msgid "Starting -- find links as you type"
 msgstr "پېليږي -- د ليکنې سره سم تړنې لټول"
 
-#: khtml/khtmlview.cpp:1939
+#: khtml/khtmlview.cpp:1940
 msgid "Starting -- find text as you type"
 msgstr "پېليږي -- د ليکنې سره سم ليکنه لټول"
 
-#: khtml/khtmlview.cpp:1962
+#: khtml/khtmlview.cpp:1963
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr ".\"%1\" :تړنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1967
+#: khtml/khtmlview.cpp:1968
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr ".\"%1\" :تړنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1975
+#: khtml/khtmlview.cpp:1976
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr ".\"%1\" :ليکنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1980
+#: khtml/khtmlview.cpp:1981
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr ".\"%1\" :ليکنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:2028
+#: khtml/khtmlview.cpp:2029
 msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
