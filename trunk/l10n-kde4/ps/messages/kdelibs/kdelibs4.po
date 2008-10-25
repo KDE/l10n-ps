@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-24 09:40+0200\n"
+"POT-Creation-Date: 2008-10-25 10:14+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -3484,7 +3484,7 @@ msgstr "کډي کاريال"
 msgid "Qt"
 msgstr "ک.ټ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:5004
+#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:5005
 msgid "KDE"
 msgstr "کډي"
 
@@ -6129,66 +6129,66 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2972
-#: khtml/khtmlview.cpp:3005 khtml/html/html_formimpl.cpp:2165
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2973
+#: khtml/khtmlview.cpp:3006 khtml/html/html_formimpl.cpp:2165
 msgid "Reset"
 msgstr "بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:852
+#: kdeui/dialogs/kedittoolbar.cpp:824
 msgid "&Toolbar:"
 msgstr ":توکپټه&"
 
-#: kdeui/dialogs/kedittoolbar.cpp:867
+#: kdeui/dialogs/kedittoolbar.cpp:839
 msgid "A&vailable actions:"
 msgstr ":ش&ته چارونه"
 
-#: kdeui/dialogs/kedittoolbar.cpp:882
+#: kdeui/dialogs/kedittoolbar.cpp:854
 msgid "Curr&ent actions:"
 msgstr ":اوس&ني چارونه"
 
-#: kdeui/dialogs/kedittoolbar.cpp:898
+#: kdeui/dialogs/kedittoolbar.cpp:870
 msgid "Change &Icon..."
 msgstr "...انځورن بدلول&"
 
 #. i18n filtering message for action names
-#: kdeui/dialogs/kedittoolbar.cpp:1054
+#: kdeui/dialogs/kedittoolbar.cpp:1026
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1075
+#: kdeui/dialogs/kedittoolbar.cpp:1047
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1077
+#: kdeui/dialogs/kedittoolbar.cpp:1049
 msgid "<Merge>"
 msgstr "<سره ننويستل>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1079
+#: kdeui/dialogs/kedittoolbar.cpp:1051
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<سره ننويستل %1>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1085
+#: kdeui/dialogs/kedittoolbar.cpp:1057
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "will not be able to re-add it."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1086
+#: kdeui/dialogs/kedittoolbar.cpp:1058
 #, kde-format
 msgid "ActionList: %1"
 msgstr "%1 چارلړ:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1186 kdeui/dialogs/kedittoolbar.cpp:1213
+#: kdeui/dialogs/kedittoolbar.cpp:1158 kdeui/dialogs/kedittoolbar.cpp:1185
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1451
+#: kdeui/dialogs/kedittoolbar.cpp:1423
 msgid "Change Icon"
 msgstr "انځورن بدلول"
 
@@ -9470,8 +9470,8 @@ msgstr "Testkhtml"
 msgid "a basic web browser using the KHTML library"
 msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
 
-#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:4015 khtml/khtml_part.cpp:4225
-#: khtml/khtml_part.cpp:4599 kparts/browserrun.cpp:444
+#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:4016 khtml/khtml_part.cpp:4226
+#: khtml/khtml_part.cpp:4600 kparts/browserrun.cpp:444
 msgid "Save As"
 msgstr "ساتل په"
 
@@ -9814,7 +9814,7 @@ msgstr "د لاسوند خبرتياوې کتل"
 msgid "Save &Background Image As..."
 msgstr "...شاليد &انځور ساتل لکه"
 
-#: khtml/khtml_part.cpp:299 khtml/khtml_part.cpp:4307
+#: khtml/khtml_part.cpp:299 khtml/khtml_part.cpp:4308
 msgid "SSL"
 msgstr "SSL"
 
@@ -9997,91 +9997,91 @@ msgstr[1] ".نه لېښل شوی %2 انځورونه د %1"
 msgid "Automatic Detection"
 msgstr "خپلکارې اوچتونه"
 
-#: khtml/khtml_part.cpp:3823 khtml/khtml_part.cpp:3910
-#: khtml/khtml_part.cpp:3921
+#: khtml/khtml_part.cpp:3824 khtml/khtml_part.cpp:3911
+#: khtml/khtml_part.cpp:3922
 msgid " (In new window)"
 msgstr " (په نوې کړکۍ کې)"
 
-#: khtml/khtml_part.cpp:3862
+#: khtml/khtml_part.cpp:3863
 msgid "Symbolic Link"
 msgstr "پېلامي تړنه"
 
-#: khtml/khtml_part.cpp:3864
+#: khtml/khtml_part.cpp:3865
 #, kde-format
 msgid "%1 (Link)"
 msgstr "(تړنه) %1"
 
-#: khtml/khtml_part.cpp:3884
+#: khtml/khtml_part.cpp:3885
 #, kde-format
 msgid "%2 (%1 bytes)"
 msgstr "(%1 باېټه) %2"
 
-#: khtml/khtml_part.cpp:3888
+#: khtml/khtml_part.cpp:3889
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 ک)"
 
-#: khtml/khtml_part.cpp:3923
+#: khtml/khtml_part.cpp:3924
 msgid " (In other frame)"
 msgstr " (په بل چوکاټ کې)"
 
-#: khtml/khtml_part.cpp:3928
+#: khtml/khtml_part.cpp:3929
 msgid "Email to: "
 msgstr ":ته لېکل"
 
-#: khtml/khtml_part.cpp:3934
+#: khtml/khtml_part.cpp:3935
 msgid " - Subject: "
 msgstr ":سرليک - "
 
-#: khtml/khtml_part.cpp:3936
+#: khtml/khtml_part.cpp:3937
 msgid " - CC: "
 msgstr "  :څ.ل - "
 
-#: khtml/khtml_part.cpp:3938
+#: khtml/khtml_part.cpp:3939
 msgid " - BCC: "
 msgstr "  :پ.ل - "
 
-#: khtml/khtml_part.cpp:4020
+#: khtml/khtml_part.cpp:4021
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
 "the link?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4021
+#: khtml/khtml_part.cpp:4022
 msgid "Follow"
 msgstr "ورتلل"
 
-#: khtml/khtml_part.cpp:4122
+#: khtml/khtml_part.cpp:4123
 msgid "Frame Information"
 msgstr "د چوکاټ خبرتياوې"
 
-#: khtml/khtml_part.cpp:4128
+#: khtml/khtml_part.cpp:4129
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[ځانتياوې]</a>"
 
-#: khtml/khtml_part.cpp:4213
+#: khtml/khtml_part.cpp:4214
 msgid "Save Background Image As"
 msgstr "شاليد انځور ساتل لکه"
 
-#: khtml/khtml_part.cpp:4305
+#: khtml/khtml_part.cpp:4306
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4324
+#: khtml/khtml_part.cpp:4325
 msgid "Save Frame As"
 msgstr "چوکاټ ساتل لکه"
 
-#: khtml/khtml_part.cpp:4368
+#: khtml/khtml_part.cpp:4369
 msgid "&Find in Frame..."
 msgstr "...په چوکاټ کې لټول&"
 
-#: khtml/khtml_part.cpp:4370 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4371 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "...لټول&"
 
-#: khtml/khtml_part.cpp:4892
+#: khtml/khtml_part.cpp:4893
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10089,45 +10089,45 @@ msgid ""
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4895 khtml/khtml_part.cpp:4904
-#: khtml/khtml_part.cpp:4928
+#: khtml/khtml_part.cpp:4896 khtml/khtml_part.cpp:4905
+#: khtml/khtml_part.cpp:4929
 msgid "Network Transmission"
 msgstr "ځال لېږدون"
 
-#: khtml/khtml_part.cpp:4895 khtml/khtml_part.cpp:4905
+#: khtml/khtml_part.cpp:4896 khtml/khtml_part.cpp:4906
 msgid "&Send Unencrypted"
 msgstr "کوډه ناکښلې لېږل&"
 
-#: khtml/khtml_part.cpp:4902
+#: khtml/khtml_part.cpp:4903
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4926
+#: khtml/khtml_part.cpp:4927
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4929
+#: khtml/khtml_part.cpp:4930
 msgid "&Send Email"
 msgstr "برېښليک لېږل&"
 
-#: khtml/khtml_part.cpp:4950
+#: khtml/khtml_part.cpp:4951
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4951 khtml/khtmlview.cpp:2958 khtml/khtmlview.cpp:3000
+#: khtml/khtml_part.cpp:4952 khtml/khtmlview.cpp:2959 khtml/khtmlview.cpp:3001
 #: khtml/html/html_formimpl.cpp:1579 khtml/html/html_formimpl.cpp:2173
 msgid "Submit"
 msgstr "لېږل"
 
-#: khtml/khtml_part.cpp:5004
+#: khtml/khtml_part.cpp:5005
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
