@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-17 09:39+0100\n"
+"POT-Creation-Date: 2008-11-18 09:53+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -738,7 +738,7 @@ msgstr "توکي&"
 
 #. i18n: file: kdeui/xmlgui/ui_standards.rc:146
 #. i18n: ectx: Menu (settings)
-#: rc.cpp:327
+#: rc.cpp:327 khtml/ecma/debugger/debugwindow.cpp:240
 msgid "&Settings"
 msgstr "امستنې&"
 
@@ -1623,7 +1623,7 @@ msgstr "...ماتټکي ته ځغلول"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:219
 #. i18n: ectx: property (text), widget (QStatusBar, statusBar)
-#: rc.cpp:791 khtml/ecma/kjs_debugwin.cpp:480
+#: rc.cpp:791
 msgid "Step"
 msgstr "پړاو"
 
@@ -1639,8 +1639,7 @@ msgstr "...راتلونکې ليکې ته تلل"
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:797 rc.cpp:945 kdeui/jobs/kstatusbarjobtracker.cpp:156
 #: kdeui/util/kstandardguiitem.cpp:265 kdeui/util/kkeyserver_x11.cpp:109
-#: kdeui/findreplace/kreplace.cpp:353 khtml/ecma/kjs_debugwin.cpp:482
-#: kross/ui/view.cpp:309
+#: kdeui/findreplace/kreplace.cpp:353 kross/ui/view.cpp:309
 msgid "Stop"
 msgstr "تمول"
 
@@ -5274,6 +5273,7 @@ msgid "No provider selected."
 msgstr ".کوم برابروونی نه دی ټاکل شوی"
 
 #: knewstuff/knewstuff2/core/providerhandler.cpp:156
+#: knewstuff/knewstuff2/core/providerhandler.cpp:176
 msgctxt "describes the feed of the latest posted entries"
 msgid "Latest"
 msgstr "نوی"
@@ -5285,10 +5285,6 @@ msgstr "لوړ کچول شوی"
 #: knewstuff/knewstuff2/core/providerhandler.cpp:168
 msgid "Most Downloads"
 msgstr "ډېرې رالېښنې"
-
-#: knewstuff/knewstuff2/core/providerhandler.cpp:174
-msgid "Unsorted"
-msgstr "نا اڼلي"
 
 #: knewstuff/knewstuff2/core/security.cpp:76
 msgid ""
@@ -5891,7 +5887,7 @@ msgstr "لنډلاري"
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:61
 #, fuzzy
 #| msgid "Curr&ent actions:"
-msgid "Current Scheme:"
+msgid "Current scheme:"
 msgstr ":اوس&ني چارونه"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:71
@@ -5911,8 +5907,10 @@ msgid "More Actions"
 msgstr "چار"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:81
-msgid "Save As Scheme Defaults"
-msgstr ""
+#, fuzzy
+#| msgid "&Defaults"
+msgid "Save as Scheme Defaults"
+msgstr "تلوالې&"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:83
 msgid "Export Scheme..."
@@ -5923,8 +5921,10 @@ msgid "Name for New Scheme"
 msgstr ""
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:101
-msgid "Name for New Scheme:"
-msgstr ""
+#, fuzzy
+#| msgid "Curr&ent actions:"
+msgid "Name for new scheme:"
+msgstr ":اوس&ني چارونه"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:101
 #, fuzzy
@@ -5935,7 +5935,7 @@ msgstr ":اوس&ني چارونه"
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:107
 #, fuzzy
 #| msgid "The tag %1 already exists"
-msgid "The scheme with this name already exists"
+msgid "A scheme with this name already exists."
 msgstr "بچوی د مخکې نه شتون لري %1"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:135
@@ -5946,8 +5946,10 @@ msgid ""
 msgstr ""
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:164
-msgid "Export To Location"
-msgstr ""
+#, fuzzy
+#| msgid "Click to Edit Location"
+msgid "Export to Location"
+msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:173
 msgid "Could not export shortcuts scheme because the location is invalid."
@@ -6173,7 +6175,7 @@ msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2971
-#: khtml/khtmlview.cpp:3004 khtml/html/html_formimpl.cpp:2166
+#: khtml/khtmlview.cpp:3004 khtml/html/html_formimpl.cpp:2167
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -8029,21 +8031,21 @@ msgstr "مخکې"
 msgid "Next Character"
 msgstr "راتلونکې لوښه"
 
-#: kdeui/widgets/kcharselect.cpp:370
-msgid "Set font"
-msgstr "ليکبڼه ټاکل"
-
-#: kdeui/widgets/kcharselect.cpp:377
-msgid "Set font size"
-msgstr "د ليکبڼې کچ ټاکل"
-
-#: kdeui/widgets/kcharselect.cpp:384
+#: kdeui/widgets/kcharselect.cpp:367
 msgid "Select a category"
 msgstr "يوه ټولۍ وټاکﺉ"
 
-#: kdeui/widgets/kcharselect.cpp:387
+#: kdeui/widgets/kcharselect.cpp:370
 msgid "Select a block to be displayed"
 msgstr "د ښودلو لپاره يو غونډ وټاکﺉ"
+
+#: kdeui/widgets/kcharselect.cpp:383
+msgid "Set font"
+msgstr "ليکبڼه ټاکل"
+
+#: kdeui/widgets/kcharselect.cpp:390
+msgid "Set font size"
+msgstr "د ليکبڼې کچ ټاکل"
 
 #: kdeui/widgets/kcharselect.cpp:629 kdeui/widgets/kcharselect.cpp:881
 #: kdeui/widgets/kcharselect-translation.cpp:43
@@ -10203,7 +10205,7 @@ msgid ""
 msgstr ""
 
 #: khtml/khtml_part.cpp:4594 khtml/khtmlview.cpp:2957 khtml/khtmlview.cpp:2999
-#: khtml/html/html_formimpl.cpp:1580 khtml/html/html_formimpl.cpp:2174
+#: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:2175
 msgid "Submit"
 msgstr "لېږل"
 
@@ -10291,8 +10293,8 @@ msgstr ".جوړونې پوښۍ وټاکﺉ 'khtml/' لورينه وکړﺉ يو�
 msgid "Available Tests: %1 (ignored: %2)"
 msgstr "(پرېښودل شوې: %2) :%1 شته ازموېنې"
 
-#: khtml/test_regression_gui_window.cpp:563 khtml/ecma/kjs_debugwin.cpp:481
-#: khtml/ecma/debugger/debugwindow.cpp:166
+#: khtml/test_regression_gui_window.cpp:563
+#: khtml/ecma/debugger/debugwindow.cpp:192
 msgid "Continue"
 msgstr "پرمخبيول"
 
@@ -10372,81 +10374,6 @@ msgstr "تجزيه کولو تېروتنه XML"
 #: khtml/xml/dom_docimpl.cpp:2237
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
-
-#: khtml/ecma/kjs_debugwin.cpp:298 khtml/ecma/debugger/errordlg.cpp:35
-msgid "JavaScript Error"
-msgstr "د جاواسکرېپټ تېروتنه"
-
-#: khtml/ecma/kjs_debugwin.cpp:315 khtml/ecma/debugger/errordlg.cpp:50
-msgid "&Do not show this message again"
-msgstr "دا استوزه بيا نه ښودل&"
-
-#: khtml/ecma/kjs_debugwin.cpp:385 khtml/ecma/debugger/debugwindow.cpp:111
-msgid "JavaScript Debugger"
-msgstr "جاواسکرېپټ کړاوتمبوونی"
-
-#: khtml/ecma/kjs_debugwin.cpp:400
-msgid "Call stack"
-msgstr "اړيکنيو کوټه"
-
-#: khtml/ecma/kjs_debugwin.cpp:435
-msgid "JavaScript console"
-msgstr "جاواسکرېپټ څانګه"
-
-#: khtml/ecma/kjs_debugwin.cpp:465
-msgctxt "Next breakpoint"
-msgid "&Next"
-msgstr "راتلوکی&"
-
-#: khtml/ecma/kjs_debugwin.cpp:467
-msgid "&Step"
-msgstr "پرېښودل&"
-
-#: khtml/ecma/kjs_debugwin.cpp:472
-msgid "&Continue"
-msgstr "پرمخبيول&"
-
-#: khtml/ecma/kjs_debugwin.cpp:474
-msgid "St&op"
-msgstr "تم&ول"
-
-#: khtml/ecma/kjs_debugwin.cpp:476 khtml/ecma/debugger/debugwindow.cpp:160
-msgid "&Break at Next Statement"
-msgstr "په راتلونکې څرګندۍ کې ماتول&"
-
-#: khtml/ecma/kjs_debugwin.cpp:479
-msgctxt "Next breakpoint"
-msgid "Next"
-msgstr "راتلونکی"
-
-#: khtml/ecma/kjs_debugwin.cpp:848 khtml/ecma/debugger/debugwindow.cpp:572
-#, kde-format
-msgid "Parse error at %1 line %2"
-msgstr "تېروتنه تجزيه کول %2 ليکې %1 د"
-
-#: khtml/ecma/kjs_debugwin.cpp:859
-#, kde-format
-msgid ""
-"An error occurred while attempting to run a script on this page.\n"
-"\n"
-"%1"
-msgstr ""
-"په دې مخ د يو سکرېپټ د ځغلولو پر مهال کومه ستونزه رامنځته شوه.\n"
-"\n"
-"%1"
-
-#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:609
-#, kde-format
-msgid ""
-"An error occurred while attempting to run a script on this page.\n"
-"\n"
-"%1 line %2:\n"
-"%3"
-msgstr ""
-"په دې مخ د يو سکرېپټ د ځغلولو پر مهال کومه ستونزه رامنځته شوه.\n"
-"\n"
-":%2 ليکه %1\n"
-"%3"
 
 #: khtml/ecma/kjs_binding.cpp:184
 msgid ""
@@ -10541,17 +10468,17 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/debugger/debugdocument.cpp:210
+#: khtml/ecma/debugger/debugdocument.cpp:187
 msgid ""
 "Unable to find the Kate editor component;\n"
 "please check your KDE installation."
 msgstr ""
 
-#: khtml/ecma/debugger/debugdocument.cpp:327
+#: khtml/ecma/debugger/debugdocument.cpp:253
 msgid "Breakpoint"
 msgstr "ماتټکی"
 
-#: khtml/ecma/debugger/scriptsdock.cpp:39
+#: khtml/ecma/debugger/scriptsdock.cpp:40
 msgid "Loaded Scripts"
 msgstr "لېښل شوي سکرېپټونه"
 
@@ -10563,52 +10490,96 @@ msgstr "ځاييز بدلېدوني"
 msgid "Reference"
 msgstr "اخځ"
 
-#: khtml/ecma/debugger/debugwindow.cpp:161
+#: khtml/ecma/debugger/debugwindow.cpp:111
+msgid "JavaScript Debugger"
+msgstr "جاواسکرېپټ کړاوتمبوونی"
+
+#: khtml/ecma/debugger/debugwindow.cpp:186
+msgid "&Break at Next Statement"
+msgstr "په راتلونکې څرګندۍ کې ماتول&"
+
+#: khtml/ecma/debugger/debugwindow.cpp:187
 msgid "Break at Next"
 msgstr "په راتلونکي کې ماتول"
 
-#: khtml/ecma/debugger/debugwindow.cpp:173
+#: khtml/ecma/debugger/debugwindow.cpp:199
 msgid "Step Over"
 msgstr "دپاسه تلل"
 
-#: khtml/ecma/debugger/debugwindow.cpp:180
+#: khtml/ecma/debugger/debugwindow.cpp:206
 msgid "Step Into"
 msgstr "دننه تلل"
 
-#: khtml/ecma/debugger/debugwindow.cpp:187
+#: khtml/ecma/debugger/debugwindow.cpp:213
 msgid "Step Out"
 msgstr "بهر وتل"
 
-#: khtml/ecma/debugger/debugwindow.cpp:196
+#: khtml/ecma/debugger/debugwindow.cpp:219
+msgid "Reindent Sources"
+msgstr ""
+
+#: khtml/ecma/debugger/debugwindow.cpp:224
+#, fuzzy
+#| msgid "Action"
+msgid "Report Exceptions"
+msgstr "چار"
+
+#: khtml/ecma/debugger/debugwindow.cpp:232
 msgid "&Debug"
 msgstr "کړاوتمبونه&"
 
-#: khtml/ecma/debugger/debugwindow.cpp:225
+#: khtml/ecma/debugger/debugwindow.cpp:266
 msgid "Close source"
 msgstr "سرچينه بندول"
 
-#: khtml/ecma/debugger/debugwindow.cpp:231
+#: khtml/ecma/debugger/debugwindow.cpp:272
 msgid "Ready"
 msgstr "چمتو"
 
-#: khtml/ecma/debugger/debugwindow.cpp:789
+#: khtml/ecma/debugger/debugwindow.cpp:615
+#, kde-format
+msgid "Parse error at %1 line %2"
+msgstr "تېروتنه تجزيه کول %2 ليکې %1 د"
+
+#: khtml/ecma/debugger/debugwindow.cpp:650
+#, kde-format
+msgid ""
+"An error occurred while attempting to run a script on this page.\n"
+"\n"
+"%1 line %2:\n"
+"%3"
+msgstr ""
+"په دې مخ د يو سکرېپټ د ځغلولو پر مهال کومه ستونزه رامنځته شوه.\n"
+"\n"
+":%2 ليکه %1\n"
+"%3"
+
+#: khtml/ecma/debugger/debugwindow.cpp:835
 msgid ""
 "Don't know where to evaluate the expression. Please pause a script or open a "
 "source file."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:825
+#: khtml/ecma/debugger/debugwindow.cpp:871
 #, kde-format
 msgid "Evaluation threw an exception %1"
 msgstr ""
 
-#: khtml/ecma/debugger/consoledock.cpp:231
+#: khtml/ecma/debugger/consoledock.cpp:220
 msgid "Console"
 msgstr "څانګه"
 
-#: khtml/ecma/debugger/consoledock.cpp:254
+#: khtml/ecma/debugger/consoledock.cpp:243
 msgid "Enter"
 msgstr "ليکل"
+
+#: khtml/ecma/debugger/errordlg.cpp:35
+msgid "JavaScript Error"
+msgstr "د جاواسکرېپټ تېروتنه"
+
+#: khtml/ecma/debugger/errordlg.cpp:50
+msgid "&Do not show this message again"
+msgstr "دا استوزه بيا نه ښودل&"
 
 #: khtml/ecma/debugger/callstackdock.cpp:37
 msgid "Call Stack"
@@ -10698,7 +10669,7 @@ msgid ""
 "information next time you visit %1. Do you want to store the information now?"
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:2555
+#: khtml/html/html_formimpl.cpp:2557
 msgid "Key Generator"
 msgstr "کيلۍ جوړوونکی"
 
@@ -12350,6 +12321,41 @@ msgstr "د &ورځې نکته"
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
 
+#~ msgid "Unsorted"
+#~ msgstr "نا اڼلي"
+
+#~ msgid "Call stack"
+#~ msgstr "اړيکنيو کوټه"
+
+#~ msgid "JavaScript console"
+#~ msgstr "جاواسکرېپټ څانګه"
+
+#~ msgctxt "Next breakpoint"
+#~ msgid "&Next"
+#~ msgstr "راتلوکی&"
+
+#~ msgid "&Step"
+#~ msgstr "پرېښودل&"
+
+#~ msgid "&Continue"
+#~ msgstr "پرمخبيول&"
+
+#~ msgid "St&op"
+#~ msgstr "تم&ول"
+
+#~ msgctxt "Next breakpoint"
+#~ msgid "Next"
+#~ msgstr "راتلونکی"
+
+#~ msgid ""
+#~ "An error occurred while attempting to run a script on this page.\n"
+#~ "\n"
+#~ "%1"
+#~ msgstr ""
+#~ "په دې مخ د يو سکرېپټ د ځغلولو پر مهال کومه ستونزه رامنځته شوه.\n"
+#~ "\n"
+#~ "%1"
+
 #, fuzzy
 #~| msgid "From:"
 #~ msgid "Form"
@@ -12744,9 +12750,6 @@ msgstr "\"%1\" داسې کړنه نشته"
 
 #~ msgid "Click for Location Navigation"
 #~ msgstr "د ځای چلونې لپاره کېکاږﺉ"
-
-#~ msgid "Click to Edit Location"
-#~ msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 
 #~ msgid "Navigate"
 #~ msgstr "چلول"
