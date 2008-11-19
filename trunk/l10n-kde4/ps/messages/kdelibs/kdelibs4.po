@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-18 09:53+0100\n"
+"POT-Creation-Date: 2008-11-19 10:53+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -983,7 +983,7 @@ msgstr "پ&اکول"
 msgid "HTML Toolbar"
 msgstr "توکپټه HTML"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:28
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:43
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:462
 #, fuzzy
@@ -991,7 +991,7 @@ msgstr "توکپټه HTML"
 msgid "F&ind:"
 msgstr "لټول"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:54
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:75
 #. i18n: ectx: property (text), widget (QToolButton, m_next)
 #: rc.cpp:465
 #, fuzzy
@@ -1000,13 +1000,13 @@ msgstr "لټول"
 msgid "&Next"
 msgstr "راتلوکی&"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:64
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:85
 #. i18n: ectx: property (text), widget (QToolButton, m_previous)
 #: rc.cpp:468 kdeui/dialogs/ktip.cpp:302
 msgid "&Previous"
 msgstr "مخکنی&"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:90
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:111
 #. i18n: ectx: property (text), widget (QToolButton, m_options)
 #: rc.cpp:471
 #, fuzzy
@@ -1853,15 +1853,15 @@ msgstr "زوړ کوربه نوم"
 msgid "New hostname"
 msgstr "نوی کوربه نوم"
 
-#: kded/kded.cpp:807
+#: kded/kded.cpp:814
 msgid "KDE Daemon"
 msgstr "کډي ډاېمن"
 
-#: kded/kded.cpp:809
+#: kded/kded.cpp:816
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 
-#: kded/kded.cpp:812
+#: kded/kded.cpp:819
 msgid "Check Sycoca database only once"
 msgstr "سېکوکا توکبنسټ يوازې يوځل کتل"
 
@@ -6574,6 +6574,8 @@ msgstr ":تلواله"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:56
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
+#: kdeui/widgets/kkeysequencewidget.cpp:667
+msgctxt "No shortcut defined"
 msgid "None"
 msgstr "هېڅ"
 
@@ -9319,11 +9321,6 @@ msgstr ""
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "ننوتۍ"
-
-#: kdeui/widgets/kkeysequencewidget.cpp:667
-msgctxt "No shortcut defined"
-msgid "None"
-msgstr "هېڅ"
 
 #: kdeui/widgets/kkeysequencewidget.cpp:710
 msgid "The key you just pressed isn't supported by Qt."
@@ -12320,6 +12317,9 @@ msgstr "د &ورځې نکته"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
+
+#~ msgid "None"
+#~ msgstr "هېڅ"
 
 #~ msgid "Unsorted"
 #~ msgstr "نا اڼلي"
