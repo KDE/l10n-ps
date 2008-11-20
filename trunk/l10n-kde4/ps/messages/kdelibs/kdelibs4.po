@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-19 10:53+0100\n"
+"POT-Creation-Date: 2008-11-20 10:17+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10970,32 +10970,32 @@ msgstr "سکرېپټ دوتنه"
 msgid "Level of safety of the Ruby interpreter"
 msgstr "د ربي ژباړونکي د خونديتوب کچه"
 
-#: kross/core/action.cpp:402
+#: kross/core/action.cpp:412
 #, kde-format
 msgid "Scriptfile \"%1\" does not exist."
 msgstr ".سکرېپټ دوتنه شتون نه لري \"%1\""
 
-#: kross/core/action.cpp:406
+#: kross/core/action.cpp:416
 #, kde-format
 msgid "Failed to determine interpreter for scriptfile \"%1\""
 msgstr ""
 
-#: kross/core/action.cpp:410
+#: kross/core/action.cpp:420
 #, kde-format
 msgid "Failed to open scriptfile \"%1\""
 msgstr "سکرېپټ دوتنې په پرانيستلو کې پاتې راغی \"%1\" د"
 
-#: kross/core/action.cpp:421
+#: kross/core/action.cpp:431
 #, kde-format
 msgid "Failed to load interpreter \"%1\""
 msgstr "ژباړونکي په لېښلو کې پاتې راغی \"%1\" د"
 
-#: kross/core/action.cpp:423
+#: kross/core/action.cpp:433
 #, kde-format
 msgid "No such interpreter \"%1\""
 msgstr "\"%1\" داسې ژباړونکی نشته"
 
-#: kross/core/action.cpp:429
+#: kross/core/action.cpp:439
 #, kde-format
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "\"%1\" د ژباړونکي لپاره سکرېپټ جوړولو کې پاتی راغی"
