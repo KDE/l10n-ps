@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-26 10:44+0100\n"
+"POT-Creation-Date: 2008-11-27 09:42+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -9509,31 +9509,31 @@ msgstr "سيمه"
 msgid "Comment"
 msgstr "څرګندون"
 
-#: kdeui/widgets/ktextedit.cpp:423 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:424 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kdeui/widgets/ktextedit.cpp:426 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:427 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kdeui/widgets/ktextedit.cpp:430 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:431 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
-#: kdeui/widgets/ktextedit.cpp:525
+#: kdeui/widgets/ktextedit.cpp:528
 msgid "Suggestions"
 msgstr "وړانديزونه"
 
-#: kdeui/widgets/ktextedit.cpp:527
+#: kdeui/widgets/ktextedit.cpp:530
 msgid "Ignore"
 msgstr "پرېښودل"
 
-#: kdeui/widgets/ktextedit.cpp:528
+#: kdeui/widgets/ktextedit.cpp:531
 msgid "Add to Dictionary"
 msgstr "ويېپانګه کې زياتول"
 
-#: kdeui/widgets/ktextedit.cpp:674
+#: kdeui/widgets/ktextedit.cpp:677
 msgid "Nothing to spell check."
 msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
