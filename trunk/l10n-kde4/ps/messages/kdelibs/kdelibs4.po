@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-30 09:45+0100\n"
+"POT-Creation-Date: 2008-12-01 10:25+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1963,19 +1963,19 @@ msgstr "نه بيالېښل"
 msgid "Configuration information reloaded successfully."
 msgstr ".د سازونې خبرتياوې په برياليتوب سره بيا ولېښل شوې"
 
-#: kpty/kptydevice.cpp:297
+#: kpty/kptydevice.cpp:306
 msgid "Error reading from PTY"
 msgstr "نه په لوستلو کې تېروتنه PTY د"
 
-#: kpty/kptydevice.cpp:331
+#: kpty/kptydevice.cpp:340
 msgid "Error writing to PTY"
 msgstr "ته په ليکلو کې تېروتنه PTY"
 
-#: kpty/kptydevice.cpp:416
+#: kpty/kptydevice.cpp:425
 msgid "PTY operation timed out"
 msgstr "چلښت مهال بشپړ شو PTY د"
 
-#: kpty/kptydevice.cpp:471 kpty/kptydevice.cpp:485
+#: kpty/kptydevice.cpp:481 kpty/kptydevice.cpp:495
 msgid "Error opening PTY"
 msgstr "په پرانيستلو کې تېروتنه PTY د"
 
