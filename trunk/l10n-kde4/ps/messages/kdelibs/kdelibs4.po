@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-03 10:50+0100\n"
+"POT-Creation-Date: 2008-12-04 09:59+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1979,196 +1979,196 @@ msgstr "چلښت مهال بشپړ شو PTY د"
 msgid "Error opening PTY"
 msgstr "په پرانيستلو کې تېروتنه PTY د"
 
-#: kdecore/kde-config.cpp:56
+#: kdecore/kde-config.cpp:58
 msgid "kde4-config"
 msgstr "کډي۴-سازونه"
 
-#: kdecore/kde-config.cpp:57
+#: kdecore/kde-config.cpp:59
 msgid "A little program to output installation paths"
 msgstr "يو وړوکی کړنلار چې د لګاو يونلورونه وباسي"
 
-#: kdecore/kde-config.cpp:59
+#: kdecore/kde-config.cpp:61
 msgid "(C) 2000 Stephan Kulow"
 msgstr "چاپرښتې ۲۰۰۰ سټېفېن کولو"
 
-#: kdecore/kde-config.cpp:63
+#: kdecore/kde-config.cpp:65
 msgid "Left for legacy support"
 msgstr "د پخواني ملاتړ لپاره ساتل شوی"
 
-#: kdecore/kde-config.cpp:64
+#: kdecore/kde-config.cpp:66
 msgid "Compiled in prefix for KDE libraries"
 msgstr "د کډي د کتابتونونو لپاره په مختاړي کې وژباړل شو"
 
-#: kdecore/kde-config.cpp:65
+#: kdecore/kde-config.cpp:67
 msgid "Compiled in exec_prefix for KDE libraries"
 msgstr "د کډي د کتابتونونو لپاره په چليد_مختاړي کې وژباړل شو"
 
-#: kdecore/kde-config.cpp:66
+#: kdecore/kde-config.cpp:68
 msgid "Compiled in library path suffix"
 msgstr "په کتابتون يونلور وروستاړي کې وژباړل شو"
 
-#: kdecore/kde-config.cpp:67
+#: kdecore/kde-config.cpp:69
 msgid "Prefix in $HOME used to write files"
 msgstr "کې هغه مختاړی چې د دوتنو ليکلو لپاره کارول کيږي $کور په"
 
-#: kdecore/kde-config.cpp:68
+#: kdecore/kde-config.cpp:70
 msgid "Compiled in version string for KDE libraries"
 msgstr "د کډي د کتابتونونو لپاره په نسخه مزي کې وژباړل شو"
 
-#: kdecore/kde-config.cpp:69
+#: kdecore/kde-config.cpp:71
 msgid "Available KDE resource types"
 msgstr "شته کډي سرچينه ډولونه"
 
-#: kdecore/kde-config.cpp:70
+#: kdecore/kde-config.cpp:72
 msgid "Search path for resource type"
 msgstr "يونلور د سرچينه ډول لپاره پلټل"
 
-#: kdecore/kde-config.cpp:71
+#: kdecore/kde-config.cpp:73
 msgid "Find filename inside the resource type given to --path"
 msgstr ""
 
-#: kdecore/kde-config.cpp:72
+#: kdecore/kde-config.cpp:74
 msgid "User path: desktop|autostart|document"
 msgstr "کارن يونلور: سرپاڼه|خپلپېل|لاسوند"
 
-#: kdecore/kde-config.cpp:73
+#: kdecore/kde-config.cpp:75
 msgid "Prefix to install resource files to"
 msgstr "هغه مختاړی چې سرچينه دوتنې په کې ولګول شي"
 
-#: kdecore/kde-config.cpp:74
+#: kdecore/kde-config.cpp:76
 msgid "Installation prefix for Qt"
 msgstr "د ک.ټ لپاره د لګونې مختاړی"
 
-#: kdecore/kde-config.cpp:75
+#: kdecore/kde-config.cpp:77
 msgid "Location of installed Qt binaries"
 msgstr "د لګول شوېو ک.ټ دويالو ځای"
 
-#: kdecore/kde-config.cpp:76
+#: kdecore/kde-config.cpp:78
 msgid "Location of installed Qt libraries"
 msgstr "د لګول شوېو ک.ټ کتابتونونو ځای"
 
-#: kdecore/kde-config.cpp:77
+#: kdecore/kde-config.cpp:79
 msgid "Location of installed Qt plugins"
 msgstr "د لګول شوېو ک.ټ لګونونو ځای"
 
-#: kdecore/kde-config.cpp:124
+#: kdecore/kde-config.cpp:126
 msgid "Applications menu (.desktop files)"
 msgstr "(.سرپاڼه دوتنې) کاريالونه غورنۍ"
 
-#: kdecore/kde-config.cpp:125
+#: kdecore/kde-config.cpp:127
 msgid "CGIs to run from kdehelp"
 msgstr "چې د کډيمرستې نه وځغلول شي CGIs هغه"
 
-#: kdecore/kde-config.cpp:126
+#: kdecore/kde-config.cpp:128
 msgid "Configuration files"
 msgstr "د سازونې دوتنې"
 
-#: kdecore/kde-config.cpp:127
+#: kdecore/kde-config.cpp:129
 msgid "Where applications store data"
 msgstr "چېرته چې کاريالونه اومتوک زېرمي"
 
-#: kdecore/kde-config.cpp:128
+#: kdecore/kde-config.cpp:130
 msgid "Emoticons"
 msgstr "څېرې"
 
-#: kdecore/kde-config.cpp:129
+#: kdecore/kde-config.cpp:131
 msgid "Executables in $prefix/bin"
 msgstr "کې چلېدونکي $prefix/bin په"
 
-#: kdecore/kde-config.cpp:130
+#: kdecore/kde-config.cpp:132
 msgid "HTML documentation"
 msgstr "لاسوندونه HTML"
 
-#: kdecore/kde-config.cpp:131
+#: kdecore/kde-config.cpp:133
 msgid "Icons"
 msgstr "انځورنونه"
 
-#: kdecore/kde-config.cpp:132
+#: kdecore/kde-config.cpp:134
 msgid "Configuration description files"
 msgstr "د سازونې سپړاوي دوتنې"
 
-#: kdecore/kde-config.cpp:133
+#: kdecore/kde-config.cpp:135
 msgid "Libraries"
 msgstr "کتابتونونه"
 
-#: kdecore/kde-config.cpp:134
+#: kdecore/kde-config.cpp:136
 msgid "Includes/Headers"
 msgstr "ننويستل/سريزې"
 
-#: kdecore/kde-config.cpp:135
+#: kdecore/kde-config.cpp:137
 msgid "Translation files for KLocale"
 msgstr "د ک.ځاييز لپاره ژباړه دوتنې"
 
-#: kdecore/kde-config.cpp:136
+#: kdecore/kde-config.cpp:138
 msgid "Mime types"
 msgstr "ميمي ډول"
 
-#: kdecore/kde-config.cpp:137
+#: kdecore/kde-config.cpp:139
 msgid "Loadable modules"
 msgstr "لېښل کېدونکې رغبېلګې"
 
-#: kdecore/kde-config.cpp:138 kdecore/kde-config.cpp:148
+#: kdecore/kde-config.cpp:140 kdecore/kde-config.cpp:150
 msgid "Legacy pixmaps"
 msgstr "pixmaps پخواني"
 
-#: kdecore/kde-config.cpp:139
+#: kdecore/kde-config.cpp:141
 msgid "Qt plugins"
 msgstr "ک.ټ لګونونه"
 
-#: kdecore/kde-config.cpp:140
+#: kdecore/kde-config.cpp:142
 msgid "Services"
 msgstr "پالنې"
 
-#: kdecore/kde-config.cpp:141
+#: kdecore/kde-config.cpp:143
 msgid "Service types"
 msgstr "د پالنې ډولونه"
 
-#: kdecore/kde-config.cpp:142
+#: kdecore/kde-config.cpp:144
 msgid "Application sounds"
 msgstr "کاريال غږونه"
 
-#: kdecore/kde-config.cpp:143
+#: kdecore/kde-config.cpp:145
 msgid "Templates"
 msgstr "کوندې"
 
-#: kdecore/kde-config.cpp:144
+#: kdecore/kde-config.cpp:146
 msgid "Wallpapers"
 msgstr "دېوالپاڼې"
 
-#: kdecore/kde-config.cpp:145
+#: kdecore/kde-config.cpp:147
 msgid "XDG Application menu (.desktop files)"
 msgstr "کاريال غورنۍ (.سرپاڼه دوتنې)XDG"
 
-#: kdecore/kde-config.cpp:146
+#: kdecore/kde-config.cpp:148
 msgid "XDG Menu descriptions (.directory files)"
 msgstr "غورنۍ سپړاوي (.پوښۍ دوتنې)XDG"
 
-#: kdecore/kde-config.cpp:147
+#: kdecore/kde-config.cpp:149
 msgid "XDG Icons"
 msgstr "انځورنونه XDG"
 
-#: kdecore/kde-config.cpp:149
+#: kdecore/kde-config.cpp:151
 msgid "XDG Mime Types"
 msgstr "ميمي ډولونه XDG"
 
-#: kdecore/kde-config.cpp:150
+#: kdecore/kde-config.cpp:152
 msgid "XDG Menu layout (.menu files)"
 msgstr "(.غورنۍ دوتنې) غورنۍ هډوانه XDG"
 
-#: kdecore/kde-config.cpp:151
+#: kdecore/kde-config.cpp:153
 msgid "Temporary files (specific for both current host and current user)"
 msgstr "لنډمهاله دوتنې (د اوسني کوربه او اوسني کارن دواړو لپاره ټاکل شوی)"
 
-#: kdecore/kde-config.cpp:152
+#: kdecore/kde-config.cpp:154
 msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "يونېکس ساکټونه (د اوسني کوربه او اوسني کارن دواړو لپاره ټاکل شوی)"
 
-#: kdecore/kde-config.cpp:164
+#: kdecore/kde-config.cpp:166
 #, kde-format
 msgid "%1 - unknown type\n"
 msgstr "ناپېژندلی ډول - %1\n"
 
-#: kdecore/kde-config.cpp:226
+#: kdecore/kde-config.cpp:228
 #, kde-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "د کارنيونلور ناسم ډول - %1\n"
