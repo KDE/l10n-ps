@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-05 07:47+0000\n"
+"POT-Creation-Date: 2008-12-05 09:31+0000\n"
 "PO-Revision-Date: 2008-08-15 20:20-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -250,6 +250,14 @@ msgstr "لېټوانيايي"
 msgctxt "Name"
 msgid "Latvian"
 msgstr "لېټوين"
+
+#: mai/messages/entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marathi"
+msgctxt "Name"
+msgid "Maithili"
+msgstr "مراټي"
 
 #: mk/messages/entry.desktop:2
 msgctxt "Name"
