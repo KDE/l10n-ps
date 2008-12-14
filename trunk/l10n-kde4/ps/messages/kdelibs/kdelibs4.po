@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-13 10:31+0100\n"
+"POT-Creation-Date: 2008-12-14 10:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6141,19 +6141,19 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kdialog.cpp:239
+#: kdeui/dialogs/kdialog.cpp:232
 msgid "&Try"
 msgstr "هڅه&"
 
-#: kdeui/dialogs/kdialog.cpp:421
+#: kdeui/dialogs/kdialog.cpp:414
 msgid "modified"
 msgstr "بدل شوی"
 
-#: kdeui/dialogs/kdialog.cpp:800
+#: kdeui/dialogs/kdialog.cpp:793
 msgid "&Details"
 msgstr "خبرتياوې&"
 
-#: kdeui/dialogs/kdialog.cpp:947
+#: kdeui/dialogs/kdialog.cpp:940
 msgid "Get help..."
 msgstr "...مرسته اخيستل"
 
