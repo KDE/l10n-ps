@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-22 09:28+0000\n"
+"POT-Creation-Date: 2008-12-23 09:27+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -102,7 +102,7 @@ msgctxt "Name"
 msgid "Python encoding checker/adder"
 msgstr ""
 
-#: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:43
+#: kate/plugins/pythonencoding/ktexteditor_python-encoding.desktop:44
 msgctxt "Comment"
 msgid "While saving check encoding of python files and add an encoding line"
 msgstr ""
@@ -200,107 +200,107 @@ msgctxt "Name"
 msgid "Belarusian (Latin)"
 msgstr "بېلاروسي"
 
-#: kdecore/all_languages.desktop:815
+#: kdecore/all_languages.desktop:816
 msgctxt "Name"
 msgid "Bulgarian"
 msgstr "بلګريايي"
 
-#: kdecore/all_languages.desktop:897
+#: kdecore/all_languages.desktop:898
 msgctxt "Name"
 msgid "Bihari"
 msgstr "بېهاري"
 
-#: kdecore/all_languages.desktop:947
+#: kdecore/all_languages.desktop:948
 msgctxt "Name"
 msgid "Bislama"
 msgstr "بېسلاما"
 
-#: kdecore/all_languages.desktop:995
+#: kdecore/all_languages.desktop:996
 msgctxt "Name"
 msgid "Bengali"
 msgstr "بنګالي"
 
-#: kdecore/all_languages.desktop:1063
+#: kdecore/all_languages.desktop:1064
 msgctxt "Name"
 msgid "Bengali (India)"
 msgstr "بنګالي (انډيا)"
 
-#: kdecore/all_languages.desktop:1127
+#: kdecore/all_languages.desktop:1128
 msgctxt "Name"
 msgid "Tibetan"
 msgstr "ټېبېټي"
 
-#: kdecore/all_languages.desktop:1206
+#: kdecore/all_languages.desktop:1207
 msgctxt "Name"
 msgid "Breton"
 msgstr "برېټون"
 
-#: kdecore/all_languages.desktop:1283
+#: kdecore/all_languages.desktop:1284
 msgctxt "Name"
 msgid "Bosnian"
 msgstr "بوسنيايي"
 
-#: kdecore/all_languages.desktop:1365
+#: kdecore/all_languages.desktop:1366
 msgctxt "Name"
 msgid "Catalan"
 msgstr "کېټېلېن"
 
-#: kdecore/all_languages.desktop:1443
+#: kdecore/all_languages.desktop:1444
 msgctxt "Name"
 msgid "Chechen"
 msgstr "چيچنيايي"
 
-#: kdecore/all_languages.desktop:1518
+#: kdecore/all_languages.desktop:1519
 msgctxt "Name"
 msgid "Chamorro"
 msgstr "چمورو"
 
-#: kdecore/all_languages.desktop:1569
+#: kdecore/all_languages.desktop:1570
 msgctxt "Name"
 msgid "Corsican"
 msgstr "کورسېکن"
 
-#: kdecore/all_languages.desktop:1649
+#: kdecore/all_languages.desktop:1650
 msgctxt "Name"
 msgid "Crimean Tatar"
 msgstr "کريمين ټاټار"
 
-#: kdecore/all_languages.desktop:1706
+#: kdecore/all_languages.desktop:1707
 msgctxt "Name"
 msgid "Czech"
 msgstr "چېک"
 
-#: kdecore/all_languages.desktop:1787
+#: kdecore/all_languages.desktop:1788
 msgctxt "Name"
 msgid "Kashubian"
 msgstr "کشوبي"
 
-#: kdecore/all_languages.desktop:1846
+#: kdecore/all_languages.desktop:1847
 msgctxt "Name"
 msgid "Church Slavic"
 msgstr "چرچ سلاويکي"
 
-#: kdecore/all_languages.desktop:1922
+#: kdecore/all_languages.desktop:1923
 msgctxt "Name"
 msgid "Chuvash"
 msgstr "چووېش"
 
-#: kdecore/all_languages.desktop:1990
+#: kdecore/all_languages.desktop:1991
 msgctxt "Name"
 msgid "Welsh"
 msgstr "وېلش"
 
-#: kdecore/all_languages.desktop:2071
+#: kdecore/all_languages.desktop:2072
 msgctxt "Name"
 msgid "Danish"
 msgstr "ډېنېش"
 
-#: kdecore/all_languages.desktop:2152
+#: kdecore/all_languages.desktop:2153
 msgctxt "Name"
 msgid "German"
 msgstr "جرمن"
 
-#: kdecore/all_languages.desktop:2236
+#: kdecore/all_languages.desktop:2237
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Upper Sorbian"
@@ -308,302 +308,302 @@ msgctxt "Name"
 msgid "Lower Sorbian"
 msgstr "بره سربي"
 
-#: kdecore/all_languages.desktop:2276
+#: kdecore/all_languages.desktop:2278
 msgctxt "Name"
 msgid "Dzongkha"
 msgstr ""
 
-#: kdecore/all_languages.desktop:2322
+#: kdecore/all_languages.desktop:2324
 msgctxt "Name"
 msgid "Greek"
 msgstr "يوناني"
 
-#: kdecore/all_languages.desktop:2405
+#: kdecore/all_languages.desktop:2407
 msgctxt "Name"
 msgid "English"
 msgstr "انګريزي"
 
-#: kdecore/all_languages.desktop:2489
+#: kdecore/all_languages.desktop:2491
 msgctxt "Name"
 msgid "British English"
 msgstr "برېټانوي انګريزي"
 
-#: kdecore/all_languages.desktop:2571
+#: kdecore/all_languages.desktop:2573
 msgctxt "Name"
 msgid "American English"
 msgstr "امريکايي انګريزي"
 
-#: kdecore/all_languages.desktop:2652
+#: kdecore/all_languages.desktop:2654
 msgctxt "Name"
 msgid "Esperanto"
 msgstr "اېسپېرېنټو"
 
-#: kdecore/all_languages.desktop:2697
+#: kdecore/all_languages.desktop:2699
 msgctxt "Name"
 msgid "Spanish"
 msgstr "سپېنش"
 
-#: kdecore/all_languages.desktop:2781
+#: kdecore/all_languages.desktop:2783
 msgctxt "Name"
 msgid "Estonian"
 msgstr "اېسټونيايي"
 
-#: kdecore/all_languages.desktop:2863
+#: kdecore/all_languages.desktop:2865
 msgctxt "Name"
 msgid "Basque"
 msgstr "بېسک"
 
-#: kdecore/all_languages.desktop:2942
+#: kdecore/all_languages.desktop:2944
 msgctxt "Name"
 msgid "Farsi (Persian)"
 msgstr "پاړسي"
 
-#: kdecore/all_languages.desktop:3023
+#: kdecore/all_languages.desktop:3025
 msgctxt "Name"
 msgid "Finnish"
 msgstr "فېنېش"
 
-#: kdecore/all_languages.desktop:3105
+#: kdecore/all_languages.desktop:3107
 msgctxt "Name"
 msgid "Fijian"
 msgstr "فيجي"
 
-#: kdecore/all_languages.desktop:3181
+#: kdecore/all_languages.desktop:3183
 msgctxt "Name"
 msgid "Faroese"
 msgstr ""
 
-#: kdecore/all_languages.desktop:3256
+#: kdecore/all_languages.desktop:3258
 msgctxt "Name"
 msgid "French"
 msgstr "فرانسوي"
 
-#: kdecore/all_languages.desktop:3340
+#: kdecore/all_languages.desktop:3342
 msgctxt "Name"
 msgid "Frisian"
 msgstr "فرېشين"
 
-#: kdecore/all_languages.desktop:3418
+#: kdecore/all_languages.desktop:3420
 msgctxt "Name"
 msgid "Irish Gaelic"
 msgstr ""
 
-#: kdecore/all_languages.desktop:3491
+#: kdecore/all_languages.desktop:3493
 msgctxt "Name"
 msgid "Gaelic"
 msgstr "ګاېلېک"
 
-#: kdecore/all_languages.desktop:3567
+#: kdecore/all_languages.desktop:3569
 msgctxt "Name"
 msgid "Galician"
 msgstr "ګېلېشين"
 
-#: kdecore/all_languages.desktop:3645
+#: kdecore/all_languages.desktop:3647
 msgctxt "Name"
 msgid "Guarani"
 msgstr "ګوراني"
 
-#: kdecore/all_languages.desktop:3700
+#: kdecore/all_languages.desktop:3702
 msgctxt "Name"
 msgid "Gujarati"
 msgstr "ګجراتي"
 
-#: kdecore/all_languages.desktop:3754
+#: kdecore/all_languages.desktop:3756
 msgctxt "Name"
 msgid "Manx"
 msgstr "مېنکس"
 
-#: kdecore/all_languages.desktop:3809
+#: kdecore/all_languages.desktop:3811
 msgctxt "Name"
 msgid "Hausa"
 msgstr "هاوسا"
 
-#: kdecore/all_languages.desktop:3861
+#: kdecore/all_languages.desktop:3863
 msgctxt "Name"
 msgid "Hebrew"
 msgstr "هېبرو"
 
-#: kdecore/all_languages.desktop:3943
+#: kdecore/all_languages.desktop:3945
 msgctxt "Name"
 msgid "Hindi"
 msgstr "هندي"
 
-#: kdecore/all_languages.desktop:3999
+#: kdecore/all_languages.desktop:4001
 msgctxt "Name"
 msgid "Hiri Motu"
 msgstr "هيري موټو"
 
-#: kdecore/all_languages.desktop:4052
+#: kdecore/all_languages.desktop:4054
 msgctxt "Name"
 msgid "Croatian"
 msgstr "کروټيايي"
 
-#: kdecore/all_languages.desktop:4134
+#: kdecore/all_languages.desktop:4136
 msgctxt "Name"
 msgid "Upper Sorbian"
 msgstr "بره سربي"
 
-#: kdecore/all_languages.desktop:4210
+#: kdecore/all_languages.desktop:4212
 msgctxt "Name"
 msgid "Hungarian"
 msgstr "هنګريايي"
 
-#: kdecore/all_languages.desktop:4292
+#: kdecore/all_languages.desktop:4294
 msgctxt "Name"
 msgid "Armenian"
 msgstr "ارمينيايي"
 
-#: kdecore/all_languages.desktop:4374
+#: kdecore/all_languages.desktop:4376
 msgctxt "Name"
 msgid "Herero"
 msgstr "هېرېرو"
 
-#: kdecore/all_languages.desktop:4423
+#: kdecore/all_languages.desktop:4425
 msgctxt "Name"
 msgid "Interlingua"
 msgstr "اېنټرلېنګوا"
 
-#: kdecore/all_languages.desktop:4468
+#: kdecore/all_languages.desktop:4470
 msgctxt "Name"
 msgid "Indonesian"
 msgstr "انډونيشيايي"
 
-#: kdecore/all_languages.desktop:4549
+#: kdecore/all_languages.desktop:4551
 msgctxt "Name"
 msgid "Interlingue"
 msgstr "اېنټرلېنګ"
 
-#: kdecore/all_languages.desktop:4596
+#: kdecore/all_languages.desktop:4598
 msgctxt "Name"
 msgid "Inupiaq"
 msgstr "اېنوپيک"
 
-#: kdecore/all_languages.desktop:4647
+#: kdecore/all_languages.desktop:4649
 msgctxt "Name"
 msgid "Ido"
 msgstr "اېډو"
 
-#: kdecore/all_languages.desktop:4688
+#: kdecore/all_languages.desktop:4690
 msgctxt "Name"
 msgid "Icelandic"
 msgstr "اېسلېنډي"
 
-#: kdecore/all_languages.desktop:4769
+#: kdecore/all_languages.desktop:4771
 msgctxt "Name"
 msgid "Italian"
 msgstr "اېټالوي"
 
-#: kdecore/all_languages.desktop:4852
+#: kdecore/all_languages.desktop:4854
 msgctxt "Name"
 msgid "Inuktitut"
 msgstr ""
 
-#: kdecore/all_languages.desktop:4896
+#: kdecore/all_languages.desktop:4898
 msgctxt "Name"
 msgid "Japanese"
 msgstr "جاپاني"
 
-#: kdecore/all_languages.desktop:4979
+#: kdecore/all_languages.desktop:4981
 msgctxt "Name"
 msgid "Javanese"
 msgstr "جاواني"
 
-#: kdecore/all_languages.desktop:5058
+#: kdecore/all_languages.desktop:5060
 msgctxt "Name"
 msgid "Georgian"
 msgstr "ګورجين"
 
-#: kdecore/all_languages.desktop:5139
+#: kdecore/all_languages.desktop:5141
 msgctxt "Name"
 msgid "Kikuyu"
 msgstr "کېکويو"
 
-#: kdecore/all_languages.desktop:5186
+#: kdecore/all_languages.desktop:5188
 msgctxt "Name"
 msgid "Kazakh"
 msgstr "کزاکي"
 
-#: kdecore/all_languages.desktop:5257
+#: kdecore/all_languages.desktop:5259
 msgctxt "Name"
 msgid "Kalaallisut"
 msgstr ""
 
-#: kdecore/all_languages.desktop:5307
+#: kdecore/all_languages.desktop:5309
 msgctxt "Name"
 msgid "Khmer"
 msgstr "کمير"
 
-#: kdecore/all_languages.desktop:5364
+#: kdecore/all_languages.desktop:5366
 msgctxt "Name"
 msgid "Kannada"
 msgstr "کناډا"
 
-#: kdecore/all_languages.desktop:5413
+#: kdecore/all_languages.desktop:5415
 msgctxt "Name"
 msgid "Korean"
 msgstr "کوريايي"
 
-#: kdecore/all_languages.desktop:5496
+#: kdecore/all_languages.desktop:5498
 msgctxt "Name"
 msgid "Kashmiri"
 msgstr "کشميري"
 
-#: kdecore/all_languages.desktop:5562
+#: kdecore/all_languages.desktop:5564
 msgctxt "Name"
 msgid "Kurdish"
 msgstr "کوردي"
 
-#: kdecore/all_languages.desktop:5642
+#: kdecore/all_languages.desktop:5644
 msgctxt "Name"
 msgid "Komi"
 msgstr "کومي"
 
-#: kdecore/all_languages.desktop:5689
+#: kdecore/all_languages.desktop:5691
 msgctxt "Name"
 msgid "Cornish"
 msgstr "کورني"
 
-#: kdecore/all_languages.desktop:5764
+#: kdecore/all_languages.desktop:5766
 msgctxt "Name"
 msgid "Kirghiz"
 msgstr "کرګزي"
 
-#: kdecore/all_languages.desktop:5840
+#: kdecore/all_languages.desktop:5842
 msgctxt "Name"
 msgid "Latin"
 msgstr "لاټيني"
 
-#: kdecore/all_languages.desktop:5913
+#: kdecore/all_languages.desktop:5915
 msgctxt "Name"
 msgid "Luxembourgish"
 msgstr "لګسېمبرګيايي"
 
-#: kdecore/all_languages.desktop:5991
+#: kdecore/all_languages.desktop:5993
 msgctxt "Name"
 msgid "Limburgan"
 msgstr ""
 
-#: kdecore/all_languages.desktop:6061
+#: kdecore/all_languages.desktop:6063
 msgctxt "Name"
 msgid "Lingala"
 msgstr "لېنګالا"
 
-#: kdecore/all_languages.desktop:6105
+#: kdecore/all_languages.desktop:6107
 msgctxt "Name"
 msgid "Lao"
 msgstr "لاو"
 
-#: kdecore/all_languages.desktop:6162
+#: kdecore/all_languages.desktop:6164
 msgctxt "Name"
 msgid "Lithuanian"
 msgstr "لېټوانيايي"
 
-#: kdecore/all_languages.desktop:6245
+#: kdecore/all_languages.desktop:6247
 msgctxt "Name"
 msgid "Latvian"
 msgstr "لېټوين"
 
-#: kdecore/all_languages.desktop:6327
+#: kdecore/all_languages.desktop:6329
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Marathi"
@@ -611,452 +611,452 @@ msgctxt "Name"
 msgid "Maithili"
 msgstr "مراټي"
 
-#: kdecore/all_languages.desktop:6344
+#: kdecore/all_languages.desktop:6347
 msgctxt "Name"
 msgid "Malagasy"
 msgstr "ملاګاسي"
 
-#: kdecore/all_languages.desktop:6414
+#: kdecore/all_languages.desktop:6417
 msgctxt "Name"
 msgid "Marshallese"
 msgstr "مارشالي"
 
-#: kdecore/all_languages.desktop:6491
+#: kdecore/all_languages.desktop:6494
 msgctxt "Name"
 msgid "Maori"
 msgstr "ماوري"
 
-#: kdecore/all_languages.desktop:6552
+#: kdecore/all_languages.desktop:6555
 msgctxt "Name"
 msgid "Macedonian"
 msgstr "مېسېډونين"
 
-#: kdecore/all_languages.desktop:6632
+#: kdecore/all_languages.desktop:6635
 msgctxt "Name"
 msgid "Malayalam"
 msgstr "ملايالم"
 
-#: kdecore/all_languages.desktop:6688
+#: kdecore/all_languages.desktop:6691
 msgctxt "Name"
 msgid "Mongolian"
 msgstr "مغلي"
 
-#: kdecore/all_languages.desktop:6769
+#: kdecore/all_languages.desktop:6772
 msgctxt "Name"
 msgid "Moldavian"
 msgstr "مالډيوي"
 
-#: kdecore/all_languages.desktop:6850
+#: kdecore/all_languages.desktop:6853
 msgctxt "Name"
 msgid "Marathi"
 msgstr "مراټي"
 
-#: kdecore/all_languages.desktop:6907
+#: kdecore/all_languages.desktop:6910
 msgctxt "Name"
 msgid "Malay"
 msgstr "ملای"
 
-#: kdecore/all_languages.desktop:6980
+#: kdecore/all_languages.desktop:6983
 msgctxt "Name"
 msgid "Maltese"
 msgstr "مالټي"
 
-#: kdecore/all_languages.desktop:7060
+#: kdecore/all_languages.desktop:7063
 msgctxt "Name"
 msgid "Burmese"
 msgstr "برمي"
 
-#: kdecore/all_languages.desktop:7140
+#: kdecore/all_languages.desktop:7143
 msgctxt "Name"
 msgid "Nauru"
 msgstr "ناورو"
 
-#: kdecore/all_languages.desktop:7195
+#: kdecore/all_languages.desktop:7198
 msgctxt "Name"
 msgid "Norwegian Bokmål"
 msgstr "ناروېجني بوکمل"
 
-#: kdecore/all_languages.desktop:7275
+#: kdecore/all_languages.desktop:7278
 msgctxt "Name"
 msgid "Ndebele, North"
 msgstr ""
 
-#: kdecore/all_languages.desktop:7353
+#: kdecore/all_languages.desktop:7356
 msgctxt "Name"
 msgid "Low Saxon"
 msgstr "ښکته سېګسن"
 
-#: kdecore/all_languages.desktop:7430
+#: kdecore/all_languages.desktop:7433
 msgctxt "Name"
 msgid "Nepali"
 msgstr "نيپالي"
 
-#: kdecore/all_languages.desktop:7501
+#: kdecore/all_languages.desktop:7504
 msgctxt "Name"
 msgid "Ndonga"
 msgstr ""
 
-#: kdecore/all_languages.desktop:7543
+#: kdecore/all_languages.desktop:7546
 msgctxt "Name"
 msgid "Dutch"
 msgstr "ډچ"
 
-#: kdecore/all_languages.desktop:7626
+#: kdecore/all_languages.desktop:7629
 msgctxt "Name"
 msgid "Norwegian Nynorsk"
 msgstr "ناروېجني نېنورسک"
 
-#: kdecore/all_languages.desktop:7707
+#: kdecore/all_languages.desktop:7710
 msgctxt "Name"
 msgid "Ndebele, South"
 msgstr ""
 
-#: kdecore/all_languages.desktop:7785
+#: kdecore/all_languages.desktop:7788
 msgctxt "Name"
 msgid "Northern Sotho"
 msgstr "شمالي سوټو"
 
-#: kdecore/all_languages.desktop:7863
+#: kdecore/all_languages.desktop:7866
 msgctxt "Name"
 msgid "Navajo"
 msgstr "نواجو"
 
-#: kdecore/all_languages.desktop:7913
+#: kdecore/all_languages.desktop:7916
 msgctxt "Name"
 msgid "Chichewa"
 msgstr "چېچيوا"
 
-#: kdecore/all_languages.desktop:7967
+#: kdecore/all_languages.desktop:7970
 msgctxt "Name"
 msgid "Occitan"
 msgstr "اوسيټي"
 
-#: kdecore/all_languages.desktop:8039
+#: kdecore/all_languages.desktop:8042
 msgctxt "Name"
 msgid "Oromo"
 msgstr "اورومو"
 
-#: kdecore/all_languages.desktop:8083
+#: kdecore/all_languages.desktop:8086
 msgctxt "Name"
 msgid "Oriya"
 msgstr "وريا"
 
-#: kdecore/all_languages.desktop:8133
+#: kdecore/all_languages.desktop:8136
 msgctxt "Name"
 msgid "Ossetian"
 msgstr "اوسيټي"
 
-#: kdecore/all_languages.desktop:8208
+#: kdecore/all_languages.desktop:8211
 msgctxt "Name"
 msgid "Punjabi/Panjabi"
 msgstr "پنجابي"
 
-#: kdecore/all_languages.desktop:8269
+#: kdecore/all_languages.desktop:8272
 msgctxt "Name"
 msgid "Pali"
 msgstr "پالي"
 
-#: kdecore/all_languages.desktop:8318
+#: kdecore/all_languages.desktop:8321
 msgctxt "Name"
 msgid "Polish"
 msgstr "پولېش"
 
-#: kdecore/all_languages.desktop:8398
+#: kdecore/all_languages.desktop:8401
 msgctxt "Name"
 msgid "Pushto"
 msgstr "پښتو"
 
-#: kdecore/all_languages.desktop:8459
+#: kdecore/all_languages.desktop:8462
 msgctxt "Name"
 msgid "Portuguese"
 msgstr "پورټګيز"
 
-#: kdecore/all_languages.desktop:8541
+#: kdecore/all_languages.desktop:8544
 msgctxt "Name"
 msgid "Brazilian Portuguese"
 msgstr "برازيلي پرټګيز"
 
-#: kdecore/all_languages.desktop:8622
+#: kdecore/all_languages.desktop:8625
 msgctxt "Name"
 msgid "Quechua"
 msgstr "کوېچوا"
 
-#: kdecore/all_languages.desktop:8677
+#: kdecore/all_languages.desktop:8680
 msgctxt "Name"
 msgid "Rundi"
 msgstr "رونډي"
 
-#: kdecore/all_languages.desktop:8726
+#: kdecore/all_languages.desktop:8729
 msgctxt "Name"
 msgid "Romanian"
 msgstr "رومانيايي"
 
-#: kdecore/all_languages.desktop:8807
+#: kdecore/all_languages.desktop:8810
 msgctxt "Name"
 msgid "Romany"
 msgstr "روماني"
 
-#: kdecore/all_languages.desktop:8880
+#: kdecore/all_languages.desktop:8883
 msgctxt "Name"
 msgid "Russian"
 msgstr "روسي"
 
-#: kdecore/all_languages.desktop:8964
+#: kdecore/all_languages.desktop:8967
 msgctxt "Name"
 msgid "Kinyarwanda"
 msgstr "کينيارونډا"
 
-#: kdecore/all_languages.desktop:9020
+#: kdecore/all_languages.desktop:9023
 msgctxt "Name"
 msgid "Sanskrit"
 msgstr "سانسکرېټ"
 
-#: kdecore/all_languages.desktop:9081
+#: kdecore/all_languages.desktop:9084
 msgctxt "Name"
 msgid "Sardinian"
 msgstr "سارډينيايي"
 
-#: kdecore/all_languages.desktop:9160
+#: kdecore/all_languages.desktop:9163
 msgctxt "Name"
 msgid "Sindhi"
 msgstr "سندهي"
 
-#: kdecore/all_languages.desktop:9211
+#: kdecore/all_languages.desktop:9214
 msgctxt "Name"
 msgid "Northern Sami"
 msgstr "شمالي سامي"
 
-#: kdecore/all_languages.desktop:9291
+#: kdecore/all_languages.desktop:9294
 msgctxt "Name"
 msgid "Sango"
 msgstr "سانګو"
 
-#: kdecore/all_languages.desktop:9336
+#: kdecore/all_languages.desktop:9339
 msgctxt "Name"
 msgid "Sinhalese"
 msgstr "سېنهالي"
 
-#: kdecore/all_languages.desktop:9413
+#: kdecore/all_languages.desktop:9416
 msgctxt "Name"
 msgid "Slovak"
 msgstr "سلواک"
 
-#: kdecore/all_languages.desktop:9495
+#: kdecore/all_languages.desktop:9498
 msgctxt "Name"
 msgid "Slovenian"
 msgstr "سلووېنين"
 
-#: kdecore/all_languages.desktop:9577
+#: kdecore/all_languages.desktop:9580
 msgctxt "Name"
 msgid "Samoan"
 msgstr "سموان"
 
-#: kdecore/all_languages.desktop:9652
+#: kdecore/all_languages.desktop:9655
 msgctxt "Name"
 msgid "Shona"
 msgstr "شونا"
 
-#: kdecore/all_languages.desktop:9703
+#: kdecore/all_languages.desktop:9706
 msgctxt "Name"
 msgid "Somali"
 msgstr "سومالي"
 
-#: kdecore/all_languages.desktop:9773
+#: kdecore/all_languages.desktop:9776
 msgctxt "Name"
 msgid "Albanian"
 msgstr "الباني"
 
-#: kdecore/all_languages.desktop:9854
+#: kdecore/all_languages.desktop:9857
 msgctxt "Name"
 msgid "Serbian"
 msgstr "سربين"
 
-#: kdecore/all_languages.desktop:9935
+#: kdecore/all_languages.desktop:9938
 msgctxt "Name"
 msgid "Serbian Latin"
 msgstr "سربيايي لاټيني"
 
-#: kdecore/all_languages.desktop:10014
+#: kdecore/all_languages.desktop:10017
 msgctxt "Name"
 msgid "Swati"
 msgstr "سواټي"
 
-#: kdecore/all_languages.desktop:10067
+#: kdecore/all_languages.desktop:10070
 msgctxt "Name"
 msgid "Sotho, Southern"
 msgstr "سوټو، سهېلي"
 
-#: kdecore/all_languages.desktop:10147
+#: kdecore/all_languages.desktop:10150
 msgctxt "Name"
 msgid "Sundanese"
 msgstr "سوډاني"
 
-#: kdecore/all_languages.desktop:10222
+#: kdecore/all_languages.desktop:10225
 msgctxt "Name"
 msgid "Swedish"
 msgstr "سوېډېش"
 
-#: kdecore/all_languages.desktop:10303
+#: kdecore/all_languages.desktop:10306
 msgctxt "Name"
 msgid "Swahili"
 msgstr "سواهيلي"
 
-#: kdecore/all_languages.desktop:10362
+#: kdecore/all_languages.desktop:10365
 msgctxt "Name"
 msgid "Tamil"
 msgstr "ټامېل"
 
-#: kdecore/all_languages.desktop:10428
+#: kdecore/all_languages.desktop:10431
 msgctxt "Name"
 msgid "Telugu"
 msgstr "ټېلوګو"
 
-#: kdecore/all_languages.desktop:10474
+#: kdecore/all_languages.desktop:10477
 msgctxt "Name"
 msgid "Tajik"
 msgstr "تاجکي"
 
-#: kdecore/all_languages.desktop:10550
+#: kdecore/all_languages.desktop:10553
 msgctxt "Name"
 msgid "Thai"
 msgstr "ټهايي"
 
-#: kdecore/all_languages.desktop:10623
+#: kdecore/all_languages.desktop:10626
 msgctxt "Name"
 msgid "Tigrinya"
 msgstr "ټېګرينيا"
 
-#: kdecore/all_languages.desktop:10680
+#: kdecore/all_languages.desktop:10683
 msgctxt "Name"
 msgid "Turkmen"
 msgstr "ترکمني"
 
-#: kdecore/all_languages.desktop:10756
+#: kdecore/all_languages.desktop:10759
 msgctxt "Name"
 msgid "Tswana"
 msgstr "ټسوانا"
 
-#: kdecore/all_languages.desktop:10807
+#: kdecore/all_languages.desktop:10810
 msgctxt "Name"
 msgid "Tonga"
 msgstr "ټونګا"
 
-#: kdecore/all_languages.desktop:10856
+#: kdecore/all_languages.desktop:10859
 msgctxt "Name"
 msgid "Turkish"
 msgstr "ترکي"
 
-#: kdecore/all_languages.desktop:10939
+#: kdecore/all_languages.desktop:10942
 msgctxt "Name"
 msgid "Tsonga"
 msgstr "ټسونګا"
 
-#: kdecore/all_languages.desktop:10985
+#: kdecore/all_languages.desktop:10988
 msgctxt "Name"
 msgid "Tatar"
 msgstr "ټاټار"
 
-#: kdecore/all_languages.desktop:11054
+#: kdecore/all_languages.desktop:11057
 msgctxt "Name"
 msgid "Twi"
 msgstr "ټوي"
 
-#: kdecore/all_languages.desktop:11100
+#: kdecore/all_languages.desktop:11103
 msgctxt "Name"
 msgid "Tahitian"
 msgstr ""
 
-#: kdecore/all_languages.desktop:11177
+#: kdecore/all_languages.desktop:11180
 msgctxt "Name"
 msgid "Uighur"
 msgstr "اوېګور"
 
-#: kdecore/all_languages.desktop:11241
+#: kdecore/all_languages.desktop:11244
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "اکرېني"
 
-#: kdecore/all_languages.desktop:11324
+#: kdecore/all_languages.desktop:11327
 msgctxt "Name"
 msgid "Urdu"
 msgstr "اردو"
 
-#: kdecore/all_languages.desktop:11371
+#: kdecore/all_languages.desktop:11374
 msgctxt "Name"
 msgid "Uzbek"
 msgstr "ازبکي"
 
-#: kdecore/all_languages.desktop:11449
+#: kdecore/all_languages.desktop:11452
 msgctxt "Name"
 msgid "Uzbek (Cyrillic)"
 msgstr "ازبکي (سېرېلېک)"
 
-#: kdecore/all_languages.desktop:11512
+#: kdecore/all_languages.desktop:11515
 msgctxt "Name"
 msgid "Venda"
 msgstr "وېنډا"
 
-#: kdecore/all_languages.desktop:11554
+#: kdecore/all_languages.desktop:11557
 msgctxt "Name"
 msgid "Vietnamese"
 msgstr "وېټنامي"
 
-#: kdecore/all_languages.desktop:11636
+#: kdecore/all_languages.desktop:11639
 msgctxt "Name"
 msgid "Volapük"
 msgstr ""
 
-#: kdecore/all_languages.desktop:11682
+#: kdecore/all_languages.desktop:11685
 msgctxt "Name"
 msgid "Walloon"
 msgstr "والون"
 
-#: kdecore/all_languages.desktop:11758
+#: kdecore/all_languages.desktop:11761
 msgctxt "Name"
 msgid "Wolof"
 msgstr "ولوف"
 
-#: kdecore/all_languages.desktop:11809
+#: kdecore/all_languages.desktop:11812
 msgctxt "Name"
 msgid "Xhosa"
 msgstr "کوسا"
 
-#: kdecore/all_languages.desktop:11857
+#: kdecore/all_languages.desktop:11860
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "يډېش"
 
-#: kdecore/all_languages.desktop:11924
+#: kdecore/all_languages.desktop:11927
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "يوروبا"
 
-#: kdecore/all_languages.desktop:11977
+#: kdecore/all_languages.desktop:11980
 msgctxt "Name"
 msgid "Zhuang"
 msgstr ""
 
-#: kdecore/all_languages.desktop:12021
+#: kdecore/all_languages.desktop:12024
 msgctxt "Name"
 msgid "Chinese"
 msgstr "چينايي"
 
-#: kdecore/all_languages.desktop:12104
+#: kdecore/all_languages.desktop:12107
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "چينايي ساده"
 
-#: kdecore/all_languages.desktop:12185
+#: kdecore/all_languages.desktop:12188
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "چينايي (هانګ کانګ)"
 
-#: kdecore/all_languages.desktop:12265
+#: kdecore/all_languages.desktop:12268
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "چينايي هڅوبي"
 
-#: kdecore/all_languages.desktop:12346
+#: kdecore/all_languages.desktop:12349
 msgctxt "Name"
 msgid "Zulu"
 msgstr "زولو"
@@ -1524,7 +1524,7 @@ msgctxt "Name"
 msgid "Package metadata test file"
 msgstr ""
 
-#: plasma/tests/packagemetadatatest.desktop:37
+#: plasma/tests/packagemetadatatest.desktop:38
 msgctxt "Comment"
 msgid "A test desktop file to test the PackageMetaData class."
 msgstr ""
