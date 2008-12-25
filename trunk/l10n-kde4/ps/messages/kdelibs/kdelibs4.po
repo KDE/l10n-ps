@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-24 10:47+0100\n"
+"POT-Creation-Date: 2008-12-25 09:36+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -904,7 +904,10 @@ msgstr "لاسوند خبرتياوې"
 
 #. i18n: file: khtml/htmlpageinfo.ui:45
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox2)
-#: rc.cpp:414 kross/ui/view.cpp:512
+#: rc.cpp:414
+#, fuzzy
+#| msgid "General"
+msgctxt "@title:group Document information"
 msgid "General"
 msgstr "ټولګړي"
 
@@ -10968,6 +10971,13 @@ msgstr ".ټاکل شوی سکرېپټ ړنګول"
 #: kross/ui/view.cpp:505
 msgid "Edit"
 msgstr "سمون"
+
+#: kross/ui/view.cpp:512
+#, fuzzy
+#| msgid "General"
+msgctxt "@title:group Script properties"
+msgid "General"
+msgstr "ټولګړي"
 
 #: kross/qts/main.cpp:57 kross/console/main.cpp:94
 msgid "Kross"
