@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-05 10:11+0100\n"
+"POT-Creation-Date: 2009-01-06 09:59+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2052,124 +2052,128 @@ msgstr "د لګول شوېو ک.ټ کتابتونونو ځای"
 msgid "Location of installed Qt plugins"
 msgstr "د لګول شوېو ک.ټ لګونونو ځای"
 
-#: kdecore/kde-config.cpp:144
+#: kdecore/kde-config.cpp:126
 msgid "Applications menu (.desktop files)"
 msgstr "(.سرپاڼه دوتنې) کاريالونه غورنۍ"
 
-#: kdecore/kde-config.cpp:145
+#: kdecore/kde-config.cpp:127
+msgid "Cached information (e.g. favicons, web-pages)"
+msgstr ""
+
+#: kdecore/kde-config.cpp:128
 msgid "CGIs to run from kdehelp"
 msgstr "چې د کډيمرستې نه وځغلول شي CGIs هغه"
 
-#: kdecore/kde-config.cpp:146
+#: kdecore/kde-config.cpp:129
 msgid "Configuration files"
 msgstr "د سازونې دوتنې"
 
-#: kdecore/kde-config.cpp:147
+#: kdecore/kde-config.cpp:130
 msgid "Where applications store data"
 msgstr "چېرته چې کاريالونه اومتوک زېرمي"
 
-#: kdecore/kde-config.cpp:148
+#: kdecore/kde-config.cpp:131
 msgid "Emoticons"
 msgstr "څېرې"
 
-#: kdecore/kde-config.cpp:149
+#: kdecore/kde-config.cpp:132
 msgid "Executables in $prefix/bin"
 msgstr "کې چلېدونکي $prefix/bin په"
 
-#: kdecore/kde-config.cpp:150
+#: kdecore/kde-config.cpp:133
 msgid "HTML documentation"
 msgstr "لاسوندونه HTML"
 
-#: kdecore/kde-config.cpp:151
+#: kdecore/kde-config.cpp:134
 msgid "Icons"
 msgstr "انځورنونه"
 
-#: kdecore/kde-config.cpp:152
+#: kdecore/kde-config.cpp:135
 msgid "Configuration description files"
 msgstr "د سازونې سپړاوي دوتنې"
 
-#: kdecore/kde-config.cpp:153
+#: kdecore/kde-config.cpp:136
 msgid "Libraries"
 msgstr "کتابتونونه"
 
-#: kdecore/kde-config.cpp:154
+#: kdecore/kde-config.cpp:137
 msgid "Includes/Headers"
 msgstr "ننويستل/سريزې"
 
-#: kdecore/kde-config.cpp:155
+#: kdecore/kde-config.cpp:138
 msgid "Translation files for KLocale"
 msgstr "د ک.ځاييز لپاره ژباړه دوتنې"
 
-#: kdecore/kde-config.cpp:156
+#: kdecore/kde-config.cpp:139
 msgid "Mime types"
 msgstr "ميمي ډول"
 
-#: kdecore/kde-config.cpp:157
+#: kdecore/kde-config.cpp:140
 msgid "Loadable modules"
 msgstr "لېښل کېدونکې رغبېلګې"
 
-#: kdecore/kde-config.cpp:158 kdecore/kde-config.cpp:168
+#: kdecore/kde-config.cpp:141 kdecore/kde-config.cpp:151
 msgid "Legacy pixmaps"
 msgstr "pixmaps پخواني"
 
-#: kdecore/kde-config.cpp:159
+#: kdecore/kde-config.cpp:142
 msgid "Qt plugins"
 msgstr "ک.ټ لګونونه"
 
-#: kdecore/kde-config.cpp:160
+#: kdecore/kde-config.cpp:143
 msgid "Services"
 msgstr "پالنې"
 
-#: kdecore/kde-config.cpp:161
+#: kdecore/kde-config.cpp:144
 msgid "Service types"
 msgstr "د پالنې ډولونه"
 
-#: kdecore/kde-config.cpp:162
+#: kdecore/kde-config.cpp:145
 msgid "Application sounds"
 msgstr "کاريال غږونه"
 
-#: kdecore/kde-config.cpp:163
+#: kdecore/kde-config.cpp:146
 msgid "Templates"
 msgstr "کوندې"
 
-#: kdecore/kde-config.cpp:164
+#: kdecore/kde-config.cpp:147
 msgid "Wallpapers"
 msgstr "دېوالپاڼې"
 
-#: kdecore/kde-config.cpp:165
+#: kdecore/kde-config.cpp:148
 msgid "XDG Application menu (.desktop files)"
 msgstr "کاريال غورنۍ (.سرپاڼه دوتنې)XDG"
 
-#: kdecore/kde-config.cpp:166
+#: kdecore/kde-config.cpp:149
 msgid "XDG Menu descriptions (.directory files)"
 msgstr "غورنۍ سپړاوي (.پوښۍ دوتنې)XDG"
 
-#: kdecore/kde-config.cpp:167
+#: kdecore/kde-config.cpp:150
 msgid "XDG Icons"
 msgstr "انځورنونه XDG"
 
-#: kdecore/kde-config.cpp:169
+#: kdecore/kde-config.cpp:152
 msgid "XDG Mime Types"
 msgstr "ميمي ډولونه XDG"
 
-#: kdecore/kde-config.cpp:170
+#: kdecore/kde-config.cpp:153
 msgid "XDG Menu layout (.menu files)"
 msgstr "(.غورنۍ دوتنې) غورنۍ هډوانه XDG"
 
-#: kdecore/kde-config.cpp:171
+#: kdecore/kde-config.cpp:154
 msgid "Temporary files (specific for both current host and current user)"
 msgstr "لنډمهاله دوتنې (د اوسني کوربه او اوسني کارن دواړو لپاره ټاکل شوی)"
 
-#: kdecore/kde-config.cpp:172
+#: kdecore/kde-config.cpp:155
 msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "يونېکس ساکټونه (د اوسني کوربه او اوسني کارن دواړو لپاره ټاکل شوی)"
 
-#: kdecore/kde-config.cpp:184
+#: kdecore/kde-config.cpp:167
 #, kde-format
 msgid "%1 - unknown type\n"
 msgstr "ناپېژندلی ډول - %1\n"
 
-#: kdecore/kde-config.cpp:246
+#: kdecore/kde-config.cpp:229
 #, kde-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "د کارنيونلور ناسم ډول - %1\n"
@@ -3174,7 +3178,7 @@ msgstr ""
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:190
+#: kdecore/util/kpluginloader.cpp:191
 #, kde-format
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr ".(%2) لګون کوم ناجوړ کډي کتابتون کاروي '%1'"
@@ -7952,7 +7956,7 @@ msgstr ""
 "انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده "
 "او د انکړ خبرتياوو لپاره کارول کيږي."
 
-#: kdeui/windowmanagement/kwindowsystem_qws.cpp:163
+#: kdeui/windowmanagement/kwindowsystem_qws.cpp:177
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:852
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:546
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:559
@@ -8928,7 +8932,7 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "خپلکاری && لرغورځی لړ"
 
-#: kdeui/widgets/klineedit.cpp:1148
+#: kdeui/widgets/klineedit.cpp:1150
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
@@ -12021,44 +12025,6 @@ msgstr "KUnitTest ModRunner"
 msgid "(C) 2005 Jeroen Wijnhout"
 msgstr "چاپرښتې ۲۰۰۵، جېراېن وېجنهاټ"
 
-#: kformula/FormulaCommand.cpp:32
-#, fuzzy
-#| msgid "Add Comment"
-msgid "Add Elements"
-msgstr "څرګندون زياتول"
-
-#: kformula/FormulaCommand.cpp:61
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Block Elements"
-msgid "Remove Elements"
-msgstr "غونډ توکونه"
-
-#: kformula/FormulaCommand.cpp:91
-#, fuzzy
-#| msgctxt "KCharselect unicode block name"
-#| msgid "Block Elements"
-msgid "Replace Element"
-msgstr "غونډ توکونه"
-
-#: kformula/FormulaCommand.cpp:139
-msgid "Attribute Changed"
-msgstr ""
-
-#: kformula/sample/main.cpp:10
-#, fuzzy
-#| msgid "Quit application"
-msgid "Sample KFormula application"
-msgstr "کاريال بندول"
-
-#: kformula/sample/main.cpp:11
-msgid "Application showing a KFormula widget for debugging purposes"
-msgstr ""
-
-#: kformula/sample/main.cpp:13
-msgid "Copyright 2008 Alfredo Beaumont <alfredo.beaumont@gmail.com>"
-msgstr ""
-
 #: kdeui/colors/kcolordialog.cpp:97
 msgctxt "palette name"
 msgid "* Recent Colors *"
@@ -12354,6 +12320,28 @@ msgstr "د &ورځې نکته"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
+
+#, fuzzy
+#~| msgid "Add Comment"
+#~ msgid "Add Elements"
+#~ msgstr "څرګندون زياتول"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Block Elements"
+#~ msgid "Remove Elements"
+#~ msgstr "غونډ توکونه"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Block Elements"
+#~ msgid "Replace Element"
+#~ msgstr "غونډ توکونه"
+
+#, fuzzy
+#~| msgid "Quit application"
+#~ msgid "Sample KFormula application"
+#~ msgstr "کاريال بندول"
 
 #, fuzzy
 #~| msgid "Options"
