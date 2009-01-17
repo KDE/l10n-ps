@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-15 10:43+0100\n"
+"POT-Creation-Date: 2009-01-17 10:28+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10899,32 +10899,32 @@ msgid ""
 "klauncher: It is started automatically by kdeinit4.\n"
 msgstr ""
 
-#: kinit/klauncher.cpp:538
+#: kinit/klauncher.cpp:533
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr ".نه شي پرانيستلی '%1' KDEInit"
 
-#: kinit/klauncher.cpp:703 kinit/klauncher.cpp:728 kinit/klauncher.cpp:743
+#: kinit/klauncher.cpp:698 kinit/klauncher.cpp:723 kinit/klauncher.cpp:738
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr ".پالنه نه شي موندلی '%1'"
 
-#: kinit/klauncher.cpp:759 kinit/klauncher.cpp:795
+#: kinit/klauncher.cpp:754 kinit/klauncher.cpp:790
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr ""
 
-#: kinit/klauncher.cpp:876
+#: kinit/klauncher.cpp:871
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 پېليږي"
 
-#: kinit/klauncher.cpp:1082
+#: kinit/klauncher.cpp:1077
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr ".'%1' ناپېژندلې باندرې\n"
 
-#: kinit/klauncher.cpp:1143
+#: kinit/klauncher.cpp:1138
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr ".د '%1' په لېښلو کې تېروتنه\n"
