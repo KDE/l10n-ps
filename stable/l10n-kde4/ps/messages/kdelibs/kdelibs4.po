@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-31 07:00+0100\n"
+"POT-Creation-Date: 2009-02-02 07:08+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6419,6 +6419,9 @@ msgstr ""
 "وکاروﺉ"
 
 #: kdeui/dialogs/kbugreport.cpp:130
+#, fuzzy
+#| msgid "From:"
+msgctxt "Email sender address"
 msgid "From:"
 msgstr ":له"
 
@@ -6431,6 +6434,9 @@ msgid "The email address this bug report is sent to."
 msgstr ".هغه برېښليک پته چې دا کړاو راپور ورته لېږل کيږي"
 
 #: kdeui/dialogs/kbugreport.cpp:147
+#, fuzzy
+#| msgid "To:"
+msgctxt "Email receiver address"
 msgid "To:"
 msgstr ":ته"
 
@@ -8047,6 +8053,9 @@ msgid "Enter a search term or character here"
 msgstr "پلټون ويې يا لوښته دلته وليکﺉ"
 
 #: kdeui/widgets/kcharselect.cpp:354
+#, fuzzy
+#| msgid "Back"
+msgctxt "Goes to previous character"
 msgid "Back"
 msgstr "شاته"
 
@@ -8055,6 +8064,9 @@ msgid "Previous Character"
 msgstr "مخکنۍ لوښه"
 
 #: kdeui/widgets/kcharselect.cpp:361
+#, fuzzy
+#| msgid "Forward"
+msgctxt "Goes to next character"
 msgid "Forward"
 msgstr "مخکې"
 
