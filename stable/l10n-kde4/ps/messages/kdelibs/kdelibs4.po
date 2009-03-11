@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-05 06:18+0100\n"
+"POT-Creation-Date: 2009-03-11 07:14+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -9576,19 +9576,19 @@ msgstr "خپله ليکدود کتل"
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
-#: kdeui/widgets/ktextedit.cpp:538
+#: kdeui/widgets/ktextedit.cpp:540
 msgid "Suggestions"
 msgstr "وړانديزونه"
 
-#: kdeui/widgets/ktextedit.cpp:540
+#: kdeui/widgets/ktextedit.cpp:542
 msgid "Ignore"
 msgstr "پرېښودل"
 
-#: kdeui/widgets/ktextedit.cpp:541
+#: kdeui/widgets/ktextedit.cpp:543
 msgid "Add to Dictionary"
 msgstr "ويېپانګه کې زياتول"
 
-#: kdeui/widgets/ktextedit.cpp:687
+#: kdeui/widgets/ktextedit.cpp:689
 msgid "Nothing to spell check."
 msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
