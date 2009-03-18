@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-27 10:50+0100\n"
+"POT-Creation-Date: 2009-03-18 10:53+0100\n"
 "PO-Revision-Date: 2008-08-12 08:23-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -266,13 +266,17 @@ msgstr "د تېرنويې پر پوښتلو"
 #. i18n: file: main_widget.ui:248
 #. i18n: ectx: property (text), widget (QRadioButton, rdbOneStar)
 #: rc.cpp:51
-msgid "Show one star for each letter"
+#, fuzzy
+#| msgid "Show one star for each letter"
+msgid "Show one bullet for each letter"
 msgstr "د هر توري لپاره يو ستوری ښودل"
 
 #. i18n: file: main_widget.ui:255
 #. i18n: ectx: property (text), widget (QRadioButton, rdbThreeStars)
 #: rc.cpp:54
-msgid "Show three stars for each letter"
+#, fuzzy
+#| msgid "Show three stars for each letter"
+msgid "Show three bullets for each letter"
 msgstr "د هر توري لپاره درې ستوري ښودل"
 
 #. i18n: file: main_widget.ui:262
