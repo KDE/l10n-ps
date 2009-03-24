@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-23 06:10+0100\n"
+"POT-Creation-Date: 2009-03-24 06:20+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -3192,6 +3192,14 @@ msgstr ".لورينه وکړﺉ خپل د غونډال پازوال سره اړ�
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr ".د ليکلو وړ نه ده \"%1\" سازونې دوتنه\n"
 
+#: kdecore/network/klocalsocket_win.cpp:31
+#: kdecore/network/klocalsocket_win.cpp:36
+#, fuzzy
+#| msgctxt "Socket error code NotSupported"
+#| msgid "operation is not supported"
+msgid "Operation not supported"
+msgstr "چلښت نه منل کيږي"
+
 #: kdecore/network/k3socketaddress.cpp:623
 #, kde-format
 msgctxt "1: the unknown socket address family number"
@@ -3325,6 +3333,83 @@ msgstr "نه منل کيږي 'ai_socktype'"
 #: kdecore/network/netsupp.cpp:902
 msgid "system error"
 msgstr "غونډال تېروتنه"
+
+#: kdecore/network/klocalsocket_unix.cpp:178
+#: kdecore/network/klocalsocket_unix.cpp:246
+msgid "Specified socket path is invalid"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:187
+#: kdecore/network/klocalsocket_unix.cpp:234
+#: kdecore/network/klocalsocket_unix.cpp:255
+#, fuzzy
+#| msgctxt "Socket error code NotSupported"
+#| msgid "operation is not supported"
+msgid "The socket operation is not supported"
+msgstr "چلښت نه منل کيږي"
+
+#: kdecore/network/klocalsocket_unix.cpp:200
+#, fuzzy
+#| msgctxt "Socket error code ConnectionRefused"
+#| msgid "connection actively refused"
+msgid "Connection refused"
+msgstr "نښلېدنه په چارنده ډول ونه منل شوه"
+
+#: kdecore/network/klocalsocket_unix.cpp:205
+#: kdecore/network/klocalsocket_unix.cpp:268
+msgid "Permission denied"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:209
+#, fuzzy
+#| msgctxt "Socket error code ConnectionTimedOut"
+#| msgid "connection timed out"
+msgid "Connection timed out"
+msgstr "د نښلېدنې مهال بشپړ شو"
+
+#: kdecore/network/klocalsocket_unix.cpp:213
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:425
+msgid "Unknown error"
+msgstr "ناپېژندلې تېروتنه"
+
+#: kdecore/network/klocalsocket_unix.cpp:221
+#: kdecore/network/klocalsocket_unix.cpp:301
+msgid "Could not set non-blocking mode"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:272
+#, fuzzy
+#| msgctxt "Socket error code AddressInUse"
+#| msgid "address already in use"
+msgid "Address is already in use"
+msgstr "پته د مخکې نه کارول کيږي"
+
+#: kdecore/network/klocalsocket_unix.cpp:277
+msgid "Path cannot be used"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:281
+#, fuzzy
+#| msgid "No such interpreter \"%1\""
+msgid "No such file or directory"
+msgstr "\"%1\" داسې ژباړونکی نشته"
+
+#: kdecore/network/klocalsocket_unix.cpp:285
+#, fuzzy
+#| msgid "Path to the autostart directory"
+msgid "Not a directory"
+msgstr "د خپلپېل پوښۍ يونلور"
+
+#: kdecore/network/klocalsocket_unix.cpp:289
+msgid "Read-only filesystem"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:354
+#: kdecore/network/klocalsocket_unix.cpp:386
+#, fuzzy
+#| msgid "Unknown error"
+msgid "Unknown socket error"
+msgstr "ناپېژندلې تېروتنه"
 
 #: kdecore/network/k3resolver.cpp:546
 msgid "requested family not supported for this host name"
@@ -11178,10 +11263,6 @@ msgstr "د اړيکې تېروتنه"
 #: nepomuk/core/resource.cpp:423
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
-
-#: nepomuk/core/resource.cpp:425
-msgid "Unknown error"
-msgstr "ناپېژندلې تېروتنه"
 
 #: nepomuk/core/ui/kmetadatatagwidget.cpp:214
 msgid "Create New Tag..."
