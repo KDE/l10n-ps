@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-24 10:53+0100\n"
+"POT-Creation-Date: 2009-03-25 11:21+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -3468,25 +3468,25 @@ msgstr "پېرن NEC SOCKS"
 msgid "Dante SOCKS client"
 msgstr "پېرن SOCKS ډېنټي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:273
+#: kdecore/kernel/kcmdlineargs.cpp:274
 msgid "Use the X-server display 'displayname'"
 msgstr "-پالنګر ښوون 'ښووننوم' کارولX د"
 
-#: kdecore/kernel/kcmdlineargs.cpp:275
+#: kdecore/kernel/kcmdlineargs.cpp:276
 msgid "Use the QWS display 'displayname'"
 msgstr "پالنګر ښوون 'ښووننوم' کارول د ک.و.س"
 
-#: kdecore/kernel/kcmdlineargs.cpp:278
+#: kdecore/kernel/kcmdlineargs.cpp:279
 msgid "Restore the application for the given 'sessionId'"
 msgstr "کاريال د ورکړل شوې 'ناستې پېژند' لپاره بيازېرمل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:279
+#: kdecore/kernel/kcmdlineargs.cpp:280
 msgid ""
 "Causes the application to install a private color\n"
 "map on an 8-bit display"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:280
+#: kdecore/kernel/kcmdlineargs.cpp:281
 msgid ""
 "Limits the number of colors allocated in the color\n"
 "cube on an 8-bit display, if the application is\n"
@@ -3494,140 +3494,140 @@ msgid ""
 "specification"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:281
+#: kdecore/kernel/kcmdlineargs.cpp:282
 msgid "tells Qt to never grab the mouse or the keyboard"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:282
+#: kdecore/kernel/kcmdlineargs.cpp:283
 msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:283
+#: kdecore/kernel/kcmdlineargs.cpp:284
 msgid "switches to synchronous mode for debugging"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:285
+#: kdecore/kernel/kcmdlineargs.cpp:286
 msgid "defines the application font"
 msgstr "د کاريال ليکبڼه ټاکي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:287
+#: kdecore/kernel/kcmdlineargs.cpp:288
 msgid ""
 "sets the default background color and an\n"
 "application palette (light and dark shades are\n"
 "calculated)"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:289
+#: kdecore/kernel/kcmdlineargs.cpp:290
 msgid "sets the default foreground color"
 msgstr "د تلواله پاسليد رنګ ټاکي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:291
+#: kdecore/kernel/kcmdlineargs.cpp:292
 msgid "sets the default button color"
 msgstr "د تلوالې تڼۍ رنګ ټاکي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:292
+#: kdecore/kernel/kcmdlineargs.cpp:293
 msgid "sets the application name"
 msgstr "د کاريال نوم ټاکي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:293
+#: kdecore/kernel/kcmdlineargs.cpp:294
 msgid "sets the application title (caption)"
 msgstr "د کاريال سرليک ټاکي (نيونګه)"
 
-#: kdecore/kernel/kcmdlineargs.cpp:295
+#: kdecore/kernel/kcmdlineargs.cpp:296
 msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:296
+#: kdecore/kernel/kcmdlineargs.cpp:297
 msgid ""
 "sets XIM (X Input Method) input style. Possible\n"
 "values are onthespot, overthespot, offthespot and\n"
 "root"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:297
+#: kdecore/kernel/kcmdlineargs.cpp:298
 msgid "set XIM server"
 msgstr "پالنګر امستل XIM"
 
-#: kdecore/kernel/kcmdlineargs.cpp:298
+#: kdecore/kernel/kcmdlineargs.cpp:299
 msgid "disable XIM"
 msgstr "ناتوانول XIM"
 
-#: kdecore/kernel/kcmdlineargs.cpp:301
+#: kdecore/kernel/kcmdlineargs.cpp:302
 msgid "forces the application to run as QWS Server"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:303
+#: kdecore/kernel/kcmdlineargs.cpp:304
 msgid "mirrors the whole layout of widgets"
 msgstr "د کاروونو ټوله هډوانه هېنداروي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:304
+#: kdecore/kernel/kcmdlineargs.cpp:305
 msgid "applies the Qt stylesheet to the application widgets"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:309
+#: kdecore/kernel/kcmdlineargs.cpp:310
 msgid ""
 "use a different graphics system instead of the default one, options are "
 "raster and opengl (experimental)"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:311
+#: kdecore/kernel/kcmdlineargs.cpp:312
 msgid "Use 'caption' as name in the titlebar"
 msgstr "لکه نوم په انکړپټه کې کارول 'نيونګه'"
 
-#: kdecore/kernel/kcmdlineargs.cpp:312
+#: kdecore/kernel/kcmdlineargs.cpp:313
 msgid "Use 'icon' as the application icon"
 msgstr "لکه د کاريال انځورن کارول 'انځورن'"
 
-#: kdecore/kernel/kcmdlineargs.cpp:313
+#: kdecore/kernel/kcmdlineargs.cpp:314
 msgid "Use alternative configuration file"
 msgstr "دوېمګړې سازونې دوتنه کارول"
 
-#: kdecore/kernel/kcmdlineargs.cpp:314
+#: kdecore/kernel/kcmdlineargs.cpp:315
 msgid "Disable crash handler, to get core dumps"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:316
+#: kdecore/kernel/kcmdlineargs.cpp:317
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:318
+#: kdecore/kernel/kcmdlineargs.cpp:319
 msgid "sets the application GUI style"
 msgstr "د کاريال د کښنيز کارن برسېر ډول ټاکي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:319
+#: kdecore/kernel/kcmdlineargs.cpp:320
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:436
+#: kdecore/kernel/kcmdlineargs.cpp:438
 msgid "KDE Application"
 msgstr "کډي کاريال"
 
-#: kdecore/kernel/kcmdlineargs.cpp:493
+#: kdecore/kernel/kcmdlineargs.cpp:495
 msgid "Qt"
 msgstr "ک.ټ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4692
+#: kdecore/kernel/kcmdlineargs.cpp:498 khtml/khtml_part.cpp:4692
 msgid "KDE"
 msgstr "کډي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:798 kdecore/kernel/kcmdlineargs.cpp:818
+#: kdecore/kernel/kcmdlineargs.cpp:809 kdecore/kernel/kcmdlineargs.cpp:829
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr ".'%1' ناپېژندلې غوراوی"
 
-#: kdecore/kernel/kcmdlineargs.cpp:826
+#: kdecore/kernel/kcmdlineargs.cpp:837
 #, kde-format
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr ".ورک دی '%1'"
 
-#: kdecore/kernel/kcmdlineargs.cpp:905
+#: kdecore/kernel/kcmdlineargs.cpp:916
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -3637,43 +3637,43 @@ msgstr ""
 "ليکلی وو %1\n"
 "%2"
 
-#: kdecore/kernel/kcmdlineargs.cpp:908
+#: kdecore/kernel/kcmdlineargs.cpp:919
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "دا کاريال د يو داسې وګړي لخوا جوړ شوی چې خپل نوم ښودل نه غواړي."
 
-#: kdecore/kernel/kcmdlineargs.cpp:915
+#: kdecore/kernel/kcmdlineargs.cpp:926
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr ".وکاروﺉ http://bugs.kde.org لورينه وکړﺉ د کړاونو راپورولو لپاره\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:917
+#: kdecore/kernel/kcmdlineargs.cpp:928
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr ".ته راپور کړﺉ %1 لورينه وکړﺉ کړاونه\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:942
+#: kdecore/kernel/kcmdlineargs.cpp:953
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr ".'%1' ناڅاپي ارزښتمنۍ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1059
+#: kdecore/kernel/kcmdlineargs.cpp:1070
 msgid "Use --help to get a list of available command line options."
 msgstr ".وکاروﺉ --help د شته بولۍ ليکه غوراويو د لړ اخيستلو لپاره"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1082
+#: kdecore/kernel/kcmdlineargs.cpp:1093
 msgid "[options] "
 msgstr "[غوراوي] "
 
-#: kdecore/kernel/kcmdlineargs.cpp:1089
+#: kdecore/kernel/kcmdlineargs.cpp:1100
 #, kde-format
 msgid "[%1-options]"
 msgstr "[غوراوي-%1]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1110
+#: kdecore/kernel/kcmdlineargs.cpp:1121
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "%1 %2 :کارونه\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1113
+#: kdecore/kernel/kcmdlineargs.cpp:1124
 msgid ""
 "\n"
 "Generic options:\n"
@@ -3681,36 +3681,36 @@ msgstr ""
 "\n"
 ":ټولګړي غوراوي\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1115
+#: kdecore/kernel/kcmdlineargs.cpp:1126
 msgid "Show help about options"
 msgstr "د غوراويو په اړه مرسته ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1123
+#: kdecore/kernel/kcmdlineargs.cpp:1134
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "پورې تړلي غوراوي ښودل %1"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1130
+#: kdecore/kernel/kcmdlineargs.cpp:1141
 msgid "Show all options"
 msgstr "ټول غوراوي ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1131
+#: kdecore/kernel/kcmdlineargs.cpp:1142
 msgid "Show author information"
 msgstr "د ليکوال خبرتياوې ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1132
+#: kdecore/kernel/kcmdlineargs.cpp:1143
 msgid "Show version information"
 msgstr "د نسخې خبرتياوې ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1133
+#: kdecore/kernel/kcmdlineargs.cpp:1144
 msgid "Show license information"
 msgstr "د منښتليک خبرتياوې ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1134
+#: kdecore/kernel/kcmdlineargs.cpp:1145
 msgid "End of options"
 msgstr "د غوراويو پای"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1155
+#: kdecore/kernel/kcmdlineargs.cpp:1166
 #, kde-format
 msgid ""
 "\n"
@@ -3719,7 +3719,7 @@ msgstr ""
 "\n"
 ":غوراوي %1\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1157
+#: kdecore/kernel/kcmdlineargs.cpp:1168
 msgid ""
 "\n"
 "Options:\n"
@@ -3727,7 +3727,7 @@ msgstr ""
 "\n"
 ":غوراوي\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1215
+#: kdecore/kernel/kcmdlineargs.cpp:1226
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3735,12 +3735,12 @@ msgstr ""
 "\n"
 "ارزښتمنۍ\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1571
+#: kdecore/kernel/kcmdlineargs.cpp:1582
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "چې د کاريال لخوا پرانيستل شي د کارونې وروسته به وړنګول شي URLsهغه دوتنې/"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1572
+#: kdecore/kernel/kcmdlineargs.cpp:1583
 msgid "KDE-tempfile"
 msgstr "کډي-لنډمهالدوتنه"
 
@@ -11099,12 +11099,12 @@ msgstr ""
 msgid "Launching %1"
 msgstr "%1 پېليږي"
 
-#: kinit/klauncher.cpp:1118
+#: kinit/klauncher.cpp:1116
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr ".'%1' ناپېژندلې باندرې\n"
 
-#: kinit/klauncher.cpp:1179
+#: kinit/klauncher.cpp:1177
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr ".د '%1' په لېښلو کې تېروتنه\n"
