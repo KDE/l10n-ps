@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-28 11:05+0100\n"
+"POT-Creation-Date: 2009-03-29 11:35+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2204,7 +2204,7 @@ msgstr "په موخه پوښۍ سمې پرېښلې نشته."
 msgid "Unable to open temporary file."
 msgstr ".لنډمهاله دوتنه نه شي پرانيستلی"
 
-#: kdecore/io/ksavefile.cpp:220
+#: kdecore/io/ksavefile.cpp:217
 msgid "Error during rename."
 msgstr ".د بيانومولو پر مهال تېروتنه"
 
