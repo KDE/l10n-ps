@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-08 11:55+0200\n"
+"POT-Creation-Date: 2009-04-09 11:04+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5226,8 +5226,8 @@ msgstr "دا ننوت کچول"
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:448
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:538
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:67
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:191
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:199
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:194
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:202
 msgid "Install"
 msgstr "لګول"
 
@@ -5235,7 +5235,7 @@ msgstr "لګول"
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:68
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:176
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:179
 msgid "Uninstall"
 msgstr "نالګول"
 
@@ -5273,7 +5273,7 @@ msgid "Report bad entry"
 msgstr "ناسمه ننوت راپورول"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:138
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:182
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:185
 msgid "Update"
 msgstr "اوسمهالول"
 
@@ -5367,23 +5367,29 @@ msgstr "نوی اومتوک رالېښل"
 msgid "User comments"
 msgstr "کارن څرګندونونه"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:149
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:152
 #, fuzzy
 #| msgid "No Downloads"
 msgid "<p>No Downloads</p>"
 msgstr "هېڅ رالېښنې"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:149
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:152
 #, fuzzy, kde-format
 #| msgid "Downloads: %1"
 msgid "<p>Downloads: %1</p>\n"
 msgstr "%1 :رالېښنې"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:240
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:212
+#, fuzzy, kde-format
+#| msgid "Rating: "
+msgid "Rating: %1"
+msgstr ":کچونه"
+
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:252
 msgid "No Preview"
 msgstr "هېڅ مخکوت"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:250
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:262
 msgid "Loading Preview"
 msgstr "مخکوت لېښل کيږي"
 
@@ -11024,15 +11030,15 @@ msgstr "ټول منل&"
 msgid "No handler found for %1."
 msgstr ".د %1 لپاره کوم سمبالوونکی ونه مونل شو"
 
-#: khtml/kmultipart/kmultipart.cpp:562
+#: khtml/kmultipart/kmultipart.cpp:564
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:564
+#: khtml/kmultipart/kmultipart.cpp:566
 msgid "Embeddable component for multipart/mixed"
 msgstr ""
 
-#: khtml/kmultipart/kmultipart.cpp:566
+#: khtml/kmultipart/kmultipart.cpp:568
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesoft.com</email>"
 
