@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-05 06:19+0200\n"
+"POT-Creation-Date: 2009-04-09 06:28+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10913,20 +10913,20 @@ msgstr "ټول نه منل&"
 msgid "&Grant All"
 msgstr "ټول منل&"
 
-#: khtml/kmultipart/kmultipart.cpp:321
+#: khtml/kmultipart/kmultipart.cpp:315
 #, kde-format
 msgid "No handler found for %1."
 msgstr ".د %1 لپاره کوم سمبالوونکی ونه مونل شو"
 
-#: khtml/kmultipart/kmultipart.cpp:568
+#: khtml/kmultipart/kmultipart.cpp:564
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:570
+#: khtml/kmultipart/kmultipart.cpp:566
 msgid "Embeddable component for multipart/mixed"
 msgstr ""
 
-#: khtml/kmultipart/kmultipart.cpp:572
+#: khtml/kmultipart/kmultipart.cpp:568
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesoft.com</email>"
 
