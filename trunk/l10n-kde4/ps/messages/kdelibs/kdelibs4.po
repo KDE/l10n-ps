@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-09 11:04+0200\n"
+"POT-Creation-Date: 2009-04-10 11:05+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10757,7 +10757,7 @@ msgstr ""
 msgid "Breakpoint"
 msgstr "ماتټکی"
 
-#: khtml/ecma/debugger/scriptsdock.cpp:40
+#: khtml/ecma/debugger/scriptsdock.cpp:43
 msgid "Loaded Scripts"
 msgstr "لېښل شوي سکرېپټونه"
 
@@ -11030,15 +11030,15 @@ msgstr "ټول منل&"
 msgid "No handler found for %1."
 msgstr ".د %1 لپاره کوم سمبالوونکی ونه مونل شو"
 
-#: khtml/kmultipart/kmultipart.cpp:564
+#: khtml/kmultipart/kmultipart.cpp:567
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:566
+#: khtml/kmultipart/kmultipart.cpp:569
 msgid "Embeddable component for multipart/mixed"
 msgstr ""
 
-#: khtml/kmultipart/kmultipart.cpp:568
+#: khtml/kmultipart/kmultipart.cpp:571
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesoft.com</email>"
 
@@ -12367,7 +12367,7 @@ msgstr "...دوديز"
 msgid "TETest"
 msgstr "TETest"
 
-#: kdecore/util/qtest_kde.h:74 kdecore/util/qtest_kde.h:122
+#: kdecore/util/qtest_kde.h:76 kdecore/util/qtest_kde.h:125
 msgid "KDE Test Program"
 msgstr "د کډي ازموېنې کړنلار"
 
