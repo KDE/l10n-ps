@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-09 06:28+0200\n"
+"POT-Creation-Date: 2009-04-13 06:20+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -7947,7 +7947,7 @@ msgid "Disable automatic checking"
 msgstr "خپلکارې کتنه ناتوانول"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:222
-#: kdeui/widgets/kdatepicker.cpp:708
+#: kdeui/widgets/kdatepicker.cpp:697
 msgctxt "@action:button"
 msgid "Close"
 msgstr "بندول"
