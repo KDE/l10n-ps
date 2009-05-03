@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-02 07:12+0200\n"
+"POT-Creation-Date: 2009-05-03 06:22+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10512,7 +10512,7 @@ msgstr ""
 msgid "XML parsing error"
 msgstr "تجزيه کولو تېروتنه XML"
 
-#: khtml/xml/dom_docimpl.cpp:2256
+#: khtml/xml/dom_docimpl.cpp:2259
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
 
