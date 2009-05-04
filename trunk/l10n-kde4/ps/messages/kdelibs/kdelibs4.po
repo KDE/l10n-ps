@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-03 11:03+0200\n"
+"POT-Creation-Date: 2009-05-04 11:00+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6024,7 +6024,7 @@ msgstr "لټول"
 msgid "Cut"
 msgstr "سکڼل"
 
-#: kdeui/util/kkeyserver_x11.cpp:114 kdeui/dialogs/kshortcutsdialog.cpp:108
+#: kdeui/util/kkeyserver_x11.cpp:114 kdeui/dialogs/kshortcutsdialog.cpp:120
 msgid "Print"
 msgstr "چاپول"
 
@@ -6115,17 +6115,17 @@ msgstr "د انځور سيمه وټاکﺉ"
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "په انځور کې د خپلې خوښې سيمې ټاکلو لپاره کېکاږﺉ او راکښ يې کړﺉ:"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:66
+#: kdeui/dialogs/kshortcutsdialog.cpp:67
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
 "one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:106
+#: kdeui/dialogs/kshortcutsdialog.cpp:118
 msgid "Configure Shortcuts"
 msgstr "لنډلارې سازول"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:113
+#: kdeui/dialogs/kshortcutsdialog.cpp:125
 #, fuzzy
 #| msgid "&Defaults"
 msgid "Reset to Defaults"
