@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-01 09:25+0000\n"
+"POT-Creation-Date: 2009-05-06 10:22+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1475,9 +1475,12 @@ msgid "Plasma Animation Engine"
 msgstr ""
 
 #: plasma/servicetypes/plasma-applet-extenderapplet.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Word Completion"
 msgctxt "Name"
-msgid "Internal Extender Container"
-msgstr ""
+msgid "Collection"
+msgstr "ويې بشپړېدنه"
 
 #: plasma/servicetypes/plasma-applet-popupapplet.desktop:5
 msgctxt "Comment"
@@ -1571,10 +1574,6 @@ msgstr ""
 msgctxt "Name"
 msgid "HSpell"
 msgstr "HSpell"
-
-#~ msgctxt "Name"
-#~ msgid "Word Completion"
-#~ msgstr "ويې بشپړېدنه"
 
 #~ msgctxt "Name"
 #~ msgid "Behavior"
