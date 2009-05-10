@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-18 10:53+0100\n"
+"POT-Creation-Date: 2009-05-10 11:07+0200\n"
 "PO-Revision-Date: 2008-08-12 08:23-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -30,7 +30,7 @@ msgstr ""
 msgid "(Custom)"
 msgstr "(دوديز)"
 
-#: chfacedlg.cpp:113 main.cpp:258
+#: chfacedlg.cpp:113 main.cpp:262
 msgid "There was an error loading the image."
 msgstr "د انځور په لېښلو کې کومه ستونزه رامنځته شوه."
 
@@ -55,92 +55,92 @@ msgstr "انځور ټاکل"
 msgid "Change &Password..."
 msgstr "تېرنويې &بدلول..."
 
-#: main.cpp:84
+#: main.cpp:88
 msgid "Password & User Information"
 msgstr "تېرنويې او کارن خبرتياوې"
 
-#: main.cpp:86
+#: main.cpp:90
 msgid "(C) 2002, Braden MacDonald, (C) 2004 Ravikiran Rajagopal"
 msgstr "چاپرښتې ۲۰۰۲، برېډېن مېکډونېلډ، چاپرښتې ۲۰۰۴ راويکېرن راجاګوپال"
 
-#: main.cpp:89
+#: main.cpp:93
 msgid "Frans Englich"
 msgstr "فرانس اېنګلېچ"
 
-#: main.cpp:89
+#: main.cpp:93
 msgid "Maintainer"
 msgstr "ساتونکی"
 
-#: main.cpp:90
+#: main.cpp:94
 msgid "Ravikiran Rajagopal"
 msgstr "راويکېرن راجاګوپال"
 
-#: main.cpp:91
+#: main.cpp:95
 msgid "Michael Häckel"
 msgstr "ماېکل هېکل"
 
-#: main.cpp:93
+#: main.cpp:97
 msgid "Braden MacDonald"
 msgstr "برېډېن مېکډونېلډ"
 
-#: main.cpp:93
+#: main.cpp:97
 msgid "Face editor"
 msgstr "مخ سموونی"
 
-#: main.cpp:94
+#: main.cpp:98
 msgid "Geert Jansen"
 msgstr "ګيرټ جېنسن"
 
-#: main.cpp:94
+#: main.cpp:98
 msgid "Password changer"
 msgstr "تېرنويې بدلوونی"
 
-#: main.cpp:96
+#: main.cpp:100
 msgid "Daniel Molkentin"
 msgstr "ډېنيل مولکېنټېن"
 
-#: main.cpp:97
+#: main.cpp:101
 msgid "Alex Zepeda"
 msgstr "اېلېکس زېپېډا"
 
-#: main.cpp:98
+#: main.cpp:102
 msgid "Hans Karlsson"
 msgstr "هېنس کېرلسن"
 
-#: main.cpp:98 main.cpp:99
+#: main.cpp:102 main.cpp:103
 msgid "Icons"
 msgstr "انځورنونه"
 
-#: main.cpp:99
+#: main.cpp:103
 msgid "Hermann Thomas"
 msgstr "هېرمن ټامس"
 
-#: main.cpp:102
+#: main.cpp:106
 msgid ""
 "<qt>Here you can change your personal information, which will be used, for "
 "instance, in mail programs and word processors. You can change your login "
 "password by clicking <em>Change Password...</em>.</qt>"
 msgstr ""
 
-#: main.cpp:116
+#: main.cpp:120
 msgid ""
 "A program error occurred: the internal program 'kdepasswd' could not be "
 "found. You will not be able to change your password."
 msgstr ""
 
-#: main.cpp:215
+#: main.cpp:219
 msgid "Please enter your password in order to save your settings:"
 msgstr "د خپلو امستنو د ساتلو لپاره خپله تېرنويې وليکئ:"
 
-#: main.cpp:218
+#: main.cpp:222
 msgid "You must enter your password in order to change your information."
 msgstr "د خپلو خبرتياوو د بدلولو لپاره دا اړينه ده چې تاسو خپله تېرنويې وليکئ."
 
-#: main.cpp:228
+#: main.cpp:232
 msgid "You must enter a correct password."
 msgstr "اړينه ده چې تاسو سمه تېرنويې وليکئ."
 
-#: main.cpp:232
+#: main.cpp:236
 #, kde-format
 msgid ""
 "An error occurred and your password has probably not been changed. The error "
@@ -148,16 +148,16 @@ msgid ""
 "%1"
 msgstr ""
 
-#: main.cpp:246
+#: main.cpp:250
 #, kde-format
 msgid "There was an error saving the image: %1"
 msgstr "%1 د انځور په ساتلو کې کومه ستونزه رامنځته شوه:"
 
-#: main.cpp:272 main.cpp:306
+#: main.cpp:276 main.cpp:310
 msgid "Your administrator has disallowed changing your image."
 msgstr ""
 
-#: main.cpp:339
+#: main.cpp:343
 #, kde-format
 msgid ""
 "%1 does not appear to be an image file.\n"
@@ -207,7 +207,7 @@ msgstr "د کارن ننوت انځور"
 msgid "Password echo type"
 msgstr ""
 
-#. i18n: file: main_widget.ui:74
+#. i18n: file: main_widget.ui:68
 #. i18n: ectx: property (text), widget (QLabel, lblClickButtonInfo)
 #: rc.cpp:24
 #, fuzzy
@@ -215,55 +215,55 @@ msgstr ""
 msgid "<i>Click to change your image</i>"
 msgstr "<i>(د خپل انځور بدلولو لپاره تڼۍ کېکاږئ)</i>"
 
-#. i18n: file: main_widget.ui:89
+#. i18n: file: main_widget.ui:83
 #. i18n: ectx: property (text), widget (KPushButton, btnChangePassword)
 #: rc.cpp:27
 msgid "Change Password..."
 msgstr "تېرنويې بدلول..."
 
-#. i18n: file: main_widget.ui:118
+#. i18n: file: main_widget.ui:112
 #. i18n: ectx: property (title), widget (QGroupBox, grpUserInformation)
 #: rc.cpp:30
 msgid "User Information"
 msgstr "کارن خبرتياوې"
 
-#. i18n: file: main_widget.ui:124
+#. i18n: file: main_widget.ui:118
 #. i18n: ectx: property (text), widget (QLabel, lblRealName)
 #: rc.cpp:33
 msgid "&Name:"
 msgstr "نوم:&"
 
-#. i18n: file: main_widget.ui:147
+#. i18n: file: main_widget.ui:141
 #. i18n: ectx: property (text), widget (QLabel, lblOrganisation)
 #: rc.cpp:36
 msgid "&Organization:"
 msgstr "اداره:&"
 
-#. i18n: file: main_widget.ui:170
+#. i18n: file: main_widget.ui:164
 #. i18n: ectx: property (text), widget (QLabel, lblEmail)
 #: rc.cpp:39
 msgid "&Email address:"
 msgstr "برېښليک پته:&"
 
-#. i18n: file: main_widget.ui:193
+#. i18n: file: main_widget.ui:187
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #: rc.cpp:42
 msgid "&SMTP server:"
 msgstr "پالنګر: SMTP&"
 
-#. i18n: file: main_widget.ui:216
+#. i18n: file: main_widget.ui:210
 #. i18n: ectx: property (text), widget (QLabel, lblUIDTell)
 #: rc.cpp:45
 msgid "User ID:"
 msgstr "کارن پېژند:"
 
-#. i18n: file: main_widget.ui:242
+#. i18n: file: main_widget.ui:236
 #. i18n: ectx: property (title), widget (KButtonGroup, kcfg_EchoMode)
 #: rc.cpp:48
 msgid "At Password Prompt"
 msgstr "د تېرنويې پر پوښتلو"
 
-#. i18n: file: main_widget.ui:248
+#. i18n: file: main_widget.ui:242
 #. i18n: ectx: property (text), widget (QRadioButton, rdbOneStar)
 #: rc.cpp:51
 #, fuzzy
@@ -271,7 +271,7 @@ msgstr "د تېرنويې پر پوښتلو"
 msgid "Show one bullet for each letter"
 msgstr "د هر توري لپاره يو ستوری ښودل"
 
-#. i18n: file: main_widget.ui:255
+#. i18n: file: main_widget.ui:249
 #. i18n: ectx: property (text), widget (QRadioButton, rdbThreeStars)
 #: rc.cpp:54
 #, fuzzy
@@ -279,7 +279,7 @@ msgstr "د هر توري لپاره يو ستوری ښودل"
 msgid "Show three bullets for each letter"
 msgstr "د هر توري لپاره درې ستوري ښودل"
 
-#. i18n: file: main_widget.ui:262
+#. i18n: file: main_widget.ui:256
 #. i18n: ectx: property (text), widget (QRadioButton, rdbShowPassword)
 #: rc.cpp:57
 msgid "Show nothing"
