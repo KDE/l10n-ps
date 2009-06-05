@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-04 11:16+0200\n"
+"POT-Creation-Date: 2009-06-05 11:21+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5832,7 +5832,7 @@ msgstr "بدلونونه پرېښودل"
 
 #: kdeui/util/kstandardguiitem.cpp:131
 msgid ""
-"Pressing this button will discard all recent changes made in this dialog"
+"Pressing this button will discard all recent changes made in this dialog."
 msgstr ""
 
 #: kdeui/util/kstandardguiitem.cpp:137 kdeui/actions/kstandardaction_p.h:46
