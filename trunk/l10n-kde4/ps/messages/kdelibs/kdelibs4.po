@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-22 11:26+0200\n"
+"POT-Creation-Date: 2009-06-24 12:13+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -3209,13 +3209,13 @@ msgid "Invalid Calendar Type"
 msgstr "ناسم کليز ډول"
 
 #: kdecore/date/kdatetime.cpp:1500 kdecore/date/kdatetime.cpp:1510
-#: kdecore/date/kdatetime.cpp:2872 kdecore/localization/klocale.cpp:1986
-#: kdecore/localization/klocale.cpp:2116
+#: kdecore/date/kdatetime.cpp:2872 kdecore/localization/klocale.cpp:1946
+#: kdecore/localization/klocale.cpp:2076
 msgid "am"
 msgstr "غ.م"
 
-#: kdecore/date/kdatetime.cpp:2880 kdecore/localization/klocale.cpp:1980
-#: kdecore/localization/klocale.cpp:2114
+#: kdecore/date/kdatetime.cpp:2880 kdecore/localization/klocale.cpp:1940
+#: kdecore/localization/klocale.cpp:2074
 msgid "pm"
 msgstr "غ.و"
 
@@ -4377,7 +4377,7 @@ msgctxt "@item Text character set"
 msgid "Thai"
 msgstr "ټهايي"
 
-#: kdecore/localization/klocale.cpp:955
+#: kdecore/localization/klocale.cpp:939
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
@@ -4385,12 +4385,12 @@ msgctxt "digit set"
 msgid "Arabic-Indic"
 msgstr "عربي"
 
-#: kdecore/localization/klocale.cpp:958
+#: kdecore/localization/klocale.cpp:942
 msgctxt "digit set"
 msgid "Eastern Arabic-Indic"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:961
+#: kdecore/localization/klocale.cpp:945
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari"
@@ -4398,7 +4398,7 @@ msgctxt "digit set"
 msgid "Devenagari"
 msgstr "دېونګري"
 
-#: kdecore/localization/klocale.cpp:964
+#: kdecore/localization/klocale.cpp:948
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
@@ -4406,7 +4406,7 @@ msgctxt "digit set"
 msgid "Arabic"
 msgstr "عربي"
 
-#: kdecore/localization/klocale.cpp:970
+#: kdecore/localization/klocale.cpp:954
 #, fuzzy, kde-format
 #| msgctxt "dictionary name. %1-language and %2-country name"
 #| msgid "%1 (%2)"
@@ -4414,61 +4414,61 @@ msgctxt "name of digit set with digit string, e.g. 'Arabic (0123456789)'"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: kdecore/localization/klocale.cpp:1403
+#: kdecore/localization/klocale.cpp:1363
 #, kde-format
 msgid "%1 TiB"
 msgstr "ټ ا ب %1"
 
-#: kdecore/localization/klocale.cpp:1405
+#: kdecore/localization/klocale.cpp:1365
 #, kde-format
 msgid "%1 GiB"
 msgstr "ج ا ب %1"
 
-#: kdecore/localization/klocale.cpp:1411
+#: kdecore/localization/klocale.cpp:1371
 #, kde-format
 msgid "%1 MiB"
 msgstr "م ا ب %1"
 
-#: kdecore/localization/klocale.cpp:1417
+#: kdecore/localization/klocale.cpp:1377
 #, kde-format
 msgid "%1 KiB"
 msgstr "ک ا ب %1"
 
-#: kdecore/localization/klocale.cpp:1422
+#: kdecore/localization/klocale.cpp:1382
 #, kde-format
 msgid "%1 B"
 msgstr "ب %1"
 
-#: kdecore/localization/klocale.cpp:1427
+#: kdecore/localization/klocale.cpp:1387
 msgid "0 B"
 msgstr "۰ ب"
 
-#: kdecore/localization/klocale.cpp:1435
+#: kdecore/localization/klocale.cpp:1395
 #, kde-format
 msgid "%1 days"
 msgstr "ورځې %1"
 
-#: kdecore/localization/klocale.cpp:1438
+#: kdecore/localization/klocale.cpp:1398
 #, kde-format
 msgid "%1 hours"
 msgstr "ګېنټې %1"
 
-#: kdecore/localization/klocale.cpp:1441
+#: kdecore/localization/klocale.cpp:1401
 #, kde-format
 msgid "%1 minutes"
 msgstr "مېنټه %1"
 
-#: kdecore/localization/klocale.cpp:1444
+#: kdecore/localization/klocale.cpp:1404
 #, kde-format
 msgid "%1 seconds"
 msgstr "سېکېنډه %1"
 
-#: kdecore/localization/klocale.cpp:1447
+#: kdecore/localization/klocale.cpp:1407
 #, kde-format
 msgid "%1 milliseconds"
 msgstr "مېلېسېکېنډه %1"
 
-#: kdecore/localization/klocale.cpp:1454
+#: kdecore/localization/klocale.cpp:1414
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 day"
@@ -4476,7 +4476,7 @@ msgid_plural "%1 days"
 msgstr[0] "۱ ورځ"
 msgstr[1] "ورځې %1"
 
-#: kdecore/localization/klocale.cpp:1456
+#: kdecore/localization/klocale.cpp:1416
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 hour"
@@ -4484,7 +4484,7 @@ msgid_plural "%1 hours"
 msgstr[0] "۱ ګېنټه"
 msgstr[1] "ګېنټې %1"
 
-#: kdecore/localization/klocale.cpp:1458
+#: kdecore/localization/klocale.cpp:1418
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 minute"
@@ -4492,7 +4492,7 @@ msgid_plural "%1 minutes"
 msgstr[0] "۱ مېنټ"
 msgstr[1] "مېنټه %1"
 
-#: kdecore/localization/klocale.cpp:1460
+#: kdecore/localization/klocale.cpp:1420
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 second"
@@ -4500,7 +4500,7 @@ msgid_plural "%1 seconds"
 msgstr[0] "۱ سېکېنډ"
 msgstr[1] "سېکېنډه %1"
 
-#: kdecore/localization/klocale.cpp:1483
+#: kdecore/localization/klocale.cpp:1443
 #, kde-format
 msgctxt ""
 "@item:intext days and hours. This uses the previous item:intext messages. If "
@@ -4509,7 +4509,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%2 او‏‎‎ %1"
 
-#: kdecore/localization/klocale.cpp:1487
+#: kdecore/localization/klocale.cpp:1447
 #, kde-format
 msgctxt ""
 "@item:intext hours and minutes. This uses the previous item:intext messages. "
@@ -4518,7 +4518,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%2 او‏‎‎ %1"
 
-#: kdecore/localization/klocale.cpp:1491
+#: kdecore/localization/klocale.cpp:1451
 #, kde-format
 msgctxt ""
 "@item:intext minutes and seconds. This uses the previous item:intext "
@@ -4527,21 +4527,21 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%2 او‏‎‎ %1"
 
-#: kdecore/localization/klocale.cpp:1587
+#: kdecore/localization/klocale.cpp:1547
 msgid "Today"
 msgstr "نن"
 
-#: kdecore/localization/klocale.cpp:1589
+#: kdecore/localization/klocale.cpp:1549
 msgid "Yesterday"
 msgstr "پرون"
 
-#: kdecore/localization/klocale.cpp:2155
+#: kdecore/localization/klocale.cpp:2115
 #, kde-format
 msgctxt "concatenation of dates and time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:2216
+#: kdecore/localization/klocale.cpp:2176
 #, kde-format
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
