@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-26 12:04+0200\n"
+"POT-Creation-Date: 2009-06-28 11:35+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6496,15 +6496,15 @@ msgstr "خبرتياوې&"
 msgid "Get help..."
 msgstr "...مرسته اخيستل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:54
+#: kdeui/dialogs/kedittoolbar.cpp:55
 msgid "--- separator ---"
 msgstr "--- بېلند ---"
 
-#: kdeui/dialogs/kedittoolbar.cpp:480
+#: kdeui/dialogs/kedittoolbar.cpp:481
 msgid "Configure Toolbars"
 msgstr "توکپټې سازول"
 
-#: kdeui/dialogs/kedittoolbar.cpp:529
+#: kdeui/dialogs/kedittoolbar.cpp:530
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
 "default? The changes will be applied immediately."
@@ -6512,69 +6512,75 @@ msgstr ""
 "تاسو په رښتيا غواړﺉ چې د دې کاريال ټولې توکپټې خپل تلواله امستنو ته بيا "
 "وزېرمﺉ؟ بدلونونه به په سمدستي توګه وکارول شي."
 
-#: kdeui/dialogs/kedittoolbar.cpp:529
+#: kdeui/dialogs/kedittoolbar.cpp:530
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2924
+#: kdeui/dialogs/kedittoolbar.cpp:530 khtml/khtmlview.cpp:2924
 #: khtml/khtmlview.cpp:2957 khtml/html/html_formimpl.cpp:1809
 msgid "Reset"
 msgstr "بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:826
+#: kdeui/dialogs/kedittoolbar.cpp:827
 msgid "&Toolbar:"
 msgstr ":توکپټه&"
 
-#: kdeui/dialogs/kedittoolbar.cpp:841
+#: kdeui/dialogs/kedittoolbar.cpp:842
 msgid "A&vailable actions:"
 msgstr ":ش&ته چارونه"
 
-#: kdeui/dialogs/kedittoolbar.cpp:856
+#: kdeui/dialogs/kedittoolbar.cpp:857 kdeui/dialogs/kedittoolbar.cpp:876
+#, fuzzy
+#| msgid "&Filter:"
+msgid "Filter"
+msgstr ":چاڼ&"
+
+#: kdeui/dialogs/kedittoolbar.cpp:860
 msgid "Curr&ent actions:"
 msgstr ":اوس&ني چارونه"
 
-#: kdeui/dialogs/kedittoolbar.cpp:872
+#: kdeui/dialogs/kedittoolbar.cpp:879
 msgid "Change &Icon..."
 msgstr "...انځورن بدلول&"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1022
+#: kdeui/dialogs/kedittoolbar.cpp:1032
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1043
+#: kdeui/dialogs/kedittoolbar.cpp:1053
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1045
+#: kdeui/dialogs/kedittoolbar.cpp:1055
 msgid "<Merge>"
 msgstr "<سره ننويستل>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1047
+#: kdeui/dialogs/kedittoolbar.cpp:1057
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<سره ننويستل %1>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1053
+#: kdeui/dialogs/kedittoolbar.cpp:1063
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "will not be able to re-add it."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1054
+#: kdeui/dialogs/kedittoolbar.cpp:1064
 #, kde-format
 msgid "ActionList: %1"
 msgstr "%1 چارلړ:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1154 kdeui/dialogs/kedittoolbar.cpp:1181
+#: kdeui/dialogs/kedittoolbar.cpp:1164 kdeui/dialogs/kedittoolbar.cpp:1191
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1436
+#: kdeui/dialogs/kedittoolbar.cpp:1446
 msgid "Change Icon"
 msgstr "انځورن بدلول"
 
@@ -12948,9 +12954,6 @@ msgstr "\"%1\" داسې کړنه نشته"
 
 #~ msgid "&Location:"
 #~ msgstr ":ځای&"
-
-#~ msgid "&Filter:"
-#~ msgstr ":چاڼ&"
 
 #~ msgid "You can only select local files."
 #~ msgstr "تاسو يوازې ځايي دوتنې ټاکلی شﺉ"
