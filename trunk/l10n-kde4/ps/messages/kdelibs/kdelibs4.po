@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-22 12:56+0200\n"
+"POT-Creation-Date: 2009-07-23 07:06+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5692,14 +5692,6 @@ msgstr "KNewStuff بسپنې"
 msgid "This operation requires authentication."
 msgstr ".دا چلښت کرونې ته اړتيا لري"
 
-#: knewstuff/knewstuff2/ui/knewstuffaction.cpp:35
-msgctxt ""
-"Hot new stuff offers to Download New Data. Apps can fill in an individual "
-"string here, but Data is the default. This is in an action that gets "
-"displayed in the menu or toolbar for example."
-msgid "Download New Data..."
-msgstr "نوی اومتوک رالېښل"
-
 #: knewstuff/knewstuff2/ui/kdxscomments.cpp:32
 msgid "User comments"
 msgstr "کارن څرګندونونه"
@@ -8500,7 +8492,7 @@ msgstr ""
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:177
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:854
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:564
-#: kdeui/windowmanagement/kwindowsystem_win.cpp:580
+#: kdeui/windowmanagement/kwindowsystem_win.cpp:604
 #, kde-format
 msgid "Desktop %1"
 msgstr "%1 سرپاڼه"
@@ -11049,7 +11041,7 @@ msgstr "جاواسکرېپټ"
 msgid "&Abort"
 msgstr "بندول&"
 
-#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2115
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2118
 msgid "Confirmation: JavaScript Popup"
 msgstr "باوريينه: د جاواسکرېپټ بړبوکيزه"
 
@@ -11070,11 +11062,11 @@ msgstr ""
 "<qt>پر جاواسکرېپټ په يوه نوې کړکۍ کې پرانيزي. <p>%1</p> دا پاڼه غواړي چې<br /"
 ">تاسو د دې پرېښلې ورکول غواړﺉ؟</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2122
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2125
 msgid "Allow"
 msgstr "پرېښل"
 
-#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2122
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2125
 msgid "Do Not Allow"
 msgstr "نه پرېښل"
 
@@ -11112,14 +11104,14 @@ msgstr "ورننويستل"
 msgid "Disallow"
 msgstr "نه منل"
 
-#: khtml/ecma/kjs_html.cpp:2117
+#: khtml/ecma/kjs_html.cpp:2120
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2120
+#: khtml/ecma/kjs_html.cpp:2123
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -11807,7 +11799,7 @@ msgstr "چاپرښتې ۲۰۰۵-۲۰۰۷ سېبېسټين ساور"
 msgid "Sebastian Trüg"
 msgstr "سېبېسټين ساور"
 
-#: nepomuk/rcgen/rcgen.cpp:52
+#: nepomuk/rcgen/rcgen.cpp:52 kutils/kidletime/example/main.cpp:30
 #, fuzzy
 #| msgid "MainWindow"
 msgid "Maintainer"
@@ -12120,6 +12112,26 @@ msgstr "رغتوکي ټاکل"
 #: kutils/ksettings/dialog.cpp:232
 msgid "Enable component"
 msgstr "رغتوکی توانول"
+
+#: kutils/kidletime/example/main.cpp:27
+#, fuzzy
+#| msgid "Test"
+msgid "KIdleTest"
+msgstr "ازموېل"
+
+#: kutils/kidletime/example/main.cpp:28
+msgid "A small application to test KIdleTime functionality"
+msgstr ""
+
+#: kutils/kidletime/example/main.cpp:29
+msgid "2009 Dario Freddi"
+msgstr ""
+
+#: kutils/kidletime/example/main.cpp:30
+#, fuzzy
+#| msgid "David Faure"
+msgid "Dario Freddi"
+msgstr "ډېوېډ فوري"
 
 #: kjsembed/kjscmd/kjscmd.cpp:152
 msgid "KJSCmd"
@@ -13025,6 +13037,13 @@ msgstr "د &ورځې نکته"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
+
+#~ msgctxt ""
+#~ "Hot new stuff offers to Download New Data. Apps can fill in an individual "
+#~ "string here, but Data is the default. This is in an action that gets "
+#~ "displayed in the menu or toolbar for example."
+#~ msgid "Download New Data..."
+#~ msgstr "نوی اومتوک رالېښل"
 
 #~ msgid "0 B"
 #~ msgstr "۰ ب"
