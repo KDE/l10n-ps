@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-28 06:29+0200\n"
+"POT-Creation-Date: 2009-07-30 06:23+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -8515,15 +8515,15 @@ msgctxt "@action:button"
 msgid "&Finished"
 msgstr "بشپړ شو&"
 
-#: kdeui/sonnet/dialog.cpp:170
+#: kdeui/sonnet/dialog.cpp:164
 msgid "Spell check stopped."
 msgstr ".ليکدود کتنه وتمول شوه"
 
-#: kdeui/sonnet/dialog.cpp:178
+#: kdeui/sonnet/dialog.cpp:172
 msgid "Spell check canceled."
 msgstr ".ليکدود کتنه بنده شوه"
 
-#: kdeui/sonnet/dialog.cpp:318
+#: kdeui/sonnet/dialog.cpp:324
 msgid "Spell check complete."
 msgstr ".ليکدود کتنه بشپړه شوه"
 
