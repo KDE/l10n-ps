@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-14 06:16+0200\n"
+"POT-Creation-Date: 2009-08-18 06:20+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1611,7 +1611,7 @@ msgstr "ارهکړکۍ"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:106
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: rc.cpp:764 kparts/browserrun.cpp:315
+#: rc.cpp:764 kparts/browserrun.cpp:311
 msgid "Execute"
 msgstr "چلول"
 
@@ -1671,7 +1671,7 @@ msgstr "...کاريال بندول"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:194
 #. i18n: ectx: property (text), widget (QStatusBar, statusBar)
-#: rc.cpp:791 kross/ui/view.cpp:302
+#: rc.cpp:791 kross/ui/view.cpp:301
 msgid "Run"
 msgstr "ځغلول"
 
@@ -1711,7 +1711,7 @@ msgstr "...راتلونکې ليکې ته تلل"
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:809 rc.cpp:957 kdeui/jobs/kstatusbarjobtracker.cpp:156
 #: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:103
-#: kross/ui/view.cpp:309
+#: kross/ui/view.cpp:308
 msgid "Stop"
 msgstr "تمول"
 
@@ -6224,7 +6224,7 @@ msgid "Add"
 msgstr "زياتول"
 
 #: kdeui/util/kstandardguiitem.cpp:291
-#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:301 kross/ui/view.cpp:330
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:301 kross/ui/view.cpp:329
 msgid "Remove"
 msgstr "ړنګول"
 
@@ -6694,15 +6694,15 @@ msgstr "خبرتياوې&"
 msgid "Get help..."
 msgstr "...مرسته اخيستل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:55
+#: kdeui/dialogs/kedittoolbar.cpp:56
 msgid "--- separator ---"
 msgstr "--- بېلند ---"
 
-#: kdeui/dialogs/kedittoolbar.cpp:481
+#: kdeui/dialogs/kedittoolbar.cpp:484
 msgid "Configure Toolbars"
 msgstr "توکپټې سازول"
 
-#: kdeui/dialogs/kedittoolbar.cpp:530
+#: kdeui/dialogs/kedittoolbar.cpp:533
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
 "default? The changes will be applied immediately."
@@ -6710,77 +6710,95 @@ msgstr ""
 "تاسو په رښتيا غواړﺉ چې د دې کاريال ټولې توکپټې خپل تلواله امستنو ته بيا "
 "وزېرمﺉ؟ بدلونونه به په سمدستي توګه وکارول شي."
 
-#: kdeui/dialogs/kedittoolbar.cpp:530
+#: kdeui/dialogs/kedittoolbar.cpp:533
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:530 khtml/khtmlview.cpp:2924
+#: kdeui/dialogs/kedittoolbar.cpp:533 khtml/khtmlview.cpp:2924
 #: khtml/khtmlview.cpp:2957 khtml/html/html_formimpl.cpp:1809
 msgid "Reset"
 msgstr "بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:829
+#: kdeui/dialogs/kedittoolbar.cpp:832
 msgid "&Toolbar:"
 msgstr ":توکپټه&"
 
-#: kdeui/dialogs/kedittoolbar.cpp:844
+#: kdeui/dialogs/kedittoolbar.cpp:847
 msgid "A&vailable actions:"
 msgstr ":ش&ته چارونه"
 
-#: kdeui/dialogs/kedittoolbar.cpp:859 kdeui/dialogs/kedittoolbar.cpp:878
+#: kdeui/dialogs/kedittoolbar.cpp:862 kdeui/dialogs/kedittoolbar.cpp:881
 #, fuzzy
 #| msgid "&Filter:"
 msgid "Filter"
 msgstr ":چاڼ&"
 
-#: kdeui/dialogs/kedittoolbar.cpp:862
+#: kdeui/dialogs/kedittoolbar.cpp:865
 msgid "Curr&ent actions:"
 msgstr ":اوس&ني چارونه"
 
-#: kdeui/dialogs/kedittoolbar.cpp:881
+#: kdeui/dialogs/kedittoolbar.cpp:884
 msgid "Change &Icon..."
 msgstr "...انځورن بدلول&"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1034
+#: kdeui/dialogs/kedittoolbar.cpp:894
+#, fuzzy
+#| msgid "Change &Icon..."
+msgid "Change Te&xt..."
+msgstr "...انځورن بدلول&"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1045
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1055
+#: kdeui/dialogs/kedittoolbar.cpp:1066
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1057
+#: kdeui/dialogs/kedittoolbar.cpp:1068
 msgid "<Merge>"
 msgstr "<سره ننويستل>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1059
+#: kdeui/dialogs/kedittoolbar.cpp:1070
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<سره ننويستل %1>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1065
+#: kdeui/dialogs/kedittoolbar.cpp:1076
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "will not be able to re-add it."
 msgstr ""
 
-#: kdeui/dialogs/kedittoolbar.cpp:1066
+#: kdeui/dialogs/kedittoolbar.cpp:1077
 #, kde-format
 msgid "ActionList: %1"
 msgstr "%1 چارلړ:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1166 kdeui/dialogs/kedittoolbar.cpp:1193
+#: kdeui/dialogs/kedittoolbar.cpp:1177 kdeui/dialogs/kedittoolbar.cpp:1207
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1448
+#: kdeui/dialogs/kedittoolbar.cpp:1462
 msgid "Change Icon"
 msgstr "انځورن بدلول"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1494
+#, fuzzy
+#| msgid "Change Icon"
+msgid "Change Text"
+msgstr "انځورن بدلول"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1494
+#, fuzzy
+#| msgid "Link Text:"
+msgid "Icon Te&xt:"
+msgstr ":د تړنۍ ليکنه"
 
 #: kdeui/dialogs/kshortcutseditor.cpp:566
 #: kdeui/dialogs/kshortcutseditor.cpp:582
@@ -10176,7 +10194,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
 
 #: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:3719 khtml/khtml_part.cpp:3929
-#: khtml/khtml_part.cpp:4315 kparts/browserrun.cpp:464
+#: khtml/khtml_part.cpp:4315 kparts/browserrun.cpp:460
 msgid "Save As"
 msgstr "ساتل په"
 
@@ -10437,12 +10455,12 @@ msgstr "دوتنه ځاېناستول غواړﺉ؟"
 msgid "Overwrite"
 msgstr "ځاېناستول"
 
-#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:435
+#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:431
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:436
+#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:432
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -11541,39 +11559,39 @@ msgstr ":انځورن"
 msgid "Interpreter:"
 msgstr ":ژباړونکی"
 
-#: kross/ui/view.cpp:304
+#: kross/ui/view.cpp:303
 msgid "Execute the selected script."
 msgstr ".ټاکل شوی سکرېپټ چلول"
 
-#: kross/ui/view.cpp:311
+#: kross/ui/view.cpp:310
 msgid "Stop execution of the selected script."
 msgstr "د ټاکل شوي سکرېپټ چلونه تمول"
 
-#: kross/ui/view.cpp:316
+#: kross/ui/view.cpp:315
 msgid "Edit..."
 msgstr "...سمول"
 
-#: kross/ui/view.cpp:318
+#: kross/ui/view.cpp:317
 msgid "Edit selected script."
 msgstr "ټاکل شوی سکرېپټ سمول"
 
-#: kross/ui/view.cpp:323
+#: kross/ui/view.cpp:322
 msgid "Add..."
 msgstr "...زياتول"
 
-#: kross/ui/view.cpp:325
+#: kross/ui/view.cpp:324
 msgid "Add a new script."
 msgstr ".نوی سکرېپټ زياتول"
 
-#: kross/ui/view.cpp:332
+#: kross/ui/view.cpp:331
 msgid "Remove selected script."
 msgstr ".ټاکل شوی سکرېپټ ړنګول"
 
-#: kross/ui/view.cpp:505
+#: kross/ui/view.cpp:504
 msgid "Edit"
 msgstr "سمون"
 
-#: kross/ui/view.cpp:512
+#: kross/ui/view.cpp:511
 #, fuzzy
 #| msgid "General"
 msgctxt "@title:group Script properties"
@@ -11931,16 +11949,16 @@ msgstr ""
 msgid "Close Document"
 msgstr "لاسوند بندول"
 
-#: kparts/browserrun.cpp:314
+#: kparts/browserrun.cpp:310
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "په رښتيا چلول غواړﺉ؟ '%1'"
 
-#: kparts/browserrun.cpp:315
+#: kparts/browserrun.cpp:311
 msgid "Execute File?"
 msgstr "دوتنه چلول غواړﺉ؟"
 
-#: kparts/browserrun.cpp:333
+#: kparts/browserrun.cpp:329
 #, kde-format
 msgid ""
 "Open '%2'?\n"
@@ -11949,7 +11967,7 @@ msgstr ""
 "پرنيستل غواړﺉ؟ '%2'\n"
 "%1 :ډول"
 
-#: kparts/browserrun.cpp:335
+#: kparts/browserrun.cpp:331
 #, kde-format
 msgid ""
 "Open '%3'?\n"
@@ -11960,18 +11978,18 @@ msgstr ""
 "%2 نوم:\n"
 "%1 ډول:"
 
-#: kparts/browserrun.cpp:351
+#: kparts/browserrun.cpp:347
 #, kde-format
 msgid "&Open with '%1'"
 msgstr "پرانيستل '%1' په&"
 
-#: kparts/browserrun.cpp:353
+#: kparts/browserrun.cpp:349
 #, fuzzy
 #| msgid "&Open With..."
 msgid "&Open with..."
 msgstr "...پرانيستل په&"
 
-#: kparts/browserrun.cpp:398
+#: kparts/browserrun.cpp:394
 msgid "&Open"
 msgstr "پرانيستل&"
 
