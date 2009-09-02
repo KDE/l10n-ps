@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-01 05:10+0000\n"
+"POT-Creation-Date: 2009-09-02 05:42+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1499,6 +1499,29 @@ msgstr ""
 #: kutils/kemoticons/providers/xmpp/emoticonstheme_xmpp.desktop:69
 msgctxt "Comment"
 msgid "Library to use XMPP emoticons theme"
+msgstr ""
+
+#: plasma/plasma.notifyrc:3
+msgctxt "Comment"
+msgid "KDE desktop shell"
+msgstr ""
+
+#: plasma/plasma.notifyrc:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bislama"
+msgctxt "Name"
+msgid "Plasma"
+msgstr "بېسلاما"
+
+#: plasma/plasma.notifyrc:7
+msgctxt "Name"
+msgid "Authorize remote access"
+msgstr ""
+
+#: plasma/plasma.notifyrc:8
+msgctxt "Comment"
+msgid "A remote computer tries to access a service"
 msgstr ""
 
 #: plasma/servicetypes/plasma-animator.desktop:5
