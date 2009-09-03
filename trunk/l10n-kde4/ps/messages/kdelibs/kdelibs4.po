@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-02 07:20+0200\n"
+"POT-Creation-Date: 2009-09-03 07:27+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6008,33 +6008,6 @@ msgstr "بياکړ"
 #: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:106
 msgid "Undo"
 msgstr "ناکړ"
-
-#: kdeui/util/ksystemtrayicon.cpp:156
-msgid "Minimize"
-msgstr "ووړول"
-
-#: kdeui/util/ksystemtrayicon.cpp:215
-msgid "&Minimize"
-msgstr "ووړول&"
-
-#: kdeui/util/ksystemtrayicon.cpp:219
-msgid "&Restore"
-msgstr "بيازېرمل"
-
-#: kdeui/util/ksystemtrayicon.cpp:239
-#, kde-format
-msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-msgstr "<qt>بند کړﺉ؟ <b>%1</b> تاسو په ډاډمنه توګه غواړﺉ چې</qt>"
-
-#: kdeui/util/ksystemtrayicon.cpp:242
-msgid "Confirm Quit From System Tray"
-msgstr "د غونډال مجمې نه بندول باوري کړﺉ"
-
-#: kdeui/util/knotificationrestrictions.cpp:179
-#, fuzzy
-#| msgid "Quit application"
-msgid "Unknown Application"
-msgstr "کاريال بندول"
 
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
@@ -13116,6 +13089,26 @@ msgstr "د &ورځې نکته"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
+
+#~ msgid "Minimize"
+#~ msgstr "ووړول"
+
+#~ msgid "&Minimize"
+#~ msgstr "ووړول&"
+
+#~ msgid "&Restore"
+#~ msgstr "بيازېرمل"
+
+#~ msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+#~ msgstr "<qt>بند کړﺉ؟ <b>%1</b> تاسو په ډاډمنه توګه غواړﺉ چې</qt>"
+
+#~ msgid "Confirm Quit From System Tray"
+#~ msgstr "د غونډال مجمې نه بندول باوري کړﺉ"
+
+#, fuzzy
+#~| msgid "Quit application"
+#~ msgid "Unknown Application"
+#~ msgstr "کاريال بندول"
 
 #~ msgid "&Abort"
 #~ msgstr "بندول&"
