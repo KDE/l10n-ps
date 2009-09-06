@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-04 06:41+0200\n"
+"POT-Creation-Date: 2009-09-06 06:14+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10634,8 +10634,8 @@ msgstr "ليکبڼه لويول"
 
 #: khtml/khtml_part.cpp:403
 msgid ""
-"Enlarge Font<br /><br />Make the font in this window bigger. Click and hold "
-"down the mouse button for a menu with all available font sizes."
+"<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
 msgstr ""
 
 #: khtml/khtml_part.cpp:407
@@ -10644,30 +10644,42 @@ msgstr "ليکبڼه وړول"
 
 #: khtml/khtml_part.cpp:410
 msgid ""
-"Shrink Font<br /><br />Make the font in this window smaller. Click and hold "
-"down the mouse button for a menu with all available font sizes."
+"<qt>Shrink Font<br /><br />Make the font in this window smaller. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
 msgstr ""
 
 #: khtml/khtml_part.cpp:428
+#, fuzzy
+#| msgid ""
+#| "Find text<br /><br />Shows a dialog that allows you to find text on the "
+#| "displayed page."
 msgid ""
-"Find text<br /><br />Shows a dialog that allows you to find text on the "
-"displayed page."
+"<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
+"displayed page.</qt>"
 msgstr ""
 "ليکنه لټول<br /><br />.يوه داسې کړکۍ پرانيزې چې تاسو پرې په کتل شوي مخ ليکنه "
 "لټولی شﺉ"
 
 #: khtml/khtml_part.cpp:433
+#, fuzzy
+#| msgid ""
+#| "Find next<br /><br />Find the next occurrence of the text that you have "
+#| "found using the <b>Find Text</b> function"
 msgid ""
-"Find next<br /><br />Find the next occurrence of the text that you have "
-"found using the <b>Find Text</b> function"
+"<qt>Find next<br /><br />Find the next occurrence of the text that you have "
+"found using the <b>Find Text</b> function.</qt>"
 msgstr ""
 "راتلونکی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې "
 "راتلونکې پېښه لټول چې په"
 
 #: khtml/khtml_part.cpp:439
+#, fuzzy
+#| msgid ""
+#| "Find previous<br /><br />Find the previous occurrence of the text that "
+#| "you have found using the <b>Find Text</b> function"
 msgid ""
-"Find previous<br /><br />Find the previous occurrence of the text that you "
-"have found using the <b>Find Text</b> function"
+"<qt>Find previous<br /><br />Find the previous occurrence of the text that "
+"you have found using the <b>Find Text</b> function.</qt>"
 msgstr ""
 "مخکنی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې مخکنۍ "
 "پېښه لټول چې په"
@@ -10681,9 +10693,13 @@ msgid "Find Links as You Type"
 msgstr "د ليکلو سره سم تړنه لټول"
 
 #: khtml/khtml_part.cpp:469
+#, fuzzy
+#| msgid ""
+#| "Print Frame<br /><br />Some pages have several frames. To print only a "
+#| "single frame, click on it and then use this function."
 msgid ""
-"Print Frame<br /><br />Some pages have several frames. To print only a "
-"single frame, click on it and then use this function."
+"<qt>Print Frame<br /><br />Some pages have several frames. To print only a "
+"single frame, click on it and then use this function.</qt>"
 msgstr ""
 "چوکاټ چاپول<br /><br />.ځېنې مخونه ډېر چوکاټونه لري. د يوګړي چوکاټ د چاپولو "
 "لپاره، په هغې کېکاږﺉ او بيا دا کړنه وکاروﺉ"
