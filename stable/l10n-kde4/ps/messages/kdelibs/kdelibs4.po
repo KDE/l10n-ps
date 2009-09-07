@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-06 01:21+0200\n"
+"POT-Creation-Date: 2009-09-07 01:21+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6517,8 +6517,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2924
-#: khtml/khtmlview.cpp:2957 khtml/html/html_formimpl.cpp:1809
+#: kdeui/dialogs/kedittoolbar.cpp:529 khtml/khtmlview.cpp:2926
+#: khtml/khtmlview.cpp:2959 khtml/html/html_formimpl.cpp:1809
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -10334,9 +10334,57 @@ msgstr "ډ&ولپاڼه کارول"
 msgid "Enlarge Font"
 msgstr "ليکبڼه لويول"
 
+#: khtml/khtml_part.cpp:404
+msgid ""
+"<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
+msgstr ""
+
 #: khtml/khtml_part.cpp:408
 msgid "Shrink Font"
 msgstr "ليکبڼه وړول"
+
+#: khtml/khtml_part.cpp:411
+msgid ""
+"<qt>Shrink Font<br /><br />Make the font in this window smaller. Click and "
+"hold down the mouse button for a menu with all available font sizes.</qt>"
+msgstr ""
+
+#: khtml/khtml_part.cpp:429
+#, fuzzy
+#| msgid ""
+#| "Find text<br /><br />Shows a dialog that allows you to find text on the "
+#| "displayed page."
+msgid ""
+"<qt>Find text<br /><br />Shows a dialog that allows you to find text on the "
+"displayed page.</qt>"
+msgstr ""
+"ليکنه لټول<br /><br />.يوه داسې کړکۍ پرانيزې چې تاسو پرې په کتل شوي مخ ليکنه "
+"لټولی شﺉ"
+
+#: khtml/khtml_part.cpp:434
+#, fuzzy
+#| msgid ""
+#| "Find next<br /><br />Find the next occurrence of the text that you have "
+#| "found using the <b>Find Text</b> function"
+msgid ""
+"<qt>Find next<br /><br />Find the next occurrence of the text that you have "
+"found using the <b>Find Text</b> function.</qt>"
+msgstr ""
+"راتلونکی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې "
+"راتلونکې پېښه لټول چې په"
+
+#: khtml/khtml_part.cpp:440
+#, fuzzy
+#| msgid ""
+#| "Find previous<br /><br />Find the previous occurrence of the text that "
+#| "you have found using the <b>Find Text</b> function"
+msgid ""
+"<qt>Find previous<br /><br />Find the previous occurrence of the text that "
+"you have found using the <b>Find Text</b> function.</qt>"
+msgstr ""
+"مخکنی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې مخکنۍ "
+"پېښه لټول چې په"
 
 #: khtml/khtml_part.cpp:444
 msgid "Find Text as You Type"
@@ -10345,6 +10393,18 @@ msgstr "د ليکلو سره سم ليکنه لټول"
 #: khtml/khtml_part.cpp:449
 msgid "Find Links as You Type"
 msgstr "د ليکلو سره سم تړنه لټول"
+
+#: khtml/khtml_part.cpp:470
+#, fuzzy
+#| msgid ""
+#| "Print Frame<br /><br />Some pages have several frames. To print only a "
+#| "single frame, click on it and then use this function."
+msgid ""
+"<qt>Print Frame<br /><br />Some pages have several frames. To print only a "
+"single frame, click on it and then use this function.</qt>"
+msgstr ""
+"چوکاټ چاپول<br /><br />.ځېنې مخونه ډېر چوکاټونه لري. د يوګړي چوکاټ د چاپولو "
+"لپاره، په هغې کېکاږﺉ او بيا دا کړنه وکاروﺉ"
 
 #: khtml/khtml_part.cpp:485
 msgid "Toggle Caret Mode"
@@ -10570,7 +10630,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4691 khtml/khtmlview.cpp:2910 khtml/khtmlview.cpp:2952
+#: khtml/khtml_part.cpp:4691 khtml/khtmlview.cpp:2912 khtml/khtmlview.cpp:2954
 #: khtml/html/html_formimpl.cpp:1605 khtml/html/html_formimpl.cpp:1817
 msgid "Submit"
 msgstr "لېږل"
@@ -10689,39 +10749,39 @@ msgstr "پرېښودلو ته زياتول"
 msgid "Remove from ignores..."
 msgstr "له پرېښودلو نه ړنګول"
 
-#: khtml/khtmlview.cpp:1871
+#: khtml/khtmlview.cpp:1873
 msgid "Find stopped."
 msgstr ".پلټون وتمول شو"
 
-#: khtml/khtmlview.cpp:1882
+#: khtml/khtmlview.cpp:1884
 msgid "Starting -- find links as you type"
 msgstr "پېليږي -- د ليکنې سره سم تړنې لټول"
 
-#: khtml/khtmlview.cpp:1888
+#: khtml/khtmlview.cpp:1890
 msgid "Starting -- find text as you type"
 msgstr "پېليږي -- د ليکنې سره سم ليکنه لټول"
 
-#: khtml/khtmlview.cpp:1911
+#: khtml/khtmlview.cpp:1913
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr ".\"%1\" :تړنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1916
+#: khtml/khtmlview.cpp:1918
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr ".\"%1\" :تړنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1924
+#: khtml/khtmlview.cpp:1926
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr ".\"%1\" :ليکنه وموندل شوه"
 
-#: khtml/khtmlview.cpp:1929
+#: khtml/khtmlview.cpp:1931
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr ".\"%1\" :ليکنه ونه موندل شوه"
 
-#: khtml/khtmlview.cpp:1972
+#: khtml/khtmlview.cpp:1974
 msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
@@ -12664,34 +12724,6 @@ msgstr "د &ورځې نکته"
 #, kde-format
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
-
-#~ msgid ""
-#~ "Find text<br /><br />Shows a dialog that allows you to find text on the "
-#~ "displayed page."
-#~ msgstr ""
-#~ "ليکنه لټول<br /><br />.يوه داسې کړکۍ پرانيزې چې تاسو پرې په کتل شوي مخ "
-#~ "ليکنه لټولی شﺉ"
-
-#~ msgid ""
-#~ "Find next<br /><br />Find the next occurrence of the text that you have "
-#~ "found using the <b>Find Text</b> function"
-#~ msgstr ""
-#~ "راتلونکی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې "
-#~ "راتلونکې پېښه لټول چې په"
-
-#~ msgid ""
-#~ "Find previous<br /><br />Find the previous occurrence of the text that "
-#~ "you have found using the <b>Find Text</b> function"
-#~ msgstr ""
-#~ "مخکنی لټول<br /><br />کړنې مو موندلې وه <b>ليکنه لټول</b> د هغې ليکنې "
-#~ "مخکنۍ پېښه لټول چې په"
-
-#~ msgid ""
-#~ "Print Frame<br /><br />Some pages have several frames. To print only a "
-#~ "single frame, click on it and then use this function."
-#~ msgstr ""
-#~ "چوکاټ چاپول<br /><br />.ځېنې مخونه ډېر چوکاټونه لري. د يوګړي چوکاټ د "
-#~ "چاپولو لپاره، په هغې کېکاږﺉ او بيا دا کړنه وکاروﺉ"
 
 #~ msgid "0 B"
 #~ msgstr "۰ ب"
