@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-17 06:20+0200\n"
+"POT-Creation-Date: 2009-09-18 06:12+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -7932,11 +7932,9 @@ msgstr "د پای نه پرمختلل غواړﺉ؟"
 msgid "Continue from the beginning?"
 msgstr "د پېل نه پرمختلل غواړﺉ؟"
 
-#: kdeui/itemviews/kfilterproxysearchline.cpp:72
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
-#: kde3support/kdeui/k3listviewsearchline.cpp:557
-msgid "S&earch:"
-msgstr ":پ&لټون"
+#: kdeui/itemviews/kfilterproxysearchline.cpp:73
+msgid "Search"
+msgstr "پلټون"
 
 #: kdeui/itemviews/ktreewidgetsearchline.cpp:424
 #: kde3support/kdeui/k3listviewsearchline.cpp:287
@@ -7947,6 +7945,11 @@ msgstr "ستنې پلټل"
 #: kde3support/kdeui/k3listviewsearchline.cpp:290
 msgid "All Visible Columns"
 msgstr "ټولې ښکارېدونکې ستنې"
+
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
+#: kde3support/kdeui/k3listviewsearchline.cpp:557
+msgid "S&earch:"
+msgstr ":پ&لټون"
 
 #: kdeui/shortcuts/kglobalaccel.cpp:494
 msgid "Conflict with Global Shortcut"
@@ -13388,9 +13391,6 @@ msgstr "\"%1\" داسې کړنه نشته"
 #~ msgctxt "@action"
 #~ msgid "AboutKDE"
 #~ msgstr "د کډي په اړه"
-
-#~ msgid "Search"
-#~ msgstr "پلټون"
 
 #~ msgid "English"
 #~ msgstr "انګريزي"
