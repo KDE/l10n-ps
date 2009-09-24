@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-21 05:57+0200\n"
+"POT-Creation-Date: 2009-09-24 06:14+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6858,6 +6858,11 @@ msgstr "انځورن بدلول"
 msgid "Icon Te&xt:"
 msgstr ":د تړنۍ ليکنه"
 
+#: kdeui/dialogs/kshortcutseditor.cpp:127
+#: kdeui/widgets/kcharselectdata.cpp:644
+msgid "Unknown"
+msgstr "ناپېژندلی"
+
 #: kdeui/dialogs/kshortcutseditor.cpp:566
 #: kdeui/dialogs/kshortcutseditor.cpp:582
 msgid "Key Conflict"
@@ -9941,10 +9946,6 @@ msgstr "بېلند، پېرېګراف"
 msgid "Separator, Space"
 msgstr "بېلند، تشه"
 
-#: kdeui/widgets/kcharselectdata.cpp:644
-msgid "Unknown"
-msgstr "ناپېژندلی"
-
 #: kdeui/widgets/ksqueezedtextlabel.cpp:158
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
@@ -10646,7 +10647,7 @@ msgstr "منل"
 msgid "Reject"
 msgstr "نه منل"
 
-#: khtml/khtml_settings.cpp:781
+#: khtml/khtml_settings.cpp:802
 msgid "Filter error"
 msgstr "د چاڼ تېروتنه"
 
