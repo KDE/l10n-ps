@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-09 05:05+0000\n"
+"POT-Creation-Date: 2009-10-10 05:02+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1078,22 +1078,22 @@ msgctxt "Name"
 msgid "Read action"
 msgstr ""
 
-#: kdecore/auth/example/actions.actions:20
+#: kdecore/auth/example/actions.actions:22
 msgctxt "Description"
 msgid "Read action description"
 msgstr ""
 
-#: kdecore/auth/example/actions.actions:42
+#: kdecore/auth/example/actions.actions:46
 msgctxt "Name"
 msgid "Write action"
 msgstr ""
 
-#: kdecore/auth/example/actions.actions:60
+#: kdecore/auth/example/actions.actions:66
 msgctxt "Description"
 msgid "Write action description"
 msgstr ""
 
-#: kdecore/auth/example/actions.actions:81
+#: kdecore/auth/example/actions.actions:89
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Latin"
@@ -1101,13 +1101,13 @@ msgctxt "Name"
 msgid "Long action"
 msgstr "لاټيني"
 
-#: kdecore/auth/example/actions.actions:100
-#: kdecore/auth/example/actions.actions:139
+#: kdecore/auth/example/actions.actions:110
+#: kdecore/auth/example/actions.actions:153
 msgctxt "Description"
 msgid "Long action description"
 msgstr ""
 
-#: kdecore/auth/example/actions.actions:121
+#: kdecore/auth/example/actions.actions:133
 msgctxt "Name"
 msgid "Action KAction"
 msgstr ""
@@ -1150,7 +1150,7 @@ msgctxt "Name"
 msgid "KFileModule"
 msgstr "بېلګه KDED"
 
-#: kfile/kfilemodule.desktop:22
+#: kfile/kfilemodule.desktop:24
 msgctxt "Comment"
 msgid "The default KDE file module providing the standard file dialog"
 msgstr ""
@@ -1345,7 +1345,7 @@ msgctxt "Name"
 msgid "filemodule"
 msgstr ""
 
-#: kio/kfile/kiofilemodule.desktop:23
+#: kio/kfile/kiofilemodule.desktop:25
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "KDED Module"
@@ -1614,7 +1614,7 @@ msgctxt "Name"
 msgid "Save remote widgets policies"
 msgstr ""
 
-#: plasma/kcm_remotewidgets.actions:20
+#: plasma/kcm_remotewidgets.actions:22
 msgctxt "Description"
 msgid "Prevents the system from saving plasma remote widgets policies"
 msgstr ""
