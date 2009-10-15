@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-14 06:36+0200\n"
+"POT-Creation-Date: 2009-10-15 06:13+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6341,7 +6341,7 @@ msgstr "لټول"
 msgid "Cut"
 msgstr "سکڼل"
 
-#: kdeui/util/kkeyserver_x11.cpp:113 kdeui/dialogs/kshortcutsdialog.cpp:120
+#: kdeui/util/kkeyserver_x11.cpp:113 kdeui/dialogs/kshortcutsdialog.cpp:124
 msgid "Print"
 msgstr "چاپول"
 
@@ -6438,11 +6438,11 @@ msgid ""
 "one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:118
+#: kdeui/dialogs/kshortcutsdialog.cpp:122
 msgid "Configure Shortcuts"
 msgstr "لنډلارې سازول"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:125
+#: kdeui/dialogs/kshortcutsdialog.cpp:129
 #, fuzzy
 #| msgid "&Defaults"
 msgid "Reset to Defaults"
@@ -6833,6 +6833,30 @@ msgstr "انځورن بدلول"
 #| msgid "Link Text:"
 msgid "Icon Te&xt:"
 msgstr ":د تړنۍ ليکنه"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:66
+#, fuzzy
+#| msgid "Pages"
+msgid "All Pages"
+msgstr "مخونه"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:67
+#, fuzzy
+#| msgid "Pages"
+msgid "Odd Pages"
+msgstr "مخونه"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:68
+#, fuzzy
+#| msgid "Pages"
+msgid "Even Pages"
+msgstr "مخونه"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:79
+#, fuzzy
+#| msgid "Pages Per Sheet"
+msgid "Page Set"
+msgstr "مخونه پر پاڼې"
 
 #: kdeui/dialogs/kshortcutseditor.cpp:127
 #: kdeui/widgets/kcharselectdata.cpp:644
@@ -7296,7 +7320,7 @@ msgstr "د کډي ډلې کې ګډون کول&"
 msgid "&Support KDE"
 msgstr "د کډي ملاتړ&"
 
-#: kdeui/dialogs/kdeprintdialog.cpp:53
+#: kdeui/dialogs/kdeprintdialog.cpp:73
 msgctxt "@title:window"
 msgid "Print"
 msgstr "چاپول"
@@ -12097,7 +12121,7 @@ msgstr "%1 بيا:"
 #, fuzzy
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
-msgid "Do not ask again for files of this type"
+msgid "Remember action for files of this type"
 msgstr "دا استوزه بيا نه ښودل"
 
 #: kparts/browseropenorsavequestion.cpp:142
