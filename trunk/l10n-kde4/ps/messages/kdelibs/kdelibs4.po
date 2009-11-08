@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-07 06:18+0100\n"
+"POT-Creation-Date: 2009-11-08 05:57+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5103,7 +5103,7 @@ msgid "Connection timed out"
 msgstr "د نښلېدنې مهال بشپړ شو"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:491
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:492
 msgid "Unknown error"
 msgstr "ناپېژندلې تېروتنه"
 
@@ -13542,15 +13542,15 @@ msgstr "ايان رينهرټ ګيسر"
 msgid "Daniel Molkentin"
 msgstr "ډېنيل مولکېنټېن"
 
-#: nepomuk/core/resource.cpp:485
+#: nepomuk/core/resource.cpp:486
 msgid "Success"
 msgstr "بری"
 
-#: nepomuk/core/resource.cpp:487
+#: nepomuk/core/resource.cpp:488
 msgid "Communication error"
 msgstr "د اړيکې تېروتنه"
 
-#: nepomuk/core/resource.cpp:489
+#: nepomuk/core/resource.cpp:490
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
