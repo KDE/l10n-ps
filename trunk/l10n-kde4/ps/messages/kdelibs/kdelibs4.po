@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-29 06:11+0100\n"
+"POT-Creation-Date: 2009-11-30 06:36+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1925,7 +1925,7 @@ msgstr "ارهکړکۍ"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:106
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: rc.cpp:907 kparts/browserrun.cpp:312
+#: rc.cpp:907 kparts/browserrun.cpp:313
 msgid "Execute"
 msgstr "چلول"
 
@@ -12436,7 +12436,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
 
 #: khtml/khtml_run.cpp:95 khtml/khtml_part.cpp:3727 khtml/khtml_part.cpp:3937
-#: khtml/khtml_part.cpp:4329 kparts/browserrun.cpp:398
+#: khtml/khtml_part.cpp:4329 kparts/browserrun.cpp:399
 msgid "Save As"
 msgstr "ساتل په"
 
@@ -12697,12 +12697,12 @@ msgstr "دوتنه ځاېناستول غواړﺉ؟"
 msgid "Overwrite"
 msgstr "ځاېناستول"
 
-#: khtml/khtml_ext.cpp:994 kparts/browserrun.cpp:369
+#: khtml/khtml_ext.cpp:994 kparts/browserrun.cpp:370
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: khtml/khtml_ext.cpp:995 kparts/browserrun.cpp:370
+#: khtml/khtml_ext.cpp:995 kparts/browserrun.cpp:371
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -14289,12 +14289,12 @@ msgstr ""
 msgid "Close Document"
 msgstr "لاسوند بندول"
 
-#: kparts/browserrun.cpp:311
+#: kparts/browserrun.cpp:312
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "په رښتيا چلول غواړﺉ؟ '%1'"
 
-#: kparts/browserrun.cpp:312
+#: kparts/browserrun.cpp:313
 msgid "Execute File?"
 msgstr "دوتنه چلول غواړﺉ؟"
 
