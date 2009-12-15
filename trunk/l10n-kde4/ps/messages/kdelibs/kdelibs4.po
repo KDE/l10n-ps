@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-12 06:08+0100\n"
+"POT-Creation-Date: 2009-12-15 06:02+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -11635,24 +11635,24 @@ msgstr "د اړيکې تېروتنه"
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:208
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:201
 msgid "Create New Tag..."
 msgstr "...نوی بچوی جوړول"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
 msgid "New Tag"
 msgstr "نوی بچوی"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
 msgid "Please insert the name of the new tag:"
 msgstr ":لورينه وکړﺉ د نوي بچوي نوم ورننباسﺉ"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
 #, kde-format
 msgid "The tag %1 already exists"
 msgstr "بچوی د مخکې نه شتون لري %1"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
 msgid "Tag Exists"
 msgstr "بچوی شتون لري"
 
