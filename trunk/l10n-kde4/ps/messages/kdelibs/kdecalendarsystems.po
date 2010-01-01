@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-15 06:03+0100\n"
+"POT-Creation-Date: 2010-01-01 06:18+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -921,286 +921,286 @@ msgstr "نۍ"
 msgid "Yaum al-Ahad"
 msgstr "يوه نۍ"
 
-#: kcalendarsystemjalali.cpp:536
+#: kcalendarsystemjalali.cpp:256
 msgctxt "of Farvardin short"
 msgid "of Far"
 msgstr "د فرو"
 
-#: kcalendarsystemjalali.cpp:538
+#: kcalendarsystemjalali.cpp:258
 msgctxt "of Ordibehesht short"
 msgid "of Ord"
 msgstr "د ورد"
 
-#: kcalendarsystemjalali.cpp:540
+#: kcalendarsystemjalali.cpp:260
 msgctxt "of Khordad short"
 msgid "of Kho"
 msgstr "د کور"
 
-#: kcalendarsystemjalali.cpp:542
+#: kcalendarsystemjalali.cpp:262
 msgctxt "of Tir short"
 msgid "of Tir"
 msgstr "د تير"
 
-#: kcalendarsystemjalali.cpp:544
+#: kcalendarsystemjalali.cpp:264
 msgctxt "of Mordad short"
 msgid "of Mor"
 msgstr "د مور"
 
-#: kcalendarsystemjalali.cpp:546
+#: kcalendarsystemjalali.cpp:266
 msgctxt "of Shahrivar short"
 msgid "of Sha"
 msgstr "د شهر"
 
-#: kcalendarsystemjalali.cpp:548
+#: kcalendarsystemjalali.cpp:268
 msgctxt "of Mehr short"
 msgid "of Meh"
 msgstr "د مهر"
 
-#: kcalendarsystemjalali.cpp:550
+#: kcalendarsystemjalali.cpp:270
 msgctxt "of Aban short"
 msgid "of Aba"
 msgstr "د ابا"
 
-#: kcalendarsystemjalali.cpp:552
+#: kcalendarsystemjalali.cpp:272
 msgctxt "of Azar short"
 msgid "of Aza"
 msgstr "د ازا"
 
-#: kcalendarsystemjalali.cpp:554
+#: kcalendarsystemjalali.cpp:274
 msgctxt "of Dei short"
 msgid "of Dei"
 msgstr "د دي"
 
-#: kcalendarsystemjalali.cpp:556
+#: kcalendarsystemjalali.cpp:276
 msgctxt "of Bahman short"
 msgid "of Bah"
 msgstr "د بهم"
 
-#: kcalendarsystemjalali.cpp:558
+#: kcalendarsystemjalali.cpp:278
 msgctxt "of Esfand short"
 msgid "of Esf"
 msgstr "د اېس"
 
-#: kcalendarsystemjalali.cpp:567
+#: kcalendarsystemjalali.cpp:287
 msgctxt "Farvardin short"
 msgid "Far"
 msgstr "فرو"
 
-#: kcalendarsystemjalali.cpp:569
+#: kcalendarsystemjalali.cpp:289
 msgctxt "Ordibehesht short"
 msgid "Ord"
 msgstr "ورد"
 
-#: kcalendarsystemjalali.cpp:571
+#: kcalendarsystemjalali.cpp:291
 msgctxt "Khordad short"
 msgid "Kho"
 msgstr "کور"
 
-#: kcalendarsystemjalali.cpp:573
+#: kcalendarsystemjalali.cpp:293
 msgctxt "Tir short"
 msgid "Tir"
 msgstr "تير"
 
-#: kcalendarsystemjalali.cpp:575
+#: kcalendarsystemjalali.cpp:295
 msgctxt "Mordad short"
 msgid "Mor"
 msgstr "مور"
 
-#: kcalendarsystemjalali.cpp:577
+#: kcalendarsystemjalali.cpp:297
 msgctxt "Shahrivar short"
 msgid "Sha"
 msgstr "شهر"
 
-#: kcalendarsystemjalali.cpp:579
+#: kcalendarsystemjalali.cpp:299
 msgctxt "Mehr short"
 msgid "Meh"
 msgstr "مهر"
 
-#: kcalendarsystemjalali.cpp:581
+#: kcalendarsystemjalali.cpp:301
 msgctxt "Aban short"
 msgid "Aba"
 msgstr "ابا"
 
-#: kcalendarsystemjalali.cpp:583
+#: kcalendarsystemjalali.cpp:303
 msgctxt "Azar short"
 msgid "Aza"
 msgstr "ازا"
 
-#: kcalendarsystemjalali.cpp:585
+#: kcalendarsystemjalali.cpp:305
 msgctxt "Dei short"
 msgid "Dei"
 msgstr "دي"
 
-#: kcalendarsystemjalali.cpp:587
+#: kcalendarsystemjalali.cpp:307
 msgctxt "Bahman short"
 msgid "Bah"
 msgstr "بهم"
 
-#: kcalendarsystemjalali.cpp:589
+#: kcalendarsystemjalali.cpp:309
 msgctxt "Esfand"
 msgid "Esf"
 msgstr "اېس"
 
-#: kcalendarsystemjalali.cpp:598
+#: kcalendarsystemjalali.cpp:318
 msgid "of Farvardin"
 msgstr "د فروردېن"
 
-#: kcalendarsystemjalali.cpp:600
+#: kcalendarsystemjalali.cpp:320
 msgid "of Ordibehesht"
 msgstr "د وردېبېهشت"
 
-#: kcalendarsystemjalali.cpp:602
+#: kcalendarsystemjalali.cpp:322
 msgid "of Khordad"
 msgstr "د کورداد"
 
-#: kcalendarsystemjalali.cpp:604
+#: kcalendarsystemjalali.cpp:324
 msgctxt "of Tir long"
 msgid "of Tir"
 msgstr "د تير"
 
-#: kcalendarsystemjalali.cpp:606
+#: kcalendarsystemjalali.cpp:326
 msgid "of Mordad"
 msgstr "د مورداد"
 
-#: kcalendarsystemjalali.cpp:608
+#: kcalendarsystemjalali.cpp:328
 msgid "of Shahrivar"
 msgstr "د شهرېوار"
 
-#: kcalendarsystemjalali.cpp:610
+#: kcalendarsystemjalali.cpp:330
 msgid "of Mehr"
 msgstr "د مهر"
 
-#: kcalendarsystemjalali.cpp:612
+#: kcalendarsystemjalali.cpp:332
 msgid "of Aban"
 msgstr "د ابان"
 
-#: kcalendarsystemjalali.cpp:614
+#: kcalendarsystemjalali.cpp:334
 msgid "of Azar"
 msgstr "د ازار"
 
-#: kcalendarsystemjalali.cpp:616
+#: kcalendarsystemjalali.cpp:336
 msgctxt "of Dei long"
 msgid "of Dei"
 msgstr "د دي"
 
-#: kcalendarsystemjalali.cpp:618
+#: kcalendarsystemjalali.cpp:338
 msgid "of Bahman"
 msgstr "د بهمن"
 
-#: kcalendarsystemjalali.cpp:620
+#: kcalendarsystemjalali.cpp:340
 msgid "of Esfand"
 msgstr "د اېسفند"
 
-#: kcalendarsystemjalali.cpp:629
+#: kcalendarsystemjalali.cpp:349
 msgid "Farvardin"
 msgstr "فروردېن"
 
-#: kcalendarsystemjalali.cpp:631
+#: kcalendarsystemjalali.cpp:351
 msgid "Ordibehesht"
 msgstr "وردېبېهشت"
 
-#: kcalendarsystemjalali.cpp:633
+#: kcalendarsystemjalali.cpp:353
 msgid "Khordad"
 msgstr "کورداد"
 
-#: kcalendarsystemjalali.cpp:635
+#: kcalendarsystemjalali.cpp:355
 msgctxt "Tir long"
 msgid "Tir"
 msgstr "تير"
 
-#: kcalendarsystemjalali.cpp:637
+#: kcalendarsystemjalali.cpp:357
 msgid "Mordad"
 msgstr "مورداد"
 
-#: kcalendarsystemjalali.cpp:639
+#: kcalendarsystemjalali.cpp:359
 msgid "Shahrivar"
 msgstr "شهرېوار"
 
-#: kcalendarsystemjalali.cpp:641
+#: kcalendarsystemjalali.cpp:361
 msgid "Mehr"
 msgstr "مهر"
 
-#: kcalendarsystemjalali.cpp:643
+#: kcalendarsystemjalali.cpp:363
 msgid "Aban"
 msgstr "ابان"
 
-#: kcalendarsystemjalali.cpp:645
+#: kcalendarsystemjalali.cpp:365
 msgid "Azar"
 msgstr "ازار"
 
-#: kcalendarsystemjalali.cpp:647
+#: kcalendarsystemjalali.cpp:367
 msgctxt "Dei long"
 msgid "Dei"
 msgstr "دي"
 
-#: kcalendarsystemjalali.cpp:649
+#: kcalendarsystemjalali.cpp:369
 msgid "Bahman"
 msgstr "بهمن"
 
-#: kcalendarsystemjalali.cpp:651
+#: kcalendarsystemjalali.cpp:371
 msgid "Esfand"
 msgstr "اېسفند"
 
-#: kcalendarsystemjalali.cpp:667
+#: kcalendarsystemjalali.cpp:387
 msgctxt "Do shanbe short"
 msgid "2sh"
 msgstr "دوه نۍ"
 
-#: kcalendarsystemjalali.cpp:669
+#: kcalendarsystemjalali.cpp:389
 msgctxt "Se shanbe short"
 msgid "3sh"
 msgstr "درې نۍ"
 
-#: kcalendarsystemjalali.cpp:671
+#: kcalendarsystemjalali.cpp:391
 msgctxt "Chahar shanbe short"
 msgid "4sh"
 msgstr "منځنۍ"
 
-#: kcalendarsystemjalali.cpp:673
+#: kcalendarsystemjalali.cpp:393
 msgctxt "Panj shanbe short"
 msgid "5sh"
 msgstr "پينځه نۍ"
 
-#: kcalendarsystemjalali.cpp:675
+#: kcalendarsystemjalali.cpp:395
 msgctxt "Jumee short"
 msgid "Jom"
 msgstr "جومه"
 
-#: kcalendarsystemjalali.cpp:677
+#: kcalendarsystemjalali.cpp:397
 msgctxt "Shanbe short"
 msgid "shn"
 msgstr "نۍ"
 
-#: kcalendarsystemjalali.cpp:679
+#: kcalendarsystemjalali.cpp:399
 msgctxt "Yek-shanbe short"
 msgid "1sh"
 msgstr "يوه نۍ"
 
-#: kcalendarsystemjalali.cpp:688
+#: kcalendarsystemjalali.cpp:408
 msgid "Do shanbe"
 msgstr "دوه نۍ"
 
-#: kcalendarsystemjalali.cpp:690
+#: kcalendarsystemjalali.cpp:410
 msgid "Se shanbe"
 msgstr "درې نۍ"
 
-#: kcalendarsystemjalali.cpp:692
+#: kcalendarsystemjalali.cpp:412
 msgid "Chahar shanbe"
 msgstr "منځنۍ"
 
-#: kcalendarsystemjalali.cpp:694
+#: kcalendarsystemjalali.cpp:414
 msgid "Panj shanbe"
 msgstr "پينځه نۍ"
 
-#: kcalendarsystemjalali.cpp:696
+#: kcalendarsystemjalali.cpp:416
 msgid "Jumee"
 msgstr "جومه"
 
-#: kcalendarsystemjalali.cpp:698
+#: kcalendarsystemjalali.cpp:418
 msgid "Shanbe"
 msgstr "نۍ"
 
-#: kcalendarsystemjalali.cpp:700
+#: kcalendarsystemjalali.cpp:420
 msgid "Yek-shanbe"
 msgstr "يوه نۍ"
 
