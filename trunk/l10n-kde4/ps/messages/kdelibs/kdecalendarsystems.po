@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-11 06:18+0100\n"
+"POT-Creation-Date: 2010-01-12 06:38+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -721,203 +721,203 @@ msgctxt "Indian National weekday 7 - LongDayName"
 msgid "Raviãra"
 msgstr ""
 
-#: kcalendarsystemhijri.cpp:261 kcalendarsystemhijri.cpp:292
+#: kcalendarsystemhijri.cpp:262 kcalendarsystemhijri.cpp:293
 msgid "of Muharram"
 msgstr "د محرم"
 
-#: kcalendarsystemhijri.cpp:263 kcalendarsystemhijri.cpp:294
+#: kcalendarsystemhijri.cpp:264 kcalendarsystemhijri.cpp:295
 msgid "of Safar"
 msgstr "د صفر"
 
-#: kcalendarsystemhijri.cpp:265
+#: kcalendarsystemhijri.cpp:266
 msgid "of R. Awal"
 msgstr "د ر. اول"
 
-#: kcalendarsystemhijri.cpp:267
+#: kcalendarsystemhijri.cpp:268
 msgid "of R. Thaani"
 msgstr "د ر. ثاني"
 
-#: kcalendarsystemhijri.cpp:269
+#: kcalendarsystemhijri.cpp:270
 msgid "of J. Awal"
 msgstr "د ج. اول"
 
-#: kcalendarsystemhijri.cpp:271
+#: kcalendarsystemhijri.cpp:272
 msgid "of J. Thaani"
 msgstr "د ج. ثاني"
 
-#: kcalendarsystemhijri.cpp:273 kcalendarsystemhijri.cpp:304
+#: kcalendarsystemhijri.cpp:274 kcalendarsystemhijri.cpp:305
 msgid "of Rajab"
 msgstr "د رجب"
 
-#: kcalendarsystemhijri.cpp:275 kcalendarsystemhijri.cpp:306
+#: kcalendarsystemhijri.cpp:276 kcalendarsystemhijri.cpp:307
 msgid "of Sha`ban"
 msgstr "د شعبان"
 
-#: kcalendarsystemhijri.cpp:277 kcalendarsystemhijri.cpp:308
+#: kcalendarsystemhijri.cpp:278 kcalendarsystemhijri.cpp:309
 msgid "of Ramadan"
 msgstr "د رمضان"
 
-#: kcalendarsystemhijri.cpp:279 kcalendarsystemhijri.cpp:310
+#: kcalendarsystemhijri.cpp:280 kcalendarsystemhijri.cpp:311
 msgid "of Shawwal"
 msgstr "د شوال"
 
-#: kcalendarsystemhijri.cpp:281
+#: kcalendarsystemhijri.cpp:282
 msgid "of Qi`dah"
 msgstr "د قعدې"
 
-#: kcalendarsystemhijri.cpp:283
+#: kcalendarsystemhijri.cpp:284
 msgid "of Hijjah"
 msgstr "د حجې"
 
-#: kcalendarsystemhijri.cpp:296
+#: kcalendarsystemhijri.cpp:297
 msgid "of Rabi` al-Awal"
 msgstr "د ربي الاول"
 
-#: kcalendarsystemhijri.cpp:298
+#: kcalendarsystemhijri.cpp:299
 msgid "of Rabi` al-Thaani"
 msgstr "د ربي الثاني"
 
-#: kcalendarsystemhijri.cpp:300
+#: kcalendarsystemhijri.cpp:301
 msgid "of Jumaada al-Awal"
 msgstr "د جمادي الاول"
 
-#: kcalendarsystemhijri.cpp:302
+#: kcalendarsystemhijri.cpp:303
 msgid "of Jumaada al-Thaani"
 msgstr "د جمادي الثاني"
 
-#: kcalendarsystemhijri.cpp:312
+#: kcalendarsystemhijri.cpp:313
 msgid "of Thu al-Qi`dah"
 msgstr "د ذي القعدې"
 
-#: kcalendarsystemhijri.cpp:314
+#: kcalendarsystemhijri.cpp:315
 msgid "of Thu al-Hijjah"
 msgstr "د ذي الحجه"
 
-#: kcalendarsystemhijri.cpp:323 kcalendarsystemhijri.cpp:354
+#: kcalendarsystemhijri.cpp:324 kcalendarsystemhijri.cpp:355
 msgid "Muharram"
 msgstr "محرم"
 
-#: kcalendarsystemhijri.cpp:325 kcalendarsystemhijri.cpp:356
+#: kcalendarsystemhijri.cpp:326 kcalendarsystemhijri.cpp:357
 msgid "Safar"
 msgstr "صفر"
 
-#: kcalendarsystemhijri.cpp:327
+#: kcalendarsystemhijri.cpp:328
 msgid "R. Awal"
 msgstr "ر. اول"
 
-#: kcalendarsystemhijri.cpp:329
+#: kcalendarsystemhijri.cpp:330
 msgid "R. Thaani"
 msgstr "ر. ثاني"
 
-#: kcalendarsystemhijri.cpp:331
+#: kcalendarsystemhijri.cpp:332
 msgid "J. Awal"
 msgstr "ج. اول"
 
-#: kcalendarsystemhijri.cpp:333
+#: kcalendarsystemhijri.cpp:334
 msgid "J. Thaani"
 msgstr "ج. ثاني"
 
-#: kcalendarsystemhijri.cpp:335 kcalendarsystemhijri.cpp:366
+#: kcalendarsystemhijri.cpp:336 kcalendarsystemhijri.cpp:367
 msgid "Rajab"
 msgstr "رجب"
 
-#: kcalendarsystemhijri.cpp:337 kcalendarsystemhijri.cpp:368
+#: kcalendarsystemhijri.cpp:338 kcalendarsystemhijri.cpp:369
 msgid "Sha`ban"
 msgstr "شعبان"
 
-#: kcalendarsystemhijri.cpp:339 kcalendarsystemhijri.cpp:370
+#: kcalendarsystemhijri.cpp:340 kcalendarsystemhijri.cpp:371
 msgid "Ramadan"
 msgstr "رمضان"
 
-#: kcalendarsystemhijri.cpp:341 kcalendarsystemhijri.cpp:372
+#: kcalendarsystemhijri.cpp:342 kcalendarsystemhijri.cpp:373
 msgid "Shawwal"
 msgstr "شوال"
 
-#: kcalendarsystemhijri.cpp:343
+#: kcalendarsystemhijri.cpp:344
 msgid "Qi`dah"
 msgstr "قعده"
 
-#: kcalendarsystemhijri.cpp:345
+#: kcalendarsystemhijri.cpp:346
 msgid "Hijjah"
 msgstr "حجه"
 
-#: kcalendarsystemhijri.cpp:358
+#: kcalendarsystemhijri.cpp:359
 msgid "Rabi` al-Awal"
 msgstr "ربي الاول"
 
-#: kcalendarsystemhijri.cpp:360
+#: kcalendarsystemhijri.cpp:361
 msgid "Rabi` al-Thaani"
 msgstr "ربي الثاني"
 
-#: kcalendarsystemhijri.cpp:362
+#: kcalendarsystemhijri.cpp:363
 msgid "Jumaada al-Awal"
 msgstr "جمادي الاول"
 
-#: kcalendarsystemhijri.cpp:364
+#: kcalendarsystemhijri.cpp:365
 msgid "Jumaada al-Thaani"
 msgstr "جمادي الثاني"
 
-#: kcalendarsystemhijri.cpp:374
+#: kcalendarsystemhijri.cpp:375
 msgid "Thu al-Qi`dah"
 msgstr "ذي لقعده"
 
-#: kcalendarsystemhijri.cpp:376
+#: kcalendarsystemhijri.cpp:377
 msgid "Thu al-Hijjah"
 msgstr "ذي الحجه"
 
-#: kcalendarsystemhijri.cpp:392
+#: kcalendarsystemhijri.cpp:393
 msgid "Ith"
 msgstr "دوه نۍ"
 
-#: kcalendarsystemhijri.cpp:394
+#: kcalendarsystemhijri.cpp:395
 msgid "Thl"
 msgstr "درې نۍ"
 
-#: kcalendarsystemhijri.cpp:396
+#: kcalendarsystemhijri.cpp:397
 msgid "Arb"
 msgstr "منځنۍ"
 
-#: kcalendarsystemhijri.cpp:398
+#: kcalendarsystemhijri.cpp:399
 msgid "Kha"
 msgstr "پينځه نۍ"
 
-#: kcalendarsystemhijri.cpp:400
+#: kcalendarsystemhijri.cpp:401
 msgid "Jum"
 msgstr "جومه"
 
-#: kcalendarsystemhijri.cpp:402
+#: kcalendarsystemhijri.cpp:403
 msgid "Sab"
 msgstr "نۍ"
 
-#: kcalendarsystemhijri.cpp:404
+#: kcalendarsystemhijri.cpp:405
 msgid "Ahd"
 msgstr "يوه نۍ"
 
-#: kcalendarsystemhijri.cpp:413
+#: kcalendarsystemhijri.cpp:414
 msgid "Yaum al-Ithnain"
 msgstr "دوه نۍ"
 
-#: kcalendarsystemhijri.cpp:415
+#: kcalendarsystemhijri.cpp:416
 msgid "Yau al-Thulatha"
 msgstr "درې نۍ"
 
-#: kcalendarsystemhijri.cpp:417
+#: kcalendarsystemhijri.cpp:418
 msgid "Yaum al-Arbi'a"
 msgstr "منځنۍ"
 
-#: kcalendarsystemhijri.cpp:419
+#: kcalendarsystemhijri.cpp:420
 msgid "Yaum al-Khamees"
 msgstr "پينځنۍ"
 
-#: kcalendarsystemhijri.cpp:421
+#: kcalendarsystemhijri.cpp:422
 msgid "Yaum al-Jumma"
 msgstr "جومه"
 
-#: kcalendarsystemhijri.cpp:423
+#: kcalendarsystemhijri.cpp:424
 msgid "Yaum al-Sabt"
 msgstr "نۍ"
 
-#: kcalendarsystemhijri.cpp:425
+#: kcalendarsystemhijri.cpp:426
 msgid "Yaum al-Ahad"
 msgstr "يوه نۍ"
 
