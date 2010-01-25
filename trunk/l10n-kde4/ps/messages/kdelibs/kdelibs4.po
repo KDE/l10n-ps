@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-22 06:20+0100\n"
+"POT-Creation-Date: 2010-01-25 06:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5351,7 +5351,7 @@ msgstr ""
 msgid "Could not make you a fan."
 msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
-#: kdewebkit/kwebpage.cpp:170 khtml/khtml_ext.cpp:933
+#: kdewebkit/kwebpage.cpp:171 khtml/khtml_ext.cpp:933
 msgid "Overwrite File?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
@@ -10009,7 +10009,7 @@ msgstr "<qt>بند کړﺉ؟ <b>%1</b> تاسو په ډاډمنه توګه غو�
 msgid "Confirm Quit From System Tray"
 msgstr "د غونډال مجمې نه بندول باوري کړﺉ"
 
-#: kdeui/notifications/knotificationrestrictions.cpp:196
+#: kdeui/notifications/knotificationrestrictions.cpp:180
 #, fuzzy
 #| msgid "Quit application"
 msgid "Unknown Application"
