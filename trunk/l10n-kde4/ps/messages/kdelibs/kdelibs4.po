@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-27 06:23+0100\n"
+"POT-Creation-Date: 2010-01-28 05:59+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2134,7 +2134,7 @@ msgstr ""
 "indent:0px;\">(اوسه پورې نه پوهېږو)</p></body></html>"
 
 #: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:830
-#: kdeui/dialogs/kmessagebox.cpp:862 khtml/rendering/render_form.cpp:750
+#: kdeui/dialogs/kmessagebox.cpp:862 khtml/rendering/render_form.cpp:755
 msgid "Error"
 msgstr "تېروتنه"
 
@@ -9780,7 +9780,7 @@ msgstr "بره &خوځول"
 msgid "Move &Down"
 msgstr "ښکته &خوځول"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:873
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:878
 msgid "Clear &History"
 msgstr "مخينه &پاکول"
 
@@ -11283,36 +11283,36 @@ msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesof
 msgid "Play"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:729
+#: khtml/rendering/render_form.cpp:734
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "لنډلار"
 
-#: khtml/rendering/render_form.cpp:750
+#: khtml/rendering/render_form.cpp:755
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "ساکټ د مخکې نه جوړ شوی"
 
-#: khtml/rendering/render_form.cpp:795
+#: khtml/rendering/render_form.cpp:800
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:797
+#: khtml/rendering/render_form.cpp:802
 #, fuzzy
 #| msgid "Enter search phrase here"
 msgid "New search provider"
 msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
-#: khtml/rendering/render_form.cpp:802
+#: khtml/rendering/render_form.cpp:807
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "لنډلاري"
 
-#: khtml/rendering/render_form.cpp:888
+#: khtml/rendering/render_form.cpp:893
 #, fuzzy
 #| msgid "Configure Shortcuts"
 msgid "Create Web Shortcut"
