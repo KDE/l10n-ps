@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-23 01:26+0100\n"
+"POT-Creation-Date: 2010-02-26 20:27+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -17,351 +17,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
-
-#: kcalendarsystemjulian.cpp:206 kcalendarsystemgregorian.cpp:200
-#: kcalendarsystemgregorianproleptic.cpp:239
-msgctxt "of January"
-msgid "of Jan"
-msgstr "د جنوري"
-
-#: kcalendarsystemjulian.cpp:208 kcalendarsystemgregorian.cpp:202
-#: kcalendarsystemgregorianproleptic.cpp:241
-msgctxt "of February"
-msgid "of Feb"
-msgstr "د فېبروري"
-
-#: kcalendarsystemjulian.cpp:210 kcalendarsystemgregorian.cpp:204
-#: kcalendarsystemgregorianproleptic.cpp:243
-msgctxt "of March"
-msgid "of Mar"
-msgstr "د مارچ"
-
-#: kcalendarsystemjulian.cpp:212 kcalendarsystemgregorian.cpp:206
-#: kcalendarsystemgregorianproleptic.cpp:245
-msgctxt "of April"
-msgid "of Apr"
-msgstr "د اپرېل"
-
-#: kcalendarsystemjulian.cpp:214 kcalendarsystemgregorian.cpp:208
-#: kcalendarsystemgregorianproleptic.cpp:247
-msgctxt "of May short"
-msgid "of May"
-msgstr "د می"
-
-#: kcalendarsystemjulian.cpp:216 kcalendarsystemgregorian.cpp:210
-#: kcalendarsystemgregorianproleptic.cpp:249
-msgctxt "of June"
-msgid "of Jun"
-msgstr "د جون"
-
-#: kcalendarsystemjulian.cpp:218 kcalendarsystemgregorian.cpp:212
-#: kcalendarsystemgregorianproleptic.cpp:251
-msgctxt "of July"
-msgid "of Jul"
-msgstr "د جولای"
-
-#: kcalendarsystemjulian.cpp:220 kcalendarsystemgregorian.cpp:214
-#: kcalendarsystemgregorianproleptic.cpp:253
-msgctxt "of August"
-msgid "of Aug"
-msgstr "د اګېسټ"
-
-#: kcalendarsystemjulian.cpp:222 kcalendarsystemgregorian.cpp:216
-#: kcalendarsystemgregorianproleptic.cpp:255
-msgctxt "of September"
-msgid "of Sep"
-msgstr "د سېپټمبر"
-
-#: kcalendarsystemjulian.cpp:224 kcalendarsystemgregorian.cpp:218
-#: kcalendarsystemgregorianproleptic.cpp:257
-msgctxt "of October"
-msgid "of Oct"
-msgstr "د اکټوبر"
-
-#: kcalendarsystemjulian.cpp:226 kcalendarsystemgregorian.cpp:220
-#: kcalendarsystemgregorianproleptic.cpp:259
-msgctxt "of November"
-msgid "of Nov"
-msgstr "د نومبر"
-
-#: kcalendarsystemjulian.cpp:228 kcalendarsystemgregorian.cpp:222
-#: kcalendarsystemgregorianproleptic.cpp:261
-msgctxt "of December"
-msgid "of Dec"
-msgstr "د ډېسمبر"
-
-#: kcalendarsystemjulian.cpp:237 kcalendarsystemgregorian.cpp:231
-#: kcalendarsystemgregorianproleptic.cpp:270
-msgid "of January"
-msgstr "د جنوري"
-
-#: kcalendarsystemjulian.cpp:239 kcalendarsystemgregorian.cpp:233
-#: kcalendarsystemgregorianproleptic.cpp:272
-msgid "of February"
-msgstr "د فېبروري"
-
-#: kcalendarsystemjulian.cpp:241 kcalendarsystemgregorian.cpp:235
-#: kcalendarsystemgregorianproleptic.cpp:274
-msgid "of March"
-msgstr "د مارچ"
-
-#: kcalendarsystemjulian.cpp:243 kcalendarsystemgregorian.cpp:237
-#: kcalendarsystemgregorianproleptic.cpp:276
-msgid "of April"
-msgstr "د اپرېل"
-
-#: kcalendarsystemjulian.cpp:245 kcalendarsystemgregorian.cpp:239
-#: kcalendarsystemgregorianproleptic.cpp:278
-msgctxt "of May long"
-msgid "of May"
-msgstr "د می"
-
-#: kcalendarsystemjulian.cpp:247 kcalendarsystemgregorian.cpp:241
-#: kcalendarsystemgregorianproleptic.cpp:280
-msgid "of June"
-msgstr "د جون"
-
-#: kcalendarsystemjulian.cpp:249 kcalendarsystemgregorian.cpp:243
-#: kcalendarsystemgregorianproleptic.cpp:282
-msgid "of July"
-msgstr "د جولای"
-
-#: kcalendarsystemjulian.cpp:251 kcalendarsystemgregorian.cpp:245
-#: kcalendarsystemgregorianproleptic.cpp:284
-msgid "of August"
-msgstr "د اګېسټ"
-
-#: kcalendarsystemjulian.cpp:253 kcalendarsystemgregorian.cpp:247
-#: kcalendarsystemgregorianproleptic.cpp:286
-msgid "of September"
-msgstr "د سېپټمبر"
-
-#: kcalendarsystemjulian.cpp:255 kcalendarsystemgregorian.cpp:249
-#: kcalendarsystemgregorianproleptic.cpp:288
-msgid "of October"
-msgstr "د اکټوبر"
-
-#: kcalendarsystemjulian.cpp:257 kcalendarsystemgregorian.cpp:251
-#: kcalendarsystemgregorianproleptic.cpp:290
-msgid "of November"
-msgstr "د نوېمبر"
-
-#: kcalendarsystemjulian.cpp:259 kcalendarsystemgregorian.cpp:253
-#: kcalendarsystemgregorianproleptic.cpp:292
-msgid "of December"
-msgstr "د ډېسمبر"
-
-#: kcalendarsystemjulian.cpp:268 kcalendarsystemgregorian.cpp:262
-#: kcalendarsystemgregorianproleptic.cpp:301
-msgctxt "January"
-msgid "Jan"
-msgstr "جنوري"
-
-#: kcalendarsystemjulian.cpp:270 kcalendarsystemgregorian.cpp:264
-#: kcalendarsystemgregorianproleptic.cpp:303
-msgctxt "February"
-msgid "Feb"
-msgstr "فېبروري"
-
-#: kcalendarsystemjulian.cpp:272 kcalendarsystemgregorian.cpp:266
-#: kcalendarsystemgregorianproleptic.cpp:305
-msgctxt "March"
-msgid "Mar"
-msgstr "مارچ"
-
-#: kcalendarsystemjulian.cpp:274 kcalendarsystemgregorian.cpp:268
-#: kcalendarsystemgregorianproleptic.cpp:307
-msgctxt "April"
-msgid "Apr"
-msgstr "اپرېل"
-
-#: kcalendarsystemjulian.cpp:276 kcalendarsystemgregorian.cpp:270
-#: kcalendarsystemgregorianproleptic.cpp:309
-msgctxt "May short"
-msgid "May"
-msgstr "د می"
-
-#: kcalendarsystemjulian.cpp:278 kcalendarsystemgregorian.cpp:272
-#: kcalendarsystemgregorianproleptic.cpp:311
-msgctxt "June"
-msgid "Jun"
-msgstr "جون"
-
-#: kcalendarsystemjulian.cpp:280 kcalendarsystemgregorian.cpp:274
-#: kcalendarsystemgregorianproleptic.cpp:313
-msgctxt "July"
-msgid "Jul"
-msgstr "جولای"
-
-#: kcalendarsystemjulian.cpp:282 kcalendarsystemgregorian.cpp:276
-#: kcalendarsystemgregorianproleptic.cpp:315
-msgctxt "August"
-msgid "Aug"
-msgstr "اګېسټ"
-
-#: kcalendarsystemjulian.cpp:284 kcalendarsystemgregorian.cpp:278
-#: kcalendarsystemgregorianproleptic.cpp:317
-msgctxt "September"
-msgid "Sep"
-msgstr "سېپټمبر"
-
-#: kcalendarsystemjulian.cpp:286 kcalendarsystemgregorian.cpp:280
-#: kcalendarsystemgregorianproleptic.cpp:319
-msgctxt "October"
-msgid "Oct"
-msgstr "اکټوبر"
-
-#: kcalendarsystemjulian.cpp:288 kcalendarsystemgregorian.cpp:282
-#: kcalendarsystemgregorianproleptic.cpp:321
-msgctxt "November"
-msgid "Nov"
-msgstr "نومبر"
-
-#: kcalendarsystemjulian.cpp:290 kcalendarsystemgregorian.cpp:284
-#: kcalendarsystemgregorianproleptic.cpp:323
-msgctxt "December"
-msgid "Dec"
-msgstr "ډېسمبر"
-
-#: kcalendarsystemjulian.cpp:299 kcalendarsystemgregorian.cpp:293
-#: kcalendarsystemgregorianproleptic.cpp:332
-msgid "January"
-msgstr "جنوري"
-
-#: kcalendarsystemjulian.cpp:301 kcalendarsystemgregorian.cpp:295
-#: kcalendarsystemgregorianproleptic.cpp:334
-msgid "February"
-msgstr "فېبروري"
-
-#: kcalendarsystemjulian.cpp:303 kcalendarsystemgregorian.cpp:297
-#: kcalendarsystemgregorianproleptic.cpp:336
-msgctxt "March long"
-msgid "March"
-msgstr "مارچ"
-
-#: kcalendarsystemjulian.cpp:305 kcalendarsystemgregorian.cpp:299
-#: kcalendarsystemgregorianproleptic.cpp:338
-msgid "April"
-msgstr "اپرېل"
-
-#: kcalendarsystemjulian.cpp:307 kcalendarsystemgregorian.cpp:301
-#: kcalendarsystemgregorianproleptic.cpp:340
-msgctxt "May long"
-msgid "May"
-msgstr "می"
-
-#: kcalendarsystemjulian.cpp:309 kcalendarsystemgregorian.cpp:303
-#: kcalendarsystemgregorianproleptic.cpp:342
-msgid "June"
-msgstr "جون"
-
-#: kcalendarsystemjulian.cpp:311 kcalendarsystemgregorian.cpp:305
-#: kcalendarsystemgregorianproleptic.cpp:344
-msgid "July"
-msgstr "جولای"
-
-#: kcalendarsystemjulian.cpp:313 kcalendarsystemgregorian.cpp:307
-#: kcalendarsystemgregorianproleptic.cpp:346
-msgctxt "August long"
-msgid "August"
-msgstr "اګېسټ"
-
-#: kcalendarsystemjulian.cpp:315 kcalendarsystemgregorian.cpp:309
-#: kcalendarsystemgregorianproleptic.cpp:348
-msgid "September"
-msgstr "سېپټمبر"
-
-#: kcalendarsystemjulian.cpp:317 kcalendarsystemgregorian.cpp:311
-#: kcalendarsystemgregorianproleptic.cpp:350
-msgid "October"
-msgstr "اکټوبر"
-
-#: kcalendarsystemjulian.cpp:319 kcalendarsystemgregorian.cpp:313
-#: kcalendarsystemgregorianproleptic.cpp:352
-msgid "November"
-msgstr "نوېمبر"
-
-#: kcalendarsystemjulian.cpp:321 kcalendarsystemgregorian.cpp:315
-#: kcalendarsystemgregorianproleptic.cpp:354
-msgid "December"
-msgstr "ډېسمبر"
-
-#: kcalendarsystemjulian.cpp:337 kcalendarsystemgregorian.cpp:331
-#: kcalendarsystemhebrew.cpp:704 kcalendarsystemgregorianproleptic.cpp:370
-msgctxt "Monday"
-msgid "Mon"
-msgstr "دوه نۍ"
-
-#: kcalendarsystemjulian.cpp:338 kcalendarsystemgregorian.cpp:332
-#: kcalendarsystemhebrew.cpp:705 kcalendarsystemgregorianproleptic.cpp:371
-msgctxt "Tuesday"
-msgid "Tue"
-msgstr "درې نۍ"
-
-#: kcalendarsystemjulian.cpp:339 kcalendarsystemgregorian.cpp:333
-#: kcalendarsystemhebrew.cpp:706 kcalendarsystemgregorianproleptic.cpp:372
-msgctxt "Wednesday"
-msgid "Wed"
-msgstr "منځنۍ"
-
-#: kcalendarsystemjulian.cpp:340 kcalendarsystemgregorian.cpp:334
-#: kcalendarsystemhebrew.cpp:707 kcalendarsystemgregorianproleptic.cpp:373
-msgctxt "Thursday"
-msgid "Thu"
-msgstr "پينځه نۍ"
-
-#: kcalendarsystemjulian.cpp:341 kcalendarsystemgregorian.cpp:335
-#: kcalendarsystemhebrew.cpp:708 kcalendarsystemgregorianproleptic.cpp:374
-msgctxt "Friday"
-msgid "Fri"
-msgstr "جومه"
-
-#: kcalendarsystemjulian.cpp:342 kcalendarsystemgregorian.cpp:336
-#: kcalendarsystemhebrew.cpp:709 kcalendarsystemgregorianproleptic.cpp:375
-msgctxt "Saturday"
-msgid "Sat"
-msgstr "نۍ"
-
-#: kcalendarsystemjulian.cpp:343 kcalendarsystemgregorian.cpp:337
-#: kcalendarsystemhebrew.cpp:710 kcalendarsystemgregorianproleptic.cpp:376
-msgctxt "Sunday"
-msgid "Sun"
-msgstr "يوه نۍ"
-
-#: kcalendarsystemjulian.cpp:349 kcalendarsystemgregorian.cpp:343
-#: kcalendarsystemhebrew.cpp:716 kcalendarsystemgregorianproleptic.cpp:382
-msgid "Monday"
-msgstr "دوه نۍ"
-
-#: kcalendarsystemjulian.cpp:350 kcalendarsystemgregorian.cpp:344
-#: kcalendarsystemhebrew.cpp:717 kcalendarsystemgregorianproleptic.cpp:383
-msgid "Tuesday"
-msgstr "درې نۍ"
-
-#: kcalendarsystemjulian.cpp:351 kcalendarsystemgregorian.cpp:345
-#: kcalendarsystemhebrew.cpp:718 kcalendarsystemgregorianproleptic.cpp:384
-msgid "Wednesday"
-msgstr "منځنۍ"
-
-#: kcalendarsystemjulian.cpp:352 kcalendarsystemgregorian.cpp:346
-#: kcalendarsystemhebrew.cpp:719 kcalendarsystemgregorianproleptic.cpp:385
-msgid "Thursday"
-msgstr "درې نۍ"
-
-#: kcalendarsystemjulian.cpp:353 kcalendarsystemgregorian.cpp:347
-#: kcalendarsystemhebrew.cpp:720 kcalendarsystemgregorianproleptic.cpp:386
-msgid "Friday"
-msgstr "جومه"
-
-#: kcalendarsystemjulian.cpp:354 kcalendarsystemgregorian.cpp:348
-#: kcalendarsystemhebrew.cpp:721 kcalendarsystemgregorianproleptic.cpp:387
-msgid "Saturday"
-msgstr "نۍ"
-
-#: kcalendarsystemjulian.cpp:355 kcalendarsystemgregorian.cpp:349
-#: kcalendarsystemhebrew.cpp:722 kcalendarsystemgregorianproleptic.cpp:388
-msgid "Sunday"
-msgstr "يوه نۍ"
 
 #: kcalendarsystemindiannational.cpp:248
 #, fuzzy
@@ -721,206 +376,6 @@ msgctxt "Indian National weekday 7 - LongDayName"
 msgid "Raviãra"
 msgstr ""
 
-#: kcalendarsystemhijri.cpp:262 kcalendarsystemhijri.cpp:293
-msgid "of Muharram"
-msgstr "د محرم"
-
-#: kcalendarsystemhijri.cpp:264 kcalendarsystemhijri.cpp:295
-msgid "of Safar"
-msgstr "د صفر"
-
-#: kcalendarsystemhijri.cpp:266
-msgid "of R. Awal"
-msgstr "د ر. اول"
-
-#: kcalendarsystemhijri.cpp:268
-msgid "of R. Thaani"
-msgstr "د ر. ثاني"
-
-#: kcalendarsystemhijri.cpp:270
-msgid "of J. Awal"
-msgstr "د ج. اول"
-
-#: kcalendarsystemhijri.cpp:272
-msgid "of J. Thaani"
-msgstr "د ج. ثاني"
-
-#: kcalendarsystemhijri.cpp:274 kcalendarsystemhijri.cpp:305
-msgid "of Rajab"
-msgstr "د رجب"
-
-#: kcalendarsystemhijri.cpp:276 kcalendarsystemhijri.cpp:307
-msgid "of Sha`ban"
-msgstr "د شعبان"
-
-#: kcalendarsystemhijri.cpp:278 kcalendarsystemhijri.cpp:309
-msgid "of Ramadan"
-msgstr "د رمضان"
-
-#: kcalendarsystemhijri.cpp:280 kcalendarsystemhijri.cpp:311
-msgid "of Shawwal"
-msgstr "د شوال"
-
-#: kcalendarsystemhijri.cpp:282
-msgid "of Qi`dah"
-msgstr "د قعدې"
-
-#: kcalendarsystemhijri.cpp:284
-msgid "of Hijjah"
-msgstr "د حجې"
-
-#: kcalendarsystemhijri.cpp:297
-msgid "of Rabi` al-Awal"
-msgstr "د ربي الاول"
-
-#: kcalendarsystemhijri.cpp:299
-msgid "of Rabi` al-Thaani"
-msgstr "د ربي الثاني"
-
-#: kcalendarsystemhijri.cpp:301
-msgid "of Jumaada al-Awal"
-msgstr "د جمادي الاول"
-
-#: kcalendarsystemhijri.cpp:303
-msgid "of Jumaada al-Thaani"
-msgstr "د جمادي الثاني"
-
-#: kcalendarsystemhijri.cpp:313
-msgid "of Thu al-Qi`dah"
-msgstr "د ذي القعدې"
-
-#: kcalendarsystemhijri.cpp:315
-msgid "of Thu al-Hijjah"
-msgstr "د ذي الحجه"
-
-#: kcalendarsystemhijri.cpp:324 kcalendarsystemhijri.cpp:355
-msgid "Muharram"
-msgstr "محرم"
-
-#: kcalendarsystemhijri.cpp:326 kcalendarsystemhijri.cpp:357
-msgid "Safar"
-msgstr "صفر"
-
-#: kcalendarsystemhijri.cpp:328
-msgid "R. Awal"
-msgstr "ر. اول"
-
-#: kcalendarsystemhijri.cpp:330
-msgid "R. Thaani"
-msgstr "ر. ثاني"
-
-#: kcalendarsystemhijri.cpp:332
-msgid "J. Awal"
-msgstr "ج. اول"
-
-#: kcalendarsystemhijri.cpp:334
-msgid "J. Thaani"
-msgstr "ج. ثاني"
-
-#: kcalendarsystemhijri.cpp:336 kcalendarsystemhijri.cpp:367
-msgid "Rajab"
-msgstr "رجب"
-
-#: kcalendarsystemhijri.cpp:338 kcalendarsystemhijri.cpp:369
-msgid "Sha`ban"
-msgstr "شعبان"
-
-#: kcalendarsystemhijri.cpp:340 kcalendarsystemhijri.cpp:371
-msgid "Ramadan"
-msgstr "رمضان"
-
-#: kcalendarsystemhijri.cpp:342 kcalendarsystemhijri.cpp:373
-msgid "Shawwal"
-msgstr "شوال"
-
-#: kcalendarsystemhijri.cpp:344
-msgid "Qi`dah"
-msgstr "قعده"
-
-#: kcalendarsystemhijri.cpp:346
-msgid "Hijjah"
-msgstr "حجه"
-
-#: kcalendarsystemhijri.cpp:359
-msgid "Rabi` al-Awal"
-msgstr "ربي الاول"
-
-#: kcalendarsystemhijri.cpp:361
-msgid "Rabi` al-Thaani"
-msgstr "ربي الثاني"
-
-#: kcalendarsystemhijri.cpp:363
-msgid "Jumaada al-Awal"
-msgstr "جمادي الاول"
-
-#: kcalendarsystemhijri.cpp:365
-msgid "Jumaada al-Thaani"
-msgstr "جمادي الثاني"
-
-#: kcalendarsystemhijri.cpp:375
-msgid "Thu al-Qi`dah"
-msgstr "ذي لقعده"
-
-#: kcalendarsystemhijri.cpp:377
-msgid "Thu al-Hijjah"
-msgstr "ذي الحجه"
-
-#: kcalendarsystemhijri.cpp:393
-msgid "Ith"
-msgstr "دوه نۍ"
-
-#: kcalendarsystemhijri.cpp:395
-msgid "Thl"
-msgstr "درې نۍ"
-
-#: kcalendarsystemhijri.cpp:397
-msgid "Arb"
-msgstr "منځنۍ"
-
-#: kcalendarsystemhijri.cpp:399
-msgid "Kha"
-msgstr "پينځه نۍ"
-
-#: kcalendarsystemhijri.cpp:401
-msgid "Jum"
-msgstr "جومه"
-
-#: kcalendarsystemhijri.cpp:403
-msgid "Sab"
-msgstr "نۍ"
-
-#: kcalendarsystemhijri.cpp:405
-msgid "Ahd"
-msgstr "يوه نۍ"
-
-#: kcalendarsystemhijri.cpp:414
-msgid "Yaum al-Ithnain"
-msgstr "دوه نۍ"
-
-#: kcalendarsystemhijri.cpp:416
-msgid "Yau al-Thulatha"
-msgstr "درې نۍ"
-
-#: kcalendarsystemhijri.cpp:418
-msgid "Yaum al-Arbi'a"
-msgstr "منځنۍ"
-
-#: kcalendarsystemhijri.cpp:420
-msgid "Yaum al-Khamees"
-msgstr "پينځنۍ"
-
-#: kcalendarsystemhijri.cpp:422
-msgid "Yaum al-Jumma"
-msgstr "جومه"
-
-#: kcalendarsystemhijri.cpp:424
-msgid "Yaum al-Sabt"
-msgstr "نۍ"
-
-#: kcalendarsystemhijri.cpp:426
-msgid "Yaum al-Ahad"
-msgstr "يوه نۍ"
-
 #: kcalendarsystemjalali.cpp:262
 msgctxt "of Farvardin short"
 msgid "of Far"
@@ -1204,6 +659,551 @@ msgstr "نۍ"
 msgid "Yek-shanbe"
 msgstr "يوه نۍ"
 
+#: kcalendarsystemgregorianproleptic.cpp:239 kcalendarsystemgregorian.cpp:200
+#: kcalendarsystemjulian.cpp:206
+msgctxt "of January"
+msgid "of Jan"
+msgstr "د جنوري"
+
+#: kcalendarsystemgregorianproleptic.cpp:241 kcalendarsystemgregorian.cpp:202
+#: kcalendarsystemjulian.cpp:208
+msgctxt "of February"
+msgid "of Feb"
+msgstr "د فېبروري"
+
+#: kcalendarsystemgregorianproleptic.cpp:243 kcalendarsystemgregorian.cpp:204
+#: kcalendarsystemjulian.cpp:210
+msgctxt "of March"
+msgid "of Mar"
+msgstr "د مارچ"
+
+#: kcalendarsystemgregorianproleptic.cpp:245 kcalendarsystemgregorian.cpp:206
+#: kcalendarsystemjulian.cpp:212
+msgctxt "of April"
+msgid "of Apr"
+msgstr "د اپرېل"
+
+#: kcalendarsystemgregorianproleptic.cpp:247 kcalendarsystemgregorian.cpp:208
+#: kcalendarsystemjulian.cpp:214
+msgctxt "of May short"
+msgid "of May"
+msgstr "د می"
+
+#: kcalendarsystemgregorianproleptic.cpp:249 kcalendarsystemgregorian.cpp:210
+#: kcalendarsystemjulian.cpp:216
+msgctxt "of June"
+msgid "of Jun"
+msgstr "د جون"
+
+#: kcalendarsystemgregorianproleptic.cpp:251 kcalendarsystemgregorian.cpp:212
+#: kcalendarsystemjulian.cpp:218
+msgctxt "of July"
+msgid "of Jul"
+msgstr "د جولای"
+
+#: kcalendarsystemgregorianproleptic.cpp:253 kcalendarsystemgregorian.cpp:214
+#: kcalendarsystemjulian.cpp:220
+msgctxt "of August"
+msgid "of Aug"
+msgstr "د اګېسټ"
+
+#: kcalendarsystemgregorianproleptic.cpp:255 kcalendarsystemgregorian.cpp:216
+#: kcalendarsystemjulian.cpp:222
+msgctxt "of September"
+msgid "of Sep"
+msgstr "د سېپټمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:257 kcalendarsystemgregorian.cpp:218
+#: kcalendarsystemjulian.cpp:224
+msgctxt "of October"
+msgid "of Oct"
+msgstr "د اکټوبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:259 kcalendarsystemgregorian.cpp:220
+#: kcalendarsystemjulian.cpp:226
+msgctxt "of November"
+msgid "of Nov"
+msgstr "د نومبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:261 kcalendarsystemgregorian.cpp:222
+#: kcalendarsystemjulian.cpp:228
+msgctxt "of December"
+msgid "of Dec"
+msgstr "د ډېسمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:270 kcalendarsystemgregorian.cpp:231
+#: kcalendarsystemjulian.cpp:237
+msgid "of January"
+msgstr "د جنوري"
+
+#: kcalendarsystemgregorianproleptic.cpp:272 kcalendarsystemgregorian.cpp:233
+#: kcalendarsystemjulian.cpp:239
+msgid "of February"
+msgstr "د فېبروري"
+
+#: kcalendarsystemgregorianproleptic.cpp:274 kcalendarsystemgregorian.cpp:235
+#: kcalendarsystemjulian.cpp:241
+msgid "of March"
+msgstr "د مارچ"
+
+#: kcalendarsystemgregorianproleptic.cpp:276 kcalendarsystemgregorian.cpp:237
+#: kcalendarsystemjulian.cpp:243
+msgid "of April"
+msgstr "د اپرېل"
+
+#: kcalendarsystemgregorianproleptic.cpp:278 kcalendarsystemgregorian.cpp:239
+#: kcalendarsystemjulian.cpp:245
+msgctxt "of May long"
+msgid "of May"
+msgstr "د می"
+
+#: kcalendarsystemgregorianproleptic.cpp:280 kcalendarsystemgregorian.cpp:241
+#: kcalendarsystemjulian.cpp:247
+msgid "of June"
+msgstr "د جون"
+
+#: kcalendarsystemgregorianproleptic.cpp:282 kcalendarsystemgregorian.cpp:243
+#: kcalendarsystemjulian.cpp:249
+msgid "of July"
+msgstr "د جولای"
+
+#: kcalendarsystemgregorianproleptic.cpp:284 kcalendarsystemgregorian.cpp:245
+#: kcalendarsystemjulian.cpp:251
+msgid "of August"
+msgstr "د اګېسټ"
+
+#: kcalendarsystemgregorianproleptic.cpp:286 kcalendarsystemgregorian.cpp:247
+#: kcalendarsystemjulian.cpp:253
+msgid "of September"
+msgstr "د سېپټمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:288 kcalendarsystemgregorian.cpp:249
+#: kcalendarsystemjulian.cpp:255
+msgid "of October"
+msgstr "د اکټوبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:290 kcalendarsystemgregorian.cpp:251
+#: kcalendarsystemjulian.cpp:257
+msgid "of November"
+msgstr "د نوېمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:292 kcalendarsystemgregorian.cpp:253
+#: kcalendarsystemjulian.cpp:259
+msgid "of December"
+msgstr "د ډېسمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:301 kcalendarsystemgregorian.cpp:262
+#: kcalendarsystemjulian.cpp:268
+msgctxt "January"
+msgid "Jan"
+msgstr "جنوري"
+
+#: kcalendarsystemgregorianproleptic.cpp:303 kcalendarsystemgregorian.cpp:264
+#: kcalendarsystemjulian.cpp:270
+msgctxt "February"
+msgid "Feb"
+msgstr "فېبروري"
+
+#: kcalendarsystemgregorianproleptic.cpp:305 kcalendarsystemgregorian.cpp:266
+#: kcalendarsystemjulian.cpp:272
+msgctxt "March"
+msgid "Mar"
+msgstr "مارچ"
+
+#: kcalendarsystemgregorianproleptic.cpp:307 kcalendarsystemgregorian.cpp:268
+#: kcalendarsystemjulian.cpp:274
+msgctxt "April"
+msgid "Apr"
+msgstr "اپرېل"
+
+#: kcalendarsystemgregorianproleptic.cpp:309 kcalendarsystemgregorian.cpp:270
+#: kcalendarsystemjulian.cpp:276
+msgctxt "May short"
+msgid "May"
+msgstr "د می"
+
+#: kcalendarsystemgregorianproleptic.cpp:311 kcalendarsystemgregorian.cpp:272
+#: kcalendarsystemjulian.cpp:278
+msgctxt "June"
+msgid "Jun"
+msgstr "جون"
+
+#: kcalendarsystemgregorianproleptic.cpp:313 kcalendarsystemgregorian.cpp:274
+#: kcalendarsystemjulian.cpp:280
+msgctxt "July"
+msgid "Jul"
+msgstr "جولای"
+
+#: kcalendarsystemgregorianproleptic.cpp:315 kcalendarsystemgregorian.cpp:276
+#: kcalendarsystemjulian.cpp:282
+msgctxt "August"
+msgid "Aug"
+msgstr "اګېسټ"
+
+#: kcalendarsystemgregorianproleptic.cpp:317 kcalendarsystemgregorian.cpp:278
+#: kcalendarsystemjulian.cpp:284
+msgctxt "September"
+msgid "Sep"
+msgstr "سېپټمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:319 kcalendarsystemgregorian.cpp:280
+#: kcalendarsystemjulian.cpp:286
+msgctxt "October"
+msgid "Oct"
+msgstr "اکټوبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:321 kcalendarsystemgregorian.cpp:282
+#: kcalendarsystemjulian.cpp:288
+msgctxt "November"
+msgid "Nov"
+msgstr "نومبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:323 kcalendarsystemgregorian.cpp:284
+#: kcalendarsystemjulian.cpp:290
+msgctxt "December"
+msgid "Dec"
+msgstr "ډېسمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:332 kcalendarsystemgregorian.cpp:293
+#: kcalendarsystemjulian.cpp:299
+msgid "January"
+msgstr "جنوري"
+
+#: kcalendarsystemgregorianproleptic.cpp:334 kcalendarsystemgregorian.cpp:295
+#: kcalendarsystemjulian.cpp:301
+msgid "February"
+msgstr "فېبروري"
+
+#: kcalendarsystemgregorianproleptic.cpp:336 kcalendarsystemgregorian.cpp:297
+#: kcalendarsystemjulian.cpp:303
+msgctxt "March long"
+msgid "March"
+msgstr "مارچ"
+
+#: kcalendarsystemgregorianproleptic.cpp:338 kcalendarsystemgregorian.cpp:299
+#: kcalendarsystemjulian.cpp:305
+msgid "April"
+msgstr "اپرېل"
+
+#: kcalendarsystemgregorianproleptic.cpp:340 kcalendarsystemgregorian.cpp:301
+#: kcalendarsystemjulian.cpp:307
+msgctxt "May long"
+msgid "May"
+msgstr "می"
+
+#: kcalendarsystemgregorianproleptic.cpp:342 kcalendarsystemgregorian.cpp:303
+#: kcalendarsystemjulian.cpp:309
+msgid "June"
+msgstr "جون"
+
+#: kcalendarsystemgregorianproleptic.cpp:344 kcalendarsystemgregorian.cpp:305
+#: kcalendarsystemjulian.cpp:311
+msgid "July"
+msgstr "جولای"
+
+#: kcalendarsystemgregorianproleptic.cpp:346 kcalendarsystemgregorian.cpp:307
+#: kcalendarsystemjulian.cpp:313
+msgctxt "August long"
+msgid "August"
+msgstr "اګېسټ"
+
+#: kcalendarsystemgregorianproleptic.cpp:348 kcalendarsystemgregorian.cpp:309
+#: kcalendarsystemjulian.cpp:315
+msgid "September"
+msgstr "سېپټمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:350 kcalendarsystemgregorian.cpp:311
+#: kcalendarsystemjulian.cpp:317
+msgid "October"
+msgstr "اکټوبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:352 kcalendarsystemgregorian.cpp:313
+#: kcalendarsystemjulian.cpp:319
+msgid "November"
+msgstr "نوېمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:354 kcalendarsystemgregorian.cpp:315
+#: kcalendarsystemjulian.cpp:321
+msgid "December"
+msgstr "ډېسمبر"
+
+#: kcalendarsystemgregorianproleptic.cpp:370 kcalendarsystemhebrew.cpp:704
+#: kcalendarsystemgregorian.cpp:331 kcalendarsystemjulian.cpp:337
+msgctxt "Monday"
+msgid "Mon"
+msgstr "دوه نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:371 kcalendarsystemhebrew.cpp:705
+#: kcalendarsystemgregorian.cpp:332 kcalendarsystemjulian.cpp:338
+msgctxt "Tuesday"
+msgid "Tue"
+msgstr "درې نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:372 kcalendarsystemhebrew.cpp:706
+#: kcalendarsystemgregorian.cpp:333 kcalendarsystemjulian.cpp:339
+msgctxt "Wednesday"
+msgid "Wed"
+msgstr "منځنۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:373 kcalendarsystemhebrew.cpp:707
+#: kcalendarsystemgregorian.cpp:334 kcalendarsystemjulian.cpp:340
+msgctxt "Thursday"
+msgid "Thu"
+msgstr "پينځه نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:374 kcalendarsystemhebrew.cpp:708
+#: kcalendarsystemgregorian.cpp:335 kcalendarsystemjulian.cpp:341
+msgctxt "Friday"
+msgid "Fri"
+msgstr "جومه"
+
+#: kcalendarsystemgregorianproleptic.cpp:375 kcalendarsystemhebrew.cpp:709
+#: kcalendarsystemgregorian.cpp:336 kcalendarsystemjulian.cpp:342
+msgctxt "Saturday"
+msgid "Sat"
+msgstr "نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:376 kcalendarsystemhebrew.cpp:710
+#: kcalendarsystemgregorian.cpp:337 kcalendarsystemjulian.cpp:343
+msgctxt "Sunday"
+msgid "Sun"
+msgstr "يوه نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:382 kcalendarsystemhebrew.cpp:716
+#: kcalendarsystemgregorian.cpp:343 kcalendarsystemjulian.cpp:349
+msgid "Monday"
+msgstr "دوه نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:383 kcalendarsystemhebrew.cpp:717
+#: kcalendarsystemgregorian.cpp:344 kcalendarsystemjulian.cpp:350
+msgid "Tuesday"
+msgstr "درې نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:384 kcalendarsystemhebrew.cpp:718
+#: kcalendarsystemgregorian.cpp:345 kcalendarsystemjulian.cpp:351
+msgid "Wednesday"
+msgstr "منځنۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:385 kcalendarsystemhebrew.cpp:719
+#: kcalendarsystemgregorian.cpp:346 kcalendarsystemjulian.cpp:352
+msgid "Thursday"
+msgstr "درې نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:386 kcalendarsystemhebrew.cpp:720
+#: kcalendarsystemgregorian.cpp:347 kcalendarsystemjulian.cpp:353
+msgid "Friday"
+msgstr "جومه"
+
+#: kcalendarsystemgregorianproleptic.cpp:387 kcalendarsystemhebrew.cpp:721
+#: kcalendarsystemgregorian.cpp:348 kcalendarsystemjulian.cpp:354
+msgid "Saturday"
+msgstr "نۍ"
+
+#: kcalendarsystemgregorianproleptic.cpp:388 kcalendarsystemhebrew.cpp:722
+#: kcalendarsystemgregorian.cpp:349 kcalendarsystemjulian.cpp:355
+msgid "Sunday"
+msgstr "يوه نۍ"
+
+#: kcalendarsystemhijri.cpp:262 kcalendarsystemhijri.cpp:293
+msgid "of Muharram"
+msgstr "د محرم"
+
+#: kcalendarsystemhijri.cpp:264 kcalendarsystemhijri.cpp:295
+msgid "of Safar"
+msgstr "د صفر"
+
+#: kcalendarsystemhijri.cpp:266
+msgid "of R. Awal"
+msgstr "د ر. اول"
+
+#: kcalendarsystemhijri.cpp:268
+msgid "of R. Thaani"
+msgstr "د ر. ثاني"
+
+#: kcalendarsystemhijri.cpp:270
+msgid "of J. Awal"
+msgstr "د ج. اول"
+
+#: kcalendarsystemhijri.cpp:272
+msgid "of J. Thaani"
+msgstr "د ج. ثاني"
+
+#: kcalendarsystemhijri.cpp:274 kcalendarsystemhijri.cpp:305
+msgid "of Rajab"
+msgstr "د رجب"
+
+#: kcalendarsystemhijri.cpp:276 kcalendarsystemhijri.cpp:307
+msgid "of Sha`ban"
+msgstr "د شعبان"
+
+#: kcalendarsystemhijri.cpp:278 kcalendarsystemhijri.cpp:309
+msgid "of Ramadan"
+msgstr "د رمضان"
+
+#: kcalendarsystemhijri.cpp:280 kcalendarsystemhijri.cpp:311
+msgid "of Shawwal"
+msgstr "د شوال"
+
+#: kcalendarsystemhijri.cpp:282
+msgid "of Qi`dah"
+msgstr "د قعدې"
+
+#: kcalendarsystemhijri.cpp:284
+msgid "of Hijjah"
+msgstr "د حجې"
+
+#: kcalendarsystemhijri.cpp:297
+msgid "of Rabi` al-Awal"
+msgstr "د ربي الاول"
+
+#: kcalendarsystemhijri.cpp:299
+msgid "of Rabi` al-Thaani"
+msgstr "د ربي الثاني"
+
+#: kcalendarsystemhijri.cpp:301
+msgid "of Jumaada al-Awal"
+msgstr "د جمادي الاول"
+
+#: kcalendarsystemhijri.cpp:303
+msgid "of Jumaada al-Thaani"
+msgstr "د جمادي الثاني"
+
+#: kcalendarsystemhijri.cpp:313
+msgid "of Thu al-Qi`dah"
+msgstr "د ذي القعدې"
+
+#: kcalendarsystemhijri.cpp:315
+msgid "of Thu al-Hijjah"
+msgstr "د ذي الحجه"
+
+#: kcalendarsystemhijri.cpp:324 kcalendarsystemhijri.cpp:355
+msgid "Muharram"
+msgstr "محرم"
+
+#: kcalendarsystemhijri.cpp:326 kcalendarsystemhijri.cpp:357
+msgid "Safar"
+msgstr "صفر"
+
+#: kcalendarsystemhijri.cpp:328
+msgid "R. Awal"
+msgstr "ر. اول"
+
+#: kcalendarsystemhijri.cpp:330
+msgid "R. Thaani"
+msgstr "ر. ثاني"
+
+#: kcalendarsystemhijri.cpp:332
+msgid "J. Awal"
+msgstr "ج. اول"
+
+#: kcalendarsystemhijri.cpp:334
+msgid "J. Thaani"
+msgstr "ج. ثاني"
+
+#: kcalendarsystemhijri.cpp:336 kcalendarsystemhijri.cpp:367
+msgid "Rajab"
+msgstr "رجب"
+
+#: kcalendarsystemhijri.cpp:338 kcalendarsystemhijri.cpp:369
+msgid "Sha`ban"
+msgstr "شعبان"
+
+#: kcalendarsystemhijri.cpp:340 kcalendarsystemhijri.cpp:371
+msgid "Ramadan"
+msgstr "رمضان"
+
+#: kcalendarsystemhijri.cpp:342 kcalendarsystemhijri.cpp:373
+msgid "Shawwal"
+msgstr "شوال"
+
+#: kcalendarsystemhijri.cpp:344
+msgid "Qi`dah"
+msgstr "قعده"
+
+#: kcalendarsystemhijri.cpp:346
+msgid "Hijjah"
+msgstr "حجه"
+
+#: kcalendarsystemhijri.cpp:359
+msgid "Rabi` al-Awal"
+msgstr "ربي الاول"
+
+#: kcalendarsystemhijri.cpp:361
+msgid "Rabi` al-Thaani"
+msgstr "ربي الثاني"
+
+#: kcalendarsystemhijri.cpp:363
+msgid "Jumaada al-Awal"
+msgstr "جمادي الاول"
+
+#: kcalendarsystemhijri.cpp:365
+msgid "Jumaada al-Thaani"
+msgstr "جمادي الثاني"
+
+#: kcalendarsystemhijri.cpp:375
+msgid "Thu al-Qi`dah"
+msgstr "ذي لقعده"
+
+#: kcalendarsystemhijri.cpp:377
+msgid "Thu al-Hijjah"
+msgstr "ذي الحجه"
+
+#: kcalendarsystemhijri.cpp:393
+msgid "Ith"
+msgstr "دوه نۍ"
+
+#: kcalendarsystemhijri.cpp:395
+msgid "Thl"
+msgstr "درې نۍ"
+
+#: kcalendarsystemhijri.cpp:397
+msgid "Arb"
+msgstr "منځنۍ"
+
+#: kcalendarsystemhijri.cpp:399
+msgid "Kha"
+msgstr "پينځه نۍ"
+
+#: kcalendarsystemhijri.cpp:401
+msgid "Jum"
+msgstr "جومه"
+
+#: kcalendarsystemhijri.cpp:403
+msgid "Sab"
+msgstr "نۍ"
+
+#: kcalendarsystemhijri.cpp:405
+msgid "Ahd"
+msgstr "يوه نۍ"
+
+#: kcalendarsystemhijri.cpp:414
+msgid "Yaum al-Ithnain"
+msgstr "دوه نۍ"
+
+#: kcalendarsystemhijri.cpp:416
+msgid "Yau al-Thulatha"
+msgstr "درې نۍ"
+
+#: kcalendarsystemhijri.cpp:418
+msgid "Yaum al-Arbi'a"
+msgstr "منځنۍ"
+
+#: kcalendarsystemhijri.cpp:420
+msgid "Yaum al-Khamees"
+msgstr "پينځنۍ"
+
+#: kcalendarsystemhijri.cpp:422
+msgid "Yaum al-Jumma"
+msgstr "جومه"
+
+#: kcalendarsystemhijri.cpp:424
+msgid "Yaum al-Sabt"
+msgstr "نۍ"
+
+#: kcalendarsystemhijri.cpp:426
+msgid "Yaum al-Ahad"
+msgstr "يوه نۍ"
+
 #: kcalendarsystemhebrew.cpp:626
 msgid "of Tishrey"
 msgstr "د ټيشري"
@@ -1377,394 +1377,6 @@ msgstr "نن"
 #: kcalendarsystem.cpp:1145
 msgid "Yesterday"
 msgstr "پرون"
-
-#: kcalendarsystemcoptic.cpp:271
-#, fuzzy
-msgctxt "Coptic month 1 - ShortNamePossessive"
-msgid "of Tho"
-msgstr "د کور"
-
-#: kcalendarsystemcoptic.cpp:273
-#, fuzzy
-msgctxt "Coptic month 2 - ShortNamePossessive"
-msgid "of Pao"
-msgstr "د ټموز"
-
-#: kcalendarsystemcoptic.cpp:275
-#, fuzzy
-msgctxt "Coptic month 3 - ShortNamePossessive"
-msgid "of Hat"
-msgstr "د شواټ"
-
-#: kcalendarsystemcoptic.cpp:277
-#, fuzzy
-msgctxt "Coptic month 4 - ShortNamePossessive"
-msgid "of Kia"
-msgstr "د نېسان"
-
-#: kcalendarsystemcoptic.cpp:279
-#, fuzzy
-msgctxt "Coptic month 5 - ShortNamePossessive"
-msgid "of Tob"
-msgstr "د فېبروري"
-
-#: kcalendarsystemcoptic.cpp:281
-#, fuzzy
-msgctxt "Coptic month 6 - ShortNamePossessive"
-msgid "of Mes"
-msgstr "د مهر"
-
-#: kcalendarsystemcoptic.cpp:283
-#, fuzzy
-msgctxt "Coptic month 7 - ShortNamePossessive"
-msgid "of Par"
-msgstr "د مارچ"
-
-#: kcalendarsystemcoptic.cpp:285
-#, fuzzy
-msgctxt "Coptic month 8 - ShortNamePossessive"
-msgid "of Pam"
-msgstr "د ټموز"
-
-#: kcalendarsystemcoptic.cpp:287
-#, fuzzy
-msgctxt "Coptic month 9 - ShortNamePossessive"
-msgid "of Pas"
-msgstr "د بهم"
-
-#: kcalendarsystemcoptic.cpp:289
-#, fuzzy
-msgctxt "Coptic month 10 - ShortNamePossessive"
-msgid "of Pan"
-msgstr "د جنوري"
-
-#: kcalendarsystemcoptic.cpp:291
-#, fuzzy
-msgctxt "Coptic month 11 - ShortNamePossessive"
-msgid "of Epe"
-msgstr "د فېبروري"
-
-#: kcalendarsystemcoptic.cpp:293
-#, fuzzy
-msgctxt "Coptic month 12 - ShortNamePossessive"
-msgid "of Meo"
-msgstr "د مور"
-
-#: kcalendarsystemcoptic.cpp:295
-#, fuzzy
-msgctxt "Coptic month 13 - ShortNamePossessive"
-msgid "of Kou"
-msgstr "د کور"
-
-#: kcalendarsystemcoptic.cpp:304
-#, fuzzy
-msgctxt "Coptic month 1 - LongNamePossessive"
-msgid "of Thoout"
-msgstr "د کور"
-
-#: kcalendarsystemcoptic.cpp:306
-#, fuzzy
-msgctxt "Coptic month 2 - LongNamePossessive"
-msgid "of Paope"
-msgstr "د ټموز"
-
-#: kcalendarsystemcoptic.cpp:308
-#, fuzzy
-msgctxt "Coptic month 3 - LongNamePossessive"
-msgid "of Hathor"
-msgstr "د حجې"
-
-#: kcalendarsystemcoptic.cpp:310
-#, fuzzy
-msgctxt "Coptic month 4 - LongNamePossessive"
-msgid "of Kiahk"
-msgstr "د کور"
-
-#: kcalendarsystemcoptic.cpp:312
-#, fuzzy
-msgctxt "Coptic month 5 - LongNamePossessive"
-msgid "of Tobe"
-msgstr "د اکټوبر"
-
-#: kcalendarsystemcoptic.cpp:314
-#, fuzzy
-msgctxt "Coptic month 6 - LongNamePossessive"
-msgid "of Meshir"
-msgstr "د مهر"
-
-#: kcalendarsystemcoptic.cpp:316
-#, fuzzy
-msgctxt "Coptic month 7 - LongNamePossessive"
-msgid "of Paremhotep"
-msgstr "ارزښتمنۍ"
-
-#: kcalendarsystemcoptic.cpp:318
-#, fuzzy
-msgctxt "Coptic month 8 - LongNamePossessive"
-msgid "of Parmoute"
-msgstr "د ټموز"
-
-#: kcalendarsystemcoptic.cpp:320
-#, fuzzy
-msgctxt "Coptic month 9 - LongNamePossessive"
-msgid "of Pashons"
-msgstr "د بهم"
-
-#: kcalendarsystemcoptic.cpp:322
-#, fuzzy
-msgctxt "Coptic month 10 - LongNamePossessive"
-msgid "of Paone"
-msgstr "د جنوري"
-
-#: kcalendarsystemcoptic.cpp:324
-#, fuzzy
-msgctxt "Coptic month 11 - LongNamePossessive"
-msgid "of Epep"
-msgstr "د سېپټمبر"
-
-#: kcalendarsystemcoptic.cpp:326
-#, fuzzy
-msgctxt "Coptic month 12 - LongNamePossessive"
-msgid "of Mesore"
-msgstr "د مور"
-
-#: kcalendarsystemcoptic.cpp:328
-#, fuzzy
-msgctxt "Coptic month 13 - LongNamePossessive"
-msgid "of Kouji nabot"
-msgstr "د فېبروري"
-
-#: kcalendarsystemcoptic.cpp:337
-#, fuzzy
-msgctxt "Coptic month 1 - ShortName"
-msgid "Tho"
-msgstr "درې نۍ"
-
-#: kcalendarsystemcoptic.cpp:339
-#, fuzzy
-msgctxt "Coptic month 2 - ShortName"
-msgid "Pao"
-msgstr "ځنډول"
-
-#: kcalendarsystemcoptic.cpp:341
-#, fuzzy
-msgctxt "Coptic month 3 - ShortName"
-msgid "Hat"
-msgstr "نۍ"
-
-#: kcalendarsystemcoptic.cpp:343
-#, fuzzy
-msgctxt "Coptic month 4 - ShortName"
-msgid "Kia"
-msgstr "پينځه نۍ"
-
-#: kcalendarsystemcoptic.cpp:345
-#, fuzzy
-msgctxt "Coptic month 5 - ShortName"
-msgid "Tob"
-msgstr "دنده"
-
-#: kcalendarsystemcoptic.cpp:347
-#, fuzzy
-msgctxt "Coptic month 6 - ShortName"
-msgid "Mes"
-msgstr "هو"
-
-#: kcalendarsystemcoptic.cpp:349
-#, fuzzy
-msgctxt "Coptic month 7 - ShortName"
-msgid "Par"
-msgstr "مارچ"
-
-#: kcalendarsystemcoptic.cpp:351
-#, fuzzy
-msgctxt "Coptic month 8 - ShortName"
-msgid "Pam"
-msgstr "غ.م"
-
-#: kcalendarsystemcoptic.cpp:353
-#, fuzzy
-msgctxt "Coptic month 9 - ShortName"
-msgid "Pas"
-msgstr "مخونه"
-
-#: kcalendarsystemcoptic.cpp:355
-#, fuzzy
-msgctxt "Coptic month 10 - ShortName"
-msgid "Pan"
-msgstr "جنوري"
-
-#: kcalendarsystemcoptic.cpp:357
-#, fuzzy
-msgctxt "Coptic month 11 - ShortName"
-msgid "Epe"
-msgstr "پرېښودل"
-
-#: kcalendarsystemcoptic.cpp:359
-#, fuzzy
-msgctxt "Coptic month 12 - ShortName"
-msgid "Meo"
-msgstr "دوه نۍ"
-
-#: kcalendarsystemcoptic.cpp:361
-#, fuzzy
-msgctxt "Coptic month 13 - ShortName"
-msgid "Kou"
-msgstr "کور"
-
-#: kcalendarsystemcoptic.cpp:370
-#, fuzzy
-msgctxt "Coptic month 1 - LongName"
-msgid "Thoout"
-msgstr "پينځه نۍ"
-
-#: kcalendarsystemcoptic.cpp:372
-#, fuzzy
-msgctxt "Coptic month 2 - LongName"
-msgid "Paope"
-msgstr "ځانتياوی"
-
-#: kcalendarsystemcoptic.cpp:374
-#, fuzzy
-msgctxt "Coptic month 3 - LongName"
-msgid "Hathor"
-msgstr "ليکوال"
-
-#: kcalendarsystemcoptic.cpp:376
-#, fuzzy
-msgctxt "Coptic month 4 - LongName"
-msgid "Kiahk"
-msgstr "د کور"
-
-#: kcalendarsystemcoptic.cpp:378
-#, fuzzy
-msgctxt "Coptic month 5 - LongName"
-msgid "Tobe"
-msgstr "دنده"
-
-#: kcalendarsystemcoptic.cpp:380
-#, fuzzy
-msgctxt "Coptic month 6 - LongName"
-msgid "Meshir"
-msgstr "مهر"
-
-#: kcalendarsystemcoptic.cpp:382
-#, fuzzy
-msgctxt "Coptic month 7 - LongName"
-msgid "Paremhotep"
-msgstr "ارزښتمنۍ"
-
-#: kcalendarsystemcoptic.cpp:384
-#, fuzzy
-msgctxt "Coptic month 8 - LongName"
-msgid "Parmoute"
-msgstr "ارزښتمنۍ"
-
-#: kcalendarsystemcoptic.cpp:386
-#, fuzzy
-msgctxt "Coptic month 9 - LongName"
-msgid "Pashons"
-msgstr "ځنډول"
-
-#: kcalendarsystemcoptic.cpp:388
-#, fuzzy
-msgctxt "Coptic month 10 - LongName"
-msgid "Paone"
-msgstr "هېڅ"
-
-#: kcalendarsystemcoptic.cpp:390
-#, fuzzy
-msgctxt "Coptic month 11 - LongName"
-msgid "Epep"
-msgstr "پرېښودل"
-
-#: kcalendarsystemcoptic.cpp:392
-#, fuzzy
-msgctxt "Coptic month 12 - LongName"
-msgid "Mesore"
-msgstr "بيازېرمل"
-
-#: kcalendarsystemcoptic.cpp:394
-msgctxt "Coptic month 13 - LongName"
-msgid "Kouji nabot"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:411
-#, fuzzy
-msgctxt "Coptic weekday 1 - ShortDayName"
-msgid "Pes"
-msgstr "مخونه"
-
-#: kcalendarsystemcoptic.cpp:412
-#, fuzzy
-msgctxt "Coptic weekday 2 - ShortDayName"
-msgid "Psh"
-msgstr "ځنډول"
-
-#: kcalendarsystemcoptic.cpp:413
-#, fuzzy
-msgctxt "Coptic weekday 3 - ShortDayName"
-msgid "Pef"
-msgstr "مخونه"
-
-#: kcalendarsystemcoptic.cpp:414
-msgctxt "Coptic weekday 4 - ShortDayName"
-msgid "Pti"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:415
-#, fuzzy
-msgctxt "Coptic weekday 5 - ShortDayName"
-msgid "Pso"
-msgstr "ځنډول"
-
-#: kcalendarsystemcoptic.cpp:416
-#, fuzzy
-msgctxt "Coptic weekday 6 - ShortDayName"
-msgid "Psa"
-msgstr "ځنډول"
-
-#: kcalendarsystemcoptic.cpp:417
-msgctxt "Coptic weekday 7 - ShortDayName"
-msgid "Tky"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:423
-#, fuzzy
-msgctxt "Coptic weekday 1 - LongDayName"
-msgid "Pesnau"
-msgstr "ځنډول"
-
-#: kcalendarsystemcoptic.cpp:424
-#, fuzzy
-msgctxt "Coptic weekday 2 - LongDayName"
-msgid "Pshoment"
-msgstr "څرګندون"
-
-#: kcalendarsystemcoptic.cpp:425
-msgctxt "Coptic weekday 3 - LongDayName"
-msgid "Peftoou"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:426
-msgctxt "Coptic weekday 4 - LongDayName"
-msgid "Ptiou"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:427
-msgctxt "Coptic weekday 5 - LongDayName"
-msgid "Psoou"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:428
-msgctxt "Coptic weekday 6 - LongDayName"
-msgid "Psabbaton"
-msgstr ""
-
-#: kcalendarsystemcoptic.cpp:429
-msgctxt "Coptic weekday 7 - LongDayName"
-msgid "Tkyriakē"
-msgstr ""
 
 #: kcalendarsystemethiopian.cpp:193
 #, fuzzy
@@ -2161,3 +1773,391 @@ msgstr "نوم"
 msgctxt "Ethiopian weekday 7 - LongDayName"
 msgid "Ehud"
 msgstr "پينځه نۍ"
+
+#: kcalendarsystemcoptic.cpp:271
+#, fuzzy
+msgctxt "Coptic month 1 - ShortNamePossessive"
+msgid "of Tho"
+msgstr "د کور"
+
+#: kcalendarsystemcoptic.cpp:273
+#, fuzzy
+msgctxt "Coptic month 2 - ShortNamePossessive"
+msgid "of Pao"
+msgstr "د ټموز"
+
+#: kcalendarsystemcoptic.cpp:275
+#, fuzzy
+msgctxt "Coptic month 3 - ShortNamePossessive"
+msgid "of Hat"
+msgstr "د شواټ"
+
+#: kcalendarsystemcoptic.cpp:277
+#, fuzzy
+msgctxt "Coptic month 4 - ShortNamePossessive"
+msgid "of Kia"
+msgstr "د نېسان"
+
+#: kcalendarsystemcoptic.cpp:279
+#, fuzzy
+msgctxt "Coptic month 5 - ShortNamePossessive"
+msgid "of Tob"
+msgstr "د فېبروري"
+
+#: kcalendarsystemcoptic.cpp:281
+#, fuzzy
+msgctxt "Coptic month 6 - ShortNamePossessive"
+msgid "of Mes"
+msgstr "د مهر"
+
+#: kcalendarsystemcoptic.cpp:283
+#, fuzzy
+msgctxt "Coptic month 7 - ShortNamePossessive"
+msgid "of Par"
+msgstr "د مارچ"
+
+#: kcalendarsystemcoptic.cpp:285
+#, fuzzy
+msgctxt "Coptic month 8 - ShortNamePossessive"
+msgid "of Pam"
+msgstr "د ټموز"
+
+#: kcalendarsystemcoptic.cpp:287
+#, fuzzy
+msgctxt "Coptic month 9 - ShortNamePossessive"
+msgid "of Pas"
+msgstr "د بهم"
+
+#: kcalendarsystemcoptic.cpp:289
+#, fuzzy
+msgctxt "Coptic month 10 - ShortNamePossessive"
+msgid "of Pan"
+msgstr "د جنوري"
+
+#: kcalendarsystemcoptic.cpp:291
+#, fuzzy
+msgctxt "Coptic month 11 - ShortNamePossessive"
+msgid "of Epe"
+msgstr "د فېبروري"
+
+#: kcalendarsystemcoptic.cpp:293
+#, fuzzy
+msgctxt "Coptic month 12 - ShortNamePossessive"
+msgid "of Meo"
+msgstr "د مور"
+
+#: kcalendarsystemcoptic.cpp:295
+#, fuzzy
+msgctxt "Coptic month 13 - ShortNamePossessive"
+msgid "of Kou"
+msgstr "د کور"
+
+#: kcalendarsystemcoptic.cpp:304
+#, fuzzy
+msgctxt "Coptic month 1 - LongNamePossessive"
+msgid "of Thoout"
+msgstr "د کور"
+
+#: kcalendarsystemcoptic.cpp:306
+#, fuzzy
+msgctxt "Coptic month 2 - LongNamePossessive"
+msgid "of Paope"
+msgstr "د ټموز"
+
+#: kcalendarsystemcoptic.cpp:308
+#, fuzzy
+msgctxt "Coptic month 3 - LongNamePossessive"
+msgid "of Hathor"
+msgstr "د حجې"
+
+#: kcalendarsystemcoptic.cpp:310
+#, fuzzy
+msgctxt "Coptic month 4 - LongNamePossessive"
+msgid "of Kiahk"
+msgstr "د کور"
+
+#: kcalendarsystemcoptic.cpp:312
+#, fuzzy
+msgctxt "Coptic month 5 - LongNamePossessive"
+msgid "of Tobe"
+msgstr "د اکټوبر"
+
+#: kcalendarsystemcoptic.cpp:314
+#, fuzzy
+msgctxt "Coptic month 6 - LongNamePossessive"
+msgid "of Meshir"
+msgstr "د مهر"
+
+#: kcalendarsystemcoptic.cpp:316
+#, fuzzy
+msgctxt "Coptic month 7 - LongNamePossessive"
+msgid "of Paremhotep"
+msgstr "ارزښتمنۍ"
+
+#: kcalendarsystemcoptic.cpp:318
+#, fuzzy
+msgctxt "Coptic month 8 - LongNamePossessive"
+msgid "of Parmoute"
+msgstr "د ټموز"
+
+#: kcalendarsystemcoptic.cpp:320
+#, fuzzy
+msgctxt "Coptic month 9 - LongNamePossessive"
+msgid "of Pashons"
+msgstr "د بهم"
+
+#: kcalendarsystemcoptic.cpp:322
+#, fuzzy
+msgctxt "Coptic month 10 - LongNamePossessive"
+msgid "of Paone"
+msgstr "د جنوري"
+
+#: kcalendarsystemcoptic.cpp:324
+#, fuzzy
+msgctxt "Coptic month 11 - LongNamePossessive"
+msgid "of Epep"
+msgstr "د سېپټمبر"
+
+#: kcalendarsystemcoptic.cpp:326
+#, fuzzy
+msgctxt "Coptic month 12 - LongNamePossessive"
+msgid "of Mesore"
+msgstr "د مور"
+
+#: kcalendarsystemcoptic.cpp:328
+#, fuzzy
+msgctxt "Coptic month 13 - LongNamePossessive"
+msgid "of Kouji nabot"
+msgstr "د فېبروري"
+
+#: kcalendarsystemcoptic.cpp:337
+#, fuzzy
+msgctxt "Coptic month 1 - ShortName"
+msgid "Tho"
+msgstr "درې نۍ"
+
+#: kcalendarsystemcoptic.cpp:339
+#, fuzzy
+msgctxt "Coptic month 2 - ShortName"
+msgid "Pao"
+msgstr "ځنډول"
+
+#: kcalendarsystemcoptic.cpp:341
+#, fuzzy
+msgctxt "Coptic month 3 - ShortName"
+msgid "Hat"
+msgstr "نۍ"
+
+#: kcalendarsystemcoptic.cpp:343
+#, fuzzy
+msgctxt "Coptic month 4 - ShortName"
+msgid "Kia"
+msgstr "پينځه نۍ"
+
+#: kcalendarsystemcoptic.cpp:345
+#, fuzzy
+msgctxt "Coptic month 5 - ShortName"
+msgid "Tob"
+msgstr "دنده"
+
+#: kcalendarsystemcoptic.cpp:347
+#, fuzzy
+msgctxt "Coptic month 6 - ShortName"
+msgid "Mes"
+msgstr "هو"
+
+#: kcalendarsystemcoptic.cpp:349
+#, fuzzy
+msgctxt "Coptic month 7 - ShortName"
+msgid "Par"
+msgstr "مارچ"
+
+#: kcalendarsystemcoptic.cpp:351
+#, fuzzy
+msgctxt "Coptic month 8 - ShortName"
+msgid "Pam"
+msgstr "غ.م"
+
+#: kcalendarsystemcoptic.cpp:353
+#, fuzzy
+msgctxt "Coptic month 9 - ShortName"
+msgid "Pas"
+msgstr "مخونه"
+
+#: kcalendarsystemcoptic.cpp:355
+#, fuzzy
+msgctxt "Coptic month 10 - ShortName"
+msgid "Pan"
+msgstr "جنوري"
+
+#: kcalendarsystemcoptic.cpp:357
+#, fuzzy
+msgctxt "Coptic month 11 - ShortName"
+msgid "Epe"
+msgstr "پرېښودل"
+
+#: kcalendarsystemcoptic.cpp:359
+#, fuzzy
+msgctxt "Coptic month 12 - ShortName"
+msgid "Meo"
+msgstr "دوه نۍ"
+
+#: kcalendarsystemcoptic.cpp:361
+#, fuzzy
+msgctxt "Coptic month 13 - ShortName"
+msgid "Kou"
+msgstr "کور"
+
+#: kcalendarsystemcoptic.cpp:370
+#, fuzzy
+msgctxt "Coptic month 1 - LongName"
+msgid "Thoout"
+msgstr "پينځه نۍ"
+
+#: kcalendarsystemcoptic.cpp:372
+#, fuzzy
+msgctxt "Coptic month 2 - LongName"
+msgid "Paope"
+msgstr "ځانتياوی"
+
+#: kcalendarsystemcoptic.cpp:374
+#, fuzzy
+msgctxt "Coptic month 3 - LongName"
+msgid "Hathor"
+msgstr "ليکوال"
+
+#: kcalendarsystemcoptic.cpp:376
+#, fuzzy
+msgctxt "Coptic month 4 - LongName"
+msgid "Kiahk"
+msgstr "د کور"
+
+#: kcalendarsystemcoptic.cpp:378
+#, fuzzy
+msgctxt "Coptic month 5 - LongName"
+msgid "Tobe"
+msgstr "دنده"
+
+#: kcalendarsystemcoptic.cpp:380
+#, fuzzy
+msgctxt "Coptic month 6 - LongName"
+msgid "Meshir"
+msgstr "مهر"
+
+#: kcalendarsystemcoptic.cpp:382
+#, fuzzy
+msgctxt "Coptic month 7 - LongName"
+msgid "Paremhotep"
+msgstr "ارزښتمنۍ"
+
+#: kcalendarsystemcoptic.cpp:384
+#, fuzzy
+msgctxt "Coptic month 8 - LongName"
+msgid "Parmoute"
+msgstr "ارزښتمنۍ"
+
+#: kcalendarsystemcoptic.cpp:386
+#, fuzzy
+msgctxt "Coptic month 9 - LongName"
+msgid "Pashons"
+msgstr "ځنډول"
+
+#: kcalendarsystemcoptic.cpp:388
+#, fuzzy
+msgctxt "Coptic month 10 - LongName"
+msgid "Paone"
+msgstr "هېڅ"
+
+#: kcalendarsystemcoptic.cpp:390
+#, fuzzy
+msgctxt "Coptic month 11 - LongName"
+msgid "Epep"
+msgstr "پرېښودل"
+
+#: kcalendarsystemcoptic.cpp:392
+#, fuzzy
+msgctxt "Coptic month 12 - LongName"
+msgid "Mesore"
+msgstr "بيازېرمل"
+
+#: kcalendarsystemcoptic.cpp:394
+msgctxt "Coptic month 13 - LongName"
+msgid "Kouji nabot"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:411
+#, fuzzy
+msgctxt "Coptic weekday 1 - ShortDayName"
+msgid "Pes"
+msgstr "مخونه"
+
+#: kcalendarsystemcoptic.cpp:412
+#, fuzzy
+msgctxt "Coptic weekday 2 - ShortDayName"
+msgid "Psh"
+msgstr "ځنډول"
+
+#: kcalendarsystemcoptic.cpp:413
+#, fuzzy
+msgctxt "Coptic weekday 3 - ShortDayName"
+msgid "Pef"
+msgstr "مخونه"
+
+#: kcalendarsystemcoptic.cpp:414
+msgctxt "Coptic weekday 4 - ShortDayName"
+msgid "Pti"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:415
+#, fuzzy
+msgctxt "Coptic weekday 5 - ShortDayName"
+msgid "Pso"
+msgstr "ځنډول"
+
+#: kcalendarsystemcoptic.cpp:416
+#, fuzzy
+msgctxt "Coptic weekday 6 - ShortDayName"
+msgid "Psa"
+msgstr "ځنډول"
+
+#: kcalendarsystemcoptic.cpp:417
+msgctxt "Coptic weekday 7 - ShortDayName"
+msgid "Tky"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:423
+#, fuzzy
+msgctxt "Coptic weekday 1 - LongDayName"
+msgid "Pesnau"
+msgstr "ځنډول"
+
+#: kcalendarsystemcoptic.cpp:424
+#, fuzzy
+msgctxt "Coptic weekday 2 - LongDayName"
+msgid "Pshoment"
+msgstr "څرګندون"
+
+#: kcalendarsystemcoptic.cpp:425
+msgctxt "Coptic weekday 3 - LongDayName"
+msgid "Peftoou"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:426
+msgctxt "Coptic weekday 4 - LongDayName"
+msgid "Ptiou"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:427
+msgctxt "Coptic weekday 5 - LongDayName"
+msgid "Psoou"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:428
+msgctxt "Coptic weekday 6 - LongDayName"
+msgid "Psabbaton"
+msgstr ""
+
+#: kcalendarsystemcoptic.cpp:429
+msgctxt "Coptic weekday 7 - LongDayName"
+msgid "Tkyriakē"
+msgstr ""
