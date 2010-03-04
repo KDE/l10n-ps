@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-02 22:49+0100\n"
+"POT-Creation-Date: 2010-03-04 04:09+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -7490,15 +7490,15 @@ msgstr "(کوم نښان نشته)"
 msgid "About %1"
 msgstr "په اړه %1 د"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:492
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:495
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:499
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
@@ -8861,24 +8861,24 @@ msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 msgid "Could not export shortcuts scheme because the location is invalid."
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:251
+#: kdeui/dialogs/kdialog.cpp:244
 msgid "&Try"
 msgstr "هڅه&"
 
-#: kdeui/dialogs/kdialog.cpp:432
+#: kdeui/dialogs/kdialog.cpp:440
 msgid "modified"
 msgstr "بدل شوی"
 
-#: kdeui/dialogs/kdialog.cpp:442
+#: kdeui/dialogs/kdialog.cpp:450
 msgctxt "Document/application separator in titlebar"
 msgid " – "
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:812
+#: kdeui/dialogs/kdialog.cpp:821
 msgid "&Details"
 msgstr "خبرتياوې&"
 
-#: kdeui/dialogs/kdialog.cpp:958
+#: kdeui/dialogs/kdialog.cpp:967
 msgid "Get help..."
 msgstr "...مرسته اخيستل"
 
@@ -10224,38 +10224,38 @@ msgstr "ټوله ليکنه لمېسل&"
 #. (e.g. "Enter search pattern").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/ktextedit.cpp:76 kdeui/widgets/klineedit.cpp:89
+#: kdeui/widgets/ktextedit.cpp:77 kdeui/widgets/klineedit.cpp:89
 #, fuzzy
 #| msgid "1"
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "۱"
 
-#: kdeui/widgets/ktextedit.cpp:524
+#: kdeui/widgets/ktextedit.cpp:523
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "دوديزه ليکنه لوستل"
 
-#: kdeui/widgets/ktextedit.cpp:539
+#: kdeui/widgets/ktextedit.cpp:538
 msgid "Starting KTTSD Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:628
+#: kdeui/widgets/ktextedit.cpp:627
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "وړانديزونه"
 
-#: kdeui/widgets/ktextedit.cpp:639
+#: kdeui/widgets/ktextedit.cpp:638
 msgid "Ignore"
 msgstr "پرېښودل"
 
-#: kdeui/widgets/ktextedit.cpp:640
+#: kdeui/widgets/ktextedit.cpp:639
 msgid "Add to Dictionary"
 msgstr "ويېپانګه کې زياتول"
 
-#: kdeui/widgets/ktextedit.cpp:785
+#: kdeui/widgets/ktextedit.cpp:784
 msgid "Nothing to spell check."
 msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
