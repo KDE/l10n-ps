@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-01 21:31+0100\n"
+"POT-Creation-Date: 2010-03-06 01:16+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2587,7 +2587,7 @@ msgstr ""
 ".نه شي موندلی 'kdemain' کې '%1' په\n"
 "%2"
 
-#: kinit/klauncher_main.cpp:58
+#: kinit/klauncher_main.cpp:62
 msgid ""
 "klauncher: This program is not supposed to be started manually.\n"
 "klauncher: It is started automatically by kdeinit4.\n"
@@ -3723,18 +3723,18 @@ msgstr "ک.ټ"
 msgid "KDE"
 msgstr "کډي"
 
-#: kdecore/kernel/kcmdlineargs.cpp:809 kdecore/kernel/kcmdlineargs.cpp:829
+#: kdecore/kernel/kcmdlineargs.cpp:801 kdecore/kernel/kcmdlineargs.cpp:817
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr ".'%1' ناپېژندلې غوراوی"
 
-#: kdecore/kernel/kcmdlineargs.cpp:837
+#: kdecore/kernel/kcmdlineargs.cpp:825
 #, kde-format
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr ".ورک دی '%1'"
 
-#: kdecore/kernel/kcmdlineargs.cpp:897
+#: kdecore/kernel/kcmdlineargs.cpp:892
 #, kde-format
 msgctxt ""
 "@info:shell message on appcmd --version; do not translate 'Development "
@@ -3745,7 +3745,7 @@ msgid ""
 "%3: %4\n"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:922
+#: kdecore/kernel/kcmdlineargs.cpp:917
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -3755,43 +3755,43 @@ msgstr ""
 "ليکلی وو %1\n"
 "%2"
 
-#: kdecore/kernel/kcmdlineargs.cpp:925
+#: kdecore/kernel/kcmdlineargs.cpp:920
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "دا کاريال د يو داسې وګړي لخوا جوړ شوی چې خپل نوم ښودل نه غواړي."
 
-#: kdecore/kernel/kcmdlineargs.cpp:932
+#: kdecore/kernel/kcmdlineargs.cpp:927
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr ".وکاروﺉ http://bugs.kde.org لورينه وکړﺉ د کړاونو راپورولو لپاره\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:934
+#: kdecore/kernel/kcmdlineargs.cpp:929
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr ".ته راپور کړﺉ %1 لورينه وکړﺉ کړاونه\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:959
+#: kdecore/kernel/kcmdlineargs.cpp:954
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr ".'%1' ناڅاپي ارزښتمنۍ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1076
+#: kdecore/kernel/kcmdlineargs.cpp:1071
 msgid "Use --help to get a list of available command line options."
 msgstr ".وکاروﺉ --help د شته بولۍ ليکه غوراويو د لړ اخيستلو لپاره"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1099
+#: kdecore/kernel/kcmdlineargs.cpp:1094
 msgid "[options] "
 msgstr "[غوراوي] "
 
-#: kdecore/kernel/kcmdlineargs.cpp:1106
+#: kdecore/kernel/kcmdlineargs.cpp:1101
 #, kde-format
 msgid "[%1-options]"
 msgstr "[غوراوي-%1]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1127
+#: kdecore/kernel/kcmdlineargs.cpp:1122
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "%1 %2 :کارونه\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1130
+#: kdecore/kernel/kcmdlineargs.cpp:1125
 msgid ""
 "\n"
 "Generic options:\n"
@@ -3799,36 +3799,36 @@ msgstr ""
 "\n"
 ":ټولګړي غوراوي\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1132
+#: kdecore/kernel/kcmdlineargs.cpp:1127
 msgid "Show help about options"
 msgstr "د غوراويو په اړه مرسته ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1140
+#: kdecore/kernel/kcmdlineargs.cpp:1135
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "پورې تړلي غوراوي ښودل %1"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1147
+#: kdecore/kernel/kcmdlineargs.cpp:1142
 msgid "Show all options"
 msgstr "ټول غوراوي ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1148
+#: kdecore/kernel/kcmdlineargs.cpp:1143
 msgid "Show author information"
 msgstr "د ليکوال خبرتياوې ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1149
+#: kdecore/kernel/kcmdlineargs.cpp:1144
 msgid "Show version information"
 msgstr "د نسخې خبرتياوې ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1150
+#: kdecore/kernel/kcmdlineargs.cpp:1145
 msgid "Show license information"
 msgstr "د منښتليک خبرتياوې ښودل"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1151
+#: kdecore/kernel/kcmdlineargs.cpp:1146
 msgid "End of options"
 msgstr "د غوراويو پای"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1172
+#: kdecore/kernel/kcmdlineargs.cpp:1167
 #, kde-format
 msgid ""
 "\n"
@@ -3837,7 +3837,7 @@ msgstr ""
 "\n"
 ":غوراوي %1\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1174
+#: kdecore/kernel/kcmdlineargs.cpp:1169
 msgid ""
 "\n"
 "Options:\n"
@@ -3845,7 +3845,7 @@ msgstr ""
 "\n"
 ":غوراوي\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1232
+#: kdecore/kernel/kcmdlineargs.cpp:1227
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3853,12 +3853,12 @@ msgstr ""
 "\n"
 "ارزښتمنۍ\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1588
+#: kdecore/kernel/kcmdlineargs.cpp:1583
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "چې د کاريال لخوا پرانيستل شي د کارونې وروسته به وړنګول شي URLsهغه دوتنې/"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1589
+#: kdecore/kernel/kcmdlineargs.cpp:1584
 msgid "KDE-tempfile"
 msgstr "کډي-لنډمهالدوتنه"
 
