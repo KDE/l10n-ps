@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-25 04:18+0100\n"
+"POT-Creation-Date: 2010-03-26 04:36+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2292,7 +2292,7 @@ msgstr "سېبېسټين ساور"
 
 #: kross/test/main.cpp:149 kross/console/main.cpp:102 kross/qts/main.cpp:63
 #: kde3support/kdeui/k3aboutdialog.cpp:184 kded/kbuildsycoca.cpp:621
-#: kded/kbuildsycoca.cpp:622 kded/khostname.cpp:220
+#: kded/kbuildsycoca.cpp:622
 msgid "Author"
 msgstr "ليکوال"
 
@@ -2445,11 +2445,11 @@ msgid "(c) 2001, Waldo Bastian"
 msgstr "چاپرښتې ۲۰۰۱، وېلډو بېسټين"
 
 #: kconf_update/kconf_update.cpp:963 khtml/khtml_global.cpp:213
-#: kded/kbuildsycoca.cpp:622 kded/khostname.cpp:220
+#: kded/kbuildsycoca.cpp:622
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
 
-#: nepomuk/query/queryparser.cpp:342
+#: nepomuk/query/queryparser.cpp:360
 #, fuzzy
 #| msgid "Esfand"
 msgctxt ""
@@ -2460,7 +2460,7 @@ msgctxt ""
 msgid "and"
 msgstr "اېسفند"
 
-#: nepomuk/query/queryparser.cpp:351
+#: nepomuk/query/queryparser.cpp:369
 #, fuzzy
 #| msgctxt "Mordad short"
 #| msgid "Mor"
@@ -3080,35 +3080,52 @@ msgstr "*|ټولۍ پوښۍ"
 msgid "All Categories"
 msgstr "مخونه"
 
-#: knewstuff/knewstuff3/core/installation.cpp:151
+#: knewstuff/knewstuff3/core/installation.cpp:154
 #, fuzzy
 #| msgid "Invalid Filenames"
 msgid "Invalid item."
 msgstr "ناسم دوتنه نومونه"
 
-#: knewstuff/knewstuff3/core/installation.cpp:158
+#: knewstuff/knewstuff3/core/installation.cpp:161
 #, kde-format
 msgid "Download of item failed: no download url for \"%1\""
 msgstr ""
 
-#: knewstuff/knewstuff3/core/installation.cpp:193
+#: knewstuff/knewstuff3/core/installation.cpp:196
 #, kde-format
 msgid "Download of \"%1\" failed, error: %2"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/installation.cpp:260
+#: knewstuff/knewstuff3/core/installation.cpp:204
+msgid ""
+"The downloaded file is a html file. This indicates a link to a website "
+"instead of the actual download. Would you like to open the site with a "
+"browser instead?"
+msgstr ""
+
+#: knewstuff/knewstuff3/core/installation.cpp:204
+#, fuzzy
+#| msgid "Could not create temporary file."
+msgid "Possibly bad download link"
+msgstr ".لنډمهاله دوتنه نه شي جوړولی"
+
+#: knewstuff/knewstuff3/core/installation.cpp:207
+msgid "Downloaded file was a HTML file. Opened in browser."
+msgstr ""
+
+#: knewstuff/knewstuff3/core/installation.cpp:279
 #, fuzzy, kde-format
 #| msgid "Could not install %1"
 msgid "Could not install \"%1\": file not found."
 msgstr "نه شي لګولی %1"
 
-#: knewstuff/knewstuff3/core/installation.cpp:451
+#: knewstuff/knewstuff3/core/installation.cpp:470
 #, fuzzy
 #| msgid "Overwrite File?"
 msgid "Overwrite existing file?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
-#: knewstuff/knewstuff3/core/installation.cpp:451
+#: knewstuff/knewstuff3/core/installation.cpp:470
 #, fuzzy
 #| msgid "Download"
 msgid "Download File:"
@@ -8276,15 +8293,15 @@ msgstr "اېنټرنېټ پلټون"
 msgid "&Search"
 msgstr "پلټون&"
 
-#: kded/kded.cpp:858
+#: kded/kded.cpp:862
 msgid "KDE Daemon"
 msgstr "کډي ډاېمن"
 
-#: kded/kded.cpp:860
+#: kded/kded.cpp:864
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 
-#: kded/kded.cpp:863
+#: kded/kded.cpp:867
 msgid "Check Sycoca database only once"
 msgstr "سېکوکا توکبنسټ يوازې يوځل کتل"
 
@@ -8331,34 +8348,6 @@ msgstr ""
 #: kded/kbuildsycoca.cpp:631
 msgid "Track menu id for debug purposes"
 msgstr "د کړاوتمبونې لپاره د غورنۍ پېژند پلنيول"
-
-#: kded/khostname.cpp:72
-msgid "Error: HOME environment variable not set.\n"
-msgstr "تېروتنه: کور چاپېريال بدلېدونکی نه دی ټاکل شوی.\n"
-
-#: kded/khostname.cpp:82
-msgid "Error: DISPLAY environment variable not set.\n"
-msgstr "تېروتنه: ښوون چاپېريال بدلېدونکی نه دی ټاکل شوی.\n"
-
-#: kded/khostname.cpp:217
-msgid "KDontChangeTheHostName"
-msgstr "ک. د کوربه نوم نه بدلول"
-
-#: kded/khostname.cpp:218
-msgid "Informs KDE about a change in hostname"
-msgstr "په کوربه نوم کې د بدلون په اړه کډي خبروي"
-
-#: kded/khostname.cpp:219
-msgid "(c) 2001 Waldo Bastian"
-msgstr "چاپرښتې ۲۰۰۱ وېلډو بېسټين"
-
-#: kded/khostname.cpp:223
-msgid "Old hostname"
-msgstr "زوړ کوربه نوم"
-
-#: kded/khostname.cpp:224
-msgid "New hostname"
-msgstr "نوی کوربه نوم"
 
 #: kpty/kptydevice.cpp:306
 msgid "Error reading from PTY"
@@ -12178,24 +12167,24 @@ msgid "Minimize"
 msgstr "ووړول"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:353
-#: kdeui/notifications/kstatusnotifieritem.cpp:780
+#: kdeui/notifications/kstatusnotifieritem.cpp:355
+#: kdeui/notifications/kstatusnotifieritem.cpp:781
 msgid "&Minimize"
 msgstr "ووړول&"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:778
+#: kdeui/notifications/kstatusnotifieritem.cpp:779
 msgid "&Restore"
 msgstr "بيازېرمل"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:788
+#: kdeui/notifications/kstatusnotifieritem.cpp:789
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>بند کړﺉ؟ <b>%1</b> تاسو په ډاډمنه توګه غواړﺉ چې</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:791
+#: kdeui/notifications/kstatusnotifieritem.cpp:792
 msgid "Confirm Quit From System Tray"
 msgstr "د غونډال مجمې نه بندول باوري کړﺉ"
 
@@ -13143,6 +13132,27 @@ msgstr "دا &څه دي؟"
 msgid "Tip of the &Day"
 msgstr "د &ورځې نکته"
 
+#~ msgid "Error: HOME environment variable not set.\n"
+#~ msgstr "تېروتنه: کور چاپېريال بدلېدونکی نه دی ټاکل شوی.\n"
+
+#~ msgid "Error: DISPLAY environment variable not set.\n"
+#~ msgstr "تېروتنه: ښوون چاپېريال بدلېدونکی نه دی ټاکل شوی.\n"
+
+#~ msgid "KDontChangeTheHostName"
+#~ msgstr "ک. د کوربه نوم نه بدلول"
+
+#~ msgid "Informs KDE about a change in hostname"
+#~ msgstr "په کوربه نوم کې د بدلون په اړه کډي خبروي"
+
+#~ msgid "(c) 2001 Waldo Bastian"
+#~ msgstr "چاپرښتې ۲۰۰۱ وېلډو بېسټين"
+
+#~ msgid "Old hostname"
+#~ msgstr "زوړ کوربه نوم"
+
+#~ msgid "New hostname"
+#~ msgstr "نوی کوربه نوم"
+
 #, fuzzy
 #~| msgid "Description"
 #~ msgid "description"
@@ -13157,11 +13167,6 @@ msgstr "د &ورځې نکته"
 #~| msgid "Could not construct value"
 #~ msgid "Could not get account balance."
 #~ msgstr "ارزښت نه شي جوړولی"
-
-#, fuzzy
-#~| msgid "Could not create temporary file."
-#~ msgid "Could not get download link."
-#~ msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
 #, fuzzy
 #~| msgid "Download"
