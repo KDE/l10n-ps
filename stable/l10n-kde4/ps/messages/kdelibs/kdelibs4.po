@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-22 01:19+0100\n"
+"POT-Creation-Date: 2010-03-26 01:20+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2349,7 +2349,7 @@ msgstr "چاپرښتې ۲۰۰۱، وېلډو بېسټين"
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
 
-#: nepomuk/query/queryparser.cpp:342
+#: nepomuk/query/queryparser.cpp:347
 #, fuzzy
 #| msgid "Esfand"
 msgctxt ""
@@ -2360,7 +2360,7 @@ msgctxt ""
 msgid "and"
 msgstr "اېسفند"
 
-#: nepomuk/query/queryparser.cpp:351
+#: nepomuk/query/queryparser.cpp:356
 #, fuzzy
 #| msgctxt "Mordad short"
 #| msgid "Mor"
