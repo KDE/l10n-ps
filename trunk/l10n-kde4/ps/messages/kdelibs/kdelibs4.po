@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-02 04:55+0200\n"
+"POT-Creation-Date: 2010-04-03 04:39+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -615,7 +615,7 @@ msgstr ":کارننوم"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:127
 #. i18n: ectx: property (text), widget (QLabel, label_9)
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:49
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:54
 #. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
 #: rc.cpp:279 rc.cpp:381
 #, fuzzy
@@ -641,10 +641,10 @@ msgstr "بيالېښل"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:164
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:239
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:490
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
-#: rc.cpp:288 rc.cpp:426 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:128
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:232
+#: rc.cpp:288 rc.cpp:423 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:128
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:337
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:138
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:192
 msgid "Update"
@@ -682,7 +682,7 @@ msgstr ":سپړاوی"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:223
 #. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
-#: rc.cpp:303 knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:131
+#: rc.cpp:303 knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:114
 #, fuzzy
 #| msgid "Changelog"
 msgid "Changelog:"
@@ -722,7 +722,7 @@ msgstr ":سرليک"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:297
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:66
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:71
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #: rc.cpp:318 rc.cpp:384
 #, fuzzy
@@ -869,7 +869,7 @@ msgstr "مخکوت لېښل کيږي"
 msgid "Start Upload"
 msgstr "ځاېناستی پېلول"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:85
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:90
 #. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
 #: rc.cpp:387
 #, fuzzy
@@ -878,7 +878,7 @@ msgstr "ځاېناستی پېلول"
 msgid "Newest"
 msgstr "نوی"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:98
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:103
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: rc.cpp:390
 #, fuzzy
@@ -886,13 +886,13 @@ msgstr "نوی"
 msgid "Rating"
 msgstr ":کچونه"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:105
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:110
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: rc.cpp:393 knewstuff/knewstuff2/core/providerhandler.cpp:166
 msgid "Most Downloads"
 msgstr "ډېرې رالېښنې"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:112
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:117
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
 #: rc.cpp:396
 #, fuzzy
@@ -900,7 +900,7 @@ msgstr "ډېرې رالېښنې"
 msgid "Installed"
 msgstr "لګول"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:170
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:175
 #. i18n: ectx: property (text), widget (QLabel, orderLabel)
 #: rc.cpp:399
 #, fuzzy
@@ -908,7 +908,7 @@ msgstr "لګول"
 msgid "Order by:"
 msgstr ":اوډونول پر&"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:180
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:185
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:402
 #, fuzzy
@@ -916,7 +916,7 @@ msgstr ":اوډونول پر&"
 msgid "Search:"
 msgstr ":پ&لټون"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:206
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:211
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
 #. i18n: file: knewstuff/knewstuff2/ui/DownloadDialog.ui:93
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
@@ -924,7 +924,7 @@ msgstr ":پ&لټون"
 msgid "Enter search phrase here"
 msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
-#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:232
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:237
 #. i18n: ectx: property (text), widget (QPushButton, m_uploadButton)
 #: rc.cpp:408
 #, fuzzy
@@ -932,19 +932,19 @@ msgstr "پلټون څرګندۍ دلته وليکﺉ"
 msgid "Upload your own files..."
 msgstr "رالېښنې"
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:114
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:367
 #. i18n: ectx: property (text), widget (QPushButton, voteGoodButton)
 #: rc.cpp:411
 msgid "I like this"
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:121
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:374
 #. i18n: ectx: property (text), widget (QPushButton, voteBadButton)
 #: rc.cpp:414
 msgid "I do not like this"
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:186
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:439
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: file: knewstuff/knewstuff2/ui/UploadDialog.ui:20
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -952,18 +952,36 @@ msgstr ""
 msgid "Author:"
 msgstr ":ليکوال"
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:209
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:462
 #. i18n: ectx: property (text), widget (QLabel, homepageLabel)
 #: rc.cpp:420
 msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
 msgstr ""
 
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:229
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:500
+#. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
+#: rc.cpp:426 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:124
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:333
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:66
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:66
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:186
+msgid "Uninstall"
+msgstr "نالګول"
+
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:507
+#. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
+#: rc.cpp:429
+msgid "Become a Fan"
+msgstr ""
+
+#. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:517
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: rc.cpp:423 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:143
+#: rc.cpp:432 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:143
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:153
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:247
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:257
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:352
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:362
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:65
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:144
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:149
@@ -974,24 +992,6 @@ msgstr ""
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:209
 msgid "Install"
 msgstr "لګول"
-
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:249
-#. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
-#: rc.cpp:429 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:124
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:228
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:66
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:66
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:186
-msgid "Uninstall"
-msgstr "نالګول"
-
-#. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:256
-#. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
-#: rc.cpp:432
-msgid "Become a Fan"
-msgstr ""
 
 #. i18n: file: knewstuff/knewstuff2/ui/UploadDialog.ui:33
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -3014,8 +3014,7 @@ msgid "Download New Stuff..."
 msgstr "نوي څيزونه رالېښل"
 
 #: knewstuff/knewstuff3/downloaddialog.cpp:81
-#: knewstuff/knewstuff3/downloadwidget.cpp:202
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:70
+#: knewstuff/knewstuff3/downloadwidget.cpp:200
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
 msgid "Get Hot New Stuff"
@@ -3028,67 +3027,67 @@ msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "پر-زياتووني لګاند %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:116
+#: knewstuff/knewstuff3/downloadwidget.cpp:114
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:312
 #, fuzzy
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
 msgstr "مهال بشپړ شو. د اېنټرنېټ نښلېدنه وګورﺉ!"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:174
+#: knewstuff/knewstuff3/downloadwidget.cpp:172
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:252
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
 #, kde-format
 msgid "Server: %1"
 msgstr "%1 :پالنګر"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:175
+#: knewstuff/knewstuff3/downloadwidget.cpp:173
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:504
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />%1 برابروونی:"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:176
+#: knewstuff/knewstuff3/downloadwidget.cpp:174
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />%1 نسخه:"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:180
+#: knewstuff/knewstuff3/downloadwidget.cpp:178
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:82
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:258
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:509
 msgid "Provider information"
 msgstr "د برابرووني خبرتياوې"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:191
+#: knewstuff/knewstuff3/downloadwidget.cpp:189
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:535
 #, kde-format
 msgid "Could not install %1"
 msgstr "نه شي لګولی %1"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:192
+#: knewstuff/knewstuff3/downloadwidget.cpp:190
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:536
 msgid "Get Hot New Stuff!"
 msgstr "نوي سره شيان ترلاسه کړﺉ!"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:238
+#: knewstuff/knewstuff3/downloadwidget.cpp:242
 msgid "Icons view mode"
 msgstr ""
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:240
+#: knewstuff/knewstuff3/downloadwidget.cpp:244
 #, fuzzy
 #| msgid "Detailed View"
 msgid "Details view mode"
 msgstr "سپړاوی کوت"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:255
+#: knewstuff/knewstuff3/downloadwidget.cpp:259
 #, fuzzy
 #| msgid "*|All Folders"
 msgid "All Providers"
 msgstr "*|ټولۍ پوښۍ"
 
-#: knewstuff/knewstuff3/downloadwidget.cpp:262
+#: knewstuff/knewstuff3/downloadwidget.cpp:266
 #, fuzzy
 #| msgid "Pages"
 msgid "All Categories"
@@ -3211,7 +3210,7 @@ msgstr[1] "مخکوت لېښل کيږي"
 
 #: knewstuff/knewstuff3/core/engine.cpp:499
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:133
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:237
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:342
 #, fuzzy
 #| msgid "Install"
 msgid "Installing"
@@ -3300,20 +3299,20 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:119
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:100
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "Details for %1"
 msgstr "وړانديزونه"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:140
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:123
 #, fuzzy
 #| msgid "Homepage"
 msgctxt "A link to the description of this Get Hot New Stuff item"
 msgid "Homepage"
 msgstr "کورپاڼه"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:143
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:126
 #, fuzzy
 #| msgid "HTML documentation"
 msgctxt ""
@@ -3321,7 +3320,7 @@ msgctxt ""
 msgid "Make a donation"
 msgstr "لاسوندونه HTML"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:147
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:130
 #, kde-format
 msgctxt "A link to the knowledgebase (like a forum) (opens a web browser)"
 msgid "Knowledgebase (no entries)"
@@ -3329,7 +3328,7 @@ msgid_plural "Knowledgebase (%1 entries)"
 msgstr[0] ""
 msgstr[1] ""
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:150
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:133
 #, fuzzy
 #| msgid "Open in New &Window"
 msgctxt "Tooltip for a link in a dialog"
@@ -3337,14 +3336,14 @@ msgid "Opens in a browser window"
 msgstr "په نوې &کړکۍ کې پرانيستل"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:138
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:242
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:347
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
 msgstr "اوسمهالول"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:148
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:252
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:357
 #, fuzzy
 #| msgid "Install"
 msgid "Install Again"
@@ -3360,9 +3359,9 @@ msgstr "خبرتياوې"
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:223
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:225
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:227
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:168
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:170
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:172
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:158
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:160
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:162
 #, fuzzy, kde-format
 #| msgctxt "@interface/rich"
 #| msgid "<i>%1</i>"
@@ -3371,7 +3370,7 @@ msgid "By <i>%1</i>"
 msgstr "<i>%1</i>"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:241
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:194
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:185
 #, kde-format
 msgid "1 fan"
 msgid_plural "%1 fans"
@@ -3379,7 +3378,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:244
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:197
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:188
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "1 download"
@@ -3388,14 +3387,14 @@ msgstr[0] "رالېښنې"
 msgstr[1] "رالېښنې"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:263
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:118
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:107
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating: %1%"
 msgstr ":کچونه"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:314
-#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:328
+#: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:255
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:264
 msgid "Loading Preview"
 msgstr "مخکوت لېښل کيږي"
@@ -6112,12 +6111,12 @@ msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
 #: khtml/khtmlview.cpp:2954 khtml/khtmlview.cpp:2996 khtml/khtml_part.cpp:4675
-#: khtml/html/html_formimpl.cpp:1605 khtml/html/html_formimpl.cpp:1817
+#: khtml/html/html_formimpl.cpp:1606 khtml/html/html_formimpl.cpp:1818
 msgid "Submit"
 msgstr "لېږل"
 
 #: khtml/khtmlview.cpp:2968 khtml/khtmlview.cpp:3001
-#: khtml/html/html_formimpl.cpp:1809 kdeui/dialogs/kedittoolbar.cpp:533
+#: khtml/html/html_formimpl.cpp:1810 kdeui/dialogs/kedittoolbar.cpp:533
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -7012,7 +7011,7 @@ msgid_plural "&Send Files"
 msgstr[0] "دوتنې لېږل&"
 msgstr[1] "دوتنې لېږل&"
 
-#: khtml/html/html_formimpl.cpp:2619
+#: khtml/html/html_formimpl.cpp:2620
 msgid "Key Generator"
 msgstr "کيلۍ جوړوونکی"
 
