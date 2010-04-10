@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-08 04:26+0200\n"
+"POT-Creation-Date: 2010-04-10 04:38+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -760,9 +760,9 @@ msgstr ":مخکوت URL"
 #. i18n: ectx: property (text), widget (QPushButton, changePreview2Button)
 #: rc.cpp:330 rc.cpp:333 rc.cpp:336
 #, fuzzy
-#| msgid "Change &Icon..."
-msgid "Change..."
-msgstr "...انځورن بدلول&"
+#| msgid "Select Files..."
+msgid "Select Preview..."
+msgstr "...دوتنې ټاکل"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:426
 #. i18n: ectx: property (text), widget (QCheckBox, priceCheckBox)
@@ -3179,28 +3179,28 @@ msgid "Error initializing provider."
 msgstr ""
 
 #: knewstuff/knewstuff3/core/engine.cpp:219
-#: knewstuff/knewstuff3/core/engine.cpp:495
+#: knewstuff/knewstuff3/core/engine.cpp:499
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "څېرمه کړنلار لېښل کيږي"
 
-#: knewstuff/knewstuff3/core/engine.cpp:243
+#: knewstuff/knewstuff3/core/engine.cpp:247
 msgid "Loading data from provider"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:248
+#: knewstuff/knewstuff3/core/engine.cpp:252
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:457
+#: knewstuff/knewstuff3/core/engine.cpp:461
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
 #, kde-format
 msgid "Re: %1"
 msgstr "%1 بيا:"
 
-#: knewstuff/knewstuff3/core/engine.cpp:497
+#: knewstuff/knewstuff3/core/engine.cpp:501
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -3208,7 +3208,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "مخکوت لېښل کيږي"
 msgstr[1] "مخکوت لېښل کيږي"
 
-#: knewstuff/knewstuff3/core/engine.cpp:499
+#: knewstuff/knewstuff3/core/engine.cpp:503
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:133
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:342
 #, fuzzy
@@ -13188,6 +13188,11 @@ msgstr "دا &څه دي؟"
 #: kdeui/actions/kstandardaction_p.h:113
 msgid "Tip of the &Day"
 msgstr "د &ورځې نکته"
+
+#, fuzzy
+#~| msgid "Change &Icon..."
+#~ msgid "Change..."
+#~ msgstr "...انځورن بدلول&"
 
 #, fuzzy
 #~| msgid "Homepage"
