@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-20 05:04+0200\n"
+"POT-Creation-Date: 2010-04-22 00:31+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2497,26 +2497,86 @@ msgstr "ناپېژندلې تېروتنه"
 msgid "Changing annotations"
 msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:201
-msgid "Create New Tag..."
+#: nepomuk/core/ui/kedittagsdialog.cpp:48
+#, fuzzy
+#| msgid "Change Icon"
+msgctxt "@title:window"
+msgid "Change Tags"
+msgstr "انځورن بدلول"
+
+#: nepomuk/core/ui/kedittagsdialog.cpp:49
+#, fuzzy
+#| msgid "Pages"
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "مخونه"
+
+#: nepomuk/core/ui/kedittagsdialog.cpp:58
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr ""
+
+#: nepomuk/core/ui/kedittagsdialog.cpp:71
+#, fuzzy
+#| msgid "Create New Tag..."
+msgctxt "@label"
+msgid "Create new tag:"
 msgstr "...نوی بچوی جوړول"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
-msgid "New Tag"
-msgstr "نوی بچوی"
+#: nepomuk/core/ui/kedittagsdialog.cpp:93
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@info"
+msgid "Delete tag"
+msgstr "ړنګول"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
-msgid "Please insert the name of the new tag:"
-msgstr ":لورينه وکړﺉ د نوي بچوي نوم ورننباسﺉ"
-
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
+#: nepomuk/core/ui/kedittagsdialog.cpp:205
 #, kde-format
-msgid "The tag %1 already exists"
-msgstr "بچوی د مخکې نه شتون لري %1"
+msgctxt "@info"
+msgid "Should the tag <resource>%1</resource> really be deleted for all files?"
+msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
-msgid "Tag Exists"
-msgstr "بچوی شتون لري"
+#: nepomuk/core/ui/kedittagsdialog.cpp:207
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@title"
+msgid "Delete tag"
+msgstr "ړنګول"
+
+#: nepomuk/core/ui/kedittagsdialog.cpp:208
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@action:button"
+msgid "Delete"
+msgstr "ړنګول"
+
+#: nepomuk/core/ui/kedittagsdialog.cpp:209
+#, fuzzy
+#| msgid "Cancel"
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "بندول"
+
+#: nepomuk/core/ui/tagwidget.cpp:60
+#, fuzzy
+#| msgid "Show all options"
+msgctxt "@label"
+msgid "Show all tags..."
+msgstr "ټول غوراوي ښودل"
+
+#: nepomuk/core/ui/tagwidget.cpp:102
+#, fuzzy
+#| msgid "Add..."
+msgctxt "@label"
+msgid "Add Tags..."
+msgstr "...زياتول"
+
+#: nepomuk/core/ui/tagwidget.cpp:102
+#, fuzzy
+#| msgid "Change &Icon..."
+msgctxt "@label"
+msgid "Change..."
+msgstr "...انځورن بدلول&"
 
 #: nepomuk/rcgen/rcgen.cpp:49 nepomuk/rcgen/rcgen.cpp:51
 msgid "Nepomuk Resource Class Generator"
@@ -7015,7 +7075,7 @@ msgstr[1] "دوتنې لېږل&"
 msgid "Key Generator"
 msgstr "کيلۍ جوړوونکی"
 
-#: khtml/html/html_objectimpl.cpp:604
+#: khtml/html/html_objectimpl.cpp:605
 #, kde-format
 msgid ""
 "No plugin found for '%1'.\n"
@@ -7024,15 +7084,15 @@ msgstr ""
 "لپاره کوم لګون ونه موندل شو. '%1' د\n"
 "نه راولېښﺉ؟ %2 غواړﺉ چې يو د"
 
-#: khtml/html/html_objectimpl.cpp:605
+#: khtml/html/html_objectimpl.cpp:606
 msgid "Missing Plugin"
 msgstr "ورک لګون"
 
-#: khtml/html/html_objectimpl.cpp:605
+#: khtml/html/html_objectimpl.cpp:606
 msgid "Download"
 msgstr "رالېښنې"
 
-#: khtml/html/html_objectimpl.cpp:605
+#: khtml/html/html_objectimpl.cpp:606
 msgid "Do Not Download"
 msgstr "مه رالېښه"
 
@@ -10377,7 +10437,7 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
 
-#: kdeui/windowmanagement/kwindowsystem_x11.cpp:854
+#: kdeui/windowmanagement/kwindowsystem_x11.cpp:858
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:177
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:587
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:564
@@ -13189,10 +13249,17 @@ msgstr "دا &څه دي؟"
 msgid "Tip of the &Day"
 msgstr "د &ورځې نکته"
 
-#, fuzzy
-#~| msgid "Change &Icon..."
-#~ msgid "Change..."
-#~ msgstr "...انځورن بدلول&"
+#~ msgid "New Tag"
+#~ msgstr "نوی بچوی"
+
+#~ msgid "Please insert the name of the new tag:"
+#~ msgstr ":لورينه وکړﺉ د نوي بچوي نوم ورننباسﺉ"
+
+#~ msgid "The tag %1 already exists"
+#~ msgstr "بچوی د مخکې نه شتون لري %1"
+
+#~ msgid "Tag Exists"
+#~ msgstr "بچوی شتون لري"
 
 #, fuzzy
 #~| msgid "Homepage"
