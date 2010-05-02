@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-01 04:45+0200\n"
+"POT-Creation-Date: 2010-05-02 04:36+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -3025,7 +3025,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: knewstuff/knewstuff3/uploaddialog.cpp:500
-#: khtml/rendering/render_form.cpp:812 kjs/object.cpp:585
+#: khtml/rendering/render_form.cpp:812 kjs/object.cpp:544
 #: kdeui/dialogs/kmessagebox.cpp:830 kdeui/dialogs/kmessagebox.cpp:860
 msgid "Error"
 msgstr "تېروتنه"
@@ -8292,27 +8292,27 @@ msgstr ".بې له کډي ک.کاريال د ملاتړ نه پېلول"
 msgid "Script to execute"
 msgstr "د چلولو لپاره سکرېپټ"
 
-#: kjs/object.cpp:586
+#: kjs/object.cpp:545
 msgid "Evaluation error"
 msgstr "د ارزښت ټاکنې تېروتنه"
 
-#: kjs/object.cpp:587
+#: kjs/object.cpp:546
 msgid "Range error"
 msgstr "د سيمې تېروتنه"
 
-#: kjs/object.cpp:588
+#: kjs/object.cpp:547
 msgid "Reference error"
 msgstr "د اخځ تېروتنه"
 
-#: kjs/object.cpp:589
+#: kjs/object.cpp:548
 msgid "Syntax error"
 msgstr "د ژبرغښت تېروتنه"
 
-#: kjs/object.cpp:590
+#: kjs/object.cpp:549
 msgid "Type error"
 msgstr "د ډول تېروتنه"
 
-#: kjs/object.cpp:591
+#: kjs/object.cpp:550
 msgid "URI error"
 msgstr "تېروتنه URI د"
 
