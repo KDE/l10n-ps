@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-04 06:23+0200\n"
+"POT-Creation-Date: 2010-05-05 04:48+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2420,35 +2420,35 @@ msgctxt "@title:group Script properties"
 msgid "General"
 msgstr "ټولګړي"
 
-#: kconf_update/kconf_update.cpp:132
+#: kconf_update/kconf_update.cpp:140
 msgid "Only local files are supported."
 msgstr ".يوازې ځايي دوتنې منل کيږي"
 
-#: kconf_update/kconf_update.cpp:875
+#: kconf_update/kconf_update.cpp:918
 msgid "Keep output results from scripts"
 msgstr "وتۍ پاېلې د سکرېپټونو نه ساتل"
 
-#: kconf_update/kconf_update.cpp:876
+#: kconf_update/kconf_update.cpp:919
 msgid "Check whether config file itself requires updating"
 msgstr ""
 
-#: kconf_update/kconf_update.cpp:877
+#: kconf_update/kconf_update.cpp:920
 msgid "File to read update instructions from"
 msgstr "هغه دوتنه چې د اوسمهالونې خبرتياوې ته ولوستل شي"
 
-#: kconf_update/kconf_update.cpp:879
+#: kconf_update/kconf_update.cpp:922
 msgid "KConf Update"
 msgstr "اوسمهال KConf"
 
-#: kconf_update/kconf_update.cpp:881
+#: kconf_update/kconf_update.cpp:924
 msgid "KDE Tool for updating user configuration files"
 msgstr "د کارن سازونې دوتنو د اوسمهالولو لپاره د کډي توکی"
 
-#: kconf_update/kconf_update.cpp:883
+#: kconf_update/kconf_update.cpp:926
 msgid "(c) 2001, Waldo Bastian"
 msgstr "چاپرښتې ۲۰۰۱، وېلډو بېسټين"
 
-#: kconf_update/kconf_update.cpp:885 khtml/khtml_global.cpp:213
+#: kconf_update/kconf_update.cpp:928 khtml/khtml_global.cpp:213
 #: kded/kbuildsycoca.cpp:622
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
@@ -11789,47 +11789,47 @@ msgstr "يو کال وټاکﺉ"
 msgid "Select the current day"
 msgstr "نننۍ ورځ ټاکل"
 
-#: kdeui/widgets/klineedit.cpp:261
+#: kdeui/widgets/klineedit.cpp:270
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "ليکنه پاکول"
 
-#: kdeui/widgets/klineedit.cpp:1132
+#: kdeui/widgets/klineedit.cpp:1141
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "د ليکنې بشپړېدنه"
 
-#: kdeui/widgets/klineedit.cpp:1139
+#: kdeui/widgets/klineedit.cpp:1148
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "هېڅ"
 
-#: kdeui/widgets/klineedit.cpp:1140
+#: kdeui/widgets/klineedit.cpp:1149
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "لاسي کتاب"
 
-#: kdeui/widgets/klineedit.cpp:1141
+#: kdeui/widgets/klineedit.cpp:1150
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "خپلکاری"
 
-#: kdeui/widgets/klineedit.cpp:1142
+#: kdeui/widgets/klineedit.cpp:1151
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "لرغورځی لړ"
 
-#: kdeui/widgets/klineedit.cpp:1143
+#: kdeui/widgets/klineedit.cpp:1152
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "لنډ خپلکاری"
 
-#: kdeui/widgets/klineedit.cpp:1144
+#: kdeui/widgets/klineedit.cpp:1153
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "خپلکاری && لرغورځی لړ"
 
-#: kdeui/widgets/klineedit.cpp:1175
+#: kdeui/widgets/klineedit.cpp:1184
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
