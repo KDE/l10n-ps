@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-10 04:40+0200\n"
+"POT-Creation-Date: 2010-05-11 05:53+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2478,19 +2478,19 @@ msgctxt ""
 msgid "or"
 msgstr "مور"
 
-#: nepomuk/core/resource.cpp:519
+#: nepomuk/core/resource.cpp:520
 msgid "Success"
 msgstr "بری"
 
-#: nepomuk/core/resource.cpp:521
+#: nepomuk/core/resource.cpp:522
 msgid "Communication error"
 msgstr "د اړيکې تېروتنه"
 
-#: nepomuk/core/resource.cpp:523
+#: nepomuk/core/resource.cpp:524
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
-#: nepomuk/core/resource.cpp:525 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:526 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 msgid "Unknown error"
 msgstr "ناپېژندلې تېروتنه"
@@ -7185,7 +7185,7 @@ msgstr "مه رالېښه"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "دا د پلټلو وړ لړيال دی. د پلټون ارويېونه وليکﺉ:"
 
-#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1608
+#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1611
 msgid "Confirmation: JavaScript Popup"
 msgstr "باوريينه: د جاواسکرېپټ بړبوکيزه"
 
@@ -7204,15 +7204,15 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1616
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1619
 msgid "Allow"
 msgstr "پرېښل"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1616
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1619
 msgid "Do Not Allow"
 msgstr "نه پرېښل"
 
-#: khtml/ecma/kjs_window.cpp:1611
+#: khtml/ecma/kjs_window.cpp:1614
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -7220,7 +7220,7 @@ msgstr ""
 "دا پاڼه غواړﺉ چې پر جاواسکرېپټ يوه نوې لټووني کړکۍ پرانيزي.\n"
 "تاسو د دې پرېښلې ورکول غواړﺉ؟"
 
-#: khtml/ecma/kjs_window.cpp:1614
+#: khtml/ecma/kjs_window.cpp:1617
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -7229,52 +7229,52 @@ msgstr ""
 "<qt>پر جاواسکرېپټ په يوه نوې کړکۍ کې پرانيزي. <p>%1</p> دا پاڼه غواړي چې<br /"
 ">تاسو د دې پرېښلې ورکول غواړﺉ؟</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1919
+#: khtml/ecma/kjs_window.cpp:1922
 msgid "Close window?"
 msgstr "کړکۍ بندول غواړﺉ؟"
 
-#: khtml/ecma/kjs_window.cpp:1919
+#: khtml/ecma/kjs_window.cpp:1922
 msgid "Confirmation Required"
 msgstr "باوريينه اړينه ده"
 
-#: khtml/ecma/kjs_window.cpp:2786
+#: khtml/ecma/kjs_window.cpp:2789
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2789
+#: khtml/ecma/kjs_window.cpp:2792
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2797
+#: khtml/ecma/kjs_window.cpp:2800
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "جاواسکرېپټ د ليکنښې ورننويستلو هڅه وکړه"
 
-#: khtml/ecma/kjs_window.cpp:2801
+#: khtml/ecma/kjs_window.cpp:2804
 msgid "Insert"
 msgstr "ورننويستل"
 
-#: khtml/ecma/kjs_window.cpp:2801
+#: khtml/ecma/kjs_window.cpp:2804
 msgid "Disallow"
 msgstr "نه منل"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, "
 "other applications may become less responsive.\n"
 "Do you want to stop the script?"
 msgstr ""
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 msgid "JavaScript"
 msgstr "جاواسکرېپټ"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
 #| msgid "Open Script"
 msgid "&Stop Script"
@@ -7534,7 +7534,7 @@ msgstr "هو&"
 msgid "&Grant All"
 msgstr "ټول منل&"
 
-#: khtml/xml/dom_docimpl.cpp:2269
+#: khtml/xml/dom_docimpl.cpp:2258
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
 
@@ -8968,15 +8968,15 @@ msgstr "د کډي ډلې کې ګډون کول&"
 msgid "&Support KDE"
 msgstr "د کډي ملاتړ&"
 
-#: kdeui/dialogs/klinkdialog.cpp:48
+#: kdeui/dialogs/klinkdialog.cpp:49
 msgid "Manage Link"
 msgstr "تړنه سمبالول"
 
-#: kdeui/dialogs/klinkdialog.cpp:58
+#: kdeui/dialogs/klinkdialog.cpp:59
 msgid "Link Text:"
 msgstr ":د تړنۍ ليکنه"
 
-#: kdeui/dialogs/klinkdialog.cpp:61
+#: kdeui/dialogs/klinkdialog.cpp:62
 msgid "Link URL:"
 msgstr ":URL د تړنې"
 
