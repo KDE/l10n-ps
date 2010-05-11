@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-10 01:19+0200\n"
+"POT-Creation-Date: 2010-05-11 01:21+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6727,7 +6727,7 @@ msgstr "مه رالېښه"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "دا د پلټلو وړ لړيال دی. د پلټون ارويېونه وليکﺉ:"
 
-#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1590
+#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1593
 msgid "Confirmation: JavaScript Popup"
 msgstr "باوريينه: د جاواسکرېپټ بړبوکيزه"
 
@@ -6746,15 +6746,15 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1598
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1601
 msgid "Allow"
 msgstr "پرېښل"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1598
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1601
 msgid "Do Not Allow"
 msgstr "نه پرېښل"
 
-#: khtml/ecma/kjs_window.cpp:1593
+#: khtml/ecma/kjs_window.cpp:1596
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -6762,7 +6762,7 @@ msgstr ""
 "دا پاڼه غواړﺉ چې پر جاواسکرېپټ يوه نوې لټووني کړکۍ پرانيزي.\n"
 "تاسو د دې پرېښلې ورکول غواړﺉ؟"
 
-#: khtml/ecma/kjs_window.cpp:1596
+#: khtml/ecma/kjs_window.cpp:1599
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -6771,37 +6771,37 @@ msgstr ""
 "<qt>پر جاواسکرېپټ په يوه نوې کړکۍ کې پرانيزي. <p>%1</p> دا پاڼه غواړي چې<br /"
 ">تاسو د دې پرېښلې ورکول غواړﺉ؟</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1901
+#: khtml/ecma/kjs_window.cpp:1904
 msgid "Close window?"
 msgstr "کړکۍ بندول غواړﺉ؟"
 
-#: khtml/ecma/kjs_window.cpp:1901
+#: khtml/ecma/kjs_window.cpp:1904
 msgid "Confirmation Required"
 msgstr "باوريينه اړينه ده"
 
-#: khtml/ecma/kjs_window.cpp:2768
+#: khtml/ecma/kjs_window.cpp:2771
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2771
+#: khtml/ecma/kjs_window.cpp:2774
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 
-#: khtml/ecma/kjs_window.cpp:2779
+#: khtml/ecma/kjs_window.cpp:2782
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "جاواسکرېپټ د ليکنښې ورننويستلو هڅه وکړه"
 
-#: khtml/ecma/kjs_window.cpp:2783
+#: khtml/ecma/kjs_window.cpp:2786
 msgid "Insert"
 msgstr "ورننويستل"
 
-#: khtml/ecma/kjs_window.cpp:2783
+#: khtml/ecma/kjs_window.cpp:2786
 msgid "Disallow"
 msgstr "نه منل"
 
