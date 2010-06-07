@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-06 04:50+0200\n"
+"POT-Creation-Date: 2010-06-07 04:49+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6256,12 +6256,12 @@ msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
 #: khtml/khtmlview.cpp:2954 khtml/khtmlview.cpp:2996 khtml/khtml_part.cpp:4649
-#: khtml/html/html_formimpl.cpp:1606 khtml/html/html_formimpl.cpp:1818
+#: khtml/html/html_formimpl.cpp:1607 khtml/html/html_formimpl.cpp:1819
 msgid "Submit"
 msgstr "لېږل"
 
 #: khtml/khtmlview.cpp:2968 khtml/khtmlview.cpp:3001
-#: khtml/html/html_formimpl.cpp:1810 kdeui/dialogs/kedittoolbar.cpp:600
+#: khtml/html/html_formimpl.cpp:1811 kdeui/dialogs/kedittoolbar.cpp:600
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -7123,32 +7123,32 @@ msgstr ""
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesoft.com</email>"
 
-#: khtml/html/html_formimpl.cpp:421
+#: khtml/html/html_formimpl.cpp:423
 msgid ""
 "The following files will not be uploaded because they could not be found.\n"
 "Do you want to continue?"
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:425
+#: khtml/html/html_formimpl.cpp:427
 msgid "Submit Confirmation"
 msgstr "د لېږلو باوريينه"
 
-#: khtml/html/html_formimpl.cpp:425
+#: khtml/html/html_formimpl.cpp:427
 msgid "&Submit Anyway"
 msgstr "بياهم لېږل&"
 
-#: khtml/html/html_formimpl.cpp:436
+#: khtml/html/html_formimpl.cpp:438
 msgid ""
 "You are about to transfer the following files from your local computer to "
 "the Internet.\n"
 "Do you really want to continue?"
 msgstr ""
 
-#: khtml/html/html_formimpl.cpp:440
+#: khtml/html/html_formimpl.cpp:442
 msgid "Send Confirmation"
 msgstr "د لېږلو باوريينه"
 
-#: khtml/html/html_formimpl.cpp:440
+#: khtml/html/html_formimpl.cpp:442
 #, fuzzy
 #| msgid "&Send Files"
 msgid "&Send File"
@@ -7156,7 +7156,7 @@ msgid_plural "&Send Files"
 msgstr[0] "دوتنې لېږل&"
 msgstr[1] "دوتنې لېږل&"
 
-#: khtml/html/html_formimpl.cpp:2662
+#: khtml/html/html_formimpl.cpp:2663
 msgid "Key Generator"
 msgstr "کيلۍ جوړوونکی"
 
