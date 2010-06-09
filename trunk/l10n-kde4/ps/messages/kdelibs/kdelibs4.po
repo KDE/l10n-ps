@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-08 05:37+0200\n"
+"POT-Creation-Date: 2010-06-09 05:01+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2478,107 +2478,22 @@ msgctxt ""
 msgid "or"
 msgstr "مور"
 
-#: nepomuk/core/resource.cpp:524
+#: nepomuk/core/resource.cpp:498
 msgid "Success"
 msgstr "بری"
 
-#: nepomuk/core/resource.cpp:526
+#: nepomuk/core/resource.cpp:500
 msgid "Communication error"
 msgstr "د اړيکې تېروتنه"
 
-#: nepomuk/core/resource.cpp:528
+#: nepomuk/core/resource.cpp:502
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
-#: nepomuk/core/resource.cpp:530 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:504 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 msgid "Unknown error"
 msgstr "ناپېژندلې تېروتنه"
-
-#: nepomuk/core/ui/nepomukmassupdatejob.cpp:76
-msgid "Changing annotations"
-msgstr ""
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:48
-#, fuzzy
-#| msgid "Change Icon"
-msgctxt "@title:window"
-msgid "Change Tags"
-msgstr "انځورن بدلول"
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:49
-#, fuzzy
-#| msgid "Pages"
-msgctxt "@title:window"
-msgid "Add Tags"
-msgstr "مخونه"
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:58
-msgctxt "@label:textbox"
-msgid "Configure which tags should be applied."
-msgstr ""
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:71
-#, fuzzy
-#| msgid "Create New Tag..."
-msgctxt "@label"
-msgid "Create new tag:"
-msgstr "...نوی بچوی جوړول"
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:93
-#, fuzzy
-#| msgid "Delete"
-msgctxt "@info"
-msgid "Delete tag"
-msgstr "ړنګول"
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:205
-#, kde-format
-msgctxt "@info"
-msgid "Should the tag <resource>%1</resource> really be deleted for all files?"
-msgstr ""
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:207
-#, fuzzy
-#| msgid "Delete"
-msgctxt "@title"
-msgid "Delete tag"
-msgstr "ړنګول"
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:208
-#, fuzzy
-#| msgid "Delete"
-msgctxt "@action:button"
-msgid "Delete"
-msgstr "ړنګول"
-
-#: nepomuk/core/ui/kedittagsdialog.cpp:209
-#, fuzzy
-#| msgid "Cancel"
-msgctxt "@action:button"
-msgid "Cancel"
-msgstr "بندول"
-
-#: nepomuk/core/ui/tagwidget.cpp:61
-#, fuzzy
-#| msgid "Show all options"
-msgctxt "@label"
-msgid "Show all tags..."
-msgstr "ټول غوراوي ښودل"
-
-#: nepomuk/core/ui/tagwidget.cpp:104
-#, fuzzy
-#| msgid "Add..."
-msgctxt "@label"
-msgid "Add Tags..."
-msgstr "...زياتول"
-
-#: nepomuk/core/ui/tagwidget.cpp:104
-#, fuzzy
-#| msgid "Change &Icon..."
-msgctxt "@label"
-msgid "Change..."
-msgstr "...انځورن بدلول&"
 
 #: nepomuk/rcgen/rcgen.cpp:49 nepomuk/rcgen/rcgen.cpp:51
 msgid "Nepomuk Resource Class Generator"
@@ -2680,6 +2595,91 @@ msgstr ""
 #: nepomuk/rcgen/rcgen.cpp:80
 msgid "The ontology files containing the ontologies to be generated."
 msgstr ""
+
+#: nepomuk/ui/kedittagsdialog.cpp:48
+#, fuzzy
+#| msgid "Change Icon"
+msgctxt "@title:window"
+msgid "Change Tags"
+msgstr "انځورن بدلول"
+
+#: nepomuk/ui/kedittagsdialog.cpp:49
+#, fuzzy
+#| msgid "Pages"
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "مخونه"
+
+#: nepomuk/ui/kedittagsdialog.cpp:58
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr ""
+
+#: nepomuk/ui/kedittagsdialog.cpp:71
+#, fuzzy
+#| msgid "Create New Tag..."
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr "...نوی بچوی جوړول"
+
+#: nepomuk/ui/kedittagsdialog.cpp:93
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@info"
+msgid "Delete tag"
+msgstr "ړنګول"
+
+#: nepomuk/ui/kedittagsdialog.cpp:205
+#, kde-format
+msgctxt "@info"
+msgid "Should the tag <resource>%1</resource> really be deleted for all files?"
+msgstr ""
+
+#: nepomuk/ui/kedittagsdialog.cpp:207
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@title"
+msgid "Delete tag"
+msgstr "ړنګول"
+
+#: nepomuk/ui/kedittagsdialog.cpp:208
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@action:button"
+msgid "Delete"
+msgstr "ړنګول"
+
+#: nepomuk/ui/kedittagsdialog.cpp:209
+#, fuzzy
+#| msgid "Cancel"
+msgctxt "@action:button"
+msgid "Cancel"
+msgstr "بندول"
+
+#: nepomuk/ui/nepomukmassupdatejob.cpp:76
+msgid "Changing annotations"
+msgstr ""
+
+#: nepomuk/ui/tagwidget.cpp:61
+#, fuzzy
+#| msgid "Show all options"
+msgctxt "@label"
+msgid "Show all tags..."
+msgstr "ټول غوراوي ښودل"
+
+#: nepomuk/ui/tagwidget.cpp:104
+#, fuzzy
+#| msgid "Add..."
+msgctxt "@label"
+msgid "Add Tags..."
+msgstr "...زياتول"
+
+#: nepomuk/ui/tagwidget.cpp:104
+#, fuzzy
+#| msgid "Change &Icon..."
+msgctxt "@label"
+msgid "Change..."
+msgstr "...انځورن بدلول&"
 
 #: kinit/klauncher.cpp:563
 #, kde-format
