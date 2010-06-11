@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-10 04:50+0200\n"
+"POT-Creation-Date: 2010-06-11 04:59+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -4633,7 +4633,7 @@ msgstr "بنګالي"
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari"
 msgctxt "digit set"
-msgid "Devenagari"
+msgid "Devanagari"
 msgstr "دېونګري"
 
 #: kdecore/localization/klocale.cpp:1092
@@ -7185,18 +7185,18 @@ msgstr "مه رالېښه"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "دا د پلټلو وړ لړيال دی. د پلټون ارويېونه وليکﺉ:"
 
-#: khtml/ecma/kjs_html.cpp:2112 khtml/ecma/kjs_window.cpp:1605
+#: khtml/ecma/kjs_html.cpp:2139 khtml/ecma/kjs_window.cpp:1605
 msgid "Confirmation: JavaScript Popup"
 msgstr "باوريينه: د جاواسکرېپټ بړبوکيزه"
 
-#: khtml/ecma/kjs_html.cpp:2114
+#: khtml/ecma/kjs_html.cpp:2141
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2117
+#: khtml/ecma/kjs_html.cpp:2144
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -7204,11 +7204,11 @@ msgid ""
 "submitted?</qt>"
 msgstr ""
 
-#: khtml/ecma/kjs_html.cpp:2119 khtml/ecma/kjs_window.cpp:1613
+#: khtml/ecma/kjs_html.cpp:2146 khtml/ecma/kjs_window.cpp:1613
 msgid "Allow"
 msgstr "پرېښل"
 
-#: khtml/ecma/kjs_html.cpp:2119 khtml/ecma/kjs_window.cpp:1613
+#: khtml/ecma/kjs_html.cpp:2146 khtml/ecma/kjs_window.cpp:1613
 msgid "Do Not Allow"
 msgstr "نه پرېښل"
 
@@ -7263,18 +7263,18 @@ msgstr "ورننويستل"
 msgid "Disallow"
 msgstr "نه منل"
 
-#: khtml/ecma/kjs_binding.cpp:187
+#: khtml/ecma/kjs_binding.cpp:185
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, "
 "other applications may become less responsive.\n"
 "Do you want to stop the script?"
 msgstr ""
 
-#: khtml/ecma/kjs_binding.cpp:187
+#: khtml/ecma/kjs_binding.cpp:185
 msgid "JavaScript"
 msgstr "جاواسکرېپټ"
 
-#: khtml/ecma/kjs_binding.cpp:187
+#: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
 #| msgid "Open Script"
 msgid "&Stop Script"
@@ -7534,7 +7534,7 @@ msgstr "هو&"
 msgid "&Grant All"
 msgstr "ټول منل&"
 
-#: khtml/xml/dom_docimpl.cpp:2258
+#: khtml/xml/dom_docimpl.cpp:2263
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
 
@@ -13352,6 +13352,13 @@ msgstr "دا &څه دي؟"
 #: kdeui/actions/kstandardaction_p.h:113
 msgid "Tip of the &Day"
 msgstr "د &ورځې نکته"
+
+#, fuzzy
+#~| msgctxt "KCharselect unicode block name"
+#~| msgid "Devanagari"
+#~ msgctxt "digit set"
+#~ msgid "Devenagari"
+#~ msgstr "دېونګري"
 
 #, fuzzy
 #~| msgid "Details"
