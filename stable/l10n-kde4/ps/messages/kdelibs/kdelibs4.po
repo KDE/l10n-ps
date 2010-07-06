@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-29 02:42+0200\n"
+"POT-Creation-Date: 2010-07-06 01:25+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2563,14 +2563,14 @@ msgctxt "@label"
 msgid "Show all tags..."
 msgstr "ټول غوراوي ښودل"
 
-#: nepomuk/ui/tagwidget.cpp:104
+#: nepomuk/ui/tagwidget.cpp:112
 #, fuzzy
 #| msgid "Add..."
 msgctxt "@label"
 msgid "Add Tags..."
 msgstr "...زياتول"
 
-#: nepomuk/ui/tagwidget.cpp:104
+#: nepomuk/ui/tagwidget.cpp:112
 #, fuzzy
 #| msgid "Change &Icon..."
 msgctxt "@label"
