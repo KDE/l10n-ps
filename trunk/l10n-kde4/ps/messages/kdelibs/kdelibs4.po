@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-18 05:00+0200\n"
+"POT-Creation-Date: 2010-07-20 05:59+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2281,8 +2281,8 @@ msgid "Sebastian Sauer"
 msgstr "سېبېسټين ساور"
 
 #: kross/test/main.cpp:149 kross/console/main.cpp:102 kross/qts/main.cpp:63
-#: kde3support/kdeui/k3aboutdialog.cpp:184 kded/kbuildsycoca.cpp:621
-#: kded/kbuildsycoca.cpp:622
+#: kde3support/kdeui/k3aboutdialog.cpp:184 kded/kbuildsycoca.cpp:620
+#: kded/kbuildsycoca.cpp:621
 msgid "Author"
 msgstr "ليکوال"
 
@@ -2435,7 +2435,7 @@ msgid "(c) 2001, Waldo Bastian"
 msgstr "چاپرښتې ۲۰۰۱، وېلډو بېسټين"
 
 #: kconf_update/kconf_update.cpp:975 khtml/khtml_global.cpp:213
-#: kded/kbuildsycoca.cpp:622
+#: kded/kbuildsycoca.cpp:621
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
 
@@ -8522,47 +8522,47 @@ msgstr ""
 msgid "Check Sycoca database only once"
 msgstr "سېکوکا توکبنسټ يوازې يوځل کتل"
 
-#: kded/kbuildsycoca.cpp:618
+#: kded/kbuildsycoca.cpp:617
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
-#: kded/kbuildsycoca.cpp:619
+#: kded/kbuildsycoca.cpp:618
 msgid "Rebuilds the system configuration cache."
 msgstr "د غونډال سازونې پټياد بيا جوړوي."
 
-#: kded/kbuildsycoca.cpp:620
+#: kded/kbuildsycoca.cpp:619
 msgid "(c) 1999-2002 KDE Developers"
 msgstr "چاپرښتې ۱۹۹۹-۲۰۰۲ د کډي پرمخبيونکي"
 
-#: kded/kbuildsycoca.cpp:621
+#: kded/kbuildsycoca.cpp:620
 msgid "David Faure"
 msgstr "ډېوېډ فوري"
 
-#: kded/kbuildsycoca.cpp:625
+#: kded/kbuildsycoca.cpp:624
 msgid "Do not signal applications to update"
 msgstr "د اوسمهالولو لپاره کاريالونو ته نښه نه لېږل"
 
-#: kded/kbuildsycoca.cpp:626
+#: kded/kbuildsycoca.cpp:625
 msgid "Disable incremental update, re-read everything"
 msgstr "انکرېمېنټل اوسمهالونه ناتوانول، هر څه بيا لوستل"
 
-#: kded/kbuildsycoca.cpp:627
+#: kded/kbuildsycoca.cpp:626
 msgid "Check file timestamps"
 msgstr "د دوتنې مهالټاپې کتل"
 
-#: kded/kbuildsycoca.cpp:628
+#: kded/kbuildsycoca.cpp:627
 msgid "Disable checking files (dangerous)"
 msgstr "د دوتنو کتنه ناتوانول (وېروونکی)"
 
-#: kded/kbuildsycoca.cpp:629
+#: kded/kbuildsycoca.cpp:628
 msgid "Create global database"
 msgstr "سراسري توکبنسټ جوړول"
 
-#: kded/kbuildsycoca.cpp:630
+#: kded/kbuildsycoca.cpp:629
 msgid "Perform menu generation test run only"
 msgstr ""
 
-#: kded/kbuildsycoca.cpp:631
+#: kded/kbuildsycoca.cpp:630
 msgid "Track menu id for debug purposes"
 msgstr "د کړاوتمبونې لپاره د غورنۍ پېژند پلنيول"
 
