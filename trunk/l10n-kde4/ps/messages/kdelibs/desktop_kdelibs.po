@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-30 03:33+0000\n"
+"POT-Creation-Date: 2010-07-31 03:54+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1646,6 +1646,11 @@ msgstr "لګون KFileWrite"
 #: plasma/data/servicetypes/plasma-scriptengine.desktop:5
 msgctxt "Comment"
 msgid "Scripting language extension for Plasma"
+msgstr ""
+
+#: plasma/data/servicetypes/plasma-toolbox.desktop:5
+msgctxt "Comment"
+msgid "Plasma toolbox"
 msgstr ""
 
 #: plasma/data/servicetypes/plasma-wallpaper.desktop:5
