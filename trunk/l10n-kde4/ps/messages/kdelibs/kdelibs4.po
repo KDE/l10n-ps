@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-11 05:09+0200\n"
+"POT-Creation-Date: 2010-08-12 05:12+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2475,19 +2475,19 @@ msgctxt ""
 msgid "or"
 msgstr "مور"
 
-#: nepomuk/core/resource.cpp:498
+#: nepomuk/core/resource.cpp:499
 msgid "Success"
 msgstr "بری"
 
-#: nepomuk/core/resource.cpp:500
+#: nepomuk/core/resource.cpp:501
 msgid "Communication error"
 msgstr "د اړيکې تېروتنه"
 
-#: nepomuk/core/resource.cpp:502
+#: nepomuk/core/resource.cpp:503
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
-#: nepomuk/core/resource.cpp:504 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:505 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 msgid "Unknown error"
 msgstr "ناپېژندلې تېروتنه"
@@ -2626,27 +2626,27 @@ msgctxt "@info"
 msgid "Delete tag"
 msgstr "ړنګول"
 
-#: nepomuk/ui/kedittagsdialog.cpp:205
+#: nepomuk/ui/kedittagsdialog.cpp:223
 #, kde-format
 msgctxt "@info"
 msgid "Should the tag <resource>%1</resource> really be deleted for all files?"
 msgstr ""
 
-#: nepomuk/ui/kedittagsdialog.cpp:207
+#: nepomuk/ui/kedittagsdialog.cpp:225
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@title"
 msgid "Delete tag"
 msgstr "ړنګول"
 
-#: nepomuk/ui/kedittagsdialog.cpp:208
+#: nepomuk/ui/kedittagsdialog.cpp:226
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@action:button"
 msgid "Delete"
 msgstr "ړنګول"
 
-#: nepomuk/ui/kedittagsdialog.cpp:209
+#: nepomuk/ui/kedittagsdialog.cpp:227
 #, fuzzy
 #| msgid "Cancel"
 msgctxt "@action:button"
