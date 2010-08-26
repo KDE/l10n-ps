@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-25 05:07+0200\n"
+"POT-Creation-Date: 2010-08-26 05:55+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2866,7 +2866,25 @@ msgstr[1] "لګونونه په خپلکارې توګه وړنګول شول %1 د
 msgid "Search Plugins"
 msgstr "لګونونه پلټل"
 
-#: kutils/kcmultidialog.cpp:163 kdeui/dialogs/kconfigdialog.cpp:69
+#: kutils/kcmultidialog.cpp:59
+#, fuzzy
+#| msgid ""
+#| "The document \"%1\" has been modified.\n"
+#| "Do you want to save your changes or discard them?"
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"لاسوند بدل شوی دی. \"%1\"\n"
+"تاسو خپل بدلونونه ساتل غواړﺉ يا پرېښودل يې غواړﺉ؟"
+
+#: kutils/kcmultidialog.cpp:61
+#, fuzzy
+#| msgid "Settings"
+msgid "Apply Settings"
+msgstr "امستنې"
+
+#: kutils/kcmultidialog.cpp:217 kdeui/dialogs/kconfigdialog.cpp:69
 msgid "Configure"
 msgstr "سازول"
 
@@ -4209,12 +4227,12 @@ msgstr ""
 "\n"
 "ارزښتمنۍ\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1589
+#: kdecore/kernel/kcmdlineargs.cpp:1587
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "چې د کاريال لخوا پرانيستل شي د کارونې وروسته به وړنګول شي URLsهغه دوتنې/"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1590
+#: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "KDE-tempfile"
 msgstr "کډي-لنډمهالدوتنه"
 
@@ -8590,7 +8608,7 @@ msgstr ".په شاليد کې نه ځغلېدل"
 msgid "Internally added if launched from Finder"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:829
+#: kdeui/kernel/kapplication.cpp:827
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "ډول ونه موندل شو '%1'"
