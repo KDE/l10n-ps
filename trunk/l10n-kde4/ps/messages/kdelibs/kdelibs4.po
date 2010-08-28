@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-27 05:45+0200\n"
+"POT-Creation-Date: 2010-08-28 05:35+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2439,7 +2439,7 @@ msgstr "چاپرښتې ۲۰۰۱، وېلډو بېسټين"
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
 
-#: nepomuk/query/query.cpp:704
+#: nepomuk/query/query.cpp:705
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -2447,7 +2447,7 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr ""
 
-#: nepomuk/query/query.cpp:710
+#: nepomuk/query/query.cpp:711
 msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr ""
@@ -2884,7 +2884,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "امستنې"
 
-#: kutils/kcmultidialog.cpp:217 kdeui/dialogs/kconfigdialog.cpp:69
+#: kutils/kcmultidialog.cpp:219 kdeui/dialogs/kconfigdialog.cpp:69
 msgid "Configure"
 msgstr "سازول"
 
