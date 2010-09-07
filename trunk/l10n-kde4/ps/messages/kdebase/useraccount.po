@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-22 05:43+0200\n"
+"POT-Creation-Date: 2010-09-07 02:27+0200\n"
 "PO-Revision-Date: 2008-08-12 08:23-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -293,7 +293,7 @@ msgstr "د کارن ننوت انځور"
 
 #. i18n: file: kcm_useraccount_pass.kcfg:9
 #. i18n: ectx: label, entry (EchoMode), group (Passwords)
-#: rc.cpp:59
+#: rc.cpp:61
 msgid "Password echo type"
 msgstr ""
 
