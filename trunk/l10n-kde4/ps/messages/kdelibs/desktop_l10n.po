@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-07 01:12+0000\n"
+"POT-Creation-Date: 2010-09-08 05:17+0000\n"
 "PO-Revision-Date: 2008-08-15 20:20-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -108,28 +108,6 @@ msgstr "ډېنېش"
 msgctxt "Name"
 msgid "German"
 msgstr "جرمني"
-
-#: documentation/kdepim/kontact-admin/kontact-admin.desktop:2
-msgctxt "Name"
-msgid "Kontact Administration"
-msgstr ""
-
-#: documentation/kdesdk/scripts/kdesrc-build/kdesrc-build.desktop:4
-msgctxt "Name"
-msgid "KDE Source Builder"
-msgstr ""
-
-#: documentation/kdesdk/scripts/kdesrc-build/kdesrc-build.desktop:15
-msgctxt "Comment"
-msgid ""
-"Builds the KDE Platform and associated software from its source code. A "
-"command-line only program."
-msgstr ""
-
-#: documentation/koffice/koffice.desktop:3
-msgctxt "Name"
-msgid "KOffice"
-msgstr "KOffice"
 
 #: el/messages/entry.desktop:2
 msgctxt "Name"
@@ -530,6 +508,10 @@ msgstr "چينايي (هانګ کانګ)"
 msgctxt "Name"
 msgid "Traditional Chinese"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "KOffice"
+#~ msgstr "KOffice"
 
 #~ msgctxt "Name"
 #~ msgid "Chinese"
