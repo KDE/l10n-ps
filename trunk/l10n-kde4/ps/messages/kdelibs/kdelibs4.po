@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-01 06:12+0200\n"
+"POT-Creation-Date: 2010-10-05 07:01+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6554,27 +6554,27 @@ msgstr "چاڼ ته زياتول URL"
 msgid "Enter the URL:"
 msgstr ":ليکئ URL"
 
-#: khtml/khtml_ext.cpp:878
+#: khtml/khtml_ext.cpp:879
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "نومې دوتنه د مخکې نه شتون لري. تاسو يې په ډاډمنه توګه ځاېناستول غواړﺉ؟ \"%1\""
 
-#: khtml/khtml_ext.cpp:878 kdewebkit/kwebpage.cpp:71
+#: khtml/khtml_ext.cpp:879 kdewebkit/kwebpage.cpp:72
 msgid "Overwrite File?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
-#: khtml/khtml_ext.cpp:878
+#: khtml/khtml_ext.cpp:879
 msgid "Overwrite"
 msgstr "ځاېناستول"
 
-#: khtml/khtml_ext.cpp:939 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:386
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:387
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:387
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -6584,12 +6584,12 @@ msgstr ""
 "\n"
 "د کانکويرر سره به يې ټينګوالی وناتوانول شي."
 
-#: khtml/khtml_ext.cpp:1022
+#: khtml/khtml_ext.cpp:1023
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "تلواله ليکبڼې کچ (۱۰۰٪)"
 
-#: khtml/khtml_ext.cpp:1035 kdeui/jobs/kwidgetjobtracker.cpp:376
+#: khtml/khtml_ext.cpp:1036 kdeui/jobs/kwidgetjobtracker.cpp:376
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
@@ -10651,7 +10651,7 @@ msgstr "تاسو غواړﺉ چې د کډي سازونه بيا ولېښﺉ؟"
 msgid "No further items in the history."
 msgstr "په مخينه کې نور توکي نشته دی."
 
-#: kdeui/widgets/ksqueezedtextlabel.cpp:167
+#: kdeui/widgets/ksqueezedtextlabel.cpp:165
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
 
