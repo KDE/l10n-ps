@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-20 06:28+0100\n"
+"POT-Creation-Date: 2010-11-23 07:14+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6453,7 +6453,7 @@ msgstr "فېکټري د ورکړل شوي ډول رغتوکو جوړول نه م
 msgid "KLibLoader: Unknown error"
 msgstr "ناپېژندلې تېروتنه :KLibLoader"
 
-#: kdecore/util/kpluginloader.cpp:142 kdecore/util/kpluginloader.cpp:175
+#: kdecore/util/kpluginloader.cpp:142 kdecore/util/kpluginloader.cpp:173
 #, fuzzy, kde-format
 #| msgid ""
 #| "Could not find 'kdemain' in '%1'.\n"
@@ -6463,11 +6463,11 @@ msgstr ""
 ".نه شي موندلی 'kdemain' کې '%1' په\n"
 "%2"
 
-#: kdecore/util/kpluginloader.cpp:161
+#: kdecore/util/kpluginloader.cpp:159
 msgid "The provided service is not valid"
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:167
+#: kdecore/util/kpluginloader.cpp:165
 #, fuzzy, kde-format
 #| msgid ""
 #| "The service '%1' provides no library or the Library key is missing in "
@@ -6476,12 +6476,12 @@ msgid "The service '%1' provides no library or the Library key is missing in "
 msgstr ""
 "دوتنه کې يې کتابتون کيلۍ نشته دی. .سرپاڼه پالنه کوم کتابتون نه لري يا په '%1'"
 
-#: kdecore/util/kpluginloader.cpp:215
+#: kdecore/util/kpluginloader.cpp:211
 #, kde-format
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr ""
 
-#: kdecore/util/kpluginloader.cpp:243
+#: kdecore/util/kpluginloader.cpp:242
 #, kde-format
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr ".(%2) لګون کوم ناجوړ کډي کتابتون کاروي '%1'"
