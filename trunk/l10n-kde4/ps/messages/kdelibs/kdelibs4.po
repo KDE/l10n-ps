@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-01 02:15+0100\n"
+"POT-Creation-Date: 2010-12-04 02:17+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10724,7 +10724,7 @@ msgid "Disable automatic checking"
 msgstr "خپلکارې کتنه ناتوانول"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:220
-#: kdeui/widgets/kdatepicker.cpp:703
+#: kdeui/widgets/kdatepicker.cpp:656
 msgctxt "@action:button"
 msgid "Close"
 msgstr "بندول"
@@ -12160,40 +12160,40 @@ msgstr "په اړه %1 د&"
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
 
-#: kdeui/widgets/kdatepicker.cpp:210
+#: kdeui/widgets/kdatepicker.cpp:174
 #, kde-format
 msgid "Week %1"
 msgstr "اونۍ %1"
 
-#: kdeui/widgets/kdatepicker.cpp:317
+#: kdeui/widgets/kdatepicker.cpp:278
 msgid "Next year"
 msgstr "راتلونکی کال"
 
-#: kdeui/widgets/kdatepicker.cpp:318
+#: kdeui/widgets/kdatepicker.cpp:279
 msgid "Previous year"
 msgstr "مخکنی کال"
 
-#: kdeui/widgets/kdatepicker.cpp:319
+#: kdeui/widgets/kdatepicker.cpp:280
 msgid "Next month"
 msgstr "راتلونکې مياشت"
 
-#: kdeui/widgets/kdatepicker.cpp:320
+#: kdeui/widgets/kdatepicker.cpp:281
 msgid "Previous month"
 msgstr "مخکنۍ مياشت"
 
-#: kdeui/widgets/kdatepicker.cpp:321
+#: kdeui/widgets/kdatepicker.cpp:282
 msgid "Select a week"
 msgstr "يوه اونۍ وټاکﺉ"
 
-#: kdeui/widgets/kdatepicker.cpp:322
+#: kdeui/widgets/kdatepicker.cpp:283
 msgid "Select a month"
 msgstr "يوه مياشت وټاکﺉ"
 
-#: kdeui/widgets/kdatepicker.cpp:323
+#: kdeui/widgets/kdatepicker.cpp:284
 msgid "Select a year"
 msgstr "يو کال وټاکﺉ"
 
-#: kdeui/widgets/kdatepicker.cpp:324
+#: kdeui/widgets/kdatepicker.cpp:285
 msgid "Select the current day"
 msgstr "نننۍ ورځ ټاکل"
 
