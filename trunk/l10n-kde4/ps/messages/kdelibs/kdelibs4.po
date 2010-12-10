@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-09 02:17+0100\n"
+"POT-Creation-Date: 2010-12-10 02:22+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6270,11 +6270,11 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:693
+#: kdecore/config/kconfig.cpp:722
 msgid "Please contact your system administrator."
 msgstr ".لورينه وکړﺉ خپل د غونډال پازوال سره اړيکه نيسﺉ"
 
-#: kdecore/config/kconfigini.cpp:518
+#: kdecore/config/kconfigini.cpp:523
 #, kde-format
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr ".د ليکلو وړ نه ده \"%1\" سازونې دوتنه\n"
@@ -9520,24 +9520,24 @@ msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 msgid "Could not export shortcuts scheme because the location is invalid."
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:243
+#: kdeui/dialogs/kdialog.cpp:250
 msgid "&Try"
 msgstr "هڅه&"
 
-#: kdeui/dialogs/kdialog.cpp:442
+#: kdeui/dialogs/kdialog.cpp:452
 msgid "modified"
 msgstr "بدل شوی"
 
-#: kdeui/dialogs/kdialog.cpp:452
+#: kdeui/dialogs/kdialog.cpp:462
 msgctxt "Document/application separator in titlebar"
 msgid " – "
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:823
+#: kdeui/dialogs/kdialog.cpp:833
 msgid "&Details"
 msgstr "خبرتياوې&"
 
-#: kdeui/dialogs/kdialog.cpp:975
+#: kdeui/dialogs/kdialog.cpp:985
 msgid "Get help..."
 msgstr "...مرسته اخيستل"
 
