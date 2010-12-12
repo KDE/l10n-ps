@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-11 01:53+0000\n"
+"POT-Creation-Date: 2010-12-12 01:56+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1128,42 +1128,42 @@ msgctxt "Name"
 msgid "KDE Test Language"
 msgstr ""
 
-#: kdecore/localization/all_languages.desktop:16510
+#: kdecore/localization/all_languages.desktop:16511
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "يډېش"
 
-#: kdecore/localization/all_languages.desktop:16604
+#: kdecore/localization/all_languages.desktop:16605
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "يوروبا"
 
-#: kdecore/localization/all_languages.desktop:16697
+#: kdecore/localization/all_languages.desktop:16698
 msgctxt "Name"
 msgid "Zhuang"
 msgstr ""
 
-#: kdecore/localization/all_languages.desktop:16789
+#: kdecore/localization/all_languages.desktop:16790
 msgctxt "Name"
 msgid "Chinese"
 msgstr "چينايي"
 
-#: kdecore/localization/all_languages.desktop:16883
+#: kdecore/localization/all_languages.desktop:16884
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "چينايي ساده"
 
-#: kdecore/localization/all_languages.desktop:16976
+#: kdecore/localization/all_languages.desktop:16977
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "چينايي (هانګ کانګ)"
 
-#: kdecore/localization/all_languages.desktop:17067
+#: kdecore/localization/all_languages.desktop:17068
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "چينايي هڅوبي"
 
-#: kdecore/localization/all_languages.desktop:17160
+#: kdecore/localization/all_languages.desktop:17161
 msgctxt "Name"
 msgid "Zulu"
 msgstr "زولو"
