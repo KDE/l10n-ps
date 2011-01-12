@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-11 02:41+0100\n"
+"POT-Creation-Date: 2011-01-12 02:25+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6488,16 +6488,16 @@ msgstr ""
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr ".(%2) لګون کوم ناجوړ کډي کتابتون کاروي '%1'"
 
-#: khtml/khtmlview.cpp:1844
+#: khtml/khtmlview.cpp:1842
 msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
 
-#: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4761
+#: khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839 khtml/khtml_part.cpp:4761
 #: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
 msgid "Submit"
 msgstr "لېږل"
 
-#: khtml/khtmlview.cpp:2813 khtml/khtmlview.cpp:2846
+#: khtml/khtmlview.cpp:2811 khtml/khtmlview.cpp:2844
 #: khtml/html/html_formimpl.cpp:1836 kdeui/dialogs/kedittoolbar.cpp:602
 msgid "Reset"
 msgstr "بياټاکل"
