@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-12 03:43+0100\n"
+"POT-Creation-Date: 2011-03-18 03:37+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -4992,6 +4992,34 @@ msgstr "چلښت نه منل کيږي"
 msgid "Timed out trying to connect to remote host"
 msgstr "لرې کوربه سره د نښلېدلو هڅه کې مهال بشپړ شو"
 
+#: kdecore/network/netsupp.cpp:892
+msgid "address family for nodename not supported"
+msgstr "د غوټه نوم لپاره پته کورنۍ نه منل کيږي"
+
+#: kdecore/network/netsupp.cpp:894
+msgid "invalid value for 'ai_flags'"
+msgstr "لپاره ناسم ارزښت 'ai_جنډې' د"
+
+#: kdecore/network/netsupp.cpp:896
+msgid "'ai_family' not supported"
+msgstr "نه منل کيږي 'ai_کورنۍ'"
+
+#: kdecore/network/netsupp.cpp:898
+msgid "no address associated with nodename"
+msgstr "د غوټه نوم سره کومه پته نه ده نښتې"
+
+#: kdecore/network/netsupp.cpp:900
+msgid "servname not supported for ai_socktype"
+msgstr "لپاره پالننوم نه منل کيږي ai_socktype د"
+
+#: kdecore/network/netsupp.cpp:901
+msgid "'ai_socktype' not supported"
+msgstr "نه منل کيږي 'ai_socktype'"
+
+#: kdecore/network/netsupp.cpp:902
+msgid "system error"
+msgstr "غونډال تېروتنه"
+
 #: kdecore/network/ktcpsocket.cpp:152
 #, fuzzy
 #| msgid "no error"
@@ -5068,34 +5096,6 @@ msgstr ""
 msgctxt "SSL error"
 msgid "Unknown error"
 msgstr "ناپېژندلې تېروتنه"
-
-#: kdecore/network/netsupp.cpp:892
-msgid "address family for nodename not supported"
-msgstr "د غوټه نوم لپاره پته کورنۍ نه منل کيږي"
-
-#: kdecore/network/netsupp.cpp:894
-msgid "invalid value for 'ai_flags'"
-msgstr "لپاره ناسم ارزښت 'ai_جنډې' د"
-
-#: kdecore/network/netsupp.cpp:896
-msgid "'ai_family' not supported"
-msgstr "نه منل کيږي 'ai_کورنۍ'"
-
-#: kdecore/network/netsupp.cpp:898
-msgid "no address associated with nodename"
-msgstr "د غوټه نوم سره کومه پته نه ده نښتې"
-
-#: kdecore/network/netsupp.cpp:900
-msgid "servname not supported for ai_socktype"
-msgstr "لپاره پالننوم نه منل کيږي ai_socktype د"
-
-#: kdecore/network/netsupp.cpp:901
-msgid "'ai_socktype' not supported"
-msgstr "نه منل کيږي 'ai_socktype'"
-
-#: kdecore/network/netsupp.cpp:902
-msgid "system error"
-msgstr "غونډال تېروتنه"
 
 #: kdecore/services/kmimetyperepository.cpp:603
 #, kde-format
