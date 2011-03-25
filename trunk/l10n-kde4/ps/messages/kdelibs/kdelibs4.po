@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-19 03:39+0100\n"
+"POT-Creation-Date: 2011-03-25 03:42+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -10318,15 +10318,6 @@ msgstr "انځور - %1x%2 پېکسله"
 msgid "Done."
 msgstr ".وشو"
 
-#: khtml/khtmlview.cpp:1842
-msgid "Access Keys activated"
-msgstr "لاسرس کيلۍ چارندې شوې"
-
-#: khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839 khtml/khtml_part.cpp:4761
-#: khtml/html/html_formimpl.cpp:1635 khtml/html/html_formimpl.cpp:1847
-msgid "Submit"
-msgstr "لېږل"
-
 #: khtml/test_regression.cpp:619
 msgid "Directory containing tests, basedir and output directories."
 msgstr "هغه پوښۍ چې ازموېنې، بنسټپوښۍ او وتۍ پوښۍ لري."
@@ -10812,6 +10803,11 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
+#: khtml/khtml_part.cpp:4761 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
+#: khtml/html/html_formimpl.cpp:1635 khtml/html/html_formimpl.cpp:1847
+msgid "Submit"
+msgstr "لېږل"
+
 #: khtml/khtml_part.cpp:4814
 msgid ""
 "This site attempted to attach a file from your computer in the form "
@@ -10899,6 +10895,10 @@ msgstr "نه منل"
 #: khtml/khtml_settings.cpp:916
 msgid "Filter error"
 msgstr "د چاڼ تېروتنه"
+
+#: khtml/khtmlview.cpp:1842
+msgid "Access Keys activated"
+msgstr "لاسرس کيلۍ چارندې شوې"
 
 #: khtml/ecma/kjs_binding.cpp:185
 msgid ""
