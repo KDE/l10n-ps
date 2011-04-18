@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-08 14:42+0200\n"
+"POT-Creation-Date: 2011-04-18 13:10+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -9993,7 +9993,7 @@ msgstr "توکپټې"
 msgid "No text"
 msgstr "هېڅ ليکنه"
 
-#: kdewebkit/kwebpage.cpp:117 khtml/khtml_ext.cpp:879
+#: kdewebkit/kwebpage.cpp:116 khtml/khtml_ext.cpp:879
 msgid "Overwrite File?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
