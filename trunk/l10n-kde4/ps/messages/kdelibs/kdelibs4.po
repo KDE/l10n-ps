@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-01 04:12+0200\n"
+"POT-Creation-Date: 2011-05-02 04:03+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -11412,6 +11412,12 @@ msgstr ""
 ".نه شي موندلی 'kdemain' کې '%1' په\n"
 "%2"
 
+#: kinit/klauncher_main.cpp:62
+msgid ""
+"klauncher: This program is not supposed to be started manually.\n"
+"klauncher: It is started automatically by kdeinit4.\n"
+msgstr ""
+
 #: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
@@ -11446,12 +11452,6 @@ msgstr ".'%1' ناپېژندلې باندرې\n"
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr ".د '%1' په لېښلو کې تېروتنه\n"
-
-#: kinit/klauncher_main.cpp:62
-msgid ""
-"klauncher: This program is not supposed to be started manually.\n"
-"klauncher: It is started automatically by kdeinit4.\n"
-msgstr ""
 
 #: kjs/object.cpp:554
 msgid "Evaluation error"
