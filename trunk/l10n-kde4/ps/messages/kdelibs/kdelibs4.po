@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-22 04:12+0200\n"
+"POT-Creation-Date: 2011-05-24 04:18+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6904,6 +6904,59 @@ msgctxt "@item Font name [foundry]"
 msgid "%1 [%2]"
 msgstr "%1 [%2]"
 
+#. i18n: A shorter version of the alphabet test phrase translated in
+#. another message. It is displayed in the dropdown list of font previews
+#. (the font selection combo box), so keep it under the length equivalent
+#. to 60 or so proportional Latin characters.
+#: kdeui/fonts/kfontcombobox.cpp:49
+msgctxt "short"
+msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
+msgstr "چټک نسواري ګيدړ په لټ سپي ټوپ وهي"
+
+#. i18n: Integer which indicates the script you used in the sample text
+#. for font previews in your language. For the possible values, see
+#. http://doc.trolltech.com/qfontdatabase.html#WritingSystem-enum
+#. If the sample text contains several scripts, their IDs can be given
+#. as a comma-separated list (e.g. for Japanese it is "1,27").
+#: kdeui/fonts/kfontcombobox.cpp:120
+msgctxt "Numeric IDs of scripts for font previews"
+msgid "1"
+msgstr "1"
+
+#: kdeui/fonts/kfontdialog.cpp:75
+msgid "Select Font"
+msgstr "ليکبڼه ټاکل"
+
+#: kdeui/fonts/kfontrequester.cpp:110
+msgid "Choose..."
+msgstr "ټاکل..."
+
+#: kdeui/fonts/kfontrequester.cpp:215
+msgid "Click to select a font"
+msgstr "د ليکبڼې ټاکلو لپاره کېکاږﺉ"
+
+#: kdeui/fonts/kfontrequester.cpp:222
+msgid "Preview of the selected font"
+msgstr "د ټاکل شوې ليکبڼې مخکوت"
+
+#: kdeui/fonts/kfontrequester.cpp:223
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+
+#: kdeui/fonts/kfontrequester.cpp:228
+#, kde-format
+msgid "Preview of the \"%1\" font"
+msgstr "ليکبڼې مخکوت \"%1\" د"
+
+#: kdeui/fonts/kfontrequester.cpp:229
+#, kde-format
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+
 #: kdeui/fonts/kfontchooser.cpp:162
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font to be used."
@@ -7056,59 +7109,6 @@ msgstr "اره ليکبڼه"
 msgctxt "@item Font style"
 msgid "%1"
 msgstr "%1"
-
-#. i18n: A shorter version of the alphabet test phrase translated in
-#. another message. It is displayed in the dropdown list of font previews
-#. (the font selection combo box), so keep it under the length equivalent
-#. to 60 or so proportional Latin characters.
-#: kdeui/fonts/kfontcombobox.cpp:49
-msgctxt "short"
-msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
-msgstr "چټک نسواري ګيدړ په لټ سپي ټوپ وهي"
-
-#. i18n: Integer which indicates the script you used in the sample text
-#. for font previews in your language. For the possible values, see
-#. http://doc.trolltech.com/qfontdatabase.html#WritingSystem-enum
-#. If the sample text contains several scripts, their IDs can be given
-#. as a comma-separated list (e.g. for Japanese it is "1,27").
-#: kdeui/fonts/kfontcombobox.cpp:120
-msgctxt "Numeric IDs of scripts for font previews"
-msgid "1"
-msgstr "1"
-
-#: kdeui/fonts/kfontdialog.cpp:75
-msgid "Select Font"
-msgstr "ليکبڼه ټاکل"
-
-#: kdeui/fonts/kfontrequester.cpp:110
-msgid "Choose..."
-msgstr "ټاکل..."
-
-#: kdeui/fonts/kfontrequester.cpp:215
-msgid "Click to select a font"
-msgstr "د ليکبڼې ټاکلو لپاره کېکاږﺉ"
-
-#: kdeui/fonts/kfontrequester.cpp:222
-msgid "Preview of the selected font"
-msgstr "د ټاکل شوې ليکبڼې مخکوت"
-
-#: kdeui/fonts/kfontrequester.cpp:223
-msgid ""
-"This is a preview of the selected font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-
-#: kdeui/fonts/kfontrequester.cpp:228
-#, kde-format
-msgid "Preview of the \"%1\" font"
-msgstr "ليکبڼې مخکوت \"%1\" د"
-
-#: kdeui/fonts/kfontrequester.cpp:229
-#, kde-format
-msgid ""
-"This is a preview of the \"%1\" font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
 
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
 #: nepomuk/utils/searchwidget.cpp:128
