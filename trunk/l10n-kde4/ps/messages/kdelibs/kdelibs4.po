@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-06-04 04:16+0200\n"
+"POT-Creation-Date: 2011-06-05 04:23+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2433,12 +2433,12 @@ msgid "Show %1"
 msgstr "ښودل %1"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:287
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:424
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:420
 msgid "Search Columns"
 msgstr "ستنې پلټل"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:290
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:426
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:422
 msgid "All Visible Columns"
 msgstr "ټولې ښکارېدونکې ستنې"
 
@@ -2449,7 +2449,7 @@ msgid "Column No. %1"
 msgstr "مه ستن%1"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:557
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:601
 msgid "S&earch:"
 msgstr ":پ&لټون"
 
@@ -3048,14 +3048,14 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfigini.cpp:523
-#, kde-format
-msgid "Configuration file \"%1\" not writable.\n"
-msgstr ".د ليکلو وړ نه ده \"%1\" سازونې دوتنه\n"
-
 #: kdecore/config/kconfig.cpp:814
 msgid "Please contact your system administrator."
 msgstr ".لورينه وکړﺉ خپل د غونډال پازوال سره اړيکه نيسﺉ"
+
+#: kdecore/config/kconfigini.cpp:519
+#, kde-format
+msgid "Configuration file \"%1\" not writable.\n"
+msgstr ".د ليکلو وړ نه ده \"%1\" سازونې دوتنه\n"
 
 #: kdecore/io/ksavefile.cpp:84
 msgid "No target filename has been given."
@@ -7259,6 +7259,11 @@ msgstr[1] "دوتنې %1"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
 
+#: kdeui/kernel/kapplication.cpp:830
+#, kde-format
+msgid "The style '%1' was not found"
+msgstr "ډول ونه موندل شو '%1'"
+
 #: kdeui/kernel/kuniqueapplication.cpp:88
 msgid "Do not run in the background."
 msgstr ".په شاليد کې نه ځغلېدل"
@@ -7266,11 +7271,6 @@ msgstr ".په شاليد کې نه ځغلېدل"
 #: kdeui/kernel/kuniqueapplication.cpp:90
 msgid "Internally added if launched from Finder"
 msgstr ""
-
-#: kdeui/kernel/kapplication.cpp:830
-#, kde-format
-msgid "The style '%1' was not found"
-msgstr "ډول ونه موندل شو '%1'"
 
 #: kdeui/notifications/knotificationrestrictions.cpp:181
 #, fuzzy
@@ -13856,12 +13856,12 @@ msgstr "د &ورځې نکته"
 msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
 
-#: kdecore/date/kdatetime.cpp:1522 kdecore/date/kdatetime.cpp:1532
-#: kdecore/date/kdatetime.cpp:2982
+#: kdecore/date/kdatetime.cpp:1523 kdecore/date/kdatetime.cpp:1533
+#: kdecore/date/kdatetime.cpp:2983
 msgid "am"
 msgstr "غ.م"
 
-#: kdecore/date/kdatetime.cpp:2990
+#: kdecore/date/kdatetime.cpp:2991
 msgid "pm"
 msgstr "غ.و"
 
