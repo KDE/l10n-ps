@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-18 14:18+0200\n"
+"POT-Creation-Date: 2011-06-06 14:19+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -9557,68 +9557,6 @@ msgstr "نا اڼلي"
 msgid "without name"
 msgstr "بې نومه"
 
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#. i18n: Placeholder text in text edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter message").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
-#, fuzzy
-#| msgid "1"
-msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
-msgid "1"
-msgstr "۱"
-
-#: kdeui/widgets/klineedit.cpp:296
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "ليکنه پاکول"
-
-#: kdeui/widgets/klineedit.cpp:1181
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "د ليکنې بشپړېدنه"
-
-#: kdeui/widgets/klineedit.cpp:1188
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "هېڅ"
-
-#: kdeui/widgets/klineedit.cpp:1189
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "لاسي کتاب"
-
-#: kdeui/widgets/klineedit.cpp:1190
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "خپلکاری"
-
-#: kdeui/widgets/klineedit.cpp:1191
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr "لرغورځی لړ"
-
-#: kdeui/widgets/klineedit.cpp:1192
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "لنډ خپلکاری"
-
-#: kdeui/widgets/klineedit.cpp:1193
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr "خپلکاری && لرغورځی لړ"
-
-#: kdeui/widgets/klineedit.cpp:1224
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "تلواله"
-
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "انځور چلښتونه"
@@ -9824,6 +9762,23 @@ msgstr "سکرېپټ پرانيستل"
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
 
+#. i18n: Placeholder text in text edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter message").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/ktextedit.cpp:79 kdeui/widgets/klineedit.cpp:87
+#, fuzzy
+#| msgid "1"
+msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
+msgid "1"
+msgstr "۱"
+
 #: kdeui/widgets/ktextedit.cpp:526
 #, fuzzy
 #| msgid "Speak custom text"
@@ -9966,6 +9921,51 @@ msgstr "%1"
 msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
 msgstr "%1"
+
+#: kdeui/widgets/klineedit.cpp:296
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "ليکنه پاکول"
+
+#: kdeui/widgets/klineedit.cpp:1181
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "د ليکنې بشپړېدنه"
+
+#: kdeui/widgets/klineedit.cpp:1188
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "هېڅ"
+
+#: kdeui/widgets/klineedit.cpp:1189
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "لاسي کتاب"
+
+#: kdeui/widgets/klineedit.cpp:1190
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "خپلکاری"
+
+#: kdeui/widgets/klineedit.cpp:1191
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr "لرغورځی لړ"
+
+#: kdeui/widgets/klineedit.cpp:1192
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "لنډ خپلکاری"
+
+#: kdeui/widgets/klineedit.cpp:1193
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr "خپلکاری && لرغورځی لړ"
+
+#: kdeui/widgets/klineedit.cpp:1224
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "تلواله"
 
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:564
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:177
