@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-06-15 04:15+0200\n"
+"POT-Creation-Date: 2011-06-16 04:13+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -9593,47 +9593,47 @@ msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "۱"
 
-#: kdeui/widgets/klineedit.cpp:296
+#: kdeui/widgets/klineedit.cpp:295
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "ليکنه پاکول"
 
-#: kdeui/widgets/klineedit.cpp:1191
+#: kdeui/widgets/klineedit.cpp:1212
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "د ليکنې بشپړېدنه"
 
-#: kdeui/widgets/klineedit.cpp:1198
+#: kdeui/widgets/klineedit.cpp:1219
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "هېڅ"
 
-#: kdeui/widgets/klineedit.cpp:1199
+#: kdeui/widgets/klineedit.cpp:1220
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "لاسي کتاب"
 
-#: kdeui/widgets/klineedit.cpp:1200
+#: kdeui/widgets/klineedit.cpp:1221
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "خپلکاری"
 
-#: kdeui/widgets/klineedit.cpp:1201
+#: kdeui/widgets/klineedit.cpp:1222
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "لرغورځی لړ"
 
-#: kdeui/widgets/klineedit.cpp:1202
+#: kdeui/widgets/klineedit.cpp:1223
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "لنډ خپلکاری"
 
-#: kdeui/widgets/klineedit.cpp:1203
+#: kdeui/widgets/klineedit.cpp:1224
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "خپلکاری && لرغورځی لړ"
 
-#: kdeui/widgets/klineedit.cpp:1234
+#: kdeui/widgets/klineedit.cpp:1255
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
