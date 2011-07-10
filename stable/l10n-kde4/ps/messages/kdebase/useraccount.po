@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-05-10 04:06+0200\n"
+"POT-Creation-Date: 2011-07-10 14:07+0200\n"
 "PO-Revision-Date: 2008-08-12 08:23-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -24,6 +24,12 @@ msgstr ""
 msgctxt "@title:window"
 msgid "Change your Face"
 msgstr "خپل مخ بدلول"
+
+#: chfacedlg.cpp:60
+#, fuzzy
+#| msgid "Custom Image..."
+msgid "Custom image"
+msgstr "دوديز انځور"
 
 #: chfacedlg.cpp:75
 msgid "&Acquire Image..."
@@ -302,9 +308,6 @@ msgstr "د کارن ننوت انځور"
 #: rc.cpp:61
 msgid "Password echo type"
 msgstr ""
-
-#~ msgid "Custom Image..."
-#~ msgstr "دوديز انځور"
 
 #~ msgid "haeckel@kde.org"
 #~ msgstr "haeckel@kde.org"
