@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-02 10:41+0200\n"
+"POT-Creation-Date: 2011-09-17 11:45+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5817,8 +5817,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "توکپټې بياټاکل"
 
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2811
-#: khtml/khtmlview.cpp:2844 khtml/html/html_formimpl.cpp:1845
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2814
+#: khtml/khtmlview.cpp:2847 khtml/html/html_formimpl.cpp:1845
 msgid "Reset"
 msgstr "بياټاکل"
 
@@ -6517,7 +6517,7 @@ msgid "Warning"
 msgstr "خبرتيا"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:811 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:814 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "تېروتنه"
@@ -9438,68 +9438,6 @@ msgstr "يو کال وټاکﺉ"
 msgid "Select the current day"
 msgstr "نننۍ ورځ ټاکل"
 
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#. i18n: Placeholder text in text edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter message").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
-#, fuzzy
-#| msgid "1"
-msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
-msgid "1"
-msgstr "۱"
-
-#: kdeui/widgets/klineedit.cpp:295
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "ليکنه پاکول"
-
-#: kdeui/widgets/klineedit.cpp:1215
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "د ليکنې بشپړېدنه"
-
-#: kdeui/widgets/klineedit.cpp:1222
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "هېڅ"
-
-#: kdeui/widgets/klineedit.cpp:1223
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "لاسي کتاب"
-
-#: kdeui/widgets/klineedit.cpp:1224
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "خپلکاری"
-
-#: kdeui/widgets/klineedit.cpp:1225
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr "لرغورځی لړ"
-
-#: kdeui/widgets/klineedit.cpp:1226
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "لنډ خپلکاری"
-
-#: kdeui/widgets/klineedit.cpp:1227
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr "خپلکاری && لرغورځی لړ"
-
-#: kdeui/widgets/klineedit.cpp:1258
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "تلواله"
-
 #: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
 msgid "&Add"
 msgstr "زياتول&"
@@ -9542,7 +9480,7 @@ msgstr "په اړه %1 د&"
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:934
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:937
 msgid "Clear &History"
 msgstr "مخينه &پاکول"
 
@@ -9667,6 +9605,68 @@ msgstr "نا اڼلي"
 #: kdeui/widgets/klanguagebutton.cpp:177
 msgid "without name"
 msgstr "بې نومه"
+
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#. i18n: Placeholder text in text edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter message").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+#, fuzzy
+#| msgid "1"
+msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
+msgid "1"
+msgstr "۱"
+
+#: kdeui/widgets/klineedit.cpp:296
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "ليکنه پاکول"
+
+#: kdeui/widgets/klineedit.cpp:1216
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "د ليکنې بشپړېدنه"
+
+#: kdeui/widgets/klineedit.cpp:1223
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "هېڅ"
+
+#: kdeui/widgets/klineedit.cpp:1224
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "لاسي کتاب"
+
+#: kdeui/widgets/klineedit.cpp:1225
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "خپلکاری"
+
+#: kdeui/widgets/klineedit.cpp:1226
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr "لرغورځی لړ"
+
+#: kdeui/widgets/klineedit.cpp:1227
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "لنډ خپلکاری"
+
+#: kdeui/widgets/klineedit.cpp:1228
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr "خپلکاری && لرغورځی لړ"
+
+#: kdeui/widgets/klineedit.cpp:1259
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "تلواله"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -10880,7 +10880,7 @@ msgid ""
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4762 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
+#: khtml/khtml_part.cpp:4762 khtml/khtmlview.cpp:2800 khtml/khtmlview.cpp:2842
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
 msgid "Submit"
 msgstr "لېږل"
@@ -10972,10 +10972,6 @@ msgstr "نه منل"
 #: khtml/khtml_settings.cpp:916
 msgid "Filter error"
 msgstr "د چاڼ تېروتنه"
-
-#: khtml/khtmlview.cpp:1842
-msgid "Access Keys activated"
-msgstr "لاسرس کيلۍ چارندې شوې"
 
 #: khtml/test_regression.cpp:619
 msgid "Directory containing tests, basedir and output directories."
@@ -11070,6 +11066,10 @@ msgstr "پرېښودلو ته زياتول"
 #: khtml/test_regression_gui_window.cpp:1105
 msgid "Remove from ignores..."
 msgstr "له پرېښودلو نه ړنګول"
+
+#: khtml/khtmlview.cpp:1842
+msgid "Access Keys activated"
+msgstr "لاسرس کيلۍ چارندې شوې"
 
 #: khtml/ecma/kjs_binding.cpp:185
 msgid ""
@@ -11454,36 +11454,36 @@ msgstr ".د %1 لپاره کوم سمبالوونکی ونه مونل شو"
 msgid "Play"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:790
+#: khtml/rendering/render_form.cpp:793
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "لنډلار"
 
-#: khtml/rendering/render_form.cpp:811
+#: khtml/rendering/render_form.cpp:814
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "ساکټ د مخکې نه جوړ شوی"
 
-#: khtml/rendering/render_form.cpp:856
+#: khtml/rendering/render_form.cpp:859
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:858
+#: khtml/rendering/render_form.cpp:861
 #, fuzzy
 #| msgid "Enter search phrase here"
 msgid "New search provider"
 msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
-#: khtml/rendering/render_form.cpp:863
+#: khtml/rendering/render_form.cpp:866
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "لنډلاري"
 
-#: khtml/rendering/render_form.cpp:949
+#: khtml/rendering/render_form.cpp:952
 #, fuzzy
 #| msgid "Configure Shortcuts"
 msgid "Create Web Shortcut"
