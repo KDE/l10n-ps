@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-14 11:03+0100\n"
+"POT-Creation-Date: 2011-11-15 17:43+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2674,15 +2674,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "ډېر زيات ناسم ليکل شوي وييونه. د ليکلو سره سم ليکدود کتنه وناتوانول شوه."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:495
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:498
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:502
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
@@ -9668,6 +9668,34 @@ msgstr "نا اڼلي"
 msgid "without name"
 msgstr "بې نومه"
 
+#: kdeui/widgets/ktextedit.cpp:527
+#, fuzzy
+#| msgid "Speak custom text"
+msgid "Speak Text"
+msgstr "دوديزه ليکنه لوستل"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr ""
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, fuzzy, kde-format
+#| msgid "Suggestions"
+msgid "No suggestions for %1"
+msgstr "وړانديزونه"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "پرېښودل"
+
+#: kdeui/widgets/ktextedit.cpp:643
+msgid "Add to Dictionary"
+msgstr "ويېپانګه کې زياتول"
+
+#: kdeui/widgets/ktextedit.cpp:788
+msgid "Nothing to spell check."
+msgstr ".څه نشته چې ليکدود يې وکتل شي"
+
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "انځور چلښتونه"
@@ -9889,34 +9917,6 @@ msgstr ""
 msgctxt "@info"
 msgid "Time cannot be later than %1"
 msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:526
-#, fuzzy
-#| msgid "Speak custom text"
-msgid "Speak Text"
-msgstr "دوديزه ليکنه لوستل"
-
-#: kdeui/widgets/ktextedit.cpp:541
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:630
-#, fuzzy, kde-format
-#| msgid "Suggestions"
-msgid "No suggestions for %1"
-msgstr "وړانديزونه"
-
-#: kdeui/widgets/ktextedit.cpp:641
-msgid "Ignore"
-msgstr "پرېښودل"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Add to Dictionary"
-msgstr "ويېپانګه کې زياتول"
-
-#: kdeui/widgets/ktextedit.cpp:787
-msgid "Nothing to spell check."
-msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
 #: kdeui/widgets/ktimezonewidget.cpp:66
 #, fuzzy
@@ -10267,10 +10267,6 @@ msgstr "د اړيکې تېروتنه"
 msgid "Unlock operation returned unexpected result"
 msgstr ""
 
-#: kdewebkit/kwebpage.cpp:126 khtml/khtml_ext.cpp:879
-msgid "Overwrite File?"
-msgstr "دوتنه ځاېناستول غواړﺉ؟"
-
 #: kdewidgets/makekdewidgets.cpp:84
 msgid "Builds Qt widget plugins from an ini style description file."
 msgstr ""
@@ -10435,6 +10431,10 @@ msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "نومې دوتنه د مخکې نه شتون لري. تاسو يې په ډاډمنه توګه ځاېناستول غواړﺉ؟ \"%1\""
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite File?"
+msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
 #: khtml/khtml_ext.cpp:879
 msgid "Overwrite"
