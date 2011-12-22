@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-20 18:04+0100\n"
+"POT-Creation-Date: 2011-12-22 13:28+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -13287,95 +13287,6 @@ msgctxt ""
 msgid "More..."
 msgstr "ټاکل..."
 
-#: nepomuk/utils/facet.cpp:132 nepomuk/utils/typefacet.cpp:64
-#, fuzzy
-#| msgctxt "@action"
-#| msgid "DocumentBack"
-msgctxt "@option:check A filter on file type"
-msgid "Documents"
-msgstr "لاسوند شاته"
-
-#: nepomuk/utils/facet.cpp:136 nepomuk/utils/typefacet.cpp:68
-msgctxt "@option:check A filter on file type - audio files"
-msgid "Audio"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:139 nepomuk/utils/typefacet.cpp:70
-#, fuzzy
-#| msgid "&View"
-msgctxt "@option:check A filter on file type - media video"
-msgid "Video"
-msgstr "کوت&"
-
-#: nepomuk/utils/facet.cpp:143 nepomuk/utils/typefacet.cpp:73
-#, fuzzy
-#| msgid "Pages"
-msgctxt "@option:check A filter on file type"
-msgid "Images"
-msgstr "مخونه"
-
-#: nepomuk/utils/facet.cpp:179
-#, fuzzy
-#| msgid "Job Priority:"
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "No priority"
-msgstr ":د دندې لوړښت"
-
-#: nepomuk/utils/facet.cpp:180
-#, fuzzy
-#| msgid "Last modified:"
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "Last modified"
-msgstr ":وروستی بدلون"
-
-#: nepomuk/utils/facet.cpp:181
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "Most important"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:182
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "Never opened"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:192
-#, fuzzy
-#| msgid "Add Rating"
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "Any Rating"
-msgstr "کچونه زياتول"
-
-#: nepomuk/utils/facet.cpp:193
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "1 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:194
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "2 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:195
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "3 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:196
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "4 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:197
-#, fuzzy
-#| msgid "Rating: "
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "Max Rating"
-msgstr ":کچونه"
-
 #: nepomuk/utils/resourcemodel.cpp:149
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
@@ -13480,6 +13391,33 @@ msgstr "...دوديز"
 msgid "Enter Search Terms..."
 msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
+#: nepomuk/utils/typefacet.cpp:64 nepomuk/utils/facet.cpp:132
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "DocumentBack"
+msgctxt "@option:check A filter on file type"
+msgid "Documents"
+msgstr "لاسوند شاته"
+
+#: nepomuk/utils/typefacet.cpp:68 nepomuk/utils/facet.cpp:136
+msgctxt "@option:check A filter on file type - audio files"
+msgid "Audio"
+msgstr ""
+
+#: nepomuk/utils/typefacet.cpp:70 nepomuk/utils/facet.cpp:138
+#, fuzzy
+#| msgid "&View"
+msgctxt "@option:check A filter on file type - media video"
+msgid "Video"
+msgstr "کوت&"
+
+#: nepomuk/utils/typefacet.cpp:73 nepomuk/utils/facet.cpp:141
+#, fuzzy
+#| msgid "Pages"
+msgctxt "@option:check A filter on file type"
+msgid "Images"
+msgstr "مخونه"
+
 #: nepomuk/utils/typefacet.cpp:80
 #, fuzzy
 #| msgid "Contact author"
@@ -13522,6 +13460,68 @@ msgstr "دوتنه"
 msgctxt "@option:check Do filter on type - show everything but files"
 msgid "Other"
 msgstr "بل"
+
+#: nepomuk/utils/facet.cpp:177
+#, fuzzy
+#| msgid "Job Priority:"
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "No priority"
+msgstr ":د دندې لوړښت"
+
+#: nepomuk/utils/facet.cpp:178
+#, fuzzy
+#| msgid "Last modified:"
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "Last modified"
+msgstr ":وروستی بدلون"
+
+#: nepomuk/utils/facet.cpp:179
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "Most important"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:180
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "Never opened"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:190
+#, fuzzy
+#| msgid "Add Rating"
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "Any Rating"
+msgstr "کچونه زياتول"
+
+#: nepomuk/utils/facet.cpp:191
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "1 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:192
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "2 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:193
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "3 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:194
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "4 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:195
+#, fuzzy
+#| msgid "Rating: "
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "Max Rating"
+msgstr ":کچونه"
 
 #: kdeui/colors/kcolorcombo.cpp:352
 msgctxt "Custom color"
