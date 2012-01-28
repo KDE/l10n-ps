@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: useraccount\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2011-11-10 03:41+0100\n"
+"PO-Revision-Date: 2008-08-12 08:23-0800\n"
+"Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
+"Language-Team: Pashto <pathanisation@googlegroups.com>\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Pashto, Pushto\n"
+"X-Poedit-Country: AFGHANISTAN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: chfacedlg.cpp:56
+#, fuzzy
+#| msgid "Change your Face"
+msgctxt "@title:window"
+msgid "Change your Face"
+msgstr "خپل مخ بدلول"
+
+#: chfacedlg.cpp:75
+msgid "&Acquire Image..."
+msgstr ""
+
+#: chfacedlg.cpp:95
+msgid "(Custom)"
+msgstr "(دوديز)"
+
+#: chfacedlg.cpp:114 main.cpp:228
+msgid "There was an error loading the image."
+msgstr "د انځور په لېښلو کې کومه ستونزه رامنځته شوه."
+
+#: chfacedlg.cpp:132 chfacedlg.cpp:168
+#, kde-format
+msgid ""
+"There was an error saving the image:\n"
+"%1"
+msgstr ""
+"د انځور په ساتلو کې کومه ستونزه رامنځته شوه:\n"
+"%1"
+
+#: chfacedlg.cpp:143
+msgid "&Save copy in custom faces folder for future use"
+msgstr ""
+
+#: chfacedlg.cpp:149
+#, fuzzy
+#| msgid "Choose Image"
+msgctxt "@title:window"
+msgid "Choose Image"
+msgstr "انځور ټاکل"
+
+#: main.cpp:70
+msgid "Change &Password..."
+msgstr "تېرنويې &بدلول..."
+
+#: main.cpp:88
+msgid "Password & User Information"
+msgstr "تېرنويې او کارن خبرتياوې"
+
+#: main.cpp:90
+msgid "(C) 2002, Braden MacDonald, (C) 2004 Ravikiran Rajagopal"
+msgstr "چاپرښتې ۲۰۰۲، برېډېن مېکډونېلډ، چاپرښتې ۲۰۰۴ راويکېرن راجاګوپال"
+
+#: main.cpp:93
+msgid "Frans Englich"
+msgstr "فرانس اېنګلېچ"
+
+#: main.cpp:93
+msgid "Maintainer"
+msgstr "ساتونکی"
+
+#: main.cpp:94
+msgid "Ravikiran Rajagopal"
+msgstr "راويکېرن راجاګوپال"
+
+#: main.cpp:95
+msgid "Michael Häckel"
+msgstr "ماېکل هېکل"
+
+#: main.cpp:97
+msgid "Braden MacDonald"
+msgstr "برېډېن مېکډونېلډ"
+
+#: main.cpp:97
+msgid "Face editor"
+msgstr "مخ سموونی"
+
+#: main.cpp:98
+msgid "Geert Jansen"
+msgstr "ګيرټ جېنسن"
+
+#: main.cpp:98
+msgid "Password changer"
+msgstr "تېرنويې بدلوونی"
+
+#: main.cpp:100
+msgid "Daniel Molkentin"
+msgstr "ډېنيل مولکېنټېن"
+
+#: main.cpp:101
+msgid "Alex Zepeda"
+msgstr "اېلېکس زېپېډا"
+
+#: main.cpp:102
+msgid "Hans Karlsson"
+msgstr "هېنس کېرلسن"
+
+#: main.cpp:102 main.cpp:103
+msgid "Icons"
+msgstr "انځورنونه"
+
+#: main.cpp:103
+msgid "Hermann Thomas"
+msgstr "هېرمن ټامس"
+
+#: main.cpp:106
+msgid ""
+"<qt>Here you can change your personal information, which will be used, for "
+"instance, in mail programs and word processors. You can change your login "
+"password by clicking <em>Change Password...</em>.</qt>"
+msgstr ""
+
+#: main.cpp:120
+msgid ""
+"A program error occurred: the internal program 'kdepasswd' could not be "
+"found. You will not be able to change your password."
+msgstr ""
+
+#: main.cpp:175
+msgid "Please enter your password in order to save your settings:"
+msgstr "د خپلو امستنو د ساتلو لپاره خپله تېرنويې وليکئ:"
+
+#: main.cpp:178
+msgid "You must enter your password in order to change your information."
+msgstr "د خپلو خبرتياوو د بدلولو لپاره دا اړينه ده چې تاسو خپله تېرنويې وليکئ."
+
+#: main.cpp:188
+msgid "You must enter a correct password."
+msgstr "اړينه ده چې تاسو سمه تېرنويې وليکئ."
+
+#: main.cpp:192
+#, kde-format
+msgid ""
+"An error occurred and your name has probably not been changed. The error "
+"message was:\n"
+"%1"
+msgstr ""
+
+#: main.cpp:212
+#, kde-format
+msgid "There was an error saving the image: %1"
+msgstr "%1 د انځور په ساتلو کې کومه ستونزه رامنځته شوه:"
+
+#: main.cpp:296
+#, kde-format
+msgid ""
+"%1 does not appear to be an image file.\n"
+"Please use files with these extensions:\n"
+"%2"
+msgstr ""
+
+#: rc.cpp:1
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ستاسو نومونه"
+
+#: rc.cpp:2
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ستاسو برېښليکونه"
+
+#. i18n: file: faceDlg.ui:25
+#. i18n: ectx: property (text), widget (QLabel, header)
+#: rc.cpp:5
+msgid "Select a new face:"
+msgstr "نوی مخ ټاکل:"
+
+#. i18n: file: main_widget.ui:44
+#. i18n: ectx: property (toolTip), widget (KPushButton, btnChangeFace)
+#: rc.cpp:8
+#, fuzzy
+#| msgid "Change your Face"
+msgid "Change your image"
+msgstr "خپل مخ بدلول"
+
+#. i18n: file: main_widget.ui:72
+#. i18n: ectx: property (text), widget (QLabel, lblClickButtonInfo)
+#: rc.cpp:11
+#, fuzzy
+#| msgid "<i>(Click the button to change your image)</i>"
+msgid "<i>Click to change your image</i>"
+msgstr "<i>(د خپل انځور بدلولو لپاره تڼۍ کېکاږئ)</i>"
+
+#. i18n: file: main_widget.ui:87
+#. i18n: ectx: property (text), widget (KPushButton, btnChangePassword)
+#: rc.cpp:14
+msgid "Change Password..."
+msgstr "تېرنويې بدلول..."
+
+#. i18n: file: main_widget.ui:116
+#. i18n: ectx: property (title), widget (QGroupBox, grpUserInformation)
+#: rc.cpp:17
+msgid "User Information"
+msgstr "کارن خبرتياوې"
+
+#. i18n: file: main_widget.ui:122
+#. i18n: ectx: property (text), widget (QLabel, lblRealName)
+#: rc.cpp:20
+msgid "&Name:"
+msgstr "نوم:&"
+
+#. i18n: file: main_widget.ui:145
+#. i18n: ectx: property (text), widget (QLabel, lblOrganisation)
+#: rc.cpp:23
+msgid "&Organization:"
+msgstr "اداره:&"
+
+#. i18n: file: main_widget.ui:168
+#. i18n: ectx: property (text), widget (QLabel, lblEmail)
+#: rc.cpp:26
+msgid "&Email address:"
+msgstr "برېښليک پته:&"
+
+#. i18n: file: main_widget.ui:191
+#. i18n: ectx: property (text), widget (QLabel, textLabel3)
+#: rc.cpp:29
+msgid "&SMTP server:"
+msgstr "پالنګر: SMTP&"
+
+#. i18n: file: main_widget.ui:214
+#. i18n: ectx: property (text), widget (QLabel, lblUIDTell)
+#: rc.cpp:32
+msgid "User ID:"
+msgstr "کارن پېژند:"
+
+#. i18n: file: main_widget.ui:240
+#. i18n: ectx: property (title), widget (KButtonGroup, kcfg_EchoMode)
+#: rc.cpp:35
+msgid "At Password Prompt"
+msgstr "د تېرنويې پر پوښتلو"
+
+#. i18n: file: main_widget.ui:246
+#. i18n: ectx: property (text), widget (QRadioButton, rdbOneStar)
+#: rc.cpp:38
+#, fuzzy
+#| msgid "Show one star for each letter"
+msgid "Show one bullet for each letter"
+msgstr "د هر توري لپاره يو ستوری ښودل"
+
+#. i18n: file: main_widget.ui:253
+#. i18n: ectx: property (text), widget (QRadioButton, rdbThreeStars)
+#: rc.cpp:41
+#, fuzzy
+#| msgid "Show three stars for each letter"
+msgid "Show three bullets for each letter"
+msgstr "د هر توري لپاره درې ستوري ښودل"
+
+#. i18n: file: main_widget.ui:260
+#. i18n: ectx: property (text), widget (QRadioButton, rdbShowPassword)
+#: rc.cpp:44
+msgid "Show nothing"
+msgstr "هېڅ ښودل"
+
+#. i18n: file: kcm_useraccount.kcfg:24
+#. i18n: ectx: label, entry (FaceSize), group (X-*-Greeter)
+#: rc.cpp:47
+msgid "The size of login images"
+msgstr "د ننوت انځورونو کچ"
+
+#. i18n: file: kcm_useraccount.kcfg:28
+#. i18n: ectx: label, entry (DefaultFile), group (X-*-Greeter)
+#: rc.cpp:50
+msgid "The default image file"
+msgstr "تلواله انځور دوتنه"
+
+#. i18n: file: kcm_useraccount.kcfg:32
+#. i18n: ectx: label, entry (CustomFaceFile), group (X-*-Greeter)
+#: rc.cpp:53
+msgid "The filename of the user's custom image file"
+msgstr "د کارن د دوديزې انځور دوتنې دوتنه نوم"
+
+#. i18n: file: kcm_useraccount.kcfg:36
+#. i18n: ectx: label, entry (FaceFile), group (X-*-Greeter)
+#: rc.cpp:56
+msgid "The user's login image"
+msgstr "د کارن ننوت انځور"
+
+#. i18n: file: kcm_useraccount_pass.kcfg:9
+#. i18n: ectx: label, entry (EchoMode), group (Passwords)
+#: rc.cpp:61
+msgid "Password echo type"
+msgstr ""
+
+#~ msgid "Custom Image..."
+#~ msgstr "دوديز انځور"
+
+#~ msgid "haeckel@kde.org"
+#~ msgstr "haeckel@kde.org"
