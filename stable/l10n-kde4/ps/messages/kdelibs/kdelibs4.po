@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-28 04:18+0100\n"
+"POT-Creation-Date: 2012-01-29 13:30+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -3189,6 +3189,39 @@ msgstr ""
 "p><p>د کډي د نړېوالونې په اړه د نورو خبرتياو لپاره وګورﺉ<a href=\"http://"
 "l10n.kde.org\">http://l10n.kde.org</a></p>"
 
+#: kdecore/kernel/ktoolinvocation.cpp:79
+msgid "Function must be called from the main thread."
+msgstr "ښايي چې کړنې سره د ار مزي نه اړيکه ونيول شي."
+
+#: kdecore/kernel/ktoolinvocation.cpp:120
+#, kde-format
+msgid ""
+"Error launching %1. Either KLauncher is not running anymore, or it failed to "
+"start the application."
+msgstr ""
+
+#: kdecore/kernel/ktoolinvocation.cpp:123
+#, kde-format
+msgid ""
+"KLauncher could not be reached via D-Bus. Error when calling %1:\n"
+"%2\n"
+msgstr ""
+
+#: kdecore/kernel/ktoolinvocation.cpp:302
+#, kde-format
+msgid ""
+"Could not launch the KDE Help Center:\n"
+"\n"
+"%1"
+msgstr ""
+":د کډي مرسته منځی نه شي پېلولی\n"
+"\n"
+"%1"
+
+#: kdecore/kernel/ktoolinvocation.cpp:303
+msgid "Could not Launch Help Center"
+msgstr "مرسته منځی نه شي پېلولی"
+
 #: kdecore/kernel/kcmdlineargs.cpp:273
 msgid "Use the X-server display 'displayname'"
 msgstr "-پالنګر ښوون 'ښووننوم' کارولX د"
@@ -3476,39 +3509,6 @@ msgstr ""
 msgid "KDE-tempfile"
 msgstr "کډي-لنډمهالدوتنه"
 
-#: kdecore/kernel/ktoolinvocation.cpp:79
-msgid "Function must be called from the main thread."
-msgstr "ښايي چې کړنې سره د ار مزي نه اړيکه ونيول شي."
-
-#: kdecore/kernel/ktoolinvocation.cpp:120
-#, kde-format
-msgid ""
-"Error launching %1. Either KLauncher is not running anymore, or it failed to "
-"start the application."
-msgstr ""
-
-#: kdecore/kernel/ktoolinvocation.cpp:123
-#, kde-format
-msgid ""
-"KLauncher could not be reached via D-Bus. Error when calling %1:\n"
-"%2\n"
-msgstr ""
-
-#: kdecore/kernel/ktoolinvocation.cpp:302
-#, kde-format
-msgid ""
-"Could not launch the KDE Help Center:\n"
-"\n"
-"%1"
-msgstr ""
-":د کډي مرسته منځی نه شي پېلولی\n"
-"\n"
-"%1"
-
-#: kdecore/kernel/ktoolinvocation.cpp:303
-msgid "Could not Launch Help Center"
-msgstr "مرسته منځی نه شي پېلولی"
-
 #: kdecore/kernel/ktoolinvocation_x11.cpp:281
 #, kde-format
 msgid ""
@@ -3564,159 +3564,125 @@ msgstr ""
 msgid "Could not launch Terminal Client"
 msgstr "پايالي پېرن نه شي پېلولی"
 
-#: kdecore/localization/kcharsets.cpp:155
-#: kdecore/localization/kencodingdetector.cpp:1149
-#: kdecore/localization/kencodingdetector.cpp:1232
-#: kdecore/localization/kencodingprober.cpp:244
-#: kdecore/localization/kencodingprober.cpp:303
-msgctxt "@item Text character set"
-msgid "Western European"
-msgstr "لوېديځ اروپايي"
-
-#: kdecore/localization/kcharsets.cpp:161
-#: kdecore/localization/kencodingdetector.cpp:1151
-#: kdecore/localization/kencodingdetector.cpp:1214
-#: kdecore/localization/kencodingprober.cpp:246
-#: kdecore/localization/kencodingprober.cpp:285
-msgctxt "@item Text character set"
-msgid "Central European"
-msgstr "منځنی اروپايي"
-
-#: kdecore/localization/kcharsets.cpp:164
-#: kdecore/localization/kencodingdetector.cpp:1161
-#: kdecore/localization/kencodingdetector.cpp:1211
-#: kdecore/localization/kencodingprober.cpp:256
-#: kdecore/localization/kencodingprober.cpp:282
-msgctxt "@item Text character set"
-msgid "Baltic"
-msgstr "بالټيک"
-
-#: kdecore/localization/kcharsets.cpp:167
-msgctxt "@item Text character set"
-msgid "South-Eastern Europe"
-msgstr "سهېل/ختيځ يورپ"
-
-#: kdecore/localization/kcharsets.cpp:170
-#: kdecore/localization/kencodingdetector.cpp:1157
-#: kdecore/localization/kencodingdetector.cpp:1229
-#: kdecore/localization/kencodingprober.cpp:252
-#: kdecore/localization/kencodingprober.cpp:300
-msgctxt "@item Text character set"
-msgid "Turkish"
-msgstr "ترکي"
-
-#: kdecore/localization/kcharsets.cpp:173
-#: kdecore/localization/kencodingdetector.cpp:1147
-#: kdecore/localization/kencodingdetector.cpp:1217
-#: kdecore/localization/kencodingprober.cpp:242
-#: kdecore/localization/kencodingprober.cpp:288
-msgctxt "@item Text character set"
-msgid "Cyrillic"
-msgstr "سېرېلېک"
-
-#: kdecore/localization/kcharsets.cpp:179
-#: kdecore/localization/kencodingdetector.cpp:1235
-#: kdecore/localization/kencodingprober.cpp:258
-#: kdecore/localization/kencodingprober.cpp:306
-msgctxt "@item Text character set"
-msgid "Chinese Traditional"
-msgstr "چينايي هڅوبي"
-
-#: kdecore/localization/kcharsets.cpp:182
-#: kdecore/localization/kencodingdetector.cpp:1238
-#: kdecore/localization/kencodingprober.cpp:260
-#: kdecore/localization/kencodingprober.cpp:309
-msgctxt "@item Text character set"
-msgid "Chinese Simplified"
-msgstr "چينايي ساده"
-
-#: kdecore/localization/kcharsets.cpp:186
-#: kdecore/localization/kencodingdetector.cpp:1241
-#: kdecore/localization/kencodingprober.cpp:312
-msgctxt "@item Text character set"
-msgid "Korean"
-msgstr "کوريايي"
-
-#: kdecore/localization/kcharsets.cpp:188
-#: kdecore/localization/kencodingdetector.cpp:1159
-#: kdecore/localization/kencodingdetector.cpp:1226
-#: kdecore/localization/kencodingprober.cpp:254
-#: kdecore/localization/kencodingprober.cpp:297
-msgctxt "@item Text character set"
-msgid "Japanese"
-msgstr "جاپاني"
-
-#: kdecore/localization/kcharsets.cpp:192
-#: kdecore/localization/kencodingdetector.cpp:1153
-#: kdecore/localization/kencodingdetector.cpp:1220
-#: kdecore/localization/kencodingprober.cpp:248
-#: kdecore/localization/kencodingprober.cpp:291
-msgctxt "@item Text character set"
-msgid "Greek"
-msgstr "ګريک"
-
-#: kdecore/localization/kcharsets.cpp:195
-#: kdecore/localization/kencodingdetector.cpp:1163
-#: kdecore/localization/kencodingdetector.cpp:1208
-#: kdecore/localization/kencodingprober.cpp:262
-#: kdecore/localization/kencodingprober.cpp:279
-msgctxt "@item Text character set"
-msgid "Arabic"
-msgstr "عربي"
-
-#: kdecore/localization/kcharsets.cpp:198
-#: kdecore/localization/kencodingdetector.cpp:1155
-#: kdecore/localization/kencodingdetector.cpp:1223
-#: kdecore/localization/kencodingprober.cpp:250
-#: kdecore/localization/kencodingprober.cpp:294
-msgctxt "@item Text character set"
-msgid "Hebrew"
-msgstr "هېبرو"
-
-#: kdecore/localization/kcharsets.cpp:203
-#: kdecore/localization/kencodingdetector.cpp:1244
-#: kdecore/localization/kencodingprober.cpp:315
-msgctxt "@item Text character set"
-msgid "Thai"
-msgstr "ټهايي"
-
-#: kdecore/localization/kcharsets.cpp:206
 #: kdecore/localization/kencodingdetector.cpp:1145
 #: kdecore/localization/kencodingdetector.cpp:1247
 #: kdecore/localization/kencodingprober.cpp:240
 #: kdecore/localization/kencodingprober.cpp:318
+#: kdecore/localization/kcharsets.cpp:206
 msgctxt "@item Text character set"
 msgid "Unicode"
 msgstr "يونيکوډ"
 
-#: kdecore/localization/kcharsets.cpp:212
+#: kdecore/localization/kencodingdetector.cpp:1147
+#: kdecore/localization/kencodingdetector.cpp:1217
+#: kdecore/localization/kencodingprober.cpp:242
+#: kdecore/localization/kencodingprober.cpp:288
+#: kdecore/localization/kcharsets.cpp:173
 msgctxt "@item Text character set"
-msgid "Northern Saami"
-msgstr "شمالي سامي"
+msgid "Cyrillic"
+msgstr "سېرېلېک"
 
-#: kdecore/localization/kcharsets.cpp:214
-#: kdecore/localization/kcharsets.cpp:619
+#: kdecore/localization/kencodingdetector.cpp:1149
+#: kdecore/localization/kencodingdetector.cpp:1232
+#: kdecore/localization/kencodingprober.cpp:244
+#: kdecore/localization/kencodingprober.cpp:303
+#: kdecore/localization/kcharsets.cpp:155
 msgctxt "@item Text character set"
-msgid "Other"
-msgstr "بل"
+msgid "Western European"
+msgstr "لوېديځ اروپايي"
 
-#: kdecore/localization/kcharsets.cpp:629
-#, kde-format
-msgctxt "@item %1 character set, %2 encoding"
-msgid "%1 ( %2 )"
-msgstr "%1 ( %2 )"
+#: kdecore/localization/kencodingdetector.cpp:1151
+#: kdecore/localization/kencodingdetector.cpp:1214
+#: kdecore/localization/kencodingprober.cpp:246
+#: kdecore/localization/kencodingprober.cpp:285
+#: kdecore/localization/kcharsets.cpp:161
+msgctxt "@item Text character set"
+msgid "Central European"
+msgstr "منځنی اروپايي"
 
-#: kdecore/localization/kcharsets.cpp:632
-#, kde-format
-msgctxt "@item"
-msgid "Other encoding (%1)"
-msgstr "(%1) بله کوډييزونه"
+#: kdecore/localization/kencodingdetector.cpp:1153
+#: kdecore/localization/kencodingdetector.cpp:1220
+#: kdecore/localization/kencodingprober.cpp:248
+#: kdecore/localization/kencodingprober.cpp:291
+#: kdecore/localization/kcharsets.cpp:192
+msgctxt "@item Text character set"
+msgid "Greek"
+msgstr "ګريک"
 
-#: kdecore/localization/kcharsets.cpp:658
-#, kde-format
-msgctxt "@item Text encoding: %1 character set, %2 encoding"
-msgid "%1 ( %2 )"
-msgstr "%1 ( %2 )"
+#: kdecore/localization/kencodingdetector.cpp:1155
+#: kdecore/localization/kencodingdetector.cpp:1223
+#: kdecore/localization/kencodingprober.cpp:250
+#: kdecore/localization/kencodingprober.cpp:294
+#: kdecore/localization/kcharsets.cpp:198
+msgctxt "@item Text character set"
+msgid "Hebrew"
+msgstr "هېبرو"
+
+#: kdecore/localization/kencodingdetector.cpp:1157
+#: kdecore/localization/kencodingdetector.cpp:1229
+#: kdecore/localization/kencodingprober.cpp:252
+#: kdecore/localization/kencodingprober.cpp:300
+#: kdecore/localization/kcharsets.cpp:170
+msgctxt "@item Text character set"
+msgid "Turkish"
+msgstr "ترکي"
+
+#: kdecore/localization/kencodingdetector.cpp:1159
+#: kdecore/localization/kencodingdetector.cpp:1226
+#: kdecore/localization/kencodingprober.cpp:254
+#: kdecore/localization/kencodingprober.cpp:297
+#: kdecore/localization/kcharsets.cpp:188
+msgctxt "@item Text character set"
+msgid "Japanese"
+msgstr "جاپاني"
+
+#: kdecore/localization/kencodingdetector.cpp:1161
+#: kdecore/localization/kencodingdetector.cpp:1211
+#: kdecore/localization/kencodingprober.cpp:256
+#: kdecore/localization/kencodingprober.cpp:282
+#: kdecore/localization/kcharsets.cpp:164
+msgctxt "@item Text character set"
+msgid "Baltic"
+msgstr "بالټيک"
+
+#: kdecore/localization/kencodingdetector.cpp:1163
+#: kdecore/localization/kencodingdetector.cpp:1208
+#: kdecore/localization/kencodingprober.cpp:262
+#: kdecore/localization/kencodingprober.cpp:279
+#: kdecore/localization/kcharsets.cpp:195
+msgctxt "@item Text character set"
+msgid "Arabic"
+msgstr "عربي"
+
+#: kdecore/localization/kencodingdetector.cpp:1235
+#: kdecore/localization/kencodingprober.cpp:258
+#: kdecore/localization/kencodingprober.cpp:306
+#: kdecore/localization/kcharsets.cpp:179
+msgctxt "@item Text character set"
+msgid "Chinese Traditional"
+msgstr "چينايي هڅوبي"
+
+#: kdecore/localization/kencodingdetector.cpp:1238
+#: kdecore/localization/kencodingprober.cpp:260
+#: kdecore/localization/kencodingprober.cpp:309
+#: kdecore/localization/kcharsets.cpp:182
+msgctxt "@item Text character set"
+msgid "Chinese Simplified"
+msgstr "چينايي ساده"
+
+#: kdecore/localization/kencodingdetector.cpp:1241
+#: kdecore/localization/kencodingprober.cpp:312
+#: kdecore/localization/kcharsets.cpp:186
+msgctxt "@item Text character set"
+msgid "Korean"
+msgstr "کوريايي"
+
+#: kdecore/localization/kencodingdetector.cpp:1244
+#: kdecore/localization/kencodingprober.cpp:315
+#: kdecore/localization/kcharsets.cpp:203
+msgctxt "@item Text character set"
+msgid "Thai"
+msgstr "ټهايي"
 
 #: kdecore/localization/kencodingprober.cpp:236
 #: kdecore/localization/kencodingprober.cpp:273
@@ -4309,6 +4275,40 @@ msgstr "Win"
 msgctxt "keyboard-key-name"
 msgid "F%1"
 msgstr "ف%1"
+
+#: kdecore/localization/kcharsets.cpp:167
+msgctxt "@item Text character set"
+msgid "South-Eastern Europe"
+msgstr "سهېل/ختيځ يورپ"
+
+#: kdecore/localization/kcharsets.cpp:212
+msgctxt "@item Text character set"
+msgid "Northern Saami"
+msgstr "شمالي سامي"
+
+#: kdecore/localization/kcharsets.cpp:214
+#: kdecore/localization/kcharsets.cpp:619
+msgctxt "@item Text character set"
+msgid "Other"
+msgstr "بل"
+
+#: kdecore/localization/kcharsets.cpp:629
+#, kde-format
+msgctxt "@item %1 character set, %2 encoding"
+msgid "%1 ( %2 )"
+msgstr "%1 ( %2 )"
+
+#: kdecore/localization/kcharsets.cpp:632
+#, kde-format
+msgctxt "@item"
+msgid "Other encoding (%1)"
+msgstr "(%1) بله کوډييزونه"
+
+#: kdecore/localization/kcharsets.cpp:658
+#, kde-format
+msgctxt "@item Text encoding: %1 character set, %2 encoding"
+msgid "%1 ( %2 )"
+msgstr "%1 ( %2 )"
 
 #: kdecore/localization/klocale_kde.cpp:1093
 #, fuzzy
@@ -5408,6 +5408,50 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
 
+#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
+msgctxt "go back"
+msgid "&Back"
+msgstr "شاته&"
+
+#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
+msgctxt "go forward"
+msgid "&Forward"
+msgstr "مخکې&"
+
+#: kdeui/actions/kstandardaction.cpp:105
+msgctxt "home page"
+msgid "&Home"
+msgstr "کور&"
+
+#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
+msgctxt "show help"
+msgid "&Help"
+msgstr "مرسته&"
+
+#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction_p.h:98
+msgid "Show &Menubar"
+msgstr "غورنۍ پټه ښودل&"
+
+#: kdeui/actions/kstandardaction.cpp:522
+msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
+msgstr "غورنۍ پټه ښودل<p>د پټولو نه وروسته بېرته غورنۍ پټه ښکاره کوي</p>"
+
+#: kdeui/actions/kstandardaction.cpp:539 kdeui/actions/kstandardaction_p.h:100
+msgid "Show St&atusbar"
+msgstr "ان&کړپټه ښودل"
+
+#: kdeui/actions/kstandardaction.cpp:542
+#, fuzzy
+#| msgid ""
+#| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+#| "bottom of the window used for status information."
+msgid ""
+"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+"bottom of the window used for status information."
+msgstr ""
+"انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده "
+"او د انکړ خبرتياوو لپاره کارول کيږي."
+
 #: kdeui/actions/ktogglefullscreenaction.cpp:48
 #: kdeui/actions/ktogglefullscreenaction.cpp:55
 #: kdeui/actions/ktogglefullscreenaction.cpp:85
@@ -5452,50 +5496,6 @@ msgstr "هېڅ ننوتنې"
 #| msgid "Clear input"
 msgid "Clear List"
 msgstr "ننوتۍ پاکول"
-
-#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
-msgctxt "go back"
-msgid "&Back"
-msgstr "شاته&"
-
-#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
-msgctxt "go forward"
-msgid "&Forward"
-msgstr "مخکې&"
-
-#: kdeui/actions/kstandardaction.cpp:105
-msgctxt "home page"
-msgid "&Home"
-msgstr "کور&"
-
-#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
-msgctxt "show help"
-msgid "&Help"
-msgstr "مرسته&"
-
-#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction_p.h:98
-msgid "Show &Menubar"
-msgstr "غورنۍ پټه ښودل&"
-
-#: kdeui/actions/kstandardaction.cpp:522
-msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
-msgstr "غورنۍ پټه ښودل<p>د پټولو نه وروسته بېرته غورنۍ پټه ښکاره کوي</p>"
-
-#: kdeui/actions/kstandardaction.cpp:539 kdeui/actions/kstandardaction_p.h:100
-msgid "Show St&atusbar"
-msgstr "ان&کړپټه ښودل"
-
-#: kdeui/actions/kstandardaction.cpp:542
-#, fuzzy
-#| msgid ""
-#| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-#| "bottom of the window used for status information."
-msgid ""
-"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-"bottom of the window used for status information."
-msgstr ""
-"انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده "
-"او د انکړ خبرتياوو لپاره کارول کيږي."
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
@@ -5628,6 +5628,116 @@ msgstr "د کډي ملاتړ&"
 #: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:208
 msgid "Configure"
 msgstr "سازول"
+
+#: kdeui/dialogs/kedittoolbar.cpp:58
+msgid "--- separator ---"
+msgstr "--- بېلند ---"
+
+#: kdeui/dialogs/kedittoolbar.cpp:287
+#, fuzzy
+#| msgid "Change Icon"
+msgid "Change Text"
+msgstr "انځورن بدلول"
+
+#: kdeui/dialogs/kedittoolbar.cpp:298
+#, fuzzy
+#| msgid "Link Text:"
+msgid "Icon te&xt:"
+msgstr ":د تړنۍ ليکنه"
+
+#: kdeui/dialogs/kedittoolbar.cpp:303
+msgid "&Hide text when toolbar shows text alongside icons"
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:553
+msgid "Configure Toolbars"
+msgstr "توکپټې سازول"
+
+#: kdeui/dialogs/kedittoolbar.cpp:602
+msgid ""
+"Do you really want to reset all toolbars of this application to their "
+"default? The changes will be applied immediately."
+msgstr ""
+"تاسو په رښتيا غواړﺉ چې د دې کاريال ټولې توکپټې خپل تلواله امستنو ته بيا "
+"وزېرمﺉ؟ بدلونونه به په سمدستي توګه وکارول شي."
+
+#: kdeui/dialogs/kedittoolbar.cpp:602
+msgid "Reset Toolbars"
+msgstr "توکپټې بياټاکل"
+
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2814
+#: khtml/khtmlview.cpp:2847 khtml/html/html_formimpl.cpp:1845
+msgid "Reset"
+msgstr "بياټاکل"
+
+#: kdeui/dialogs/kedittoolbar.cpp:896
+msgid "&Toolbar:"
+msgstr ":توکپټه&"
+
+#: kdeui/dialogs/kedittoolbar.cpp:911
+msgid "A&vailable actions:"
+msgstr ":ش&ته چارونه"
+
+#: kdeui/dialogs/kedittoolbar.cpp:926 kdeui/dialogs/kedittoolbar.cpp:945
+#, fuzzy
+#| msgid "&Filter:"
+msgid "Filter"
+msgstr ":چاڼ&"
+
+#: kdeui/dialogs/kedittoolbar.cpp:929
+msgid "Curr&ent actions:"
+msgstr ":اوس&ني چارونه"
+
+#: kdeui/dialogs/kedittoolbar.cpp:948
+msgid "Change &Icon..."
+msgstr "...انځورن بدلول&"
+
+#: kdeui/dialogs/kedittoolbar.cpp:958
+#, fuzzy
+#| msgid "Change &Icon..."
+msgid "Change Te&xt..."
+msgstr "...انځورن بدلول&"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1109
+#, kde-format
+msgctxt "@item:intable Action name in toolbar editor"
+msgid "%1"
+msgstr "%1"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1130
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:1132
+msgid "<Merge>"
+msgstr "<سره ننويستل>"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1134
+#, kde-format
+msgid "<Merge %1>"
+msgstr "<سره ننويستل %1>"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1140
+msgid ""
+"This is a dynamic list of actions. You can move it, but if you remove it you "
+"will not be able to re-add it."
+msgstr ""
+
+#: kdeui/dialogs/kedittoolbar.cpp:1141
+#, kde-format
+msgid "ActionList: %1"
+msgstr "%1 چارلړ:"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1242 kdeui/dialogs/kedittoolbar.cpp:1272
+#, kde-format
+msgctxt "@label Action tooltip in toolbar editor, below the action list"
+msgid "%1"
+msgstr "%1"
+
+#: kdeui/dialogs/kedittoolbar.cpp:1525
+msgid "Change Icon"
+msgstr "انځورن بدلول"
 
 #: kdeui/dialogs/kcupsoptionsjobwidget_p.cpp:90
 msgid "Print Immediately"
@@ -6438,116 +6548,6 @@ msgstr "راتلونکی"
 #: knewstuff/knewstuff3/uploaddialog.cpp:370
 msgid "Finish"
 msgstr "پای"
-
-#: kdeui/dialogs/kedittoolbar.cpp:58
-msgid "--- separator ---"
-msgstr "--- بېلند ---"
-
-#: kdeui/dialogs/kedittoolbar.cpp:287
-#, fuzzy
-#| msgid "Change Icon"
-msgid "Change Text"
-msgstr "انځورن بدلول"
-
-#: kdeui/dialogs/kedittoolbar.cpp:298
-#, fuzzy
-#| msgid "Link Text:"
-msgid "Icon te&xt:"
-msgstr ":د تړنۍ ليکنه"
-
-#: kdeui/dialogs/kedittoolbar.cpp:303
-msgid "&Hide text when toolbar shows text alongside icons"
-msgstr ""
-
-#: kdeui/dialogs/kedittoolbar.cpp:553
-msgid "Configure Toolbars"
-msgstr "توکپټې سازول"
-
-#: kdeui/dialogs/kedittoolbar.cpp:602
-msgid ""
-"Do you really want to reset all toolbars of this application to their "
-"default? The changes will be applied immediately."
-msgstr ""
-"تاسو په رښتيا غواړﺉ چې د دې کاريال ټولې توکپټې خپل تلواله امستنو ته بيا "
-"وزېرمﺉ؟ بدلونونه به په سمدستي توګه وکارول شي."
-
-#: kdeui/dialogs/kedittoolbar.cpp:602
-msgid "Reset Toolbars"
-msgstr "توکپټې بياټاکل"
-
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2814
-#: khtml/khtmlview.cpp:2847 khtml/html/html_formimpl.cpp:1845
-msgid "Reset"
-msgstr "بياټاکل"
-
-#: kdeui/dialogs/kedittoolbar.cpp:896
-msgid "&Toolbar:"
-msgstr ":توکپټه&"
-
-#: kdeui/dialogs/kedittoolbar.cpp:911
-msgid "A&vailable actions:"
-msgstr ":ش&ته چارونه"
-
-#: kdeui/dialogs/kedittoolbar.cpp:926 kdeui/dialogs/kedittoolbar.cpp:945
-#, fuzzy
-#| msgid "&Filter:"
-msgid "Filter"
-msgstr ":چاڼ&"
-
-#: kdeui/dialogs/kedittoolbar.cpp:929
-msgid "Curr&ent actions:"
-msgstr ":اوس&ني چارونه"
-
-#: kdeui/dialogs/kedittoolbar.cpp:948
-msgid "Change &Icon..."
-msgstr "...انځورن بدلول&"
-
-#: kdeui/dialogs/kedittoolbar.cpp:958
-#, fuzzy
-#| msgid "Change &Icon..."
-msgid "Change Te&xt..."
-msgstr "...انځورن بدلول&"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1109
-#, kde-format
-msgctxt "@item:intable Action name in toolbar editor"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1130
-msgid ""
-"This element will be replaced with all the elements of an embedded component."
-msgstr ""
-
-#: kdeui/dialogs/kedittoolbar.cpp:1132
-msgid "<Merge>"
-msgstr "<سره ننويستل>"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1134
-#, kde-format
-msgid "<Merge %1>"
-msgstr "<سره ننويستل %1>"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1140
-msgid ""
-"This is a dynamic list of actions. You can move it, but if you remove it you "
-"will not be able to re-add it."
-msgstr ""
-
-#: kdeui/dialogs/kedittoolbar.cpp:1141
-#, kde-format
-msgid "ActionList: %1"
-msgstr "%1 چارلړ:"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1242 kdeui/dialogs/kedittoolbar.cpp:1272
-#, kde-format
-msgctxt "@label Action tooltip in toolbar editor, below the action list"
-msgid "%1"
-msgstr "%1"
-
-#: kdeui/dialogs/kedittoolbar.cpp:1525
-msgid "Change Icon"
-msgstr "انځورن بدلول"
 
 #: kdeui/findreplace/kfind.cpp:50
 msgid "Find Next"
@@ -7849,6 +7849,12 @@ msgctxt "@action"
 msgid "About KDE"
 msgstr "د کډي په اړه"
 
+#: kdeui/sonnet/configdialog.cpp:51
+#, fuzzy
+#| msgid "Send Confirmation"
+msgid "Spell Checking Configuration"
+msgstr "د لېږلو باوريينه"
+
 #: kdeui/sonnet/dialog.cpp:103 kdeui/sonnet/dialog.cpp:224
 #: kdeui/sonnet/dialog.cpp:445
 msgctxt "@title:window"
@@ -7878,12 +7884,6 @@ msgstr ".ليکدود کتنه بنده شوه"
 #: kdeui/sonnet/dialog.cpp:441 kdeui/sonnet/dialog.cpp:445
 msgid "Spell check complete."
 msgstr ".ليکدود کتنه بشپړه شوه"
-
-#: kdeui/sonnet/configdialog.cpp:51
-#, fuzzy
-#| msgid "Send Confirmation"
-msgid "Spell Checking Configuration"
-msgstr "د لېږلو باوريينه"
 
 #: kdeui/util/kcompletion.cpp:693
 msgid ""
@@ -9442,22 +9442,6 @@ msgstr "يو کال وټاکﺉ"
 msgid "Select the current day"
 msgstr "نننۍ ورځ ټاکل"
 
-#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
-msgid "&Add"
-msgstr "زياتول&"
-
-#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
-msgid "&Remove"
-msgstr "ړنګول&"
-
-#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
-msgid "Move &Up"
-msgstr "بره &خوځول"
-
-#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
-msgid "Move &Down"
-msgstr "ښکته &خوځول"
-
 #. i18n: Placeholder text in line edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
 #. (e.g. "Enter search pattern").
@@ -9519,6 +9503,22 @@ msgstr "خپلکاری && لرغورځی لړ"
 msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
+
+#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
+msgid "&Add"
+msgstr "زياتول&"
+
+#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
+msgid "&Remove"
+msgstr "ړنګول&"
+
+#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
+msgid "Move &Up"
+msgstr "بره &خوځول"
+
+#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
+msgid "Move &Down"
+msgstr "ښکته &خوځول"
 
 #: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:936
 msgid "Clear &History"
@@ -9879,6 +9879,23 @@ msgstr "سکرېپټ پرانيستل"
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
 
+#: kdeui/widgets/ktimecombobox.cpp:259
+msgctxt "@info"
+msgid "The time you entered is invalid"
+msgstr ""
+
+#: kdeui/widgets/ktimecombobox.cpp:262
+#, kde-format
+msgctxt "@info"
+msgid "Time cannot be earlier than %1"
+msgstr ""
+
+#: kdeui/widgets/ktimecombobox.cpp:269
+#, kde-format
+msgctxt "@info"
+msgid "Time cannot be later than %1"
+msgstr ""
+
 #: kdeui/widgets/ktimezonewidget.cpp:66
 #, fuzzy
 #| msgid "Area"
@@ -10109,27 +10126,10 @@ msgctxt "@info"
 msgid "The entered date and time is after the maximum allowed date and time."
 msgstr ""
 
-#: kdeui/widgets/ktimecombobox.cpp:259
-msgctxt "@info"
-msgid "The time you entered is invalid"
-msgstr ""
-
-#: kdeui/widgets/ktimecombobox.cpp:262
-#, kde-format
-msgctxt "@info"
-msgid "Time cannot be earlier than %1"
-msgstr ""
-
-#: kdeui/widgets/ktimecombobox.cpp:269
-#, kde-format
-msgctxt "@info"
-msgid "Time cannot be later than %1"
-msgstr ""
-
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:563
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:176
-#: kdeui/windowmanagement/kwindowsystem_win.cpp:598
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:896
+#: kdeui/windowmanagement/kwindowsystem_win.cpp:598
 #, kde-format
 msgid "Desktop %1"
 msgstr "%1 سرپاڼه"
@@ -10442,6 +10442,50 @@ msgstr "ساتل په"
 #| msgid "Relative"
 msgid "Inactive"
 msgstr "تړلی"
+
+#: khtml/khtmlimage.cpp:202
+#, kde-format
+msgid "%1 (%2 - %3x%4 Pixels)"
+msgstr "%1 (%2 - %3x%4 پېکسله)"
+
+#: khtml/khtmlimage.cpp:204
+#, kde-format
+msgid "%1 - %2x%3 Pixels"
+msgstr "%1 - %2x%3 پېکسله"
+
+#: khtml/khtmlimage.cpp:209
+#, kde-format
+msgid "%1 (%2x%3 Pixels)"
+msgstr "%1 (%2x%3 پېکسله)"
+
+#: khtml/khtmlimage.cpp:211
+#, kde-format
+msgid "Image - %1x%2 Pixels"
+msgstr "انځور - %1x%2 پېکسله"
+
+#: khtml/khtmlimage.cpp:217
+msgid "Done."
+msgstr ".وشو"
+
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr "TestRegressionGui"
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr "بيا راتلنې ازمويونکي لپاره کښنيز کارن برسېر khtml د"
+
+#: khtml/testkhtml.cpp:39
+msgid "URL to open"
+msgstr "URL د پرانيستلو لپاره"
+
+#: khtml/testkhtml.cpp:41
+msgid "Testkhtml"
+msgstr "Testkhtml"
+
+#: khtml/testkhtml.cpp:42
+msgid "a basic web browser using the KHTML library"
+msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
 
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
@@ -10895,26 +10939,6 @@ msgstr ""
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "...د جاواسکرېپټ د نوې کړکۍ تګلارې سازول&"
 
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr "TestRegressionGui"
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr "بيا راتلنې ازمويونکي لپاره کښنيز کارن برسېر khtml د"
-
-#: khtml/testkhtml.cpp:39
-msgid "URL to open"
-msgstr "URL د پرانيستلو لپاره"
-
-#: khtml/testkhtml.cpp:41
-msgid "Testkhtml"
-msgstr "Testkhtml"
-
-#: khtml/testkhtml.cpp:42
-msgid "a basic web browser using the KHTML library"
-msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
-
 #: khtml/khtml_settings.cpp:235
 msgid "Accept"
 msgstr "منل"
@@ -11024,30 +11048,6 @@ msgstr "له پرېښودلو نه ړنګول"
 #: khtml/khtmlview.cpp:1842
 msgid "Access Keys activated"
 msgstr "لاسرس کيلۍ چارندې شوې"
-
-#: khtml/khtmlimage.cpp:202
-#, kde-format
-msgid "%1 (%2 - %3x%4 Pixels)"
-msgstr "%1 (%2 - %3x%4 پېکسله)"
-
-#: khtml/khtmlimage.cpp:204
-#, kde-format
-msgid "%1 - %2x%3 Pixels"
-msgstr "%1 - %2x%3 پېکسله"
-
-#: khtml/khtmlimage.cpp:209
-#, kde-format
-msgid "%1 (%2x%3 Pixels)"
-msgstr "%1 (%2x%3 پېکسله)"
-
-#: khtml/khtmlimage.cpp:211
-#, kde-format
-msgid "Image - %1x%2 Pixels"
-msgstr "انځور - %1x%2 پېکسله"
-
-#: khtml/khtmlimage.cpp:217
-msgid "Done."
-msgstr ".وشو"
 
 #: khtml/ecma/kjs_binding.cpp:185
 msgid ""
