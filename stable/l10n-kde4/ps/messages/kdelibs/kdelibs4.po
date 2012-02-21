@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-18 12:23+0100\n"
+"POT-Creation-Date: 2012-02-21 18:24+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -5685,10 +5685,6 @@ msgstr "د کډي ډلې کې ګډون کول&"
 msgid "&Support KDE"
 msgstr "د کډي ملاتړ&"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "سازول"
-
 #: kdeui/dialogs/kedittoolbar.cpp:58
 msgid "--- separator ---"
 msgstr "--- بېلند ---"
@@ -6114,6 +6110,10 @@ msgstr "په پېلنګ کې نکتې ښودل&"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "راتلوکی&"
+
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "سازول"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, kde-format
