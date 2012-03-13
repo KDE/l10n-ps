@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-12 11:15+0100\n"
+"POT-Creation-Date: 2012-03-13 18:28+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -11310,7 +11310,7 @@ msgstr[1] "دوتنې لېږل&"
 msgid "Key Generator"
 msgstr "کيلۍ جوړوونکی"
 
-#: khtml/html/html_objectimpl.cpp:610
+#: khtml/html/html_objectimpl.cpp:608
 #, kde-format
 msgid ""
 "No plugin found for '%1'.\n"
@@ -11319,15 +11319,15 @@ msgstr ""
 "لپاره کوم لګون ونه موندل شو. '%1' د\n"
 "نه راولېښﺉ؟ %2 غواړﺉ چې يو د"
 
-#: khtml/html/html_objectimpl.cpp:611
+#: khtml/html/html_objectimpl.cpp:609
 msgid "Missing Plugin"
 msgstr "ورک لګون"
 
-#: khtml/html/html_objectimpl.cpp:611
+#: khtml/html/html_objectimpl.cpp:609
 msgid "Download"
 msgstr "رالېښنې"
 
-#: khtml/html/html_objectimpl.cpp:611
+#: khtml/html/html_objectimpl.cpp:609
 msgid "Do Not Download"
 msgstr "مه رالېښه"
 
