@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-08 18:30+0200\n"
+"POT-Creation-Date: 2012-05-13 12:27+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6513,7 +6513,7 @@ msgid "Warning"
 msgstr "خبرتيا"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:818 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:819 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "تېروتنه"
@@ -9514,7 +9514,7 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:941
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:942
 msgid "Clear &History"
 msgstr "مخينه &پاکول"
 
@@ -11424,36 +11424,36 @@ msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesof
 msgid "No handler found for %1."
 msgstr ".د %1 لپاره کوم سمبالوونکی ونه مونل شو"
 
-#: khtml/rendering/render_form.cpp:797
+#: khtml/rendering/render_form.cpp:798
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "لنډلار"
 
-#: khtml/rendering/render_form.cpp:818
+#: khtml/rendering/render_form.cpp:819
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "ساکټ د مخکې نه جوړ شوی"
 
-#: khtml/rendering/render_form.cpp:863
+#: khtml/rendering/render_form.cpp:864
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:865
+#: khtml/rendering/render_form.cpp:866
 #, fuzzy
 #| msgid "Enter search phrase here"
 msgid "New search provider"
 msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
-#: khtml/rendering/render_form.cpp:870
+#: khtml/rendering/render_form.cpp:871
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "لنډلاري"
 
-#: khtml/rendering/render_form.cpp:956
+#: khtml/rendering/render_form.cpp:957
 #, fuzzy
 #| msgid "Configure Shortcuts"
 msgid "Create Web Shortcut"
