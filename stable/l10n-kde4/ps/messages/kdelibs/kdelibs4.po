@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-16 11:40+0200\n"
+"POT-Creation-Date: 2012-05-18 12:28+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -2616,7 +2616,7 @@ msgctxt "@item Spelling dictionary"
 msgid "<application>Hunspell</application> Default"
 msgstr "<application>ISpell</application> تلواله"
 
-#: kde3support/kdeui/k3wizard.cpp:48
+#: kde3support/kdeui/k3wizard.cpp:48 kdeui/actions/kstandardaction_p.h:90
 msgid "&Back"
 msgstr "شاته&"
 
@@ -5412,27 +5412,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
 
-#: kdeui/actions/ktogglefullscreenaction.cpp:48
-#: kdeui/actions/ktogglefullscreenaction.cpp:55
-#: kdeui/actions/ktogglefullscreenaction.cpp:85
-#: kdeui/actions/kstandardaction_p.h:101
-msgid "F&ull Screen Mode"
-msgstr "ټ&وله پرده اکر"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:51
-#: kdeui/actions/ktogglefullscreenaction.cpp:58
-#: kdeui/actions/ktogglefullscreenaction.cpp:86
-msgid "Full Screen"
-msgstr "ټوله پرده"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:81
-msgid "Exit F&ull Screen Mode"
-msgstr "د ټ&ولې پردې اکر بندول"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:82
-msgid "Exit Full Screen"
-msgstr "ټوله پرده بندول"
-
 #: kdeui/actions/kaction.cpp:122
 #, kde-format
 msgid ""
@@ -5477,19 +5456,19 @@ msgctxt "show help"
 msgid "&Help"
 msgstr "مرسته&"
 
-#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:521 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "غورنۍ پټه ښودل&"
 
-#: kdeui/actions/kstandardaction.cpp:522
+#: kdeui/actions/kstandardaction.cpp:527
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "غورنۍ پټه ښودل<p>د پټولو نه وروسته بېرته غورنۍ پټه ښکاره کوي</p>"
 
-#: kdeui/actions/kstandardaction.cpp:539 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:544 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "ان&کړپټه ښودل"
 
-#: kdeui/actions/kstandardaction.cpp:542
+#: kdeui/actions/kstandardaction.cpp:547
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
@@ -5500,6 +5479,46 @@ msgid ""
 msgstr ""
 "انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده "
 "او د انکړ خبرتياوو لپاره کارول کيږي."
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:48
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@action:inmenu"
+msgid "Exit F&ull Screen Mode"
+msgstr "د ټ&ولې پردې اکر بندول"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:49
+#, fuzzy
+#| msgid "Exit Full Screen"
+msgctxt "@action:intoolbar"
+msgid "Exit Full Screen"
+msgstr "ټوله پرده بندول"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:50
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@info:tooltip"
+msgid "Exit full screen mode"
+msgstr "د ټ&ولې پردې اکر بندول"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:53
+#, fuzzy
+#| msgid "F&ull Screen Mode"
+msgctxt "@action:inmenu"
+msgid "F&ull Screen Mode"
+msgstr "ټ&وله پرده اکر"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:54
+#, fuzzy
+#| msgid "Full Screen"
+msgctxt "@action:intoolbar"
+msgid "Full Screen"
+msgstr "ټوله پرده"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:55
+msgctxt "@info:tooltip"
+msgid "Display the window in full screen"
+msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 msgid ""
@@ -8156,7 +8175,7 @@ msgstr "دوتنه پرانيستل"
 msgid "&Quit"
 msgstr "وتل&"
 
-#: kdeui/util/kstandardguiitem.cpp:255
+#: kdeui/util/kstandardguiitem.cpp:255 kdeui/actions/kstandardaction_p.h:53
 msgid "Quit application"
 msgstr "کاريال بندول"
 
@@ -13670,37 +13689,110 @@ msgstr "د کډي ازموېنې کړنلار"
 msgid "&New"
 msgstr "نوی&"
 
+#: kdeui/actions/kstandardaction_p.h:43
+#, fuzzy
+#| msgid "Create New Tag..."
+msgid "Create new document"
+msgstr "...نوی بچوی جوړول"
+
+#: kdeui/actions/kstandardaction_p.h:44
+msgid "Open an existing document"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:45
 msgid "Open &Recent"
 msgstr "اوسني &پرانيستل"
+
+#: kdeui/actions/kstandardaction_p.h:45
+msgid "Open a document which was recently opened"
+msgstr ""
+
+#: kdeui/actions/kstandardaction_p.h:46
+#, fuzzy
+#| msgid "Close Document"
+msgid "Save document"
+msgstr "لاسوند بندول"
+
+#: kdeui/actions/kstandardaction_p.h:47
+msgid "Save document under a new name"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:48
 msgid "Re&vert"
 msgstr "ب&ېرته"
 
+#: kdeui/actions/kstandardaction_p.h:48
+msgid "Revert unsaved changes made to document"
+msgstr ""
+
+#: kdeui/actions/kstandardaction_p.h:49
+#, fuzzy
+#| msgid "Close Document"
+msgid "Close document"
+msgstr "لاسوند بندول"
+
+#: kdeui/actions/kstandardaction_p.h:50
+#, fuzzy
+#| msgctxt "keyboard-key-name"
+#| msgid "PrintScreen"
+msgid "Print document"
+msgstr "پرده چاپ"
+
 #: kdeui/actions/kstandardaction_p.h:51
 msgid "Print Previe&w"
 msgstr "چاپ مخلي_د"
+
+#: kdeui/actions/kstandardaction_p.h:51
+msgid "Show a print preview of document"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:52
 msgid "&Mail..."
 msgstr "...ليک&"
 
+#: kdeui/actions/kstandardaction_p.h:52
+msgid "Send document by mail"
+msgstr ""
+
+#: kdeui/actions/kstandardaction_p.h:55
+msgid "Undo last action"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:56
 msgid "Re&do"
 msgstr "بي&اکړ"
+
+#: kdeui/actions/kstandardaction_p.h:56
+#, fuzzy
+#| msgid "HTML documentation"
+msgid "Redo last undone action"
+msgstr "لاسوندونه HTML"
 
 #: kdeui/actions/kstandardaction_p.h:57
 msgid "Cu&t"
 msgstr "سکڼ_ل"
 
+#: kdeui/actions/kstandardaction_p.h:57
+msgid "Cut selection to clipboard"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:58
 msgid "&Copy"
 msgstr "لمېسل&"
 
+#: kdeui/actions/kstandardaction_p.h:58
+msgid "Copy selection to clipboard"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
 msgid "&Paste"
 msgstr "سرېښل&"
+
+#: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
+#, fuzzy
+#| msgid "Loading Preview"
+msgid "Paste clipboard content"
+msgstr "مخکوت لېښل کيږي"
 
 #: kdeui/actions/kstandardaction_p.h:62
 msgid "Select &All"
@@ -13726,17 +13818,33 @@ msgstr "...ځاېناستول&"
 msgid "&Actual Size"
 msgstr "ار کچ&"
 
+#: kdeui/actions/kstandardaction_p.h:69
+msgid "View document at its actual size"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:70
 msgid "&Fit to Page"
 msgstr "مخ سره برابرول&"
+
+#: kdeui/actions/kstandardaction_p.h:70
+msgid "Zoom to fit page in window"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:71
 msgid "Fit to Page &Width"
 msgstr "د &مخ پلنوالي سره برابرول"
 
+#: kdeui/actions/kstandardaction_p.h:71
+msgid "Zoom to fit page width in window"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:72
 msgid "Fit to Page &Height"
 msgstr "د مخ &اوږدوالي سره برابرول"
+
+#: kdeui/actions/kstandardaction_p.h:72
+msgid "Zoom to fit page height in window"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:73
 msgid "Zoom &In"
@@ -13750,21 +13858,50 @@ msgstr "لو&کمول"
 msgid "&Zoom..."
 msgstr "...لويول&"
 
+#: kdeui/actions/kstandardaction_p.h:75
+#, fuzzy
+#| msgid "Select a week"
+msgid "Select zoom level"
+msgstr "يوه اونۍ وټاکﺉ"
+
 #: kdeui/actions/kstandardaction_p.h:76
 msgid "&Redisplay"
+msgstr "بياښوون&"
+
+#: kdeui/actions/kstandardaction_p.h:76
+#, fuzzy
+#| msgid "&Redisplay"
+msgid "Redisplay document"
 msgstr "بياښوون&"
 
 #: kdeui/actions/kstandardaction_p.h:78
 msgid "&Up"
 msgstr "پاس&"
 
+#: kdeui/actions/kstandardaction_p.h:78
+msgid "Go up"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:83
 msgid "&Previous Page"
+msgstr "مخکنی مخ&"
+
+#: kdeui/actions/kstandardaction_p.h:83
+#, fuzzy
+#| msgid "&Previous Page"
+msgid "Go to previous page"
 msgstr "مخکنی مخ&"
 
 #: kdeui/actions/kstandardaction_p.h:84
 msgid "&Next Page"
 msgstr "راتلونکی مخ&"
+
+#: kdeui/actions/kstandardaction_p.h:84
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Go to Line"
+msgid "Go to next page"
+msgstr "ليکې ته ورتلل"
 
 #: kdeui/actions/kstandardaction_p.h:85
 msgid "&Go To..."
@@ -13782,16 +13919,40 @@ msgstr "...ليکې ته ورتلل&"
 msgid "&First Page"
 msgstr "لومړی مخ&"
 
+#: kdeui/actions/kstandardaction_p.h:88
+#, fuzzy
+#| msgctxt "@action"
+#| msgid "Go to Line"
+msgid "Go to first page"
+msgstr "ليکې ته ورتلل"
+
 #: kdeui/actions/kstandardaction_p.h:89
 msgid "&Last Page"
 msgstr "وروستی مخ&"
 
+#: kdeui/actions/kstandardaction_p.h:89
+#, fuzzy
+#| msgid "&Go to Page..."
+msgid "Go to last page"
+msgstr "...مخ ته ورتلل&"
+
 #: kdeui/actions/kstandardaction_p.h:90
-msgid "&Back in the Document"
+#, fuzzy
+#| msgid "&Back in the Document"
+msgid "Go back in document"
 msgstr "شاته په لاسوند کې&"
 
 #: kdeui/actions/kstandardaction_p.h:91
-msgid "&Forward in the Document"
+#, fuzzy
+#| msgctxt "go forward"
+#| msgid "&Forward"
+msgid "&Forward"
+msgstr "مخکې&"
+
+#: kdeui/actions/kstandardaction_p.h:91
+#, fuzzy
+#| msgid "&Forward in the Document"
+msgid "Go forward in document"
 msgstr "مخکې په لاسوند کې&"
 
 #: kdeui/actions/kstandardaction_p.h:93
@@ -13808,9 +13969,37 @@ msgstr "ليکنښې &سمول"
 msgid "&Spelling..."
 msgstr "...ليکدود&"
 
+#: kdeui/actions/kstandardaction_p.h:96
+#, fuzzy
+#| msgid "Check Spelling"
+msgid "Check spelling in document"
+msgstr "ليکدود کتل"
+
+#: kdeui/actions/kstandardaction_p.h:98
+#, fuzzy
+#| msgid "Show &Menubar"
+msgid "Show or hide menubar"
+msgstr "غورنۍ پټه ښودل&"
+
 #: kdeui/actions/kstandardaction_p.h:99
 msgid "Show &Toolbar"
 msgstr "توکپټه &ښودل"
+
+#: kdeui/actions/kstandardaction_p.h:99
+#, fuzzy
+#| msgid "Show &Toolbar"
+msgid "Show or hide toolbar"
+msgstr "توکپټه &ښودل"
+
+#: kdeui/actions/kstandardaction_p.h:100
+#, fuzzy
+#| msgid "Show St&atusbar"
+msgid "Show or hide statusbar"
+msgstr "ان&کړپټه ښودل"
+
+#: kdeui/actions/kstandardaction_p.h:101
+msgid "F&ull Screen Mode"
+msgstr "ټ&وله پرده اکر"
 
 #: kdeui/actions/kstandardaction_p.h:102
 msgid "&Save Settings"
@@ -13905,11 +14094,6 @@ msgstr "غ.و"
 
 #, fuzzy
 #~| msgid "Show St&atusbar"
-#~ msgid "Show Statusbar"
-#~ msgstr "ان&کړپټه ښودل"
-
-#, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgid "Hide Statusbar"
 #~ msgstr "ان&کړپټه ښودل"
 
@@ -13932,11 +14116,6 @@ msgstr "غ.و"
 #~ msgctxt "option:check A filter on file type - media files"
 #~ msgid "Media"
 #~ msgstr "Meta"
-
-#, fuzzy
-#~| msgid "Show &Toolbar"
-#~ msgid "Show Toolbar"
-#~ msgstr "توکپټه &ښودل"
 
 #, fuzzy
 #~| msgid "HTML Toolbar"
