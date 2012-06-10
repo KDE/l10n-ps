@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-05 19:05+0200\n"
+"POT-Creation-Date: 2012-06-10 12:22+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -13670,6 +13670,10 @@ msgstr "-تلواله-"
 msgid "-unnamed-"
 msgstr "-بېنومه-"
 
+#: interfaces/terminal/example/main.cc:32
+msgid "TETest"
+msgstr "TETest"
+
 #: kdecore/services/kmimetypetrader.h:136
 #: kdecore/services/kmimetypetrader.h:169
 #: kdecore/services/kservicetypetrader.h:192
@@ -14151,9 +14155,6 @@ msgstr "غ.و"
 
 #~ msgid "Test the Kross framework!"
 #~ msgstr "د کراس دندچوکاټ ازموېل!"
-
-#~ msgid "TETest"
-#~ msgstr "TETest"
 
 #~ msgid "Find stopped."
 #~ msgstr ".پلټون وتمول شو"
