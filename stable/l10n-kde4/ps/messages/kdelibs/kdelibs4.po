@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-12 18:48+0200\n"
+"POT-Creation-Date: 2012-06-16 14:13+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6020,6 +6020,10 @@ msgstr "د انځور سيمه وټاکﺉ"
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr "په انځور کې د خپلې خوښې سيمې ټاکلو لپاره کېکاږﺉ او راکښ يې کړﺉ:"
 
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "سازول"
+
 #: kdeui/dialogs/kshortcutsdialog.cpp:67
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
@@ -6056,10 +6060,6 @@ msgstr "په پېلنګ کې نکتې ښودل&"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "راتلوکی&"
-
-#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "سازول"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, kde-format
