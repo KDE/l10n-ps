@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-24 21:19+0200\n"
+"POT-Creation-Date: 2012-08-01 13:37+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -13077,7 +13077,7 @@ msgstr "د اړيکې تېروتنه"
 msgid "Invalid type in Database"
 msgstr "په توکبنسټ کې ناسم ډول"
 
-#: nepomuk/query/query.cpp:687
+#: nepomuk/query/query.cpp:696
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -13085,7 +13085,7 @@ msgctxt ""
 msgid "Query Results from '%1'"
 msgstr ""
 
-#: nepomuk/query/query.cpp:693
+#: nepomuk/query/query.cpp:702
 msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr ""
