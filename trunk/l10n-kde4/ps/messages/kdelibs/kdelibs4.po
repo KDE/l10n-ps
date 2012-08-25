@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-24 04:57+0200\n"
+"POT-Creation-Date: 2012-08-25 06:15+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -849,15 +849,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "ډېر زيات ناسم ليکل شوي وييونه. د ليکلو سره سم ليکدود کتنه وناتوانول شوه."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:491
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:494
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:498
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:501
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
@@ -8646,7 +8646,7 @@ msgstr "بې نومه"
 #. (e.g. "Enter search pattern").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:80
 #, fuzzy
 #| msgid "1"
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
@@ -8913,31 +8913,31 @@ msgstr "سکرېپټ پرانيستل"
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
 
-#: kdeui/widgets/ktextedit.cpp:525
+#: kdeui/widgets/ktextedit.cpp:529
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "دوديزه ليکنه لوستل"
 
-#: kdeui/widgets/ktextedit.cpp:540
+#: kdeui/widgets/ktextedit.cpp:544
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:629
+#: kdeui/widgets/ktextedit.cpp:633
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "وړانديزونه"
 
-#: kdeui/widgets/ktextedit.cpp:640
+#: kdeui/widgets/ktextedit.cpp:644
 msgid "Ignore"
 msgstr "پرېښودل"
 
-#: kdeui/widgets/ktextedit.cpp:641
+#: kdeui/widgets/ktextedit.cpp:645
 msgid "Add to Dictionary"
 msgstr "ويېپانګه کې زياتول"
 
-#: kdeui/widgets/ktextedit.cpp:786
+#: kdeui/widgets/ktextedit.cpp:790
 msgid "Nothing to spell check."
 msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
