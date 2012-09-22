@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-17 12:39+0200\n"
+"POT-Creation-Date: 2012-09-22 14:04+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -8698,15 +8698,15 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:193
 msgid "Image Operations"
 msgstr "انځور چلښتونه"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:198
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:196
 msgid "&Rotate Clockwise"
 msgstr "ګړيالغوندې چورلول&"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:205
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:203
 msgid "Rotate &Counterclockwise"
 msgstr "سرچپه &ګړېغوندې چورلول"
 
