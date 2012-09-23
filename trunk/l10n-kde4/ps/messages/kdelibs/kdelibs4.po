@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-22 04:53+0200\n"
+"POT-Creation-Date: 2012-09-23 04:35+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -8698,15 +8698,15 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "تلواله"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:193
 msgid "Image Operations"
 msgstr "انځور چلښتونه"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:198
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:196
 msgid "&Rotate Clockwise"
 msgstr "ګړيالغوندې چورلول&"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:205
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:203
 msgid "Rotate &Counterclockwise"
 msgstr "سرچپه &ګړېغوندې چورلول"
 
@@ -11928,13 +11928,13 @@ msgstr ""
 msgid "Could not install \"%1\": file not found."
 msgstr "نه شي لګولی %1"
 
-#: knewstuff/knewstuff3/core/installation.cpp:477
+#: knewstuff/knewstuff3/core/installation.cpp:488
 #, fuzzy
 #| msgid "Overwrite File?"
 msgid "Overwrite existing file?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
-#: knewstuff/knewstuff3/core/installation.cpp:477
+#: knewstuff/knewstuff3/core/installation.cpp:488
 #, fuzzy
 #| msgid "Download"
 msgid "Download File:"
