@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-27 04:53+0200\n"
+"POT-Creation-Date: 2012-09-29 05:09+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -849,15 +849,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "ډېر زيات ناسم ليکل شوي وييونه. د ليکلو سره سم ليکدود کتنه وناتوانول شوه."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:495
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:546
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:498
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:549
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:503
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:554
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
@@ -8653,7 +8653,7 @@ msgstr "بې نومه"
 #. (e.g. "Enter search pattern").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:81
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:82
 #, fuzzy
 #| msgid "1"
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
@@ -8920,33 +8920,33 @@ msgstr "سکرېپټ پرانيستل"
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل&"
 
-#: kdeui/widgets/ktextedit.cpp:531
+#: kdeui/widgets/ktextedit.cpp:161
+msgid "Nothing to spell check."
+msgstr ".څه نشته چې ليکدود يې وکتل شي"
+
+#: kdeui/widgets/ktextedit.cpp:582
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "دوديزه ليکنه لوستل"
 
-#: kdeui/widgets/ktextedit.cpp:546
+#: kdeui/widgets/ktextedit.cpp:597
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:635
+#: kdeui/widgets/ktextedit.cpp:686
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "وړانديزونه"
 
-#: kdeui/widgets/ktextedit.cpp:647
+#: kdeui/widgets/ktextedit.cpp:698
 msgid "Ignore"
 msgstr "پرېښودل"
 
-#: kdeui/widgets/ktextedit.cpp:648
+#: kdeui/widgets/ktextedit.cpp:699
 msgid "Add to Dictionary"
 msgstr "ويېپانګه کې زياتول"
-
-#: kdeui/widgets/ktextedit.cpp:793
-msgid "Nothing to spell check."
-msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
 #: kdeui/widgets/ktimecombobox.cpp:259
 msgctxt "@info"
