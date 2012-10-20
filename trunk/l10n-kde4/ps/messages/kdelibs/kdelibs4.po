@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-19 04:36+0200\n"
+"POT-Creation-Date: 2012-10-20 04:52+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -9583,7 +9583,7 @@ msgstr "(%1 لاسليک کړی (باورتيا:"
 msgid "Certificate (validation: %1)"
 msgstr "(%1 برېليک (باورتيا:"
 
-#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6826
+#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6830
 msgid "Security Alert"
 msgstr "د خونديتوب خبرونه"
 
@@ -9769,12 +9769,12 @@ msgstr "دوتنه ځاېناستول غواړﺉ؟"
 msgid "Overwrite"
 msgstr "ځاېناستول"
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:405
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:397
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:406
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:398
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -10105,7 +10105,7 @@ msgid " - BCC: "
 msgstr "  :پ.ل - "
 
 #: khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
-#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:434
+#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:426
 msgid "Save As"
 msgstr "ساتل په"
 
@@ -10212,69 +10212,69 @@ msgid ""
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5904
+#: khtml/khtml_part.cpp:5908
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/س)"
 
-#: khtml/khtml_part.cpp:6816
+#: khtml/khtml_part.cpp:6820
 msgid "Security Warning"
 msgstr "د خونديتوب خبرتيا"
 
-#: khtml/khtml_part.cpp:6825
+#: khtml/khtml_part.cpp:6829
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7174
+#: khtml/khtml_part.cpp:7178
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7234
+#: khtml/khtml_part.cpp:7238
 msgid "&Close Wallet"
 msgstr "کڅوړه بندول&"
 
-#: khtml/khtml_part.cpp:7237
+#: khtml/khtml_part.cpp:7241
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7242
+#: khtml/khtml_part.cpp:7246
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7347
+#: khtml/khtml_part.cpp:7351
 msgid "JavaScript &Debugger"
 msgstr "جاواسکرېپټ &کړاوتمبوونی"
 
-#: khtml/khtml_part.cpp:7379
+#: khtml/khtml_part.cpp:7383
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ".مخ په جاواسکرېپټ د نوې کړکۍ پرانيستلو ته پرې نه ښودل شو"
 
-#: khtml/khtml_part.cpp:7385
+#: khtml/khtml_part.cpp:7389
 msgid "Popup Window Blocked"
 msgstr "بړبوکيزه کړکۍ بنده شوه"
 
-#: khtml/khtml_part.cpp:7385
+#: khtml/khtml_part.cpp:7389
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7398
+#: khtml/khtml_part.cpp:7402
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "بنده شوې بړبوکيزه کړکۍ ښودل&"
 msgstr[1] "بندې شوې بړبوکيزې کړکۍ ښودل %1&"
 
-#: khtml/khtml_part.cpp:7399
+#: khtml/khtml_part.cpp:7403
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7401
+#: khtml/khtml_part.cpp:7405
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "...د جاواسکرېپټ د نوې کړکۍ تګلارې سازول&"
 
@@ -10940,7 +10940,7 @@ msgid "<h1>KJSEmbed Documentation Viewer</h1>"
 msgstr "<h1>لاسوند ليدانی KJSEmbed</h1>"
 
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: kjsembed/examples/kjsconsole/jsconsole.ui:106 kparts/browserrun.cpp:344
+#: kjsembed/examples/kjsconsole/jsconsole.ui:106 kparts/browserrun.cpp:336
 msgid "Execute"
 msgstr "چلول"
 
@@ -12552,12 +12552,12 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "دا هغه نوم دی چې دوتنه پرې وساتل شي."
 
-#: kparts/browserrun.cpp:343
+#: kparts/browserrun.cpp:335
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "په رښتيا چلول غواړﺉ؟ '%1'"
 
-#: kparts/browserrun.cpp:344
+#: kparts/browserrun.cpp:336
 msgid "Execute File?"
 msgstr "دوتنه چلول غواړﺉ؟"
 
