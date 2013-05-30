@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-21 01:50+0000\n"
+"POT-Creation-Date: 2013-05-30 01:53+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1438,7 +1438,7 @@ msgstr "کډي کاريال"
 msgid "Qt"
 msgstr "ک.ټ"
 
-#: kdecore/kernel/kcmdlineargs.cpp:497 khtml/khtml_part.cpp:4838
+#: kdecore/kernel/kcmdlineargs.cpp:497 khtml/khtml_part.cpp:4836
 msgid "KDE"
 msgstr "کډي"
 
@@ -3756,7 +3756,7 @@ msgstr "ټول &ټاکل"
 msgid "Dese&lect"
 msgstr "ناټا&کل"
 
-#: kdeui/actions/kstandardaction_p.h:64 khtml/khtml_part.cpp:4104
+#: kdeui/actions/kstandardaction_p.h:64 khtml/khtml_part.cpp:4102
 msgid "&Find..."
 msgstr "...لټول&"
 
@@ -5093,7 +5093,7 @@ msgid "Warning"
 msgstr "خبرتيا"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:903 kjs/object.cpp:751
+#: khtml/rendering/render_form.cpp:916 kjs/object.cpp:751
 #: knewstuff/knewstuff3/uploaddialog.cpp:546
 msgid "Error"
 msgstr "تېروتنه"
@@ -8513,7 +8513,7 @@ msgstr "ښکته &خوځول"
 msgid "&Help"
 msgstr "مرسته&"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:1026
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:1039
 msgid "Clear &History"
 msgstr "مخينه &پاکول"
 
@@ -9090,7 +9090,7 @@ msgstr "%1"
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:563
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:176
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:600
-#: kdeui/windowmanagement/kwindowsystem_x11.cpp:896
+#: kdeui/windowmanagement/kwindowsystem_x11.cpp:914
 #, kde-format
 msgid "Desktop %1"
 msgstr "%1 سرپاڼه"
@@ -9459,7 +9459,7 @@ msgstr[0] "دوتنې لېږل&"
 msgstr[1] "دوتنې لېږل&"
 
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
-#: khtml/khtml_part.cpp:4785 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
+#: khtml/khtml_part.cpp:4783 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
 msgid "Submit"
 msgstr "لېږل"
 
@@ -9579,7 +9579,7 @@ msgstr "(%1 لاسليک کړی (باورتيا:"
 msgid "Certificate (validation: %1)"
 msgstr "(%1 برېليک (باورتيا:"
 
-#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6838
+#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6836
 msgid "Security Alert"
 msgstr "د خونديتوب خبرونه"
 
@@ -9837,7 +9837,7 @@ msgstr "د لاسوند خبرتياوې کتل"
 msgid "Save &Background Image As..."
 msgstr "...شاليد &انځور ساتل لکه"
 
-#: khtml/khtml_part.cpp:294 khtml/khtml_part.cpp:4041
+#: khtml/khtml_part.cpp:294 khtml/khtml_part.cpp:4039
 msgid "SSL"
 msgstr "SSL"
 
@@ -10038,36 +10038,36 @@ msgstr ":شوني لاملونه"
 msgid "Possible Solutions:"
 msgstr ":شونې حللارې"
 
-#: khtml/khtml_part.cpp:2300
+#: khtml/khtml_part.cpp:2298
 msgid "Page loaded."
 msgstr ".مخ لېښل شوی"
 
-#: khtml/khtml_part.cpp:2302
+#: khtml/khtml_part.cpp:2300
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] ".نه لېښل شوی %2 انځور د %1"
 msgstr[1] ".نه لېښل شوی %2 انځورونه د %1"
 
-#: khtml/khtml_part.cpp:2477
+#: khtml/khtml_part.cpp:2475
 msgid "Automatic Detection"
 msgstr "خپلکارې اوچتونه"
 
-#: khtml/khtml_part.cpp:3539 khtml/khtml_part.cpp:3626
-#: khtml/khtml_part.cpp:3637
+#: khtml/khtml_part.cpp:3537 khtml/khtml_part.cpp:3624
+#: khtml/khtml_part.cpp:3635
 msgid " (In new window)"
 msgstr " (په نوې کړکۍ کې)"
 
-#: khtml/khtml_part.cpp:3578
+#: khtml/khtml_part.cpp:3576
 msgid "Symbolic Link"
 msgstr "پېلامي تړنه"
 
-#: khtml/khtml_part.cpp:3580
+#: khtml/khtml_part.cpp:3578
 #, kde-format
 msgid "%1 (Link)"
 msgstr "(تړنه) %1"
 
-#: khtml/khtml_part.cpp:3600
+#: khtml/khtml_part.cpp:3598
 #, fuzzy, kde-format
 #| msgid "%2 (%1 bytes)"
 msgid "%2 (%1 byte)"
@@ -10075,57 +10075,57 @@ msgid_plural "%2 (%1 bytes)"
 msgstr[0] "(%1 باېټه) %2"
 msgstr[1] "(%1 باېټه) %2"
 
-#: khtml/khtml_part.cpp:3604
+#: khtml/khtml_part.cpp:3602
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 ک)"
 
-#: khtml/khtml_part.cpp:3639
+#: khtml/khtml_part.cpp:3637
 msgid " (In other frame)"
 msgstr " (په بل چوکاټ کې)"
 
-#: khtml/khtml_part.cpp:3644
+#: khtml/khtml_part.cpp:3642
 msgid "Email to: "
 msgstr ":ته لېکل"
 
-#: khtml/khtml_part.cpp:3650
+#: khtml/khtml_part.cpp:3648
 msgid " - Subject: "
 msgstr ":سرليک - "
 
-#: khtml/khtml_part.cpp:3652
+#: khtml/khtml_part.cpp:3650
 msgid " - CC: "
 msgstr "  :څ.ل - "
 
-#: khtml/khtml_part.cpp:3654
+#: khtml/khtml_part.cpp:3652
 msgid " - BCC: "
 msgstr "  :پ.ل - "
 
-#: khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
-#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:444
+#: khtml/khtml_part.cpp:3728 khtml/khtml_part.cpp:3957
+#: khtml/khtml_part.cpp:4378 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:444
 msgid "Save As"
 msgstr "ساتل په"
 
-#: khtml/khtml_part.cpp:3735
+#: khtml/khtml_part.cpp:3733
 #, kde-format
 msgid ""
 "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to follow "
 "the link?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:3736
+#: khtml/khtml_part.cpp:3734
 msgid "Follow"
 msgstr "ورتلل"
 
-#: khtml/khtml_part.cpp:3837
+#: khtml/khtml_part.cpp:3835
 msgid "Frame Information"
 msgstr "د چوکاټ خبرتياوې"
 
-#: khtml/khtml_part.cpp:3843
+#: khtml/khtml_part.cpp:3841
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[ځانتياوې]</a>"
 
-#: khtml/khtml_part.cpp:3869
+#: khtml/khtml_part.cpp:3867
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Turkish"
@@ -10133,35 +10133,35 @@ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "ترکي"
 
-#: khtml/khtml_part.cpp:3872
+#: khtml/khtml_part.cpp:3870
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr ""
 
-#: khtml/khtml_part.cpp:3876
+#: khtml/khtml_part.cpp:3874
 #, fuzzy
 #| msgid "Start"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "پېلول"
 
-#: khtml/khtml_part.cpp:3947
+#: khtml/khtml_part.cpp:3945
 msgid "Save Background Image As"
 msgstr "شاليد انځور ساتل لکه"
 
-#: khtml/khtml_part.cpp:4039
+#: khtml/khtml_part.cpp:4037
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4058
+#: khtml/khtml_part.cpp:4056
 msgid "Save Frame As"
 msgstr "چوکاټ ساتل لکه"
 
-#: khtml/khtml_part.cpp:4102
+#: khtml/khtml_part.cpp:4100
 msgid "&Find in Frame..."
 msgstr "...په چوکاټ کې لټول&"
 
-#: khtml/khtml_part.cpp:4726
+#: khtml/khtml_part.cpp:4724
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10169,108 +10169,108 @@ msgid ""
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4729 khtml/khtml_part.cpp:4738
-#: khtml/khtml_part.cpp:4762
+#: khtml/khtml_part.cpp:4727 khtml/khtml_part.cpp:4736
+#: khtml/khtml_part.cpp:4760
 msgid "Network Transmission"
 msgstr "ځال لېږدون"
 
-#: khtml/khtml_part.cpp:4729 khtml/khtml_part.cpp:4739
+#: khtml/khtml_part.cpp:4727 khtml/khtml_part.cpp:4737
 msgid "&Send Unencrypted"
 msgstr "کوډه ناکښلې لېږل&"
 
-#: khtml/khtml_part.cpp:4736
+#: khtml/khtml_part.cpp:4734
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
 "Are you sure you wish to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4760
+#: khtml/khtml_part.cpp:4758
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4763
+#: khtml/khtml_part.cpp:4761
 msgid "&Send Email"
 msgstr "برېښليک لېږل&"
 
-#: khtml/khtml_part.cpp:4784
+#: khtml/khtml_part.cpp:4782
 #, kde-format
 msgid ""
 "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 "filesystem.<br />Do you want to submit the form?</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:4838
+#: khtml/khtml_part.cpp:4836
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
 msgstr ""
 
-#: khtml/khtml_part.cpp:5916
+#: khtml/khtml_part.cpp:5914
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/س)"
 
-#: khtml/khtml_part.cpp:6828
+#: khtml/khtml_part.cpp:6826
 msgid "Security Warning"
 msgstr "د خونديتوب خبرتيا"
 
-#: khtml/khtml_part.cpp:6837
+#: khtml/khtml_part.cpp:6835
 #, kde-format
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7186
+#: khtml/khtml_part.cpp:7184
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7246
+#: khtml/khtml_part.cpp:7244
 msgid "&Close Wallet"
 msgstr "کڅوړه بندول&"
 
-#: khtml/khtml_part.cpp:7249
+#: khtml/khtml_part.cpp:7247
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7254
+#: khtml/khtml_part.cpp:7252
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7359
+#: khtml/khtml_part.cpp:7357
 msgid "JavaScript &Debugger"
 msgstr "جاواسکرېپټ &کړاوتمبوونی"
 
-#: khtml/khtml_part.cpp:7391
+#: khtml/khtml_part.cpp:7389
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ".مخ په جاواسکرېپټ د نوې کړکۍ پرانيستلو ته پرې نه ښودل شو"
 
-#: khtml/khtml_part.cpp:7397
+#: khtml/khtml_part.cpp:7395
 msgid "Popup Window Blocked"
 msgstr "بړبوکيزه کړکۍ بنده شوه"
 
-#: khtml/khtml_part.cpp:7397
+#: khtml/khtml_part.cpp:7395
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
 "or to open the popup."
 msgstr ""
 
-#: khtml/khtml_part.cpp:7410
+#: khtml/khtml_part.cpp:7408
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "بنده شوې بړبوکيزه کړکۍ ښودل&"
 msgstr[1] "بندې شوې بړبوکيزې کړکۍ ښودل %1&"
 
-#: khtml/khtml_part.cpp:7411
+#: khtml/khtml_part.cpp:7409
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7413
+#: khtml/khtml_part.cpp:7411
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "...د جاواسکرېپټ د نوې کړکۍ تګلارې سازول&"
 
@@ -10405,36 +10405,36 @@ msgstr ""
 msgid "Pause"
 msgstr "ځنډول"
 
-#: khtml/rendering/render_form.cpp:882
+#: khtml/rendering/render_form.cpp:895
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "لنډلار"
 
-#: khtml/rendering/render_form.cpp:903
+#: khtml/rendering/render_form.cpp:916
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "ساکټ د مخکې نه جوړ شوی"
 
-#: khtml/rendering/render_form.cpp:948
+#: khtml/rendering/render_form.cpp:961
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:950
+#: khtml/rendering/render_form.cpp:963
 #, fuzzy
 #| msgid "Enter search phrase here"
 msgid "New search provider"
 msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
-#: khtml/rendering/render_form.cpp:955
+#: khtml/rendering/render_form.cpp:968
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "لنډلاري"
 
-#: khtml/rendering/render_form.cpp:1041
+#: khtml/rendering/render_form.cpp:1054
 #, fuzzy
 #| msgid "Configure Shortcuts"
 msgid "Create Web Shortcut"
@@ -13356,21 +13356,21 @@ msgstr "بندول"
 msgid "Changing annotations"
 msgstr ""
 
-#: nepomuk/ui/tagwidget.cpp:61
+#: nepomuk/ui/tagwidget.cpp:62
 #, fuzzy
 #| msgid "Show all options"
 msgctxt "@label"
 msgid "Show all tags..."
 msgstr "ټول غوراوي ښودل"
 
-#: nepomuk/ui/tagwidget.cpp:112
+#: nepomuk/ui/tagwidget.cpp:113
 #, fuzzy
 #| msgid "Add..."
 msgctxt "@label"
 msgid "Add Tags..."
 msgstr "...زياتول"
 
-#: nepomuk/ui/tagwidget.cpp:112
+#: nepomuk/ui/tagwidget.cpp:113
 #, fuzzy
 #| msgid "Change &Icon..."
 msgctxt "@label"
