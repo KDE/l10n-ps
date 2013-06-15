@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: useraccount\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-20 03:23+0200\n"
+"POT-Creation-Date: 2013-06-15 01:27+0000\n"
 "PO-Revision-Date: 2008-08-12 08:23-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -108,96 +108,96 @@ msgstr "د کارن ننوت انځور"
 msgid "Password echo type"
 msgstr "تېرنويې بدلوونی"
 
-#: main.cpp:71
+#: main.cpp:74
 msgid "Change &Password..."
 msgstr "تېرنويې &بدلول..."
 
-#: main.cpp:89
+#: main.cpp:92
 msgid "Password & User Information"
 msgstr "تېرنويې او کارن خبرتياوې"
 
-#: main.cpp:91
+#: main.cpp:94
 msgid "(C) 2002, Braden MacDonald, (C) 2004 Ravikiran Rajagopal"
 msgstr "چاپرښتې ۲۰۰۲، برېډېن مېکډونېلډ، چاپرښتې ۲۰۰۴ راويکېرن راجاګوپال"
 
-#: main.cpp:94
+#: main.cpp:97
 msgid "Frans Englich"
 msgstr "فرانس اېنګلېچ"
 
-#: main.cpp:94
+#: main.cpp:97
 msgid "Maintainer"
 msgstr "ساتونکی"
 
-#: main.cpp:95
+#: main.cpp:98
 msgid "Ravikiran Rajagopal"
 msgstr "راويکېرن راجاګوپال"
 
-#: main.cpp:96
+#: main.cpp:99
 msgid "Michael Häckel"
 msgstr "ماېکل هېکل"
 
-#: main.cpp:98
+#: main.cpp:101
 msgid "Braden MacDonald"
 msgstr "برېډېن مېکډونېلډ"
 
-#: main.cpp:98
+#: main.cpp:101
 msgid "Face editor"
 msgstr "مخ سموونی"
 
-#: main.cpp:99
+#: main.cpp:102
 msgid "Geert Jansen"
 msgstr "ګيرټ جېنسن"
 
-#: main.cpp:99
+#: main.cpp:102
 msgid "Password changer"
 msgstr "تېرنويې بدلوونی"
 
-#: main.cpp:101
+#: main.cpp:104
 msgid "Daniel Molkentin"
 msgstr "ډېنيل مولکېنټېن"
 
-#: main.cpp:102
+#: main.cpp:105
 msgid "Alex Zepeda"
 msgstr "اېلېکس زېپېډا"
 
-#: main.cpp:103
+#: main.cpp:106
 msgid "Hans Karlsson"
 msgstr "هېنس کېرلسن"
 
-#: main.cpp:103 main.cpp:104
+#: main.cpp:106 main.cpp:107
 msgid "Icons"
 msgstr "انځورنونه"
 
-#: main.cpp:104
+#: main.cpp:107
 msgid "Hermann Thomas"
 msgstr "هېرمن ټامس"
 
-#: main.cpp:107
+#: main.cpp:110
 msgid ""
 "<qt>Here you can change your personal information, which will be used, for "
 "instance, in mail programs and word processors. You can change your login "
 "password by clicking <em>Change Password...</em>.</qt>"
 msgstr ""
 
-#: main.cpp:121
+#: main.cpp:124
 msgid ""
 "A program error occurred: the internal program 'kdepasswd' could not be "
 "found. You will not be able to change your password."
 msgstr ""
 
-#: main.cpp:182
+#: main.cpp:185
 msgid "Please enter your password in order to save your settings:"
 msgstr "د خپلو امستنو د ساتلو لپاره خپله تېرنويې وليکئ:"
 
-#: main.cpp:185
+#: main.cpp:188
 msgid "You must enter your password in order to change your information."
 msgstr "د خپلو خبرتياوو د بدلولو لپاره دا اړينه ده چې تاسو خپله تېرنويې وليکئ."
 
-#: main.cpp:195
+#: main.cpp:198
 msgid "You must enter a correct password."
 msgstr "اړينه ده چې تاسو سمه تېرنويې وليکئ."
 
-#: main.cpp:199
+#: main.cpp:202
 #, kde-format
 msgid ""
 "An error occurred and your name has probably not been changed. The error "
@@ -205,18 +205,24 @@ msgid ""
 "%1"
 msgstr ""
 
-#: main.cpp:219
+#: main.cpp:222
 #, kde-format
 msgid "There was an error saving the image: %1"
 msgstr "%1 د انځور په ساتلو کې کومه ستونزه رامنځته شوه:"
 
-#: main.cpp:225
+#: main.cpp:240
+#, fuzzy, kde-format
+#| msgid "There was an error saving the image: %1"
+msgid "There was an error setting the image: %1"
+msgstr "%1 د انځور په ساتلو کې کومه ستونزه رامنځته شوه:"
+
+#: main.cpp:247
 #, fuzzy, kde-format
 #| msgid "There was an error saving the image: %1"
 msgid "There was an error deleting the image: %1"
 msgstr "%1 د انځور په ساتلو کې کومه ستونزه رامنځته شوه:"
 
-#: main.cpp:304
+#: main.cpp:326
 #, kde-format
 msgid ""
 "%1 does not appear to be an image file.\n"
