@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-06-23 01:36+0000\n"
+"POT-Creation-Date: 2013-07-02 01:38+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1835,7 +1835,7 @@ msgctxt "@item Text character set"
 msgid "Universal"
 msgstr "نړېوال"
 
-#: kdecore/localization/klocale_kde.cpp:1093
+#: kdecore/localization/klocale_kde.cpp:1094
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
@@ -1843,7 +1843,7 @@ msgctxt "digit set"
 msgid "Arabic-Indic"
 msgstr "عربي"
 
-#: kdecore/localization/klocale_kde.cpp:1096
+#: kdecore/localization/klocale_kde.cpp:1097
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bengali"
@@ -1851,7 +1851,7 @@ msgctxt "digit set"
 msgid "Bengali"
 msgstr "بنګالي"
 
-#: kdecore/localization/klocale_kde.cpp:1099
+#: kdecore/localization/klocale_kde.cpp:1100
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari"
@@ -1859,12 +1859,12 @@ msgctxt "digit set"
 msgid "Devanagari"
 msgstr "دېونګري"
 
-#: kdecore/localization/klocale_kde.cpp:1102
+#: kdecore/localization/klocale_kde.cpp:1103
 msgctxt "digit set"
 msgid "Eastern Arabic-Indic"
 msgstr ""
 
-#: kdecore/localization/klocale_kde.cpp:1105
+#: kdecore/localization/klocale_kde.cpp:1106
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Gujarati"
@@ -1872,7 +1872,7 @@ msgctxt "digit set"
 msgid "Gujarati"
 msgstr "ګجراتي"
 
-#: kdecore/localization/klocale_kde.cpp:1108
+#: kdecore/localization/klocale_kde.cpp:1109
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Gurmukhi"
@@ -1880,7 +1880,7 @@ msgctxt "digit set"
 msgid "Gurmukhi"
 msgstr "ګورموکي"
 
-#: kdecore/localization/klocale_kde.cpp:1111
+#: kdecore/localization/klocale_kde.cpp:1112
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Kannada"
@@ -1888,7 +1888,7 @@ msgctxt "digit set"
 msgid "Kannada"
 msgstr "کناډا"
 
-#: kdecore/localization/klocale_kde.cpp:1114
+#: kdecore/localization/klocale_kde.cpp:1115
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Khmer"
@@ -1896,7 +1896,7 @@ msgctxt "digit set"
 msgid "Khmer"
 msgstr "کمير"
 
-#: kdecore/localization/klocale_kde.cpp:1117
+#: kdecore/localization/klocale_kde.cpp:1118
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Malayalam"
@@ -1904,7 +1904,7 @@ msgctxt "digit set"
 msgid "Malayalam"
 msgstr "ملايالم"
 
-#: kdecore/localization/klocale_kde.cpp:1120
+#: kdecore/localization/klocale_kde.cpp:1121
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Oriya"
@@ -1912,7 +1912,7 @@ msgctxt "digit set"
 msgid "Oriya"
 msgstr "وريا"
 
-#: kdecore/localization/klocale_kde.cpp:1123
+#: kdecore/localization/klocale_kde.cpp:1124
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tamil"
@@ -1920,7 +1920,7 @@ msgctxt "digit set"
 msgid "Tamil"
 msgstr "ټامېل"
 
-#: kdecore/localization/klocale_kde.cpp:1126
+#: kdecore/localization/klocale_kde.cpp:1127
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Telugu"
@@ -1928,7 +1928,7 @@ msgctxt "digit set"
 msgid "Telugu"
 msgstr "ټېلوګو"
 
-#: kdecore/localization/klocale_kde.cpp:1129
+#: kdecore/localization/klocale_kde.cpp:1130
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Thai"
@@ -1936,7 +1936,7 @@ msgctxt "digit set"
 msgid "Thai"
 msgstr "ټهايي"
 
-#: kdecore/localization/klocale_kde.cpp:1132
+#: kdecore/localization/klocale_kde.cpp:1133
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
@@ -1944,7 +1944,7 @@ msgctxt "digit set"
 msgid "Arabic"
 msgstr "عربي"
 
-#: kdecore/localization/klocale_kde.cpp:1137
+#: kdecore/localization/klocale_kde.cpp:1138
 #, fuzzy, kde-format
 #| msgctxt "dictionary name. %1-language and %2-country name"
 #| msgid "%1 (%2)"
@@ -1953,7 +1953,7 @@ msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1634
+#: kdecore/localization/klocale_kde.cpp:1635
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in bytes"
@@ -1961,7 +1961,7 @@ msgid "%1 B"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1639
+#: kdecore/localization/klocale_kde.cpp:1640
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 1000 bytes"
@@ -1969,7 +1969,7 @@ msgid "%1 kB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1641
+#: kdecore/localization/klocale_kde.cpp:1642
 #, fuzzy, kde-format
 #| msgid "%1 MiB"
 msgctxt "size in 10^6 bytes"
@@ -1977,7 +1977,7 @@ msgid "%1 MB"
 msgstr "م ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1643
+#: kdecore/localization/klocale_kde.cpp:1644
 #, fuzzy, kde-format
 #| msgid "%1 GiB"
 msgctxt "size in 10^9 bytes"
@@ -1985,7 +1985,7 @@ msgid "%1 GB"
 msgstr "ج ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1645
+#: kdecore/localization/klocale_kde.cpp:1646
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 10^12 bytes"
@@ -1993,7 +1993,7 @@ msgid "%1 TB"
 msgstr "ټ ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1647
+#: kdecore/localization/klocale_kde.cpp:1648
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^15 bytes"
@@ -2001,7 +2001,7 @@ msgid "%1 PB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1649
+#: kdecore/localization/klocale_kde.cpp:1650
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^18 bytes"
@@ -2009,7 +2009,7 @@ msgid "%1 EB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1651
+#: kdecore/localization/klocale_kde.cpp:1652
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^21 bytes"
@@ -2017,7 +2017,7 @@ msgid "%1 ZB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1653
+#: kdecore/localization/klocale_kde.cpp:1654
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "size in 10^24 bytes"
@@ -2025,7 +2025,7 @@ msgid "%1 YB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1658
+#: kdecore/localization/klocale_kde.cpp:1659
 #, fuzzy, kde-format
 #| msgid "%1 KiB"
 msgctxt "memory size in 1024 bytes"
@@ -2033,7 +2033,7 @@ msgid "%1 KB"
 msgstr "ک ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1660
+#: kdecore/localization/klocale_kde.cpp:1661
 #, fuzzy, kde-format
 #| msgid "%1 MiB"
 msgctxt "memory size in 2^20 bytes"
@@ -2041,7 +2041,7 @@ msgid "%1 MB"
 msgstr "م ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1662
+#: kdecore/localization/klocale_kde.cpp:1663
 #, fuzzy, kde-format
 #| msgid "%1 GiB"
 msgctxt "memory size in 2^30 bytes"
@@ -2049,7 +2049,7 @@ msgid "%1 GB"
 msgstr "ج ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1664
+#: kdecore/localization/klocale_kde.cpp:1665
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "memory size in 2^40 bytes"
@@ -2057,7 +2057,7 @@ msgid "%1 TB"
 msgstr "ټ ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1666
+#: kdecore/localization/klocale_kde.cpp:1667
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^50 bytes"
@@ -2065,7 +2065,7 @@ msgid "%1 PB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1668
+#: kdecore/localization/klocale_kde.cpp:1669
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^60 bytes"
@@ -2073,7 +2073,7 @@ msgid "%1 EB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1670
+#: kdecore/localization/klocale_kde.cpp:1671
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^70 bytes"
@@ -2081,7 +2081,7 @@ msgid "%1 ZB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1672
+#: kdecore/localization/klocale_kde.cpp:1673
 #, fuzzy, kde-format
 #| msgid "%1 B"
 msgctxt "memory size in 2^80 bytes"
@@ -2089,7 +2089,7 @@ msgid "%1 YB"
 msgstr "ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1678
+#: kdecore/localization/klocale_kde.cpp:1679
 #, fuzzy, kde-format
 #| msgid "%1 KiB"
 msgctxt "size in 1024 bytes"
@@ -2097,7 +2097,7 @@ msgid "%1 KiB"
 msgstr "ک ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1680
+#: kdecore/localization/klocale_kde.cpp:1681
 #, fuzzy, kde-format
 #| msgid "%1 MiB"
 msgctxt "size in 2^20 bytes"
@@ -2105,7 +2105,7 @@ msgid "%1 MiB"
 msgstr "م ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1682
+#: kdecore/localization/klocale_kde.cpp:1683
 #, fuzzy, kde-format
 #| msgid "%1 GiB"
 msgctxt "size in 2^30 bytes"
@@ -2113,7 +2113,7 @@ msgid "%1 GiB"
 msgstr "ج ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1684
+#: kdecore/localization/klocale_kde.cpp:1685
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^40 bytes"
@@ -2121,7 +2121,7 @@ msgid "%1 TiB"
 msgstr "ټ ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1686
+#: kdecore/localization/klocale_kde.cpp:1687
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^50 bytes"
@@ -2129,7 +2129,7 @@ msgid "%1 PiB"
 msgstr "ټ ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1688
+#: kdecore/localization/klocale_kde.cpp:1689
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^60 bytes"
@@ -2137,7 +2137,7 @@ msgid "%1 EiB"
 msgstr "ټ ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1690
+#: kdecore/localization/klocale_kde.cpp:1691
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^70 bytes"
@@ -2145,42 +2145,42 @@ msgid "%1 ZiB"
 msgstr "ټ ا ب %1"
 
 #. i18n: Dumb message, avoid any markup or scripting.
-#: kdecore/localization/klocale_kde.cpp:1692
+#: kdecore/localization/klocale_kde.cpp:1693
 #, fuzzy, kde-format
 #| msgid "%1 TiB"
 msgctxt "size in 2^80 bytes"
 msgid "%1 YiB"
 msgstr "ټ ا ب %1"
 
-#: kdecore/localization/klocale_kde.cpp:1779
+#: kdecore/localization/klocale_kde.cpp:1780
 #, fuzzy, kde-format
 #| msgid "%1 days"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 days"
 msgid "%1 days"
 msgstr "ورځې %1"
 
-#: kdecore/localization/klocale_kde.cpp:1782
+#: kdecore/localization/klocale_kde.cpp:1783
 #, fuzzy, kde-format
 #| msgid "%1 hours"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 hours"
 msgid "%1 hours"
 msgstr "ګېنټې %1"
 
-#: kdecore/localization/klocale_kde.cpp:1785
+#: kdecore/localization/klocale_kde.cpp:1786
 #, fuzzy, kde-format
 #| msgid "%1 minutes"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 minutes"
 msgid "%1 minutes"
 msgstr "مېنټه %1"
 
-#: kdecore/localization/klocale_kde.cpp:1788
+#: kdecore/localization/klocale_kde.cpp:1789
 #, fuzzy, kde-format
 #| msgid "%1 seconds"
 msgctxt "@item:intext %1 is a real number, e.g. 1.23 seconds"
 msgid "%1 seconds"
 msgstr "سېکېنډه %1"
 
-#: kdecore/localization/klocale_kde.cpp:1791
+#: kdecore/localization/klocale_kde.cpp:1792
 #, fuzzy, kde-format
 #| msgid "%1 milliseconds"
 msgctxt "@item:intext"
@@ -2189,7 +2189,7 @@ msgid_plural "%1 milliseconds"
 msgstr[0] "مېلېسېکېنډه %1"
 msgstr[1] "مېلېسېکېنډه %1"
 
-#: kdecore/localization/klocale_kde.cpp:1798
+#: kdecore/localization/klocale_kde.cpp:1799
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 day"
@@ -2197,7 +2197,7 @@ msgid_plural "%1 days"
 msgstr[0] "۱ ورځ"
 msgstr[1] "ورځې %1"
 
-#: kdecore/localization/klocale_kde.cpp:1800
+#: kdecore/localization/klocale_kde.cpp:1801
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 hour"
@@ -2205,7 +2205,7 @@ msgid_plural "%1 hours"
 msgstr[0] "۱ ګېنټه"
 msgstr[1] "ګېنټې %1"
 
-#: kdecore/localization/klocale_kde.cpp:1802
+#: kdecore/localization/klocale_kde.cpp:1803
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 minute"
@@ -2213,7 +2213,7 @@ msgid_plural "%1 minutes"
 msgstr[0] "۱ مېنټ"
 msgstr[1] "مېنټه %1"
 
-#: kdecore/localization/klocale_kde.cpp:1804
+#: kdecore/localization/klocale_kde.cpp:1805
 #, kde-format
 msgctxt "@item:intext"
 msgid "1 second"
@@ -2221,7 +2221,7 @@ msgid_plural "%1 seconds"
 msgstr[0] "۱ سېکېنډ"
 msgstr[1] "سېکېنډه %1"
 
-#: kdecore/localization/klocale_kde.cpp:1828
+#: kdecore/localization/klocale_kde.cpp:1829
 #, kde-format
 msgctxt ""
 "@item:intext days and hours. This uses the previous item:intext messages. If "
@@ -2230,7 +2230,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%2 او‏‎‎ %1"
 
-#: kdecore/localization/klocale_kde.cpp:1834
+#: kdecore/localization/klocale_kde.cpp:1835
 #, kde-format
 msgctxt ""
 "@item:intext hours and minutes. This uses the previous item:intext messages. "
@@ -2239,7 +2239,7 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%2 او‏‎‎ %1"
 
-#: kdecore/localization/klocale_kde.cpp:1841
+#: kdecore/localization/klocale_kde.cpp:1842
 #, kde-format
 msgctxt ""
 "@item:intext minutes and seconds. This uses the previous item:intext "
@@ -2248,56 +2248,56 @@ msgctxt ""
 msgid "%1 and %2"
 msgstr "%2 او‏‎‎ %1"
 
-#: kdecore/localization/klocale_kde.cpp:2468
+#: kdecore/localization/klocale_kde.cpp:2469
 msgctxt "Before Noon KLocale::LongName"
 msgid "Ante Meridiem"
 msgstr ""
 
-#: kdecore/localization/klocale_kde.cpp:2469
+#: kdecore/localization/klocale_kde.cpp:2470
 msgctxt "Before Noon KLocale::ShortName"
 msgid "AM"
 msgstr ""
 
-#: kdecore/localization/klocale_kde.cpp:2470
+#: kdecore/localization/klocale_kde.cpp:2471
 #, fuzzy
 #| msgid "AC"
 msgctxt "Before Noon KLocale::NarrowName"
 msgid "A"
 msgstr "AC"
 
-#: kdecore/localization/klocale_kde.cpp:2473
+#: kdecore/localization/klocale_kde.cpp:2474
 msgctxt "After Noon KLocale::LongName"
 msgid "Post Meridiem"
 msgstr ""
 
-#: kdecore/localization/klocale_kde.cpp:2474
+#: kdecore/localization/klocale_kde.cpp:2475
 msgctxt "After Noon KLocale::ShortName"
 msgid "PM"
 msgstr ""
 
-#: kdecore/localization/klocale_kde.cpp:2475
+#: kdecore/localization/klocale_kde.cpp:2476
 msgctxt "After Noon KLocale::NarrowName"
 msgid "P"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QToolButton, m_rangesButton)
-#: kdecore/localization/klocale_kde.cpp:2523
+#: kdecore/localization/klocale_kde.cpp:2524
 #: nepomuk/utils/daterangeselectionwidget.cpp:193
 #: nepomuk/utils/daterangeselectionwidget.ui:81
 msgid "Today"
 msgstr "نن"
 
-#: kdecore/localization/klocale_kde.cpp:2526
+#: kdecore/localization/klocale_kde.cpp:2527
 msgid "Yesterday"
 msgstr "پرون"
 
-#: kdecore/localization/klocale_kde.cpp:2542
+#: kdecore/localization/klocale_kde.cpp:2543
 #, kde-format
 msgctxt "concatenation of dates and time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale_kde.cpp:2582
+#: kdecore/localization/klocale_kde.cpp:2583
 #, kde-format
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
