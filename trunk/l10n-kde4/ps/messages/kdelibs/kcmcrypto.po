@@ -25,7 +25,7 @@ msgstr "ستاسو نومونه"
 
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ستاسو برېښليکونه"
+msgstr "zabeehkhan@gmail.com"
 
 #: certexport.cpp:49
 msgid "X509 Certificate Export"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: certexport.cpp:55
 msgid "&Netscape"
-msgstr "نېټسکېپ&"
+msgstr "نېټسکېپ"
 
 #: certexport.cpp:57
 msgid "&DER/ASN1"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: certexport.cpp:59
 msgid "&Text"
-msgstr "ليکنه&"
+msgstr "ليکنه"
 
 #: certexport.cpp:64
 msgid "Filename:"
@@ -57,11 +57,11 @@ msgstr "دوتنه نوم:"
 
 #: certexport.cpp:75
 msgid "&Export"
-msgstr "بهرول&"
+msgstr "بهرول"
 
 #: certexport.cpp:80
 msgid "&Cancel"
-msgstr "بندول&"
+msgstr "بندول"
 
 #: certexport.cpp:103
 msgid "Internal error. Please report to kfm-devel@kde.org."
@@ -282,7 +282,7 @@ msgstr ""
 
 #: crypto.cpp:361
 msgid "&Test"
-msgstr "ازموېل&"
+msgstr "ازموېل"
 
 #: crypto.cpp:372
 msgid "Use EGD"
@@ -338,7 +338,7 @@ msgstr "د&ننول..."
 
 #: crypto.cpp:435 crypto.cpp:609
 msgid "&Export..."
-msgstr "بهرول...&"
+msgstr "بهرول..."
 
 #: crypto.cpp:440 crypto.cpp:559
 msgid "Remo&ve"
@@ -346,7 +346,7 @@ msgstr "ړنګ&ول"
 
 #: crypto.cpp:445
 msgid "&Unlock"
-msgstr "ناکولپول&"
+msgstr "ناکولپول"
 
 #: crypto.cpp:450
 msgid "Verif&y"
@@ -394,7 +394,7 @@ msgstr "په س.س.ل نښلېدنه..."
 
 #: crypto.cpp:488
 msgid "&Use default certificate"
-msgstr "تلواله برېليک کارول&"
+msgstr "تلواله برېليک کارول"
 
 #: crypto.cpp:489
 msgid "&List upon connection"
@@ -402,7 +402,7 @@ msgstr ""
 
 #: crypto.cpp:490
 msgid "&Do not use certificates"
-msgstr "برېليکونه نه کارول&"
+msgstr "برېليکونه نه کارول"
 
 #: crypto.cpp:494 crypto.cpp:578 crypto.cpp:716 crypto.cpp:781
 msgid ""
@@ -416,11 +416,11 @@ msgstr "تلواله چار"
 
 #: crypto.cpp:513
 msgid "&Send"
-msgstr "لېږل&"
+msgstr "لېږل"
 
 #: crypto.cpp:516 crypto.cpp:700
 msgid "&Prompt"
-msgstr "پارليکه&"
+msgstr "پارليکه"
 
 #: crypto.cpp:519
 msgid "Do &not send"
@@ -492,7 +492,7 @@ msgstr ""
 
 #: crypto.cpp:616 crypto.cpp:747 crypto.cpp:822
 msgid "&Remove"
-msgstr "ړنګول&"
+msgstr "ړنګول"
 
 #: crypto.cpp:619
 msgid ""
@@ -501,7 +501,7 @@ msgstr ""
 
 #: crypto.cpp:623
 msgid "&Verify"
-msgstr "کرول&"
+msgstr "کرول"
 
 #: crypto.cpp:626
 msgid "This button tests the selected certificate for validity."
@@ -517,7 +517,7 @@ msgstr "ت&ل"
 
 #: crypto.cpp:670
 msgid "&Until"
-msgstr "تر&"
+msgstr "تر"
 
 #: crypto.cpp:684
 msgid "Select here to make the cache entry permanent."
@@ -599,7 +599,7 @@ msgstr ""
 
 #: crypto.cpp:818
 msgid "&Add"
-msgstr "زياتول&"
+msgstr "زياتول"
 
 #: crypto.cpp:831
 msgid ""

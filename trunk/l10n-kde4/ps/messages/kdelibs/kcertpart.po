@@ -25,9 +25,9 @@ msgstr "ستاسو نومونه"
 
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ستاسو برېښليکونه"
+msgstr "zabeehkhan@gmail.com"
 
 #. i18n: ectx: Menu (Certificate)
 #: kcertpart.rc:4
 msgid "&Certificate"
-msgstr "برېليک&"
+msgstr "رېليک"

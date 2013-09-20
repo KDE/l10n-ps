@@ -25,7 +25,7 @@ msgstr "ستاسو نومونه"
 
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ستاسو برېښليکونه"
+msgstr "zabeehkhan@gmail.com"
 
 #: chfacedlg.cpp:56
 #, fuzzy
@@ -257,22 +257,22 @@ msgstr "کارن خبرتياوې"
 #. i18n: ectx: property (text), widget (QLabel, lblRealName)
 #: main_widget.ui:122
 msgid "&Name:"
-msgstr "نوم:&"
+msgstr "نوم:"
 
 #. i18n: ectx: property (text), widget (QLabel, lblOrganisation)
 #: main_widget.ui:145
 msgid "&Organization:"
-msgstr "اداره:&"
+msgstr "اداره:"
 
 #. i18n: ectx: property (text), widget (QLabel, lblEmail)
 #: main_widget.ui:168
 msgid "&Email address:"
-msgstr "برېښليک پته:&"
+msgstr "برېښليک پته:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #: main_widget.ui:191
 msgid "&SMTP server:"
-msgstr "پالنګر: SMTP&"
+msgstr "پالنګر: SMTP"
 
 #. i18n: ectx: property (text), widget (QLabel, lblUIDTell)
 #: main_widget.ui:214

@@ -25,7 +25,7 @@ msgstr "ستاسو نومونه"
 
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "ستاسو برېښليکونه"
+msgstr "zabeehkhan@gmail.com"
 
 #: dnssd/servicemodel.cpp:101 knewstuff/knewstuff2/ui/kdxstranslation.cpp:46
 #: knewstuff/knewstuff2/ui/providerdialog.cpp:68
@@ -133,7 +133,7 @@ msgstr "؟؟"
 #: kde3support/kdeui/k3aboutapplication.cpp:77
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:166
 msgid "&About"
-msgstr "په اړه&"
+msgstr "په اړه"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:54
 msgid ""
@@ -173,7 +173,7 @@ msgstr ".ته راپور کړﺉ <a href=\"mailto:%1\">%2</a> لورينه وک�
 #: kde3support/kdeui/k3aboutapplication.cpp:137
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:249
 msgid "&Thanks To"
-msgstr "ته مننه&"
+msgstr "ته مننه"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:164
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:288
@@ -182,7 +182,7 @@ msgstr "ژ&باړه"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:169
 msgid "&License Agreement"
-msgstr "منښتليک مننه&"
+msgstr "منښتليک مننه"
 
 #: kde3support/kdeui/k3aboutdialog.cpp:184 kded/kbuildsycoca.cpp:638
 #: kded/kbuildsycoca.cpp:639 kross/console/main.cpp:102 kross/qts/main.cpp:63
@@ -241,21 +241,21 @@ msgstr "%1 :بياکړ"
 
 #: kde3support/kdeui/k3command.cpp:422 kdeui/actions/kstandardaction_p.h:55
 msgid "&Undo"
-msgstr "ناکړ&"
+msgstr "ناکړ"
 
 #: kde3support/kdeui/k3command.cpp:422
 msgid "&Redo"
-msgstr "بياکړ&"
+msgstr "بياکړ"
 
 #: kde3support/kdeui/k3command.cpp:427
 #, kde-format
 msgid "&Undo: %1"
-msgstr "%1 :ناکړ&"
+msgstr "%1 :ناکړ"
 
 #: kde3support/kdeui/k3command.cpp:430
 #, kde-format
 msgid "&Redo: %1"
-msgstr "%1 :بياکړ&"
+msgstr "%1 :بياکړ"
 
 #: kde3support/kdeui/k3dockwidget.cpp:272
 msgid "Close"
@@ -308,17 +308,17 @@ msgstr ":پ&لټون"
 
 #: kde3support/kdeui/k3passworddialog.cpp:358
 msgid "&Password:"
-msgstr ":تېرنويې&"
+msgstr ":تېرنويې"
 
 #: kde3support/kdeui/k3passworddialog.cpp:376
 msgid "&Keep password"
-msgstr "تېرنويې ساتل&"
+msgstr "تېرنويې ساتل"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: kde3support/kdeui/k3passworddialog.cpp:387
 #: kdeui/dialogs/knewpassworddialog.ui:54
 msgid "&Verify:"
-msgstr ":باورييل&"
+msgstr ":باورييل"
 
 #. i18n: ectx: property (text), widget (QLabel, labelStrengthMeter)
 #: kde3support/kdeui/k3passworddialog.cpp:408
@@ -408,12 +408,12 @@ msgstr "نښتي &ويېونه لکه ليکدود تېروتنې شمېرل"
 #: kde3support/kdeui/k3sconfig.cpp:133
 msgctxt "@label:listbox"
 msgid "&Dictionary:"
-msgstr ":ويېپانګه&"
+msgstr ":ويېپانګه"
 
 #: kde3support/kdeui/k3sconfig.cpp:160
 msgctxt "@label:listbox"
 msgid "&Encoding:"
-msgstr ":کوډييزونه&"
+msgstr ":کوډييزونه"
 
 #: kde3support/kdeui/k3sconfig.cpp:167
 msgctxt "@item:inlistbox Spell checker"
@@ -446,7 +446,7 @@ msgstr "<application>هسپېل</application>"
 #: kde3support/kdeui/k3sconfig.cpp:176
 msgctxt "@label:listbox"
 msgid "&Client:"
-msgstr ":پېرن&"
+msgstr ":پېرن"
 
 #: kde3support/kdeui/k3sconfig.cpp:258 kde3support/kdeui/k3sconfig.cpp:420
 #: kde3support/kdeui/k3sconfig.cpp:743
@@ -615,7 +615,7 @@ msgstr "ليکدود کتل"
 
 #: kde3support/kdeui/k3spelldlg.cpp:53
 msgid "&Finished"
-msgstr "بشپړ شو&"
+msgstr "بشپړ شو"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel2)
 #. i18n: ectx: property (whatsThis), widget (QLabel, m_unknownWord)
@@ -667,7 +667,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #: kde3support/kdeui/k3spellui.ui:64 kdeui/sonnet/sonnetui.ui:64
 msgid "&Language:"
-msgstr ":ژبه&"
+msgstr ":ژبه"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, m_contextLabel)
 #: kde3support/kdeui/k3spellui.ui:74 kdeui/sonnet/sonnetui.ui:74
@@ -762,7 +762,7 @@ msgstr ""
 #: kde3support/kdeui/k3spellui.ui:162 kdeui/findreplace/kfinddialog.cpp:198
 #: kdeui/sonnet/sonnetui.ui:203
 msgid "&Replace"
-msgstr "ځاېناستول&"
+msgstr "ځاېناستول"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel4)
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, m_replacement)
@@ -797,7 +797,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_skipBtn)
 #: kde3support/kdeui/k3spellui.ui:191 kdeui/sonnet/sonnetui.ui:228
 msgid "&Ignore"
-msgstr "پرېښودل&"
+msgstr "پرېښودل"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_skipAllBtn)
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_autoCorrect)
@@ -867,12 +867,12 @@ msgstr "ليکدود کتنه"
 
 #: kde3support/kdeui/k3wizard.cpp:48 kdeui/actions/kstandardaction_p.h:90
 msgid "&Back"
-msgstr "شاته&"
+msgstr "شاته"
 
 #: kde3support/kdeui/k3wizard.cpp:49
 msgctxt "Opposite to Back"
 msgid "&Next"
-msgstr "راتلوکی&"
+msgstr "راتلوکی"
 
 #: kde3support/kio/kfile/k3fileview.cpp:123
 msgid "Unknown View"
@@ -2366,7 +2366,7 @@ msgstr "%1 :يادښت"
 #, kde-format
 msgctxt "@note/rich"
 msgid "<i>Note</i>: %1"
-msgstr "%1 :</i>يادښت<i>"
+msgstr "%1 :<i>يادښت</i>"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:587
@@ -2398,7 +2398,7 @@ msgstr "%1 :خبرتيا"
 #, kde-format
 msgctxt "@warning/rich"
 msgid "<b>Warning</b>: %1"
-msgstr "%1 :</b>خبرتيا<b>"
+msgstr "%1 :<b>خبرتيا</b>"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:607
@@ -3562,26 +3562,26 @@ msgstr "ننوتۍ پاکول"
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
-msgstr "شاته&"
+msgstr "شاته"
 
 #: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
 msgctxt "go forward"
 msgid "&Forward"
-msgstr "مخکې&"
+msgstr "مخکې"
 
 #: kdeui/actions/kstandardaction.cpp:105
 msgctxt "home page"
 msgid "&Home"
-msgstr "کور&"
+msgstr "کور"
 
 #: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
 msgctxt "show help"
 msgid "&Help"
-msgstr "مرسته&"
+msgstr "مرسته"
 
 #: kdeui/actions/kstandardaction.cpp:521 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
-msgstr "غورنۍ پټه ښودل&"
+msgstr "غورنۍ پټه ښودل"
 
 #: kdeui/actions/kstandardaction.cpp:527
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
@@ -3605,7 +3605,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:43
 msgid "&New"
-msgstr "نوی&"
+msgstr "نوی"
 
 #: kdeui/actions/kstandardaction_p.h:43
 #, fuzzy
@@ -3615,7 +3615,7 @@ msgstr "...نوی بچوی جوړول"
 
 #: kdeui/actions/kstandardaction_p.h:44 kdeui/util/kstandardguiitem.cpp:248
 msgid "&Open..."
-msgstr "...پرانيستل&"
+msgstr "...پرانيستل"
 
 #: kdeui/actions/kstandardaction_p.h:44
 msgid "Open an existing document"
@@ -3631,7 +3631,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:46 kdeui/util/kstandardguiitem.cpp:137
 msgid "&Save"
-msgstr "ساتل&"
+msgstr "ساتل"
 
 #: kdeui/actions/kstandardaction_p.h:46
 #, fuzzy
@@ -3659,7 +3659,7 @@ msgstr ""
 #: kdeui/actions/kstandardaction_p.h:49 kdeui/util/kstandardguiitem.cpp:184
 #: khtml/kjserrordlgbase.ui:29
 msgid "&Close"
-msgstr "بندول&"
+msgstr "بندول"
 
 #: kdeui/actions/kstandardaction_p.h:49
 #, fuzzy
@@ -3669,7 +3669,7 @@ msgstr "لاسوند بندول"
 
 #: kdeui/actions/kstandardaction_p.h:50 kdeui/util/kstandardguiitem.cpp:229
 msgid "&Print..."
-msgstr "...چاپول&"
+msgstr "...چاپول"
 
 #: kdeui/actions/kstandardaction_p.h:50
 #, fuzzy
@@ -3688,7 +3688,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:52
 msgid "&Mail..."
-msgstr "...ليک&"
+msgstr "...ليک"
 
 #: kdeui/actions/kstandardaction_p.h:52
 msgid "Send document by mail"
@@ -3696,7 +3696,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:53 kdeui/util/kstandardguiitem.cpp:254
 msgid "&Quit"
-msgstr "وتل&"
+msgstr "وتل"
 
 #: kdeui/actions/kstandardaction_p.h:53 kdeui/util/kstandardguiitem.cpp:255
 msgid "Quit application"
@@ -3726,7 +3726,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:58
 msgid "&Copy"
-msgstr "لمېسل&"
+msgstr "لمېسل"
 
 #: kdeui/actions/kstandardaction_p.h:58
 msgid "Copy selection to clipboard"
@@ -3734,7 +3734,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
 msgid "&Paste"
-msgstr "سرېښل&"
+msgstr "سرېښل"
 
 #: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
 #, fuzzy
@@ -3758,11 +3758,11 @@ msgstr "ناټا&کل"
 
 #: kdeui/actions/kstandardaction_p.h:64 khtml/khtml_part.cpp:4106
 msgid "&Find..."
-msgstr "...لټول&"
+msgstr "...لټول"
 
 #: kdeui/actions/kstandardaction_p.h:65
 msgid "Find &Next"
-msgstr "راتلونکی لټول&"
+msgstr "راتلونکی لټول"
 
 #: kdeui/actions/kstandardaction_p.h:66
 msgid "Find Pre&vious"
@@ -3770,11 +3770,11 @@ msgstr "مخ&کنی لټول"
 
 #: kdeui/actions/kstandardaction_p.h:67
 msgid "&Replace..."
-msgstr "...ځاېناستول&"
+msgstr "...ځاېناستول"
 
 #: kdeui/actions/kstandardaction_p.h:69
 msgid "&Actual Size"
-msgstr "ار کچ&"
+msgstr "ار کچ"
 
 #: kdeui/actions/kstandardaction_p.h:69
 msgid "View document at its actual size"
@@ -3782,7 +3782,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:70
 msgid "&Fit to Page"
-msgstr "مخ سره برابرول&"
+msgstr "مخ سره برابرول"
 
 #: kdeui/actions/kstandardaction_p.h:70
 msgid "Zoom to fit page in window"
@@ -3806,7 +3806,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:73
 msgid "Zoom &In"
-msgstr "لوډېرول&"
+msgstr "لوډېرول"
 
 #: kdeui/actions/kstandardaction_p.h:74
 msgid "Zoom &Out"
@@ -3814,7 +3814,7 @@ msgstr "لو&کمول"
 
 #: kdeui/actions/kstandardaction_p.h:75
 msgid "&Zoom..."
-msgstr "...لويول&"
+msgstr "...لويول"
 
 #: kdeui/actions/kstandardaction_p.h:75
 #, fuzzy
@@ -3824,7 +3824,7 @@ msgstr "يوه اونۍ وټاکﺉ"
 
 #: kdeui/actions/kstandardaction_p.h:76
 msgid "&Redisplay"
-msgstr "بياښوون&"
+msgstr "بياښوون"
 
 #: kdeui/actions/kstandardaction_p.h:76
 #, fuzzy
@@ -3834,7 +3834,7 @@ msgstr "بياښوون&"
 
 #: kdeui/actions/kstandardaction_p.h:78
 msgid "&Up"
-msgstr "پاس&"
+msgstr "پاس"
 
 #: kdeui/actions/kstandardaction_p.h:78
 msgid "Go up"
@@ -3842,7 +3842,7 @@ msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:83
 msgid "&Previous Page"
-msgstr "مخکنی مخ&"
+msgstr "مخکنی مخ"
 
 #: kdeui/actions/kstandardaction_p.h:83
 #, fuzzy
@@ -3852,7 +3852,7 @@ msgstr "مخکنی مخ&"
 
 #: kdeui/actions/kstandardaction_p.h:84
 msgid "&Next Page"
-msgstr "راتلونکی مخ&"
+msgstr "راتلونکی مخ"
 
 #: kdeui/actions/kstandardaction_p.h:84
 #, fuzzy
@@ -3863,19 +3863,19 @@ msgstr "ليکې ته ورتلل"
 
 #: kdeui/actions/kstandardaction_p.h:85
 msgid "&Go To..."
-msgstr "ته ورتګ&"
+msgstr "ته ورتګ"
 
 #: kdeui/actions/kstandardaction_p.h:86
 msgid "&Go to Page..."
-msgstr "...مخ ته ورتلل&"
+msgstr "...مخ ته ورتلل"
 
 #: kdeui/actions/kstandardaction_p.h:87
 msgid "&Go to Line..."
-msgstr "...ليکې ته ورتلل&"
+msgstr "...ليکې ته ورتلل"
 
 #: kdeui/actions/kstandardaction_p.h:88
 msgid "&First Page"
-msgstr "لومړی مخ&"
+msgstr "لومړی مخ"
 
 #: kdeui/actions/kstandardaction_p.h:88
 #, fuzzy
@@ -3886,7 +3886,7 @@ msgstr "ليکې ته ورتلل"
 
 #: kdeui/actions/kstandardaction_p.h:89
 msgid "&Last Page"
-msgstr "وروستی مخ&"
+msgstr "وروستی مخ"
 
 #: kdeui/actions/kstandardaction_p.h:89
 #, fuzzy
@@ -3925,7 +3925,7 @@ msgstr "ليکنښې &سمول"
 
 #: kdeui/actions/kstandardaction_p.h:96
 msgid "&Spelling..."
-msgstr "...ليکدود&"
+msgstr "...ليکدود"
 
 #: kdeui/actions/kstandardaction_p.h:96
 #, fuzzy
@@ -3961,7 +3961,7 @@ msgstr "ټ&وله پرده اکر"
 
 #: kdeui/actions/kstandardaction_p.h:102
 msgid "&Save Settings"
-msgstr "امستنې ساتل&"
+msgstr "امستنې ساتل"
 
 #: kdeui/actions/kstandardaction_p.h:103
 msgid "Configure S&hortcuts..."
@@ -3970,7 +3970,7 @@ msgstr "...ل&نډلاري سازول"
 #: kdeui/actions/kstandardaction_p.h:104
 #, kde-format
 msgid "&Configure %1..."
-msgstr "...سازول %1&"
+msgstr "...سازول %1"
 
 #: kdeui/actions/kstandardaction_p.h:105
 msgid "Configure Tool&bars..."
@@ -3983,7 +3983,7 @@ msgstr "...يادښتونه &سازول"
 #: kdeui/actions/kstandardaction_p.h:111
 #, kde-format
 msgid "%1 &Handbook"
-msgstr "لاسکتاب& %1"
+msgstr "لاسکتاب %1"
 
 #: kdeui/actions/kstandardaction_p.h:112
 msgid "What's &This?"
@@ -3995,7 +3995,7 @@ msgstr "د &ورځې نکته"
 
 #: kdeui/actions/kstandardaction_p.h:114
 msgid "&Report Bug..."
-msgstr "کړاو راپورول&"
+msgstr "کړاو راپورول"
 
 #: kdeui/actions/kstandardaction_p.h:115
 msgid "Switch Application &Language..."
@@ -4004,7 +4004,7 @@ msgstr "...د کاريال &ژبه ونجول"
 #: kdeui/actions/kstandardaction_p.h:116
 #, kde-format
 msgid "&About %1"
-msgstr "په اړه %1 د&"
+msgstr "په اړه %1 د"
 
 #: kdeui/actions/kstandardaction_p.h:117
 msgid "About &KDE"
@@ -4150,7 +4150,7 @@ msgstr ""
 
 #: kdeui/colors/kcolordialog.cpp:1228
 msgid "&Add to Custom Colors"
-msgstr "دوديز رنګونو کې زياتول&"
+msgstr "دوديز رنګونو کې زياتول"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: kdeui/colors/kcolordialog.cpp:1256
@@ -4377,11 +4377,11 @@ msgstr ""
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:134
 msgctxt "About KDE"
 msgid "&About"
-msgstr "په اړه&"
+msgstr "په اړه"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:135
 msgid "&Report Bugs or Wishes"
-msgstr "کړاونه يا غوښتنې راپورول&"
+msgstr "کړاونه يا غوښتنې راپورول"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:136
 #, fuzzy
@@ -4391,7 +4391,7 @@ msgstr "د کډي ډلې کې ګډون کول&"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:137
 msgid "&Support KDE"
-msgstr "د کډي ملاتړ&"
+msgstr "د کډي ملاتړ"
 
 #: kdeui/dialogs/kassistantdialog.cpp:94
 #: knewstuff/knewstuff3/uploaddialog.cpp:422
@@ -4439,7 +4439,7 @@ msgstr ":ته"
 
 #: kdeui/dialogs/kbugreport.cpp:154
 msgid "&Send"
-msgstr "لېږل&"
+msgstr "لېږل"
 
 #: kdeui/dialogs/kbugreport.cpp:154
 msgid "Send bug report."
@@ -4535,7 +4535,7 @@ msgstr ""
 
 #: kdeui/dialogs/kbugreport.cpp:298
 msgid "&Launch Bug Report Wizard"
-msgstr "د کړاو راپورونې اسانګر پېلول&"
+msgstr "د کړاو راپورونې اسانګر پېلول"
 
 #: kdeui/dialogs/kbugreport.cpp:355
 msgctxt "unknown program name"
@@ -4891,7 +4891,7 @@ msgstr "چاپول"
 
 #: kdeui/dialogs/kdialog.cpp:250
 msgid "&Try"
-msgstr "هڅه&"
+msgstr "هڅه"
 
 #: kdeui/dialogs/kdialog.cpp:452
 msgid "modified"
@@ -4904,7 +4904,7 @@ msgstr ""
 
 #: kdeui/dialogs/kdialog.cpp:833
 msgid "&Details"
-msgstr "خبرتياوې&"
+msgstr "خبرتياوې"
 
 #: kdeui/dialogs/kdialog.cpp:986
 msgid "Get help..."
@@ -4953,7 +4953,7 @@ msgstr "بياټاکل"
 
 #: kdeui/dialogs/kedittoolbar.cpp:906
 msgid "&Toolbar:"
-msgstr ":توکپټه&"
+msgstr ":توکپټه"
 
 #: kdeui/dialogs/kedittoolbar.cpp:921
 msgid "A&vailable actions:"
@@ -4971,7 +4971,7 @@ msgstr ":اوس&ني چارونه"
 
 #: kdeui/dialogs/kedittoolbar.cpp:958
 msgid "Change &Icon..."
-msgstr "...انځورن بدلول&"
+msgstr "...انځورن بدلول"
 
 #: kdeui/dialogs/kedittoolbar.cpp:968
 #, fuzzy
@@ -5456,17 +5456,17 @@ msgstr "تاسو پوهېدﺉ...؟\n"
 
 #: kdeui/dialogs/ktip.cpp:301
 msgid "&Show tips on startup"
-msgstr "په پېلنګ کې نکتې ښودل&"
+msgstr "په پېلنګ کې نکتې ښودل"
 
 #. i18n: ectx: property (text), widget (QToolButton, m_previous)
 #: kdeui/dialogs/ktip.cpp:305 khtml/ui/findbar/khtmlfindbar_base.ui:85
 msgid "&Previous"
-msgstr "مخکنی&"
+msgstr "مخکنی"
 
 #: kdeui/dialogs/ktip.cpp:309
 msgctxt "Opposite to Previous"
 msgid "&Next"
-msgstr "راتلوکی&"
+msgstr "راتلوکی"
 
 #: kdeui/findreplace/kfind.cpp:50
 msgid "Find Next"
@@ -5521,7 +5521,7 @@ msgstr "لټول"
 
 #: kdeui/findreplace/kfinddialog.cpp:92
 msgid "&Text to find:"
-msgstr ":د لټولو لپاره ليکنه&"
+msgstr ":د لټولو لپاره ليکنه"
 
 #: kdeui/findreplace/kfinddialog.cpp:96 khtml/ui/findbar/khtmlfindbar.cpp:56
 msgid "Regular e&xpression"
@@ -5529,7 +5529,7 @@ msgstr "ساده څ&رګندنه"
 
 #: kdeui/findreplace/kfinddialog.cpp:97
 msgid "&Edit..."
-msgstr "...سمول&"
+msgstr "...سمول"
 
 #: kdeui/findreplace/kfinddialog.cpp:106
 msgid "Replace With"
@@ -5566,15 +5566,15 @@ msgstr "له ځ&ري"
 
 #: kdeui/findreplace/kfinddialog.cpp:129
 msgid "Find &backwards"
-msgstr "شاته لټول&"
+msgstr "شاته لټول"
 
 #: kdeui/findreplace/kfinddialog.cpp:130 khtml/ui/findbar/khtmlfindbar.cpp:54
 msgid "&Selected text"
-msgstr "ټاکلې ليکنه&"
+msgstr "ټاکلې ليکنه"
 
 #: kdeui/findreplace/kfinddialog.cpp:137
 msgid "&Prompt on replace"
-msgstr "په ځاېناستولو خبرول&"
+msgstr "په ځاېناستولو خبرول"
 
 #: kdeui/findreplace/kfinddialog.cpp:199
 msgid "Start replace"
@@ -5589,7 +5589,7 @@ msgstr ""
 
 #: kdeui/findreplace/kfinddialog.cpp:206 kdeui/util/kstandardguiitem.cpp:276
 msgid "&Find"
-msgstr "لټول&"
+msgstr "لټول"
 
 #: kdeui/findreplace/kfinddialog.cpp:207
 msgid "Start searching"
@@ -5740,7 +5740,7 @@ msgstr "ټول&"
 
 #: kdeui/findreplace/kreplace.cpp:52
 msgid "&Skip"
-msgstr "پرېښودل&"
+msgstr "پرېښودل"
 
 #: kdeui/findreplace/kreplace.cpp:62
 #, kde-format
@@ -6167,7 +6167,7 @@ msgstr ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:521
 msgid "&Keep this window open after transfer is complete"
-msgstr "د لېږنې د بشپړېدو نه وروسته دا کړکۍ پرانيستې ساتل&"
+msgstr "د لېږنې د بشپړېدو نه وروسته دا کړکۍ پرانيستې ساتل"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:529
 msgid "Open &File"
@@ -6222,7 +6222,7 @@ msgstr "کاريال بندول"
 #: kdeui/notifications/kstatusnotifieritem.cpp:928
 #: kdeui/notifications/ksystemtrayicon.cpp:215
 msgid "&Minimize"
-msgstr "ووړول&"
+msgstr "ووړول"
 
 #: kdeui/notifications/kstatusnotifieritem.cpp:926
 #: kdeui/notifications/ksystemtrayicon.cpp:219
@@ -6785,7 +6785,7 @@ msgstr "د لېږلو باوريينه"
 #. i18n: ectx: property (text), widget (QCheckBox, m_bgSpellCB)
 #: kdeui/sonnet/configui.ui:38
 msgid "Enable &background spellchecking"
-msgstr "شاليد ليکدود کتنه توانول&"
+msgstr "شاليد ليکدود کتنه توانول"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_checkerEnabledByDefaultCB)
 #: kdeui/sonnet/configui.ui:45
@@ -6826,7 +6826,7 @@ msgstr "ليکدود کتل"
 #: kdeui/sonnet/dialog.cpp:105
 msgctxt "@action:button"
 msgid "&Finished"
-msgstr "بشپړ شو&"
+msgstr "بشپړ شو"
 
 #: kdeui/sonnet/dialog.cpp:225
 #, fuzzy
@@ -6938,15 +6938,15 @@ msgstr "سکڼل"
 
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
-msgstr "هوکې&"
+msgstr "هوکې"
 
 #: kdeui/util/kstandardguiitem.cpp:115
 msgid "&Cancel"
-msgstr "بندول&"
+msgstr "بندول"
 
 #: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:817
 msgid "&Yes"
-msgstr "هو&"
+msgstr "هو"
 
 #: kdeui/util/kstandardguiitem.cpp:120
 msgid "Yes"
@@ -6954,7 +6954,7 @@ msgstr "هو"
 
 #: kdeui/util/kstandardguiitem.cpp:125 khtml/java/kjavaappletserver.cpp:810
 msgid "&No"
-msgstr "نه&"
+msgstr "نه"
 
 #: kdeui/util/kstandardguiitem.cpp:125
 msgid "No"
@@ -6962,7 +6962,7 @@ msgstr "نه"
 
 #: kdeui/util/kstandardguiitem.cpp:130
 msgid "&Discard"
-msgstr "پرېښودل&"
+msgstr "پرېښودل"
 
 #: kdeui/util/kstandardguiitem.cpp:130
 msgid "Discard changes"
@@ -6979,7 +6979,7 @@ msgstr "اومتوک ساتل"
 
 #: kdeui/util/kstandardguiitem.cpp:142
 msgid "&Do Not Save"
-msgstr "نه ساتل&"
+msgstr "نه ساتل"
 
 #: kdeui/util/kstandardguiitem.cpp:143
 msgid "Do not save data"
@@ -6991,7 +6991,7 @@ msgstr "دوتنه په بل نوم ساتل"
 
 #: kdeui/util/kstandardguiitem.cpp:154
 msgid "&Apply"
-msgstr "کارول&"
+msgstr "کارول"
 
 #: kdeui/util/kstandardguiitem.cpp:154
 msgid "Apply changes"
@@ -7061,7 +7061,7 @@ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
 
 #: kdeui/util/kstandardguiitem.cpp:202
 msgid "&Defaults"
-msgstr "تلوالې&"
+msgstr "تلوالې"
 
 #: kdeui/util/kstandardguiitem.cpp:203
 msgid "Reset all items to their default values"
@@ -7089,7 +7089,7 @@ msgstr "چلښت پرمخبيول"
 
 #: kdeui/util/kstandardguiitem.cpp:242
 msgid "&Delete"
-msgstr "ړنګول&"
+msgstr "ړنګول"
 
 #: kdeui/util/kstandardguiitem.cpp:243
 msgid "Delete item(s)"
@@ -7101,7 +7101,7 @@ msgstr "دوتنه پرانيستل"
 
 #: kdeui/util/kstandardguiitem.cpp:260
 msgid "&Reset"
-msgstr "بياټاکل&"
+msgstr "بياټاکل"
 
 #: kdeui/util/kstandardguiitem.cpp:261
 msgid "Reset configuration"
@@ -7110,7 +7110,7 @@ msgstr "سازونه بياټاکل"
 #: kdeui/util/kstandardguiitem.cpp:266
 msgctxt "Verb"
 msgid "&Insert"
-msgstr "ورننويستل&"
+msgstr "ورننويستل"
 
 #: kdeui/util/kstandardguiitem.cpp:271
 msgid "Confi&gure..."
@@ -7130,7 +7130,7 @@ msgstr "ځانتياوې"
 
 #: kdeui/util/kstandardguiitem.cpp:306
 msgid "&Overwrite"
-msgstr "ځاېناستول&"
+msgstr "ځاېناستول"
 
 #: kdeui/util/kundostack.cpp:48
 msgid "Redo"
@@ -7138,11 +7138,11 @@ msgstr "بياکړ"
 
 #: kdeui/widgets/kactionselector.cpp:101
 msgid "&Available:"
-msgstr ":شته&"
+msgstr ":شته"
 
 #: kdeui/widgets/kactionselector.cpp:118
 msgid "&Selected:"
-msgstr ":ټاکل شوی&"
+msgstr ":ټاکل شوی"
 
 #: kdeui/widgets/kcharselect-translation.cpp:23
 msgctxt "KCharSelect section name"
@@ -8494,11 +8494,11 @@ msgstr ""
 
 #: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
 msgid "&Add"
-msgstr "زياتول&"
+msgstr "زياتول"
 
 #: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
 msgid "&Remove"
-msgstr "ړنګول&"
+msgstr "ړنګول"
 
 #: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
 msgid "Move &Up"
@@ -8511,7 +8511,7 @@ msgstr "ښکته &خوځول"
 #. i18n: ectx: Menu (help)
 #: kdeui/widgets/khelpmenu.cpp:188 kdeui/xmlgui/ui_standards.rc:177
 msgid "&Help"
-msgstr "مرسته&"
+msgstr "مرسته"
 
 #: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:1039
 msgid "Clear &History"
@@ -8707,7 +8707,7 @@ msgstr "انځور چلښتونه"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:196
 msgid "&Rotate Clockwise"
-msgstr "ګړيالغوندې چورلول&"
+msgstr "ګړيالغوندې چورلول"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:203
 msgid "Rotate &Counterclockwise"
@@ -8731,37 +8731,37 @@ msgstr "...د ليکنې &ځلول"
 #: kdeui/widgets/krichtextwidget.cpp:255
 msgctxt "@action"
 msgid "&Font"
-msgstr "ليکبڼه&"
+msgstr "ليکبڼه"
 
 #: kdeui/widgets/krichtextwidget.cpp:266
 msgctxt "@action"
 msgid "Font &Size"
-msgstr "ليکبڼې کچه&"
+msgstr "ليکبڼې کچه"
 
 #: kdeui/widgets/krichtextwidget.cpp:276
 msgctxt "@action boldify selected text"
 msgid "&Bold"
-msgstr "ډبل&"
+msgstr "ډبل"
 
 #: kdeui/widgets/krichtextwidget.cpp:290
 msgctxt "@action italicize selected text"
 msgid "&Italic"
-msgstr "کوږ&"
+msgstr "کوږ"
 
 #: kdeui/widgets/krichtextwidget.cpp:305
 msgctxt "@action underline selected text"
 msgid "&Underline"
-msgstr "لاندکرښه&"
+msgstr "لاندکرښه"
 
 #: kdeui/widgets/krichtextwidget.cpp:320
 msgctxt "@action"
 msgid "&Strike Out"
-msgstr "کرښه کښل&"
+msgstr "کرښه کښل"
 
 #: kdeui/widgets/krichtextwidget.cpp:333
 msgctxt "@action"
 msgid "Align &Left"
-msgstr "کيڼ پرليکول&"
+msgstr "کيڼ پرليکول"
 
 #: kdeui/widgets/krichtextwidget.cpp:334
 msgctxt "@label left justify"
@@ -8771,7 +8771,7 @@ msgstr "کيڼ"
 #: kdeui/widgets/krichtextwidget.cpp:340
 msgctxt "@action"
 msgid "Align &Center"
-msgstr "منځ پرليکول&"
+msgstr "منځ پرليکول"
 
 #: kdeui/widgets/krichtextwidget.cpp:341
 msgctxt "@label center justify"
@@ -8781,7 +8781,7 @@ msgstr "منځ"
 #: kdeui/widgets/krichtextwidget.cpp:347
 msgctxt "@action"
 msgid "Align &Right"
-msgstr "ښي پرليکول&"
+msgstr "ښي پرليکول"
 
 #: kdeui/widgets/krichtextwidget.cpp:348
 msgctxt "@label right justify"
@@ -8791,7 +8791,7 @@ msgstr "ښي"
 #: kdeui/widgets/krichtextwidget.cpp:354
 msgctxt "@action"
 msgid "&Justify"
-msgstr "همجولیزول&"
+msgstr "همجولیزول"
 
 #: kdeui/widgets/krichtextwidget.cpp:355
 msgctxt "@label justify fill"
@@ -8914,7 +8914,7 @@ msgstr "سکرېپټ پرانيستل"
 
 #: kdeui/widgets/ksqueezedtextlabel.cpp:166
 msgid "&Copy Full Text"
-msgstr "ټوله ليکنه لمېسل&"
+msgstr "ټوله ليکنه لمېسل"
 
 #: kdeui/widgets/ktextedit.cpp:161
 msgid "Nothing to spell check."
@@ -9116,48 +9116,48 @@ msgstr "هېڅ ليکنه"
 #. i18n: ectx: Menu (file)
 #: kdeui/xmlgui/ui_standards.rc:5 khtml/khtml_browser.rc:4
 msgid "&File"
-msgstr "دوتنه&"
+msgstr "دوتنه"
 
 #. i18n: ectx: Menu (game)
 #: kdeui/xmlgui/ui_standards.rc:34
 msgid "&Game"
-msgstr "لوبه&"
+msgstr "لوبه"
 
 #. i18n: ectx: Menu (edit)
 #: kdeui/xmlgui/ui_standards.rc:61 khtml/khtml.rc:4 khtml/khtml_browser.rc:11
 msgid "&Edit"
-msgstr "سمون&"
+msgstr "سمون"
 
 #. i18n: ectx: Menu (move)
 #: kdeui/xmlgui/ui_standards.rc:84
 msgctxt "@title:menu Game move"
 msgid "&Move"
-msgstr "خوځول&"
+msgstr "خوځول"
 
 #. i18n: ectx: Menu (view)
 #: kdeui/xmlgui/ui_standards.rc:101 khtml/khtml_browser.rc:18
 msgid "&View"
-msgstr "کوت&"
+msgstr "کوت"
 
 #. i18n: ectx: Menu (go)
 #: kdeui/xmlgui/ui_standards.rc:117
 msgid "&Go"
-msgstr "ورتلل&"
+msgstr "ورتلل"
 
 #. i18n: ectx: Menu (bookmarks)
 #: kdeui/xmlgui/ui_standards.rc:138
 msgid "&Bookmarks"
-msgstr "ليکنښې&"
+msgstr "ليکنښې"
 
 #. i18n: ectx: Menu (tools)
 #: kdeui/xmlgui/ui_standards.rc:144
 msgid "&Tools"
-msgstr "توکي&"
+msgstr "توکي"
 
 #. i18n: ectx: Menu (settings)
 #: kdeui/xmlgui/ui_standards.rc:148 khtml/ecma/debugger/debugwindow.cpp:243
 msgid "&Settings"
-msgstr "امستنې&"
+msgstr "امستنې"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: kdeui/xmlgui/ui_standards.rc:194
@@ -9236,7 +9236,7 @@ msgstr "جاواسکرېپټ کړاوتمبوونی"
 
 #: khtml/ecma/debugger/debugwindow.cpp:189
 msgid "&Break at Next Statement"
-msgstr "په راتلونکې څرګندۍ کې ماتول&"
+msgstr "په راتلونکې څرګندۍ کې ماتول"
 
 #: khtml/ecma/debugger/debugwindow.cpp:190
 msgid "Break at Next"
@@ -9271,7 +9271,7 @@ msgstr "چار"
 
 #: khtml/ecma/debugger/debugwindow.cpp:235
 msgid "&Debug"
-msgstr "کړاوتمبونه&"
+msgstr "کړاوتمبونه"
 
 #: khtml/ecma/debugger/debugwindow.cpp:269
 msgid "Close source"
@@ -9316,7 +9316,7 @@ msgstr "د جاواسکرېپټ تېروتنه"
 
 #: khtml/ecma/debugger/errordlg.cpp:49
 msgid "&Do not show this message again"
-msgstr "دا استوزه بيا نه ښودل&"
+msgstr "دا استوزه بيا نه ښودل"
 
 #: khtml/ecma/debugger/localvariabledock.cpp:43
 msgid "Local Variables"
@@ -9437,7 +9437,7 @@ msgstr "د لېږلو باوريينه"
 
 #: khtml/html/html_formimpl.cpp:422
 msgid "&Submit Anyway"
-msgstr "بياهم لېږل&"
+msgstr "بياهم لېږل"
 
 #: khtml/html/html_formimpl.cpp:433
 msgid ""
@@ -9593,11 +9593,11 @@ msgstr "لاندنۍ پرېښلې"
 
 #: khtml/java/kjavaappletserver.cpp:814
 msgid "&Reject All"
-msgstr "ټول نه منل&"
+msgstr "ټول نه منل"
 
 #: khtml/java/kjavaappletserver.cpp:820
 msgid "&Grant All"
-msgstr "ټول منل&"
+msgstr "ټول منل"
 
 #: khtml/java/kjavaappletviewer.cpp:129
 msgid "Applet Parameters"
@@ -9630,7 +9630,7 @@ msgstr "توکپټه HTML"
 
 #: khtml/khtml_ext.cpp:418
 msgid "&Copy Text"
-msgstr "ليکنه لمېسل&"
+msgstr "ليکنه لمېسل"
 
 #: khtml/khtml_ext.cpp:432
 #, kde-format
@@ -9639,15 +9639,15 @@ msgstr "پرانيستل '%1'"
 
 #: khtml/khtml_ext.cpp:449
 msgid "&Copy Email Address"
-msgstr "برېښليک پته لمېسل&"
+msgstr "برېښليک پته لمېسل"
 
 #: khtml/khtml_ext.cpp:454
 msgid "&Save Link As..."
-msgstr "...تړنه ساتل لکه&"
+msgstr "...تړنه ساتل لکه"
 
 #: khtml/khtml_ext.cpp:459
 msgid "&Copy Link Address"
-msgstr "د تړنې پته لمېسل&"
+msgstr "د تړنې پته لمېسل"
 
 #: khtml/khtml_ext.cpp:471
 msgctxt "@title:menu HTML frame/iframe"
@@ -9968,11 +9968,11 @@ msgstr "دا ګورت پاڼه د کوډونې تېروتنې لري"
 
 #: khtml/khtml_part.cpp:1257
 msgid "&Hide Errors"
-msgstr "تېروتنې پټول&"
+msgstr "تېروتنې پټول"
 
 #: khtml/khtml_part.cpp:1258
 msgid "&Disable Error Reporting"
-msgstr "د تېروتنې راپورونه ناتوانول&"
+msgstr "د تېروتنې راپورونه ناتوانول"
 
 #: khtml/khtml_part.cpp:1302
 #, kde-format
@@ -10159,7 +10159,7 @@ msgstr "چوکاټ ساتل لکه"
 
 #: khtml/khtml_part.cpp:4104
 msgid "&Find in Frame..."
-msgstr "...په چوکاټ کې لټول&"
+msgstr "...په چوکاټ کې لټول"
 
 #: khtml/khtml_part.cpp:4728
 msgid ""
@@ -10176,7 +10176,7 @@ msgstr "ځال لېږدون"
 
 #: khtml/khtml_part.cpp:4731 khtml/khtml_part.cpp:4741
 msgid "&Send Unencrypted"
-msgstr "کوډه ناکښلې لېږل&"
+msgstr "کوډه ناکښلې لېږل"
 
 #: khtml/khtml_part.cpp:4738
 msgid ""
@@ -10193,7 +10193,7 @@ msgstr ""
 
 #: khtml/khtml_part.cpp:4765
 msgid "&Send Email"
-msgstr "برېښليک لېږل&"
+msgstr "برېښليک لېږل"
 
 #: khtml/khtml_part.cpp:4786
 #, kde-format
@@ -10229,7 +10229,7 @@ msgstr ""
 
 #: khtml/khtml_part.cpp:7248
 msgid "&Close Wallet"
-msgstr "کڅوړه بندول&"
+msgstr "کڅوړه بندول"
 
 #: khtml/khtml_part.cpp:7251
 msgid "&Allow storing passwords for this site"
@@ -10263,8 +10263,8 @@ msgstr ""
 #, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
-msgstr[0] "بنده شوې بړبوکيزه کړکۍ ښودل&"
-msgstr[1] "بندې شوې بړبوکيزې کړکۍ ښودل %1&"
+msgstr[0] "بنده شوې بړبوکيزه کړکۍ ښودل"
+msgstr[1] "بندې شوې بړبوکيزې کړکۍ ښودل %1"
 
 #: khtml/khtml_part.cpp:7413
 msgid "Show Blocked Window Passive Popup &Notification"
@@ -10272,7 +10272,7 @@ msgstr ""
 
 #: khtml/khtml_part.cpp:7415
 msgid "&Configure JavaScript New Window Policies..."
-msgstr "...د جاواسکرېپټ د نوې کړکۍ تګلارې سازول&"
+msgstr "...د جاواسکرېپټ د نوې کړکۍ تګلارې سازول"
 
 #: khtml/khtml_printsettings.cpp:31
 msgid ""
@@ -11432,7 +11432,7 @@ msgstr "کومه ځاليزه تېروتنه رامنځته شوه. غوښتنه
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: knewstuff/knewstuff2/ui/DownloadDialog.ui:27
 msgid "&Source:"
-msgstr ":سرچينه&"
+msgstr ":سرچينه"
 
 #. i18n: ectx: property (text), widget (QLabel, m_providerLinkLabel)
 #: knewstuff/knewstuff2/ui/DownloadDialog.ui:40
@@ -11442,7 +11442,7 @@ msgstr "؟"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: knewstuff/knewstuff2/ui/DownloadDialog.ui:64
 msgid "&Order by:"
-msgstr ":اوډونول پر&"
+msgstr ":اوډونول پر"
 
 #. i18n: ectx: property (clickMessage), widget (KLineEdit, m_searchEdit)
 #: knewstuff/knewstuff2/ui/DownloadDialog.ui:93
@@ -12376,7 +12376,7 @@ msgstr "ځاېناستی پېلول"
 #. i18n: ectx: property (text), widget (QCheckBox, Sound_check)
 #: knotify/config/knotifyconfigactionswidgetbase.ui:16
 msgid "Play a &sound"
-msgstr "غږ& غږول"
+msgstr "غږ غږول"
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, Sound_select)
 #: knotify/config/knotifyconfigactionswidgetbase.ui:42
@@ -12477,7 +12477,7 @@ msgstr "اېنټرنېټ پلټون"
 
 #: kparts/browserextension.cpp:645
 msgid "&Search"
-msgstr "پلټون&"
+msgstr "پلټون"
 
 #: kparts/browseropenorsavequestion.cpp:101
 #, fuzzy, kde-format
