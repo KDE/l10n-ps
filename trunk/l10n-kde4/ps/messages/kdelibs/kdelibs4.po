@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-10-09 01:40+0000\n"
+"POT-Creation-Date: 2013-10-13 01:42+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -849,15 +849,15 @@ msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "ډېر زيات ناسم ليکل شوي وييونه. د ليکلو سره سم ليکدود کتنه وناتوانول شوه."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:545
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:544
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:548
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:547
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:553
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:552
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
@@ -8916,31 +8916,31 @@ msgstr "سکرېپټ پرانيستل"
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل"
 
-#: kdeui/widgets/ktextedit.cpp:161
+#: kdeui/widgets/ktextedit.cpp:160
 msgid "Nothing to spell check."
 msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
-#: kdeui/widgets/ktextedit.cpp:581
+#: kdeui/widgets/ktextedit.cpp:580
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "دوديزه ليکنه لوستل"
 
-#: kdeui/widgets/ktextedit.cpp:596
+#: kdeui/widgets/ktextedit.cpp:595
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:680
+#: kdeui/widgets/ktextedit.cpp:679
 #, fuzzy, kde-format
 #| msgid "Suggestions"
 msgid "No suggestions for %1"
 msgstr "وړانديزونه"
 
-#: kdeui/widgets/ktextedit.cpp:692
+#: kdeui/widgets/ktextedit.cpp:691
 msgid "Ignore"
 msgstr "پرېښودل"
 
-#: kdeui/widgets/ktextedit.cpp:693
+#: kdeui/widgets/ktextedit.cpp:692
 msgid "Add to Dictionary"
 msgstr "ويېپانګه کې زياتول"
 
