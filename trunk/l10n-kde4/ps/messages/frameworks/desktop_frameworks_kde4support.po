@@ -1,0 +1,1386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-01-25 15:05+0000\n"
+"PO-Revision-Date: 2008-08-16 11:44-0800\n"
+"Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
+"Language-Team: Pashto <pathanisation@googlegroups.com>\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Pashto, Pushto\n"
+"X-Poedit-Country: AFGHANISTAN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/kdecore/all_languages.desktop:2
+msgctxt "Name"
+msgid "Afar"
+msgstr "افار"
+
+#: src/kdecore/all_languages.desktop:5
+msgctxt "Name"
+msgid "Abkhazian"
+msgstr "ابکازين"
+
+#: src/kdecore/all_languages.desktop:8
+msgctxt "Name"
+msgid "Avestan"
+msgstr "اوستايي"
+
+#: src/kdecore/all_languages.desktop:11
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "افريکانس"
+
+#: src/kdecore/all_languages.desktop:14
+msgctxt "Name"
+msgid "Amharic"
+msgstr "امهارېک"
+
+#: src/kdecore/all_languages.desktop:17
+msgctxt "Name"
+msgid "Arabic"
+msgstr "عربي"
+
+#: src/kdecore/all_languages.desktop:20
+msgctxt "Name"
+msgid "Assamese"
+msgstr "اسامي"
+
+#: src/kdecore/all_languages.desktop:23
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Avestan"
+msgctxt "Name"
+msgid "Asturian"
+msgstr "اوستايي"
+
+#: src/kdecore/all_languages.desktop:26
+msgctxt "Name"
+msgid "Aymara"
+msgstr "اېمارا"
+
+#: src/kdecore/all_languages.desktop:29
+msgctxt "Name"
+msgid "Azerbaijani"
+msgstr "ازربايجاني"
+
+#: src/kdecore/all_languages.desktop:32
+msgctxt "Name"
+msgid "Bashkir"
+msgstr "بشکير"
+
+#: src/kdecore/all_languages.desktop:35
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "بېلاروسي"
+
+#: src/kdecore/all_languages.desktop:38
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarusian (Latin)"
+msgstr "بېلاروسي"
+
+#: src/kdecore/all_languages.desktop:41
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "بلګريايي"
+
+#: src/kdecore/all_languages.desktop:44
+msgctxt "Name"
+msgid "Bihari"
+msgstr "بېهاري"
+
+#: src/kdecore/all_languages.desktop:47
+msgctxt "Name"
+msgid "Bislama"
+msgstr "بېسلاما"
+
+#: src/kdecore/all_languages.desktop:50
+msgctxt "Name"
+msgid "Bengali"
+msgstr "بنګالي"
+
+#: src/kdecore/all_languages.desktop:53
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "بنګالي (انډيا)"
+
+#: src/kdecore/all_languages.desktop:56
+msgctxt "Name"
+msgid "Tibetan"
+msgstr "ټېبېټي"
+
+#: src/kdecore/all_languages.desktop:59
+msgctxt "Name"
+msgid "Breton"
+msgstr "برېټون"
+
+#: src/kdecore/all_languages.desktop:62
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "بوسنيايي"
+
+#: src/kdecore/all_languages.desktop:65
+msgctxt "Name"
+msgid "Catalan"
+msgstr "کېټېلېن"
+
+#: src/kdecore/all_languages.desktop:68
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:71
+msgctxt "Name"
+msgid "Chechen"
+msgstr "چيچنيايي"
+
+#: src/kdecore/all_languages.desktop:74
+msgctxt "Name"
+msgid "Chamorro"
+msgstr "چمورو"
+
+#: src/kdecore/all_languages.desktop:77
+msgctxt "Name"
+msgid "Corsican"
+msgstr "کورسېکن"
+
+#: src/kdecore/all_languages.desktop:80
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "کريمين ټاټار"
+
+#: src/kdecore/all_languages.desktop:83
+msgctxt "Name"
+msgid "Czech"
+msgstr "چېک"
+
+#: src/kdecore/all_languages.desktop:86
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "کشوبي"
+
+#: src/kdecore/all_languages.desktop:89
+msgctxt "Name"
+msgid "Church Slavic"
+msgstr "چرچ سلاويکي"
+
+#: src/kdecore/all_languages.desktop:92
+msgctxt "Name"
+msgid "Chuvash"
+msgstr "چووېش"
+
+#: src/kdecore/all_languages.desktop:95
+msgctxt "Name"
+msgid "Welsh"
+msgstr "وېلش"
+
+#: src/kdecore/all_languages.desktop:98
+msgctxt "Name"
+msgid "Danish"
+msgstr "ډېنېش"
+
+#: src/kdecore/all_languages.desktop:101
+msgctxt "Name"
+msgid "German"
+msgstr "جرمن"
+
+#: src/kdecore/all_languages.desktop:104
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Upper Sorbian"
+msgctxt "Name"
+msgid "Lower Sorbian"
+msgstr "بره سربي"
+
+#: src/kdecore/all_languages.desktop:107
+msgctxt "Name"
+msgid "Dzongkha"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:110
+msgctxt "Name"
+msgid "Greek"
+msgstr "يوناني"
+
+#: src/kdecore/all_languages.desktop:113
+msgctxt "Name"
+msgid "English"
+msgstr "انګريزي"
+
+#: src/kdecore/all_languages.desktop:116
+msgctxt "Name"
+msgid "British English"
+msgstr "برېټانوي انګريزي"
+
+#: src/kdecore/all_languages.desktop:119
+msgctxt "Name"
+msgid "American English"
+msgstr "امريکايي انګريزي"
+
+#: src/kdecore/all_languages.desktop:122
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "اېسپېرېنټو"
+
+#: src/kdecore/all_languages.desktop:125
+msgctxt "Name"
+msgid "Spanish"
+msgstr "سپېنش"
+
+#: src/kdecore/all_languages.desktop:128
+msgctxt "Name"
+msgid "Estonian"
+msgstr "اېسټونيايي"
+
+#: src/kdecore/all_languages.desktop:131
+msgctxt "Name"
+msgid "Basque"
+msgstr "بېسک"
+
+#: src/kdecore/all_languages.desktop:134
+msgctxt "Name"
+msgid "Farsi (Persian)"
+msgstr "پاړسي"
+
+#: src/kdecore/all_languages.desktop:137
+msgctxt "Name"
+msgid "Finnish"
+msgstr "فېنېش"
+
+#: src/kdecore/all_languages.desktop:140
+msgctxt "Name"
+msgid "Fijian"
+msgstr "فيجي"
+
+#: src/kdecore/all_languages.desktop:143
+msgctxt "Name"
+msgid "Faroese"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:146
+msgctxt "Name"
+msgid "French"
+msgstr "فرانسوي"
+
+#: src/kdecore/all_languages.desktop:149
+msgctxt "Name"
+msgid "Frisian"
+msgstr "فرېشين"
+
+#: src/kdecore/all_languages.desktop:152
+msgctxt "Name"
+msgid "Irish Gaelic"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:155
+msgctxt "Name"
+msgid "Gaelic"
+msgstr "ګاېلېک"
+
+#: src/kdecore/all_languages.desktop:158
+msgctxt "Name"
+msgid "Galician"
+msgstr "ګېلېشين"
+
+#: src/kdecore/all_languages.desktop:161
+msgctxt "Name"
+msgid "Guarani"
+msgstr "ګوراني"
+
+#: src/kdecore/all_languages.desktop:164
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "ګجراتي"
+
+#: src/kdecore/all_languages.desktop:167
+msgctxt "Name"
+msgid "Manx"
+msgstr "مېنکس"
+
+#: src/kdecore/all_languages.desktop:170
+msgctxt "Name"
+msgid "Hausa"
+msgstr "هاوسا"
+
+#: src/kdecore/all_languages.desktop:173
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "هېبرو"
+
+#: src/kdecore/all_languages.desktop:176
+msgctxt "Name"
+msgid "Hindi"
+msgstr "هندي"
+
+#: src/kdecore/all_languages.desktop:179
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:182
+msgctxt "Name"
+msgid "Hiri Motu"
+msgstr "هيري موټو"
+
+#: src/kdecore/all_languages.desktop:185
+msgctxt "Name"
+msgid "Croatian"
+msgstr "کروټيايي"
+
+#: src/kdecore/all_languages.desktop:188
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "بره سربي"
+
+#: src/kdecore/all_languages.desktop:191
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "هنګريايي"
+
+#: src/kdecore/all_languages.desktop:194
+msgctxt "Name"
+msgid "Armenian"
+msgstr "ارمينيايي"
+
+#: src/kdecore/all_languages.desktop:197
+msgctxt "Name"
+msgid "Herero"
+msgstr "هېرېرو"
+
+#: src/kdecore/all_languages.desktop:200
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "اېنټرلېنګوا"
+
+#: src/kdecore/all_languages.desktop:203
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "انډونيشيايي"
+
+#: src/kdecore/all_languages.desktop:206
+msgctxt "Name"
+msgid "Interlingue"
+msgstr "اېنټرلېنګ"
+
+#: src/kdecore/all_languages.desktop:209
+msgctxt "Name"
+msgid "Inupiaq"
+msgstr "اېنوپيک"
+
+#: src/kdecore/all_languages.desktop:212
+msgctxt "Name"
+msgid "Ido"
+msgstr "اېډو"
+
+#: src/kdecore/all_languages.desktop:215
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "اېسلېنډي"
+
+#: src/kdecore/all_languages.desktop:218
+msgctxt "Name"
+msgid "Italian"
+msgstr "اېټالوي"
+
+#: src/kdecore/all_languages.desktop:221
+msgctxt "Name"
+msgid "Inuktitut"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:224
+msgctxt "Name"
+msgid "Japanese"
+msgstr "جاپاني"
+
+#: src/kdecore/all_languages.desktop:227
+msgctxt "Name"
+msgid "Javanese"
+msgstr "جاواني"
+
+#: src/kdecore/all_languages.desktop:230
+msgctxt "Name"
+msgid "Georgian"
+msgstr "ګورجين"
+
+#: src/kdecore/all_languages.desktop:233
+msgctxt "Name"
+msgid "Kikuyu"
+msgstr "کېکويو"
+
+#: src/kdecore/all_languages.desktop:236
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "کزاکي"
+
+#: src/kdecore/all_languages.desktop:239
+msgctxt "Name"
+msgid "Kalaallisut"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:242
+msgctxt "Name"
+msgid "Khmer"
+msgstr "کمير"
+
+#: src/kdecore/all_languages.desktop:245
+msgctxt "Name"
+msgid "Kannada"
+msgstr "کناډا"
+
+#: src/kdecore/all_languages.desktop:248
+msgctxt "Name"
+msgid "Korean"
+msgstr "کوريايي"
+
+#: src/kdecore/all_languages.desktop:251
+msgctxt "Name"
+msgid "Kashmiri"
+msgstr "کشميري"
+
+#: src/kdecore/all_languages.desktop:254
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "کوردي"
+
+#: src/kdecore/all_languages.desktop:257
+msgctxt "Name"
+msgid "Komi"
+msgstr "کومي"
+
+#: src/kdecore/all_languages.desktop:260
+msgctxt "Name"
+msgid "Cornish"
+msgstr "کورني"
+
+#: src/kdecore/all_languages.desktop:263
+msgctxt "Name"
+msgid "Kirghiz"
+msgstr "کرګزي"
+
+#: src/kdecore/all_languages.desktop:266
+msgctxt "Name"
+msgid "Latin"
+msgstr "لاټيني"
+
+#: src/kdecore/all_languages.desktop:269
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "لګسېمبرګيايي"
+
+#: src/kdecore/all_languages.desktop:272
+msgctxt "Name"
+msgid "Limburgan"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:275
+msgctxt "Name"
+msgid "Lingala"
+msgstr "لېنګالا"
+
+#: src/kdecore/all_languages.desktop:278
+msgctxt "Name"
+msgid "Lao"
+msgstr "لاو"
+
+#: src/kdecore/all_languages.desktop:281
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "لېټوانيايي"
+
+#: src/kdecore/all_languages.desktop:284
+msgctxt "Name"
+msgid "Latvian"
+msgstr "لېټوين"
+
+#: src/kdecore/all_languages.desktop:287
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marathi"
+msgctxt "Name"
+msgid "Maithili"
+msgstr "مراټي"
+
+#: src/kdecore/all_languages.desktop:290
+msgctxt "Name"
+msgid "Malagasy"
+msgstr "ملاګاسي"
+
+#: src/kdecore/all_languages.desktop:293
+msgctxt "Name"
+msgid "Marshallese"
+msgstr "مارشالي"
+
+#: src/kdecore/all_languages.desktop:296
+msgctxt "Name"
+msgid "Maori"
+msgstr "ماوري"
+
+#: src/kdecore/all_languages.desktop:299
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "مېسېډونين"
+
+#: src/kdecore/all_languages.desktop:302
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "ملايالم"
+
+#: src/kdecore/all_languages.desktop:305
+msgctxt "Name"
+msgid "Mongolian"
+msgstr "مغلي"
+
+#: src/kdecore/all_languages.desktop:308
+msgctxt "Name"
+msgid "Moldavian"
+msgstr "مالډيوي"
+
+#: src/kdecore/all_languages.desktop:311
+msgctxt "Name"
+msgid "Marathi"
+msgstr "مراټي"
+
+#: src/kdecore/all_languages.desktop:314
+msgctxt "Name"
+msgid "Malay"
+msgstr "ملای"
+
+#: src/kdecore/all_languages.desktop:317
+msgctxt "Name"
+msgid "Maltese"
+msgstr "مالټي"
+
+#: src/kdecore/all_languages.desktop:320
+msgctxt "Name"
+msgid "Burmese"
+msgstr "برمي"
+
+#: src/kdecore/all_languages.desktop:323
+msgctxt "Name"
+msgid "Nauru"
+msgstr "ناورو"
+
+#: src/kdecore/all_languages.desktop:326
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "ناروېجني بوکمل"
+
+#: src/kdecore/all_languages.desktop:329
+msgctxt "Name"
+msgid "Ndebele, North"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:332
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "ښکته سېګسن"
+
+#: src/kdecore/all_languages.desktop:335
+msgctxt "Name"
+msgid "Nepali"
+msgstr "نيپالي"
+
+#: src/kdecore/all_languages.desktop:338
+msgctxt "Name"
+msgid "Ndonga"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:341
+msgctxt "Name"
+msgid "Dutch"
+msgstr "ډچ"
+
+#: src/kdecore/all_languages.desktop:344
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "ناروېجني نېنورسک"
+
+#: src/kdecore/all_languages.desktop:347
+msgctxt "Name"
+msgid "Ndebele, South"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:350
+msgctxt "Name"
+msgid "Northern Sotho"
+msgstr "شمالي سوټو"
+
+#: src/kdecore/all_languages.desktop:353
+msgctxt "Name"
+msgid "Navajo"
+msgstr "نواجو"
+
+#: src/kdecore/all_languages.desktop:356
+msgctxt "Name"
+msgid "Chichewa"
+msgstr "چېچيوا"
+
+#: src/kdecore/all_languages.desktop:359
+msgctxt "Name"
+msgid "Occitan"
+msgstr "اوسيټي"
+
+#: src/kdecore/all_languages.desktop:362
+msgctxt "Name"
+msgid "Oromo"
+msgstr "اورومو"
+
+#: src/kdecore/all_languages.desktop:365
+msgctxt "Name"
+msgid "Oriya"
+msgstr "وريا"
+
+#: src/kdecore/all_languages.desktop:368
+msgctxt "Name"
+msgid "Ossetian"
+msgstr "اوسيټي"
+
+#: src/kdecore/all_languages.desktop:371
+msgctxt "Name"
+msgid "Punjabi/Panjabi"
+msgstr "پنجابي"
+
+#: src/kdecore/all_languages.desktop:374
+msgctxt "Name"
+msgid "Pali"
+msgstr "پالي"
+
+#: src/kdecore/all_languages.desktop:377
+msgctxt "Name"
+msgid "Polish"
+msgstr "پولېش"
+
+#: src/kdecore/all_languages.desktop:380
+msgctxt "Name"
+msgid "Pushto"
+msgstr "پښتو"
+
+#: src/kdecore/all_languages.desktop:383
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "پورټګيز"
+
+#: src/kdecore/all_languages.desktop:386
+msgctxt "Name"
+msgid "Brazilian Portuguese"
+msgstr "برازيلي پرټګيز"
+
+#: src/kdecore/all_languages.desktop:389
+msgctxt "Name"
+msgid "Quechua"
+msgstr "کوېچوا"
+
+#: src/kdecore/all_languages.desktop:392
+msgctxt "Name"
+msgid "Rundi"
+msgstr "رونډي"
+
+#: src/kdecore/all_languages.desktop:395
+msgctxt "Name"
+msgid "Romanian"
+msgstr "رومانيايي"
+
+#: src/kdecore/all_languages.desktop:398
+msgctxt "Name"
+msgid "Romany"
+msgstr "روماني"
+
+#: src/kdecore/all_languages.desktop:401
+msgctxt "Name"
+msgid "Russian"
+msgstr "روسي"
+
+#: src/kdecore/all_languages.desktop:404
+msgctxt "Name"
+msgid "Kinyarwanda"
+msgstr "کينيارونډا"
+
+#: src/kdecore/all_languages.desktop:407
+msgctxt "Name"
+msgid "Sanskrit"
+msgstr "سانسکرېټ"
+
+#: src/kdecore/all_languages.desktop:410
+msgctxt "Name"
+msgid "Sardinian"
+msgstr "سارډينيايي"
+
+#: src/kdecore/all_languages.desktop:413
+msgctxt "Name"
+msgid "Sindhi"
+msgstr "سندهي"
+
+#: src/kdecore/all_languages.desktop:416
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "شمالي سامي"
+
+#: src/kdecore/all_languages.desktop:419
+msgctxt "Name"
+msgid "Sango"
+msgstr "سانګو"
+
+#: src/kdecore/all_languages.desktop:422
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sinhalese"
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "سېنهالي"
+
+#: src/kdecore/all_languages.desktop:425
+msgctxt "Name"
+msgid "Slovak"
+msgstr "سلواک"
+
+#: src/kdecore/all_languages.desktop:428
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "سلووېنين"
+
+#: src/kdecore/all_languages.desktop:431
+msgctxt "Name"
+msgid "Samoan"
+msgstr "سموان"
+
+#: src/kdecore/all_languages.desktop:434
+msgctxt "Name"
+msgid "Shona"
+msgstr "شونا"
+
+#: src/kdecore/all_languages.desktop:437
+msgctxt "Name"
+msgid "Somali"
+msgstr "سومالي"
+
+#: src/kdecore/all_languages.desktop:440
+msgctxt "Name"
+msgid "Albanian"
+msgstr "الباني"
+
+#: src/kdecore/all_languages.desktop:443
+msgctxt "Name"
+msgid "Serbian"
+msgstr "سربين"
+
+#: src/kdecore/all_languages.desktop:446
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "سربيايي لاټيني"
+
+#: src/kdecore/all_languages.desktop:449
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "سربيايي لاټيني"
+
+#: src/kdecore/all_languages.desktop:452
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "سربيايي لاټيني"
+
+#: src/kdecore/all_languages.desktop:455
+msgctxt "Name"
+msgid "Swati"
+msgstr "سواټي"
+
+#: src/kdecore/all_languages.desktop:458
+msgctxt "Name"
+msgid "Sotho, Southern"
+msgstr "سوټو، سهېلي"
+
+#: src/kdecore/all_languages.desktop:461
+msgctxt "Name"
+msgid "Sundanese"
+msgstr "سوډاني"
+
+#: src/kdecore/all_languages.desktop:464
+msgctxt "Name"
+msgid "Swedish"
+msgstr "سوېډېش"
+
+#: src/kdecore/all_languages.desktop:467
+msgctxt "Name"
+msgid "Swahili"
+msgstr "سواهيلي"
+
+#: src/kdecore/all_languages.desktop:470
+msgctxt "Name"
+msgid "Tamil"
+msgstr "ټامېل"
+
+#: src/kdecore/all_languages.desktop:473
+msgctxt "Name"
+msgid "Telugu"
+msgstr "ټېلوګو"
+
+#: src/kdecore/all_languages.desktop:476
+msgctxt "Name"
+msgid "Tajik"
+msgstr "تاجکي"
+
+#: src/kdecore/all_languages.desktop:479
+msgctxt "Name"
+msgid "Thai"
+msgstr "ټهايي"
+
+#: src/kdecore/all_languages.desktop:482
+msgctxt "Name"
+msgid "Tigrinya"
+msgstr "ټېګرينيا"
+
+#: src/kdecore/all_languages.desktop:485
+msgctxt "Name"
+msgid "Turkmen"
+msgstr "ترکمني"
+
+#: src/kdecore/all_languages.desktop:488
+msgctxt "Name"
+msgid "Tswana"
+msgstr "ټسوانا"
+
+#: src/kdecore/all_languages.desktop:491
+msgctxt "Name"
+msgid "Tonga"
+msgstr "ټونګا"
+
+#: src/kdecore/all_languages.desktop:494
+msgctxt "Name"
+msgid "Turkish"
+msgstr "ترکي"
+
+#: src/kdecore/all_languages.desktop:497
+msgctxt "Name"
+msgid "Tsonga"
+msgstr "ټسونګا"
+
+#: src/kdecore/all_languages.desktop:500
+msgctxt "Name"
+msgid "Tatar"
+msgstr "ټاټار"
+
+#: src/kdecore/all_languages.desktop:503
+msgctxt "Name"
+msgid "Twi"
+msgstr "ټوي"
+
+#: src/kdecore/all_languages.desktop:506
+msgctxt "Name"
+msgid "Tahitian"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:509
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uighur"
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "اوېګور"
+
+#: src/kdecore/all_languages.desktop:512
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "اکرېني"
+
+#: src/kdecore/all_languages.desktop:515
+msgctxt "Name"
+msgid "Urdu"
+msgstr "اردو"
+
+#: src/kdecore/all_languages.desktop:518
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "ازبکي"
+
+#: src/kdecore/all_languages.desktop:521
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "ازبکي (سېرېلېک)"
+
+#: src/kdecore/all_languages.desktop:524
+msgctxt "Name"
+msgid "Venda"
+msgstr "وېنډا"
+
+#: src/kdecore/all_languages.desktop:527
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "وېټنامي"
+
+#: src/kdecore/all_languages.desktop:530
+msgctxt "Name"
+msgid "Volapük"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:533
+msgctxt "Name"
+msgid "Walloon"
+msgstr "والون"
+
+#: src/kdecore/all_languages.desktop:536
+msgctxt "Name"
+msgid "Wolof"
+msgstr "ولوف"
+
+#: src/kdecore/all_languages.desktop:539
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "کوسا"
+
+#: src/kdecore/all_languages.desktop:542
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:545
+msgctxt "Name"
+msgid "Yiddish"
+msgstr "يډېش"
+
+#: src/kdecore/all_languages.desktop:548
+msgctxt "Name"
+msgid "Yoruba"
+msgstr "يوروبا"
+
+#: src/kdecore/all_languages.desktop:551
+msgctxt "Name"
+msgid "Zhuang"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:554
+msgctxt "Name"
+msgid "Chinese"
+msgstr "چينايي"
+
+#: src/kdecore/all_languages.desktop:557
+msgctxt "Name"
+msgid "Chinese Simplified"
+msgstr "چينايي ساده"
+
+#: src/kdecore/all_languages.desktop:560
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "چينايي (هانګ کانګ)"
+
+#: src/kdecore/all_languages.desktop:563
+msgctxt "Name"
+msgid "Chinese Traditional"
+msgstr "چينايي هڅوبي"
+
+#: src/kdecore/all_languages.desktop:566
+msgctxt "Name"
+msgid "Zulu"
+msgstr "زولو"
+
+#: src/kdecore/entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "English"
+msgctxt "Name"
+msgid "US English"
+msgstr "انګريزي"
+
+#: src/kio/imageformats/qimageio_plugin.desktop:4
+msgctxt "Comment"
+msgid "QImageIOHandler plugin"
+msgstr ""
+
+#: src/kio/kdatatool.desktop:4
+msgctxt "Comment"
+msgid "KDE Data Tool"
+msgstr "کډي اومتوک توکی"
+
+#: src/kio/kfilewrite.desktop:5
+msgctxt "Comment"
+msgid "KFileWrite plugin"
+msgstr "لګون KFileWrite"
+
+#: src/kio/kscan.desktop:4
+msgctxt "Name"
+msgid "KScan"
+msgstr "Kځېرل"
+
+#: src/kssl/kcm/kcm_ssl.desktop:12
+msgctxt "Name"
+msgid "SSL Preferences"
+msgstr ""
+
+#: src/kssl/kcm/kcm_ssl.desktop:14
+msgctxt "Comment"
+msgid "SSL Versions and Certificates"
+msgstr ""
+
+#: src/kssl/kcm/kcm_ssl.desktop:17
+msgctxt "X-KDE-Keywords"
+msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Instant Messenger"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Instant Messenger"
+#~ msgstr "ژر استوزګر"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Embedded Text Editor"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Embedded Text Editor"
+#~ msgstr "راتاو ليک سمونګر"
+
+#~ msgctxt "Comment"
+#~ msgid "KTextEditor Plugin"
+#~ msgstr "لګون Kليکسمونګر"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Plugin Information"
+#~ msgstr "کډي لګون خبرتياوې"
+
+#~ msgctxt "Comment"
+#~ msgid "KDED Module"
+#~ msgstr "بېلګه KDED"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDED Module"
+#~ msgctxt "Name"
+#~ msgid "KFileModule"
+#~ msgstr "بېلګه KDED"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Java Applet Viewer"
+#~ msgstr "راتاو جاوا څېرمه کړنلار ليدانی"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable HTML viewing component"
+#~ msgstr "ليدانی رغتوک HTML راتاوېدونکی"
+
+#~ msgctxt "Name"
+#~ msgid "KHTML"
+#~ msgstr "KHTML"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Image Viewing Component"
+#~ msgstr "راتاوېدونکی انځور ليدانی رغتوک"
+
+#~ msgctxt "Name"
+#~ msgid "Embeddable Image Viewer"
+#~ msgstr "راتاوېدونکی انځور ليدانی"
+
+#~ msgctxt "Name"
+#~ msgid "Application"
+#~ msgstr "کاريال"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Configuration Module"
+#~ msgstr "کډي سازونې بېلګه"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Configuration Initialization"
+#~ msgstr "کډي سازونې پېلونه"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDED Module"
+#~ msgctxt "Comment"
+#~ msgid "KIO File Module"
+#~ msgstr "بېلګه KDED"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Properties Dialog"
+#~ msgstr "د ځانتياوې کړکۍ لپاره لګون"
+
+#~ msgctxt "Name"
+#~ msgid "Enhanced Browsing Plugin"
+#~ msgstr "پرمختللی لټوونی لګون"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "خپلکارې ګوډاګي سازونه"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "خپلکارې ګوډاګي سازونه"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Comment"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "خپلکارې ګوډاګي سازونه"
+
+#~ msgctxt "Name"
+#~ msgid "Invalid Proxy Script"
+#~ msgstr "ناسم ګوډاګی سکرېپټ"
+
+#~ msgctxt "Comment"
+#~ msgid "The downloaded proxy configuration script is invalid"
+#~ msgstr "رالېښل شوی ګوډاګي سازونې سکرېپټ ناسم دی"
+
+#~ msgctxt "Name"
+#~ msgid "Script Download Error"
+#~ msgstr "د سکرېپټ رالېښنې تېروتنه"
+
+#~ msgctxt "Comment"
+#~ msgid "The proxy configuration script could not be downloaded"
+#~ msgstr "د ګوډاګي د سازونې سکرېپټ رالېښل کېدی نه شي"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error executing the proxy configuration script"
+#~ msgstr "د ګوډاګي سازونې سکرېپټ په چلولو کې ستونزه رامنځته شوه"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Rename Dialog"
+#~ msgstr "د بيانومولو کړکۍ لپاره لګون"
+
+#~ msgctxt "Name"
+#~ msgid "HTTP Cache Cleaner"
+#~ msgstr "پټياد پاکوونکی HTTP"
+
+#~ msgctxt "Comment"
+#~ msgid "Cleans up old entries from the HTTP cache"
+#~ msgstr "پټياد څخه زړې ننوتنې پاکوي HTTP د"
+
+#~ msgctxt "Comment"
+#~ msgid "Test for Knotify"
+#~ msgstr "لپاره ازموېنه Knotify د"
+
+#~ msgctxt "Name"
+#~ msgid "Group"
+#~ msgstr "ډله"
+
+#~ msgctxt "Comment"
+#~ msgid "The group"
+#~ msgstr "ډله"
+
+#~ msgctxt "Name"
+#~ msgid "Online"
+#~ msgstr "پرليکه"
+
+#~ msgctxt "Comment"
+#~ msgid "The contact is now connected"
+#~ msgstr "اړيکنيو اوس نښتې دی"
+
+#~ msgctxt "Name"
+#~ msgid "Message Received"
+#~ msgstr "استوزه ترلاسه شوه"
+
+#~ msgctxt "Comment"
+#~ msgid "A Message has been received"
+#~ msgstr "يوه استوزه ترلاسه شوه"
+
+#~ msgctxt "Name"
+#~ msgid "Browser View"
+#~ msgstr "لټوونی کوت"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Component"
+#~ msgstr "کډي رغتوک"
+
+#~ msgctxt "Name"
+#~ msgid "Notepad (example)"
+#~ msgstr "(بېلګه) Notepad"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Word Completion"
+#~ msgctxt "Name"
+#~ msgid "Collection"
+#~ msgstr "ويې بشپړېدنه"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KFileWrite plugin"
+#~ msgctxt "Comment"
+#~ msgid "KRunner plugin"
+#~ msgstr "لګون KFileWrite"
+
+#~ msgctxt "Name"
+#~ msgid "KCertPart"
+#~ msgstr "KCertPart"
+
+#~ msgctxt "Name"
+#~ msgid "ASpell"
+#~ msgstr "ASpell"
+
+#~ msgctxt "Name"
+#~ msgid "HSpell"
+#~ msgstr "HSpell"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "HSpell"
+#~ msgctxt "Name"
+#~ msgid "Hunspell"
+#~ msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "BMP"
+#~ msgstr "BMP"
+
+#~ msgctxt "Name"
+#~ msgid "DDS"
+#~ msgstr "DDS"
+
+#~ msgctxt "Name"
+#~ msgid "EPS"
+#~ msgstr "EPS"
+
+#~ msgctxt "Name"
+#~ msgid "EXR"
+#~ msgstr "EXR"
+
+#~ msgctxt "Name"
+#~ msgid "GIF"
+#~ msgstr "GIF"
+
+#~ msgctxt "Name"
+#~ msgid "HDR"
+#~ msgstr "HDR"
+
+#~ msgctxt "Name"
+#~ msgid "ICO"
+#~ msgstr "ICO"
+
+#~ msgctxt "Name"
+#~ msgid "JP2"
+#~ msgstr "JP2"
+
+#~ msgctxt "Name"
+#~ msgid "JPEG"
+#~ msgstr "JPEG"
+
+#~ msgctxt "Name"
+#~ msgid "MNG"
+#~ msgstr "MNG"
+
+#~ msgctxt "Name"
+#~ msgid "PBM"
+#~ msgstr "PBM"
+
+#~ msgctxt "Name"
+#~ msgid "PCX"
+#~ msgstr "PCX"
+
+#~ msgctxt "Name"
+#~ msgid "PGM"
+#~ msgstr "PGM"
+
+#~ msgctxt "Name"
+#~ msgid "PNG"
+#~ msgstr "PNG"
+
+#~ msgctxt "Name"
+#~ msgid "PNM"
+#~ msgstr "PNM"
+
+#~ msgctxt "Name"
+#~ msgid "PPM"
+#~ msgstr "PPM"
+
+#~ msgctxt "Name"
+#~ msgid "PSD"
+#~ msgstr "PSD"
+
+#~ msgctxt "Name"
+#~ msgid "RGB"
+#~ msgstr "RGB"
+
+#~ msgctxt "Name"
+#~ msgid "TGA"
+#~ msgstr "TGA"
+
+#~ msgctxt "Name"
+#~ msgid "TIFF"
+#~ msgstr "TIFF"
+
+#~ msgctxt "Name"
+#~ msgid "XBM"
+#~ msgstr "XBM"
+
+#~ msgctxt "Name"
+#~ msgid "XCF"
+#~ msgstr "XCF"
+
+#~ msgctxt "Name"
+#~ msgid "XPM"
+#~ msgstr "XPM"
+
+#~ msgctxt "Name"
+#~ msgid "XV"
+#~ msgstr "XV"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Advanced Text Editor"
+#~ msgstr "راتاو بريونلی ليک سمونګر"
+
+#~ msgctxt "Name"
+#~ msgid "Autobookmarker"
+#~ msgstr "خپله ليکنښوونکی"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "AutoBrace Configuration"
+#~ msgstr "خپلکارې ګوډاګي سازونه"
+
+#~ msgctxt "Name"
+#~ msgid "Insert File"
+#~ msgstr "دوتنه ورننويستل"
+
+#~ msgctxt "Name"
+#~ msgid "Data Tools"
+#~ msgstr "اومتوک توکي"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Insert File"
+#~ msgctxt "Name"
+#~ msgid "IconInserter"
+#~ msgstr "دوتنه ورننويستل"
+
+#~ msgctxt "Name"
+#~ msgid "Format of Time & Date insertion"
+#~ msgstr "د نېټې او مهال د ورننويستلو بڼه"
+
+#~ msgctxt "Name"
+#~ msgid "Time & Date"
+#~ msgstr "نېټه او مهال"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert current Time & Date"
+#~ msgstr "اوسنۍ نېټه او مهال ورننويستل"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Latin"
+#~ msgctxt "Name"
+#~ msgid "Long action"
+#~ msgstr "لاټيني"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bislama"
+#~ msgctxt "Name"
+#~ msgid "Plasma"
+#~ msgstr "بېسلاما"
+
+#~ msgctxt "Name"
+#~ msgid "Behavior"
+#~ msgstr "سلوک"
