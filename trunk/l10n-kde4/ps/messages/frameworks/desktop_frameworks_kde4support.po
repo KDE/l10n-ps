@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-26 02:02+0000\n"
+"POT-Creation-Date: 2014-01-27 01:51+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,37 +19,37 @@ msgctxt "Name"
 msgid "Afar"
 msgstr "افار"
 
-#: src/kdecore/all_languages.desktop:8
+#: src/kdecore/all_languages.desktop:100
 msgctxt "Name"
 msgid "Abkhazian"
 msgstr "ابکازين"
 
-#: src/kdecore/all_languages.desktop:14
+#: src/kdecore/all_languages.desktop:198
 msgctxt "Name"
 msgid "Avestan"
 msgstr "اوستايي"
 
-#: src/kdecore/all_languages.desktop:20
+#: src/kdecore/all_languages.desktop:295
 msgctxt "Name"
 msgid "Afrikaans"
 msgstr "افريکانس"
 
-#: src/kdecore/all_languages.desktop:26
+#: src/kdecore/all_languages.desktop:393
 msgctxt "Name"
 msgid "Amharic"
 msgstr "امهارېک"
 
-#: src/kdecore/all_languages.desktop:32
+#: src/kdecore/all_languages.desktop:491
 msgctxt "Name"
 msgid "Arabic"
 msgstr "عربي"
 
-#: src/kdecore/all_languages.desktop:38
+#: src/kdecore/all_languages.desktop:589
 msgctxt "Name"
 msgid "Assamese"
 msgstr "اسامي"
 
-#: src/kdecore/all_languages.desktop:44
+#: src/kdecore/all_languages.desktop:687
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Avestan"
@@ -57,27 +57,27 @@ msgctxt "Name"
 msgid "Asturian"
 msgstr "اوستايي"
 
-#: src/kdecore/all_languages.desktop:50
+#: src/kdecore/all_languages.desktop:760
 msgctxt "Name"
 msgid "Aymara"
 msgstr "اېمارا"
 
-#: src/kdecore/all_languages.desktop:56
+#: src/kdecore/all_languages.desktop:858
 msgctxt "Name"
 msgid "Azerbaijani"
 msgstr "ازربايجاني"
 
-#: src/kdecore/all_languages.desktop:62
+#: src/kdecore/all_languages.desktop:956
 msgctxt "Name"
 msgid "Bashkir"
 msgstr "بشکير"
 
-#: src/kdecore/all_languages.desktop:68
+#: src/kdecore/all_languages.desktop:1054
 msgctxt "Name"
 msgid "Belarusian"
 msgstr "بېلاروسي"
 
-#: src/kdecore/all_languages.desktop:74
+#: src/kdecore/all_languages.desktop:1152
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Belarusian"
@@ -85,112 +85,112 @@ msgctxt "Name"
 msgid "Belarusian (Latin)"
 msgstr "بېلاروسي"
 
-#: src/kdecore/all_languages.desktop:80
+#: src/kdecore/all_languages.desktop:1236
 msgctxt "Name"
 msgid "Bulgarian"
 msgstr "بلګريايي"
 
-#: src/kdecore/all_languages.desktop:86
+#: src/kdecore/all_languages.desktop:1334
 msgctxt "Name"
 msgid "Bihari"
 msgstr "بېهاري"
 
-#: src/kdecore/all_languages.desktop:92
+#: src/kdecore/all_languages.desktop:1432
 msgctxt "Name"
 msgid "Bislama"
 msgstr "بېسلاما"
 
-#: src/kdecore/all_languages.desktop:98
+#: src/kdecore/all_languages.desktop:1530
 msgctxt "Name"
 msgid "Bengali"
 msgstr "بنګالي"
 
-#: src/kdecore/all_languages.desktop:104
+#: src/kdecore/all_languages.desktop:1628
 msgctxt "Name"
 msgid "Bengali (India)"
 msgstr "بنګالي (انډيا)"
 
-#: src/kdecore/all_languages.desktop:110
+#: src/kdecore/all_languages.desktop:1717
 msgctxt "Name"
 msgid "Tibetan"
 msgstr "ټېبېټي"
 
-#: src/kdecore/all_languages.desktop:116
+#: src/kdecore/all_languages.desktop:1815
 msgctxt "Name"
 msgid "Breton"
 msgstr "برېټون"
 
-#: src/kdecore/all_languages.desktop:122
+#: src/kdecore/all_languages.desktop:1913
 msgctxt "Name"
 msgid "Bosnian"
 msgstr "بوسنيايي"
 
-#: src/kdecore/all_languages.desktop:128
+#: src/kdecore/all_languages.desktop:2011
 msgctxt "Name"
 msgid "Catalan"
 msgstr "کېټېلېن"
 
-#: src/kdecore/all_languages.desktop:134
+#: src/kdecore/all_languages.desktop:2109
 msgctxt "Name"
 msgid "Catalan (Valencian)"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:140
+#: src/kdecore/all_languages.desktop:2179
 msgctxt "Name"
 msgid "Chechen"
 msgstr "چيچنيايي"
 
-#: src/kdecore/all_languages.desktop:146
+#: src/kdecore/all_languages.desktop:2277
 msgctxt "Name"
 msgid "Chamorro"
 msgstr "چمورو"
 
-#: src/kdecore/all_languages.desktop:152
+#: src/kdecore/all_languages.desktop:2375
 msgctxt "Name"
 msgid "Corsican"
 msgstr "کورسېکن"
 
-#: src/kdecore/all_languages.desktop:158
+#: src/kdecore/all_languages.desktop:2473
 msgctxt "Name"
 msgid "Crimean Tatar"
 msgstr "کريمين ټاټار"
 
-#: src/kdecore/all_languages.desktop:164
+#: src/kdecore/all_languages.desktop:2557
 msgctxt "Name"
 msgid "Czech"
 msgstr "چېک"
 
-#: src/kdecore/all_languages.desktop:170
+#: src/kdecore/all_languages.desktop:2655
 msgctxt "Name"
 msgid "Kashubian"
 msgstr "کشوبي"
 
-#: src/kdecore/all_languages.desktop:176
+#: src/kdecore/all_languages.desktop:2743
 msgctxt "Name"
 msgid "Church Slavic"
 msgstr "چرچ سلاويکي"
 
-#: src/kdecore/all_languages.desktop:182
+#: src/kdecore/all_languages.desktop:2840
 msgctxt "Name"
 msgid "Chuvash"
 msgstr "چووېش"
 
-#: src/kdecore/all_languages.desktop:188
+#: src/kdecore/all_languages.desktop:2938
 msgctxt "Name"
 msgid "Welsh"
 msgstr "وېلش"
 
-#: src/kdecore/all_languages.desktop:194
+#: src/kdecore/all_languages.desktop:3036
 msgctxt "Name"
 msgid "Danish"
 msgstr "ډېنېش"
 
-#: src/kdecore/all_languages.desktop:200
+#: src/kdecore/all_languages.desktop:3134
 msgctxt "Name"
 msgid "German"
 msgstr "جرمن"
 
-#: src/kdecore/all_languages.desktop:206
+#: src/kdecore/all_languages.desktop:3232
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Upper Sorbian"
@@ -198,307 +198,307 @@ msgctxt "Name"
 msgid "Lower Sorbian"
 msgstr "بره سربي"
 
-#: src/kdecore/all_languages.desktop:212
+#: src/kdecore/all_languages.desktop:3315
 msgctxt "Name"
 msgid "Dzongkha"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:218
+#: src/kdecore/all_languages.desktop:3412
 msgctxt "Name"
 msgid "Greek"
 msgstr "يوناني"
 
-#: src/kdecore/all_languages.desktop:224
+#: src/kdecore/all_languages.desktop:3510
 msgctxt "Name"
 msgid "English"
 msgstr "انګريزي"
 
-#: src/kdecore/all_languages.desktop:230
+#: src/kdecore/all_languages.desktop:3608
 msgctxt "Name"
 msgid "British English"
 msgstr "برېټانوي انګريزي"
 
-#: src/kdecore/all_languages.desktop:236
+#: src/kdecore/all_languages.desktop:3705
 msgctxt "Name"
 msgid "American English"
 msgstr "امريکايي انګريزي"
 
-#: src/kdecore/all_languages.desktop:242
+#: src/kdecore/all_languages.desktop:3801
 msgctxt "Name"
 msgid "Esperanto"
 msgstr "اېسپېرېنټو"
 
-#: src/kdecore/all_languages.desktop:248
+#: src/kdecore/all_languages.desktop:3899
 msgctxt "Name"
 msgid "Spanish"
 msgstr "سپېنش"
 
-#: src/kdecore/all_languages.desktop:254
+#: src/kdecore/all_languages.desktop:3997
 msgctxt "Name"
 msgid "Estonian"
 msgstr "اېسټونيايي"
 
-#: src/kdecore/all_languages.desktop:260
+#: src/kdecore/all_languages.desktop:4095
 msgctxt "Name"
 msgid "Basque"
 msgstr "بېسک"
 
-#: src/kdecore/all_languages.desktop:266
+#: src/kdecore/all_languages.desktop:4193
 msgctxt "Name"
 msgid "Farsi (Persian)"
 msgstr "پاړسي"
 
-#: src/kdecore/all_languages.desktop:272
+#: src/kdecore/all_languages.desktop:4289
 msgctxt "Name"
 msgid "Finnish"
 msgstr "فېنېش"
 
-#: src/kdecore/all_languages.desktop:278
+#: src/kdecore/all_languages.desktop:4387
 msgctxt "Name"
 msgid "Fijian"
 msgstr "فيجي"
 
-#: src/kdecore/all_languages.desktop:284
+#: src/kdecore/all_languages.desktop:4485
 msgctxt "Name"
 msgid "Faroese"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:290
+#: src/kdecore/all_languages.desktop:4582
 msgctxt "Name"
 msgid "French"
 msgstr "فرانسوي"
 
-#: src/kdecore/all_languages.desktop:296
+#: src/kdecore/all_languages.desktop:4680
 msgctxt "Name"
 msgid "Frisian"
 msgstr "فرېشين"
 
-#: src/kdecore/all_languages.desktop:302
+#: src/kdecore/all_languages.desktop:4778
 msgctxt "Name"
 msgid "Irish Gaelic"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:308
+#: src/kdecore/all_languages.desktop:4870
 msgctxt "Name"
 msgid "Gaelic"
 msgstr "ګاېلېک"
 
-#: src/kdecore/all_languages.desktop:314
+#: src/kdecore/all_languages.desktop:4968
 msgctxt "Name"
 msgid "Galician"
 msgstr "ګېلېشين"
 
-#: src/kdecore/all_languages.desktop:320
+#: src/kdecore/all_languages.desktop:5066
 msgctxt "Name"
 msgid "Guarani"
 msgstr "ګوراني"
 
-#: src/kdecore/all_languages.desktop:326
+#: src/kdecore/all_languages.desktop:5164
 msgctxt "Name"
 msgid "Gujarati"
 msgstr "ګجراتي"
 
-#: src/kdecore/all_languages.desktop:332
+#: src/kdecore/all_languages.desktop:5262
 msgctxt "Name"
 msgid "Manx"
 msgstr "مېنکس"
 
-#: src/kdecore/all_languages.desktop:338
+#: src/kdecore/all_languages.desktop:5359
 msgctxt "Name"
 msgid "Hausa"
 msgstr "هاوسا"
 
-#: src/kdecore/all_languages.desktop:344
+#: src/kdecore/all_languages.desktop:5457
 msgctxt "Name"
 msgid "Hebrew"
 msgstr "هېبرو"
 
-#: src/kdecore/all_languages.desktop:350
+#: src/kdecore/all_languages.desktop:5555
 msgctxt "Name"
 msgid "Hindi"
 msgstr "هندي"
 
-#: src/kdecore/all_languages.desktop:356
+#: src/kdecore/all_languages.desktop:5653
 msgctxt "Name"
 msgid "Chhattisgarhi"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:362
+#: src/kdecore/all_languages.desktop:5728
 msgctxt "Name"
 msgid "Hiri Motu"
 msgstr "هيري موټو"
 
-#: src/kdecore/all_languages.desktop:368
+#: src/kdecore/all_languages.desktop:5826
 msgctxt "Name"
 msgid "Croatian"
 msgstr "کروټيايي"
 
-#: src/kdecore/all_languages.desktop:374
+#: src/kdecore/all_languages.desktop:5924
 msgctxt "Name"
 msgid "Upper Sorbian"
 msgstr "بره سربي"
 
-#: src/kdecore/all_languages.desktop:380
+#: src/kdecore/all_languages.desktop:6019
 msgctxt "Name"
 msgid "Hungarian"
 msgstr "هنګريايي"
 
-#: src/kdecore/all_languages.desktop:386
+#: src/kdecore/all_languages.desktop:6117
 msgctxt "Name"
 msgid "Armenian"
 msgstr "ارمينيايي"
 
-#: src/kdecore/all_languages.desktop:392
+#: src/kdecore/all_languages.desktop:6215
 msgctxt "Name"
 msgid "Herero"
 msgstr "هېرېرو"
 
-#: src/kdecore/all_languages.desktop:398
+#: src/kdecore/all_languages.desktop:6313
 msgctxt "Name"
 msgid "Interlingua"
 msgstr "اېنټرلېنګوا"
 
-#: src/kdecore/all_languages.desktop:404
+#: src/kdecore/all_languages.desktop:6410
 msgctxt "Name"
 msgid "Indonesian"
 msgstr "انډونيشيايي"
 
-#: src/kdecore/all_languages.desktop:410
+#: src/kdecore/all_languages.desktop:6508
 msgctxt "Name"
 msgid "Interlingue"
 msgstr "اېنټرلېنګ"
 
-#: src/kdecore/all_languages.desktop:416
+#: src/kdecore/all_languages.desktop:6604
 msgctxt "Name"
 msgid "Inupiaq"
 msgstr "اېنوپيک"
 
-#: src/kdecore/all_languages.desktop:422
+#: src/kdecore/all_languages.desktop:6701
 msgctxt "Name"
 msgid "Ido"
 msgstr "اېډو"
 
-#: src/kdecore/all_languages.desktop:428
+#: src/kdecore/all_languages.desktop:6799
 msgctxt "Name"
 msgid "Icelandic"
 msgstr "اېسلېنډي"
 
-#: src/kdecore/all_languages.desktop:434
+#: src/kdecore/all_languages.desktop:6897
 msgctxt "Name"
 msgid "Italian"
 msgstr "اېټالوي"
 
-#: src/kdecore/all_languages.desktop:440
+#: src/kdecore/all_languages.desktop:6995
 msgctxt "Name"
 msgid "Inuktitut"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:446
+#: src/kdecore/all_languages.desktop:7092
 msgctxt "Name"
 msgid "Japanese"
 msgstr "جاپاني"
 
-#: src/kdecore/all_languages.desktop:452
+#: src/kdecore/all_languages.desktop:7190
 msgctxt "Name"
 msgid "Javanese"
 msgstr "جاواني"
 
-#: src/kdecore/all_languages.desktop:458
+#: src/kdecore/all_languages.desktop:7288
 msgctxt "Name"
 msgid "Georgian"
 msgstr "ګورجين"
 
-#: src/kdecore/all_languages.desktop:464
+#: src/kdecore/all_languages.desktop:7386
 msgctxt "Name"
 msgid "Kikuyu"
 msgstr "کېکويو"
 
-#: src/kdecore/all_languages.desktop:470
+#: src/kdecore/all_languages.desktop:7484
 msgctxt "Name"
 msgid "Kazakh"
 msgstr "کزاکي"
 
-#: src/kdecore/all_languages.desktop:476
+#: src/kdecore/all_languages.desktop:7582
 msgctxt "Name"
 msgid "Kalaallisut"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:482
+#: src/kdecore/all_languages.desktop:7678
 msgctxt "Name"
 msgid "Khmer"
 msgstr "کمير"
 
-#: src/kdecore/all_languages.desktop:488
+#: src/kdecore/all_languages.desktop:7776
 msgctxt "Name"
 msgid "Kannada"
 msgstr "کناډا"
 
-#: src/kdecore/all_languages.desktop:494
+#: src/kdecore/all_languages.desktop:7874
 msgctxt "Name"
 msgid "Korean"
 msgstr "کوريايي"
 
-#: src/kdecore/all_languages.desktop:500
+#: src/kdecore/all_languages.desktop:7972
 msgctxt "Name"
 msgid "Kashmiri"
 msgstr "کشميري"
 
-#: src/kdecore/all_languages.desktop:506
+#: src/kdecore/all_languages.desktop:8070
 msgctxt "Name"
 msgid "Kurdish"
 msgstr "کوردي"
 
-#: src/kdecore/all_languages.desktop:512
+#: src/kdecore/all_languages.desktop:8168
 msgctxt "Name"
 msgid "Komi"
 msgstr "کومي"
 
-#: src/kdecore/all_languages.desktop:518
+#: src/kdecore/all_languages.desktop:8266
 msgctxt "Name"
 msgid "Cornish"
 msgstr "کورني"
 
-#: src/kdecore/all_languages.desktop:524
+#: src/kdecore/all_languages.desktop:8364
 msgctxt "Name"
 msgid "Kirghiz"
 msgstr "کرګزي"
 
-#: src/kdecore/all_languages.desktop:530
+#: src/kdecore/all_languages.desktop:8462
 msgctxt "Name"
 msgid "Latin"
 msgstr "لاټيني"
 
-#: src/kdecore/all_languages.desktop:536
+#: src/kdecore/all_languages.desktop:8560
 msgctxt "Name"
 msgid "Luxembourgish"
 msgstr "لګسېمبرګيايي"
 
-#: src/kdecore/all_languages.desktop:542
+#: src/kdecore/all_languages.desktop:8658
 msgctxt "Name"
 msgid "Limburgan"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:548
+#: src/kdecore/all_languages.desktop:8754
 msgctxt "Name"
 msgid "Lingala"
 msgstr "لېنګالا"
 
-#: src/kdecore/all_languages.desktop:554
+#: src/kdecore/all_languages.desktop:8852
 msgctxt "Name"
 msgid "Lao"
 msgstr "لاو"
 
-#: src/kdecore/all_languages.desktop:560
+#: src/kdecore/all_languages.desktop:8950
 msgctxt "Name"
 msgid "Lithuanian"
 msgstr "لېټوانيايي"
 
-#: src/kdecore/all_languages.desktop:566
+#: src/kdecore/all_languages.desktop:9048
 msgctxt "Name"
 msgid "Latvian"
 msgstr "لېټوين"
 
-#: src/kdecore/all_languages.desktop:572
+#: src/kdecore/all_languages.desktop:9146
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Marathi"
@@ -506,227 +506,227 @@ msgctxt "Name"
 msgid "Maithili"
 msgstr "مراټي"
 
-#: src/kdecore/all_languages.desktop:578
+#: src/kdecore/all_languages.desktop:9225
 msgctxt "Name"
 msgid "Malagasy"
 msgstr "ملاګاسي"
 
-#: src/kdecore/all_languages.desktop:584
+#: src/kdecore/all_languages.desktop:9322
 msgctxt "Name"
 msgid "Marshallese"
 msgstr "مارشالي"
 
-#: src/kdecore/all_languages.desktop:590
+#: src/kdecore/all_languages.desktop:9419
 msgctxt "Name"
 msgid "Maori"
 msgstr "ماوري"
 
-#: src/kdecore/all_languages.desktop:596
+#: src/kdecore/all_languages.desktop:9517
 msgctxt "Name"
 msgid "Macedonian"
 msgstr "مېسېډونين"
 
-#: src/kdecore/all_languages.desktop:602
+#: src/kdecore/all_languages.desktop:9615
 msgctxt "Name"
 msgid "Malayalam"
 msgstr "ملايالم"
 
-#: src/kdecore/all_languages.desktop:608
+#: src/kdecore/all_languages.desktop:9713
 msgctxt "Name"
 msgid "Mongolian"
 msgstr "مغلي"
 
-#: src/kdecore/all_languages.desktop:614
+#: src/kdecore/all_languages.desktop:9811
 msgctxt "Name"
 msgid "Moldavian"
 msgstr "مالډيوي"
 
-#: src/kdecore/all_languages.desktop:620
+#: src/kdecore/all_languages.desktop:9909
 msgctxt "Name"
 msgid "Marathi"
 msgstr "مراټي"
 
-#: src/kdecore/all_languages.desktop:626
+#: src/kdecore/all_languages.desktop:10007
 msgctxt "Name"
 msgid "Malay"
 msgstr "ملای"
 
-#: src/kdecore/all_languages.desktop:632
+#: src/kdecore/all_languages.desktop:10105
 msgctxt "Name"
 msgid "Maltese"
 msgstr "مالټي"
 
-#: src/kdecore/all_languages.desktop:638
+#: src/kdecore/all_languages.desktop:10203
 msgctxt "Name"
 msgid "Burmese"
 msgstr "برمي"
 
-#: src/kdecore/all_languages.desktop:644
+#: src/kdecore/all_languages.desktop:10301
 msgctxt "Name"
 msgid "Nauru"
 msgstr "ناورو"
 
-#: src/kdecore/all_languages.desktop:650
+#: src/kdecore/all_languages.desktop:10399
 msgctxt "Name"
 msgid "Norwegian Bokmål"
 msgstr "ناروېجني بوکمل"
 
-#: src/kdecore/all_languages.desktop:656
+#: src/kdecore/all_languages.desktop:10497
 msgctxt "Name"
 msgid "Ndebele, North"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:662
+#: src/kdecore/all_languages.desktop:10592
 msgctxt "Name"
 msgid "Low Saxon"
 msgstr "ښکته سېګسن"
 
-#: src/kdecore/all_languages.desktop:668
+#: src/kdecore/all_languages.desktop:10687
 msgctxt "Name"
 msgid "Nepali"
 msgstr "نيپالي"
 
-#: src/kdecore/all_languages.desktop:674
+#: src/kdecore/all_languages.desktop:10785
 msgctxt "Name"
 msgid "Ndonga"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:680
+#: src/kdecore/all_languages.desktop:10882
 msgctxt "Name"
 msgid "Dutch"
 msgstr "ډچ"
 
-#: src/kdecore/all_languages.desktop:686
+#: src/kdecore/all_languages.desktop:10980
 msgctxt "Name"
 msgid "Norwegian Nynorsk"
 msgstr "ناروېجني نېنورسک"
 
-#: src/kdecore/all_languages.desktop:692
+#: src/kdecore/all_languages.desktop:11077
 msgctxt "Name"
 msgid "Ndebele, South"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:698
+#: src/kdecore/all_languages.desktop:11173
 msgctxt "Name"
 msgid "Northern Sotho"
 msgstr "شمالي سوټو"
 
-#: src/kdecore/all_languages.desktop:704
+#: src/kdecore/all_languages.desktop:11269
 msgctxt "Name"
 msgid "Navajo"
 msgstr "نواجو"
 
-#: src/kdecore/all_languages.desktop:710
+#: src/kdecore/all_languages.desktop:11366
 msgctxt "Name"
 msgid "Chichewa"
 msgstr "چېچيوا"
 
-#: src/kdecore/all_languages.desktop:716
+#: src/kdecore/all_languages.desktop:11463
 msgctxt "Name"
 msgid "Occitan"
 msgstr "اوسيټي"
 
-#: src/kdecore/all_languages.desktop:722
+#: src/kdecore/all_languages.desktop:11561
 msgctxt "Name"
 msgid "Oromo"
 msgstr "اورومو"
 
-#: src/kdecore/all_languages.desktop:728
+#: src/kdecore/all_languages.desktop:11658
 msgctxt "Name"
 msgid "Oriya"
 msgstr "وريا"
 
-#: src/kdecore/all_languages.desktop:734
+#: src/kdecore/all_languages.desktop:11756
 msgctxt "Name"
 msgid "Ossetian"
 msgstr "اوسيټي"
 
-#: src/kdecore/all_languages.desktop:740
+#: src/kdecore/all_languages.desktop:11853
 msgctxt "Name"
 msgid "Punjabi/Panjabi"
 msgstr "پنجابي"
 
-#: src/kdecore/all_languages.desktop:746
+#: src/kdecore/all_languages.desktop:11944
 msgctxt "Name"
 msgid "Pali"
 msgstr "پالي"
 
-#: src/kdecore/all_languages.desktop:752
+#: src/kdecore/all_languages.desktop:12042
 msgctxt "Name"
 msgid "Polish"
 msgstr "پولېش"
 
-#: src/kdecore/all_languages.desktop:758
+#: src/kdecore/all_languages.desktop:12140
 msgctxt "Name"
 msgid "Pushto"
 msgstr "پښتو"
 
-#: src/kdecore/all_languages.desktop:764
+#: src/kdecore/all_languages.desktop:12237
 msgctxt "Name"
 msgid "Portuguese"
 msgstr "پورټګيز"
 
-#: src/kdecore/all_languages.desktop:770
+#: src/kdecore/all_languages.desktop:12335
 msgctxt "Name"
 msgid "Brazilian Portuguese"
 msgstr "برازيلي پرټګيز"
 
-#: src/kdecore/all_languages.desktop:776
+#: src/kdecore/all_languages.desktop:12432
 msgctxt "Name"
 msgid "Quechua"
 msgstr "کوېچوا"
 
-#: src/kdecore/all_languages.desktop:782
+#: src/kdecore/all_languages.desktop:12530
 msgctxt "Name"
 msgid "Rundi"
 msgstr "رونډي"
 
-#: src/kdecore/all_languages.desktop:788
+#: src/kdecore/all_languages.desktop:12627
 msgctxt "Name"
 msgid "Romanian"
 msgstr "رومانيايي"
 
-#: src/kdecore/all_languages.desktop:794
+#: src/kdecore/all_languages.desktop:12725
 msgctxt "Name"
 msgid "Romany"
 msgstr "روماني"
 
-#: src/kdecore/all_languages.desktop:800
+#: src/kdecore/all_languages.desktop:12818
 msgctxt "Name"
 msgid "Russian"
 msgstr "روسي"
 
-#: src/kdecore/all_languages.desktop:806
+#: src/kdecore/all_languages.desktop:12916
 msgctxt "Name"
 msgid "Kinyarwanda"
 msgstr "کينيارونډا"
 
-#: src/kdecore/all_languages.desktop:812
+#: src/kdecore/all_languages.desktop:13014
 msgctxt "Name"
 msgid "Sanskrit"
 msgstr "سانسکرېټ"
 
-#: src/kdecore/all_languages.desktop:818
+#: src/kdecore/all_languages.desktop:13112
 msgctxt "Name"
 msgid "Sardinian"
 msgstr "سارډينيايي"
 
-#: src/kdecore/all_languages.desktop:824
+#: src/kdecore/all_languages.desktop:13210
 msgctxt "Name"
 msgid "Sindhi"
 msgstr "سندهي"
 
-#: src/kdecore/all_languages.desktop:830
+#: src/kdecore/all_languages.desktop:13307
 msgctxt "Name"
 msgid "Northern Sami"
 msgstr "شمالي سامي"
 
-#: src/kdecore/all_languages.desktop:836
+#: src/kdecore/all_languages.desktop:13404
 msgctxt "Name"
 msgid "Sango"
 msgstr "سانګو"
 
-#: src/kdecore/all_languages.desktop:842
+#: src/kdecore/all_languages.desktop:13501
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Sinhalese"
@@ -734,42 +734,42 @@ msgctxt "Name"
 msgid "Sinhala"
 msgstr "سېنهالي"
 
-#: src/kdecore/all_languages.desktop:848
+#: src/kdecore/all_languages.desktop:13579
 msgctxt "Name"
 msgid "Slovak"
 msgstr "سلواک"
 
-#: src/kdecore/all_languages.desktop:854
+#: src/kdecore/all_languages.desktop:13677
 msgctxt "Name"
 msgid "Slovenian"
 msgstr "سلووېنين"
 
-#: src/kdecore/all_languages.desktop:860
+#: src/kdecore/all_languages.desktop:13775
 msgctxt "Name"
 msgid "Samoan"
 msgstr "سموان"
 
-#: src/kdecore/all_languages.desktop:866
+#: src/kdecore/all_languages.desktop:13872
 msgctxt "Name"
 msgid "Shona"
 msgstr "شونا"
 
-#: src/kdecore/all_languages.desktop:872
+#: src/kdecore/all_languages.desktop:13970
 msgctxt "Name"
 msgid "Somali"
 msgstr "سومالي"
 
-#: src/kdecore/all_languages.desktop:878
+#: src/kdecore/all_languages.desktop:14068
 msgctxt "Name"
 msgid "Albanian"
 msgstr "الباني"
 
-#: src/kdecore/all_languages.desktop:884
+#: src/kdecore/all_languages.desktop:14166
 msgctxt "Name"
 msgid "Serbian"
 msgstr "سربين"
 
-#: src/kdecore/all_languages.desktop:890
+#: src/kdecore/all_languages.desktop:14264
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Serbian Latin"
@@ -777,7 +777,7 @@ msgctxt "Name"
 msgid "Serbian Ijekavian"
 msgstr "سربيايي لاټيني"
 
-#: src/kdecore/all_languages.desktop:896
+#: src/kdecore/all_languages.desktop:14333
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Serbian Latin"
@@ -785,102 +785,102 @@ msgctxt "Name"
 msgid "Serbian Ijekavian Latin"
 msgstr "سربيايي لاټيني"
 
-#: src/kdecore/all_languages.desktop:902
+#: src/kdecore/all_languages.desktop:14402
 msgctxt "Name"
 msgid "Serbian Latin"
 msgstr "سربيايي لاټيني"
 
-#: src/kdecore/all_languages.desktop:908
+#: src/kdecore/all_languages.desktop:14497
 msgctxt "Name"
 msgid "Swati"
 msgstr "سواټي"
 
-#: src/kdecore/all_languages.desktop:914
+#: src/kdecore/all_languages.desktop:14595
 msgctxt "Name"
 msgid "Sotho, Southern"
 msgstr "سوټو، سهېلي"
 
-#: src/kdecore/all_languages.desktop:920
+#: src/kdecore/all_languages.desktop:14692
 msgctxt "Name"
 msgid "Sundanese"
 msgstr "سوډاني"
 
-#: src/kdecore/all_languages.desktop:926
+#: src/kdecore/all_languages.desktop:14789
 msgctxt "Name"
 msgid "Swedish"
 msgstr "سوېډېش"
 
-#: src/kdecore/all_languages.desktop:932
+#: src/kdecore/all_languages.desktop:14887
 msgctxt "Name"
 msgid "Swahili"
 msgstr "سواهيلي"
 
-#: src/kdecore/all_languages.desktop:938
+#: src/kdecore/all_languages.desktop:14985
 msgctxt "Name"
 msgid "Tamil"
 msgstr "ټامېل"
 
-#: src/kdecore/all_languages.desktop:944
+#: src/kdecore/all_languages.desktop:15083
 msgctxt "Name"
 msgid "Telugu"
 msgstr "ټېلوګو"
 
-#: src/kdecore/all_languages.desktop:950
+#: src/kdecore/all_languages.desktop:15181
 msgctxt "Name"
 msgid "Tajik"
 msgstr "تاجکي"
 
-#: src/kdecore/all_languages.desktop:956
+#: src/kdecore/all_languages.desktop:15279
 msgctxt "Name"
 msgid "Thai"
 msgstr "ټهايي"
 
-#: src/kdecore/all_languages.desktop:962
+#: src/kdecore/all_languages.desktop:15377
 msgctxt "Name"
 msgid "Tigrinya"
 msgstr "ټېګرينيا"
 
-#: src/kdecore/all_languages.desktop:968
+#: src/kdecore/all_languages.desktop:15475
 msgctxt "Name"
 msgid "Turkmen"
 msgstr "ترکمني"
 
-#: src/kdecore/all_languages.desktop:974
+#: src/kdecore/all_languages.desktop:15572
 msgctxt "Name"
 msgid "Tswana"
 msgstr "ټسوانا"
 
-#: src/kdecore/all_languages.desktop:980
+#: src/kdecore/all_languages.desktop:15670
 msgctxt "Name"
 msgid "Tonga"
 msgstr "ټونګا"
 
-#: src/kdecore/all_languages.desktop:986
+#: src/kdecore/all_languages.desktop:15768
 msgctxt "Name"
 msgid "Turkish"
 msgstr "ترکي"
 
-#: src/kdecore/all_languages.desktop:992
+#: src/kdecore/all_languages.desktop:15866
 msgctxt "Name"
 msgid "Tsonga"
 msgstr "ټسونګا"
 
-#: src/kdecore/all_languages.desktop:998
+#: src/kdecore/all_languages.desktop:15964
 msgctxt "Name"
 msgid "Tatar"
 msgstr "ټاټار"
 
-#: src/kdecore/all_languages.desktop:1004
+#: src/kdecore/all_languages.desktop:16062
 msgctxt "Name"
 msgid "Twi"
 msgstr "ټوي"
 
-#: src/kdecore/all_languages.desktop:1010
+#: src/kdecore/all_languages.desktop:16158
 msgctxt "Name"
 msgid "Tahitian"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:1016
+#: src/kdecore/all_languages.desktop:16255
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Uighur"
@@ -888,97 +888,97 @@ msgctxt "Name"
 msgid "Uyghur"
 msgstr "اوېګور"
 
-#: src/kdecore/all_languages.desktop:1022
+#: src/kdecore/all_languages.desktop:16322
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "اکرېني"
 
-#: src/kdecore/all_languages.desktop:1028
+#: src/kdecore/all_languages.desktop:16420
 msgctxt "Name"
 msgid "Urdu"
 msgstr "اردو"
 
-#: src/kdecore/all_languages.desktop:1034
+#: src/kdecore/all_languages.desktop:16518
 msgctxt "Name"
 msgid "Uzbek"
 msgstr "ازبکي"
 
-#: src/kdecore/all_languages.desktop:1040
+#: src/kdecore/all_languages.desktop:16616
 msgctxt "Name"
 msgid "Uzbek (Cyrillic)"
 msgstr "ازبکي (سېرېلېک)"
 
-#: src/kdecore/all_languages.desktop:1046
+#: src/kdecore/all_languages.desktop:16703
 msgctxt "Name"
 msgid "Venda"
 msgstr "وېنډا"
 
-#: src/kdecore/all_languages.desktop:1052
+#: src/kdecore/all_languages.desktop:16801
 msgctxt "Name"
 msgid "Vietnamese"
 msgstr "وېټنامي"
 
-#: src/kdecore/all_languages.desktop:1058
+#: src/kdecore/all_languages.desktop:16899
 msgctxt "Name"
 msgid "Volapük"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:1064
+#: src/kdecore/all_languages.desktop:16995
 msgctxt "Name"
 msgid "Walloon"
 msgstr "والون"
 
-#: src/kdecore/all_languages.desktop:1070
+#: src/kdecore/all_languages.desktop:17093
 msgctxt "Name"
 msgid "Wolof"
 msgstr "ولوف"
 
-#: src/kdecore/all_languages.desktop:1076
+#: src/kdecore/all_languages.desktop:17191
 msgctxt "Name"
 msgid "Xhosa"
 msgstr "کوسا"
 
-#: src/kdecore/all_languages.desktop:1082
+#: src/kdecore/all_languages.desktop:17288
 msgctxt "Name"
 msgid "KDE Test Language"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:1088
+#: src/kdecore/all_languages.desktop:17353
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "يډېش"
 
-#: src/kdecore/all_languages.desktop:1094
+#: src/kdecore/all_languages.desktop:17451
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "يوروبا"
 
-#: src/kdecore/all_languages.desktop:1100
+#: src/kdecore/all_languages.desktop:17548
 msgctxt "Name"
 msgid "Zhuang"
 msgstr ""
 
-#: src/kdecore/all_languages.desktop:1106
+#: src/kdecore/all_languages.desktop:17644
 msgctxt "Name"
 msgid "Chinese"
 msgstr "چينايي"
 
-#: src/kdecore/all_languages.desktop:1112
+#: src/kdecore/all_languages.desktop:17742
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "چينايي ساده"
 
-#: src/kdecore/all_languages.desktop:1118
+#: src/kdecore/all_languages.desktop:17839
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "چينايي (هانګ کانګ)"
 
-#: src/kdecore/all_languages.desktop:1124
+#: src/kdecore/all_languages.desktop:17935
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "چينايي هڅوبي"
 
-#: src/kdecore/all_languages.desktop:1130
+#: src/kdecore/all_languages.desktop:18032
 msgctxt "Name"
 msgid "Zulu"
 msgstr "زولو"
@@ -1016,12 +1016,12 @@ msgctxt "Name"
 msgid "SSL Preferences"
 msgstr ""
 
-#: src/kssl/kcm/kcm_ssl.desktop:17
+#: src/kssl/kcm/kcm_ssl.desktop:74
 msgctxt "Comment"
 msgid "SSL Versions and Certificates"
 msgstr ""
 
-#: src/kssl/kcm/kcm_ssl.desktop:23
+#: src/kssl/kcm/kcm_ssl.desktop:136
 msgctxt "X-KDE-Keywords"
 msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
 msgstr ""

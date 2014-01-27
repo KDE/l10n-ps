@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-26 02:02+0000\n"
+"POT-Creation-Date: 2014-01-27 01:51+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,32 +19,32 @@ msgctxt "Comment"
 msgid "Test for Knotify"
 msgstr "لپاره ازموېنه Knotify د"
 
-#: tests/knotifytest.notifyrc:11
+#: tests/knotifytest.notifyrc:91
 msgctxt "Name"
 msgid "Group"
 msgstr "ډله"
 
-#: tests/knotifytest.notifyrc:16
+#: tests/knotifytest.notifyrc:181
 msgctxt "Comment"
 msgid "The group"
 msgstr "ډله"
 
-#: tests/knotifytest.notifyrc:24
+#: tests/knotifytest.notifyrc:270
 msgctxt "Name"
 msgid "Online"
 msgstr "پرليکه"
 
-#: tests/knotifytest.notifyrc:29
+#: tests/knotifytest.notifyrc:359
 msgctxt "Comment"
 msgid "The contact is now connected"
 msgstr "اړيکنيو اوس نښتې دی"
 
-#: tests/knotifytest.notifyrc:39
+#: tests/knotifytest.notifyrc:450
 msgctxt "Name"
 msgid "Message Received"
 msgstr "استوزه ترلاسه شوه"
 
-#: tests/knotifytest.notifyrc:44
+#: tests/knotifytest.notifyrc:537
 msgctxt "Comment"
 msgid "A Message has been received"
 msgstr "يوه استوزه ترلاسه شوه"
