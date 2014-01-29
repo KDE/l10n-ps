@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-25 01:31+0000\n"
+"POT-Creation-Date: 2014-01-29 01:34+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -6859,7 +6859,7 @@ msgstr ".ليکدود کتنه بشپړه شوه"
 msgid "Autocorrect"
 msgstr "خپلسمول"
 
-#: kdeui/util/kcompletion.cpp:693
+#: kdeui/util/kcompletion.cpp:696
 msgid ""
 "You reached the end of the list\n"
 "of matching items.\n"
@@ -6867,7 +6867,7 @@ msgstr ""
 "تاسو د سارو توکو د لړ\n"
 "پای ته ورسېدﺉ.\n"
 
-#: kdeui/util/kcompletion.cpp:699
+#: kdeui/util/kcompletion.cpp:702
 msgid ""
 "The completion is ambiguous, more than one\n"
 "match is available.\n"
@@ -6875,7 +6875,7 @@ msgstr ""
 "بشپړېدنه نا څرګنده ده، د يو نه ډېر\n"
 "ساري شتون لري.\n"
 
-#: kdeui/util/kcompletion.cpp:705
+#: kdeui/util/kcompletion.cpp:708
 msgid "There is no matching item available.\n"
 msgstr "کوم ساری توکی شتون نه لري.\n"
 
