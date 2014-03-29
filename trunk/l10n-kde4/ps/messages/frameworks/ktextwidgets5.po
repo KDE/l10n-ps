@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 01:57+0000\n"
+"POT-Creation-Date: 2014-03-29 01:46+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -569,43 +569,37 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "سکرېپټ پرانيستل"
 
-#. i18n: Placeholder text in text edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter message").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#: widgets/ktextedit.cpp:89
-#, fuzzy
-#| msgid "1"
-msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
-msgid "1"
-msgstr "۱"
-
-#: widgets/ktextedit.cpp:163
+#: widgets/ktextedit.cpp:151
 msgid "Nothing to spell check."
 msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
-#: widgets/ktextedit.cpp:562
+#: widgets/ktextedit.cpp:543
 msgid "Check Spelling..."
 msgstr "...ليکدود کتل"
 
-#: widgets/ktextedit.cpp:566
+#: widgets/ktextedit.cpp:547
 msgid "Auto Spell Check"
 msgstr "خپله ليکدود کتل"
 
-#: widgets/ktextedit.cpp:571
+#: widgets/ktextedit.cpp:552
 msgid "Allow Tabulations"
 msgstr "لښتيالونه پرېښل"
 
-#: widgets/ktextedit.cpp:599
+#: widgets/ktextedit.cpp:580
 #, fuzzy
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "دوديزه ليکنه لوستل"
 
-#: widgets/ktextedit.cpp:613
+#: widgets/ktextedit.cpp:594
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
+
+#, fuzzy
+#~| msgid "1"
+#~ msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
+#~ msgid "1"
+#~ msgstr "۱"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
