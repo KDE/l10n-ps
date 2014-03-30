@@ -2362,8 +2362,10 @@ msgstr "تېرنويې تشه ده"
 #| msgid "Password must be at least 1 character long"
 #| msgid_plural "Password must be at least %1 characters long"
 msgctxt "KNewPasswordDialog|"
-msgid "Password must be at least %1 character(s) long"
-msgstr "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
+msgid "Password must be at least %n character(s) long"
+msgid_plural "Password must be at least %n character(s) long"
+msgstr[0] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
+msgstr[1] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.cpp:164
 #, fuzzy
