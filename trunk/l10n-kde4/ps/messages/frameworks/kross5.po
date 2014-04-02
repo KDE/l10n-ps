@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 01:57+0000\n"
+"POT-Creation-Date: 2014-04-02 01:41+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -18,6 +18,56 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ستاسو نومونه"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "zabeehkhan@gmail.com"
+
+#: console/main.cpp:100
+#, fuzzy
+#| msgid "Kross"
+msgctxt "application name"
+msgid "Kross"
+msgstr "کراس"
+
+#: console/main.cpp:102
+#, fuzzy
+#| msgid "KDE application to run Kross scripts."
+msgctxt "application description"
+msgid "Command-line utility to run Kross scripts."
+msgstr "د کراس سکرېپټونو ځغلولو لپاره د کډي کاريال"
+
+#: console/main.cpp:104
+#, fuzzy
+#| msgid "(C) 2006 Sebastian Sauer"
+msgctxt "@info:credit"
+msgid "Copyright 2006 Sebastian Sauer"
+msgstr "چاپرښتې ۲۰۰۶ سېبېسټين ساور"
+
+#: console/main.cpp:108
+#, fuzzy
+#| msgid "Sebastian Sauer"
+msgctxt "@info:credit"
+msgid "Sebastian Sauer"
+msgstr "سېبېسټين ساور"
+
+#: console/main.cpp:109
+#, fuzzy
+#| msgid "Author"
+msgctxt "@info:credit"
+msgid "Author"
+msgstr "ليکوال"
+
+#: console/main.cpp:119
+#, fuzzy
+#| msgid "Description"
+msgctxt "@info:shell command-line argument"
+msgid "The script to run."
+msgstr "سپړاوی"
 
 #: core/action.cpp:474
 #, kde-format
@@ -134,14 +184,6 @@ msgctxt "@title:group Script properties"
 msgid "General"
 msgstr "ټولګړي"
 
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "ستاسو نومونه"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "zabeehkhan@gmail.com"
-
 #~ msgid "Name"
 #~ msgstr "نوم"
 
@@ -230,9 +272,6 @@ msgstr "ټولګړي"
 
 #~ msgid "&License Agreement"
 #~ msgstr "منښتليک مننه"
-
-#~ msgid "Author"
-#~ msgstr "ليکوال"
 
 #~ msgid "Email"
 #~ msgstr "برېښليک"
@@ -3446,9 +3485,6 @@ msgstr "ټولګړي"
 
 #~ msgid "Shortcuts"
 #~ msgstr "لنډلاري"
-
-#~ msgid "Description"
-#~ msgstr "سپړاوی"
 
 #~ msgctxt "@item:intable Action name in shortcuts configuration"
 #~ msgid "%1"
@@ -7917,20 +7953,8 @@ msgstr "ټولګړي"
 #~ msgid "Error opening PTY"
 #~ msgstr "په پرانيستلو کې تېروتنه PTY د"
 
-#~ msgid "Kross"
-#~ msgstr "کراس"
-
-#~ msgid "KDE application to run Kross scripts."
-#~ msgstr "د کراس سکرېپټونو ځغلولو لپاره د کډي کاريال"
-
-#~ msgid "(C) 2006 Sebastian Sauer"
-#~ msgstr "چاپرښتې ۲۰۰۶ سېبېسټين ساور"
-
 #~ msgid "Run Kross scripts."
 #~ msgstr ".کراس سکرېپټونه ځغلول"
-
-#~ msgid "Sebastian Sauer"
-#~ msgstr "سېبېسټين ساور"
 
 #~ msgid "Scriptfile"
 #~ msgstr "سکرېپټ دوتنه"
