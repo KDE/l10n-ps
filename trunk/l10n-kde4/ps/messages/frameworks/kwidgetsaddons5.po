@@ -2375,6 +2375,7 @@ msgid "Passwords match"
 msgstr "تېرنويې ساري دي"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.cpp:165
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:112
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
@@ -2407,12 +2408,80 @@ msgid ""
 "Would you like to use this password anyway?"
 msgstr ""
 
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:52
+#, fuzzy
+#| msgid "Password:"
+msgctxt "KNewPasswordDialog|"
+msgid "Password:"
+msgstr "تېرنويې"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:62
+#, fuzzy
+#| msgid "&Verify:"
+msgctxt "KNewPasswordDialog|"
+msgid "&Verify:"
+msgstr ":باورييل"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/knewpassworddialog.ui:90
+#, fuzzy
+#| msgid "Password strength meter:"
+msgctxt "KNewPasswordDialog|"
+msgid "Password strength meter:"
+msgstr ":د تېرنويې د کلکوالي ميټر"
+
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.cpp:64
 #, fuzzy
 #| msgid "Password"
 msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "تېرنويې"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:25
+#, fuzzy
+#| msgid "Supply a username and password below."
+msgctxt "KPasswordDialog|"
+msgid "Supply a username and password below."
+msgstr ".لاندې يو کارننوم او تېرنويې وليکﺉ"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:62
+msgctxt "KPasswordDialog|"
+msgid "No password, use anonymous (or guest) login"
+msgstr ""
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:69
+#, fuzzy
+#| msgid "&Keep password"
+msgctxt "KPasswordDialog|"
+msgid "Use this password:"
+msgstr "تېرنويې ساتل"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:85
+#, fuzzy
+#| msgid "Username:"
+msgctxt "KPasswordDialog|"
+msgid "Username:"
+msgstr ":کارننوم"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:99
+#, fuzzy
+#| msgid "Domain:"
+msgctxt "KPasswordDialog|"
+msgid "Domain:"
+msgstr ":شپول"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:113
+#, fuzzy
+#| msgid "Password:"
+msgctxt "KPasswordDialog|"
+msgid "Password:"
+msgstr "تېرنويې"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpassworddialog.ui:130
+#, fuzzy
+#| msgid "Remember password"
+msgctxt "KPasswordDialog|"
+msgid "Remember password"
+msgstr "تېرنويې په ياد ساتل"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kpixmapregionselectordialog.cpp:64
 #, fuzzy
@@ -2694,12 +2763,6 @@ msgstr ""
 
 #~ msgid "&Keep password"
 #~ msgstr "تېرنويې ساتل"
-
-#~ msgid "&Verify:"
-#~ msgstr ":باورييل"
-
-#~ msgid "Password strength meter:"
-#~ msgstr ":د تېرنويې د کلکوالي ميټر"
 
 #~ msgid "Password Input"
 #~ msgstr "د تېرنويې ننوتۍ"
@@ -5494,26 +5557,6 @@ msgstr ""
 
 #~ msgid "Do not show this message again"
 #~ msgstr "دا استوزه بيا نه ښودل"
-
-#~ msgid "Password:"
-#~ msgstr "تېرنويې"
-
-#~ msgid "Supply a username and password below."
-#~ msgstr ".لاندې يو کارننوم او تېرنويې وليکﺉ"
-
-#, fuzzy
-#~| msgid "&Keep password"
-#~ msgid "Use this password:"
-#~ msgstr "تېرنويې ساتل"
-
-#~ msgid "Username:"
-#~ msgstr ":کارننوم"
-
-#~ msgid "Domain:"
-#~ msgstr ":شپول"
-
-#~ msgid "Remember password"
-#~ msgstr "تېرنويې په ياد ساتل"
 
 #~ msgid "Default:"
 #~ msgstr ":تلواله"

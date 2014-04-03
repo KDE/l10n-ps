@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 01:56+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -75,6 +75,11 @@ msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 #, kde-format
 msgid "%1 is not a function and cannot be called."
 msgstr "کومه کړنه نه ده او اړيکنيو ورسره نه شي کېدی. %1"
+
+#: kjsembed/object_binding.h:214 kjsembed/qobject_binding.cpp:789
+#, kde-format
+msgid "%1 is not an Object type"
+msgstr "يو څيز ډول نه دی %1"
 
 #: kjsembed/qaction_binding.cpp:57
 msgid "Action takes 2 args."
@@ -167,11 +172,6 @@ msgstr ""
 #, kde-format
 msgid "Call to '%1' failed."
 msgstr ".سره اړيکنيو پاتې راغی '%1'"
-
-#: kjsembed/qobject_binding.cpp:789
-#, kde-format
-msgid "%1 is not an Object type"
-msgstr "يو څيز ډول نه دی %1"
 
 #: kjsembed/qobject_binding.cpp:793
 msgid "Could not construct value"

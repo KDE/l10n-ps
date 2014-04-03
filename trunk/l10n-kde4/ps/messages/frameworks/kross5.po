@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -108,6 +108,11 @@ msgstr "د ربي ژباړونکي د خونديتوب کچه"
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "بندول"
+
+#: qts/values_p.h:75
+#, kde-format
+msgid "No such function \"%1\""
+msgstr "\"%1\" داسې کړنه نشته"
 
 #: ui/actioncollectionview.cpp:175
 msgid "Name:"
@@ -7958,9 +7963,6 @@ msgstr "ټولګړي"
 
 #~ msgid "Scriptfile"
 #~ msgstr "سکرېپټ دوتنه"
-
-#~ msgid "No such function \"%1\""
-#~ msgstr "\"%1\" داسې کړنه نشته"
 
 #~ msgid "The module %1 could not be found."
 #~ msgstr ".رغبېلګه ونه موندل شوه %1"
