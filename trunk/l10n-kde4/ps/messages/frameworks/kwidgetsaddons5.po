@@ -82,7 +82,7 @@ msgstr "پای"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "European Alphabets"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "European Alphabets"
 msgstr "يورپي ابېڅې"
 
@@ -90,7 +90,7 @@ msgstr "يورپي ابېڅې"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "African Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "African Scripts"
 msgstr "افريکايي ليکونه"
 
@@ -98,7 +98,7 @@ msgstr "افريکايي ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Middle Eastern Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Middle Eastern Scripts"
 msgstr "منځني ختيځ ليکونه"
 
@@ -106,7 +106,7 @@ msgstr "منځني ختيځ ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "South East Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "South Asian Scripts"
 msgstr "سهېل ختيځ اسیايي ليکونه"
 
@@ -114,7 +114,7 @@ msgstr "سهېل ختيځ اسیايي ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Philippine Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Philippine Scripts"
 msgstr "فيليپيني ليکونه"
 
@@ -122,7 +122,7 @@ msgstr "فيليپيني ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "South East Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "South East Asian Scripts"
 msgstr "سهېل ختيځ اسیايي ليکونه"
 
@@ -130,7 +130,7 @@ msgstr "سهېل ختيځ اسیايي ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "East Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "East Asian Scripts"
 msgstr "ختيځ اسيايي ليکونه"
 
@@ -138,7 +138,7 @@ msgstr "ختيځ اسيايي ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Central Asian Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Central Asian Scripts"
 msgstr "منځنۍ اسيايي ليکونه"
 
@@ -146,7 +146,7 @@ msgstr "منځنۍ اسيايي ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Other Scripts"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Other Scripts"
 msgstr "نور ليکونه"
 
@@ -154,7 +154,7 @@ msgstr "نور ليکونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Symbols"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Symbols"
 msgstr "پېلامونه"
 
@@ -162,7 +162,7 @@ msgstr "پېلامونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Mathematical Symbols"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Mathematical Symbols"
 msgstr "رياضيکي پېلامونه"
 
@@ -170,12 +170,13 @@ msgstr "رياضيکي پېلامونه"
 #, fuzzy
 #| msgctxt "KCharSelect section name"
 #| msgid "Phonetic Symbols"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Phonetic Symbols"
 msgstr "غږيز پېلامونه"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:35
-msgctxt "KSharSelect|KCharSelect section name"
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:647
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Combining Diacritical Marks"
 msgstr ""
 
@@ -183,7 +184,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Other"
-msgctxt "KSharSelect|KCharSelect section name"
+msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Other"
 msgstr "بل"
 
@@ -191,7 +192,7 @@ msgstr "بل"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Basic Latin"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Basic Latin"
 msgstr "ساده لاټيني"
 
@@ -199,7 +200,7 @@ msgstr "ساده لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin-1 Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin-1 Supplement"
 msgstr "لاټيني-۱ بشپړوونکی"
 
@@ -207,7 +208,7 @@ msgstr "لاټيني-۱ بشپړوونکی"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-A"
 msgstr "ژور-ا لاټيني"
 
@@ -215,7 +216,7 @@ msgstr "ژور-ا لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-B"
 msgstr "ژور-ب لاټيني"
 
@@ -223,7 +224,7 @@ msgstr "ژور-ب لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "IPA Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "IPA Extensions"
 msgstr "د نړېوالې غږيز ابېڅې شاتاړي"
 
@@ -231,12 +232,12 @@ msgstr "د نړېوالې غږيز ابېڅې شاتاړي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Spacing Modifier Letters"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Spacing Modifier Letters"
 msgstr "د تشونې بدلوونکي توري"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:43
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Diacritical Marks"
 msgstr ""
 
@@ -244,7 +245,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Greek and Coptic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Greek and Coptic"
 msgstr "ګريک او کوپټېک"
 
@@ -252,7 +253,7 @@ msgstr "ګريک او کوپټېک"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Cyrillic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic"
 msgstr "سېرېلېک"
 
@@ -260,7 +261,7 @@ msgstr "سېرېلېک"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cyrillic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic Supplement"
 msgstr "سېرېلېک بشپړوونکی"
 
@@ -268,7 +269,7 @@ msgstr "سېرېلېک بشپړوونکی"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Armenian"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Armenian"
 msgstr "ارمينيايي"
 
@@ -276,7 +277,7 @@ msgstr "ارمينيايي"
 #, fuzzy
 #| msgctxt "@item Spelling dictionary"
 #| msgid "Hebrew"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hebrew"
 msgstr "هېبرو"
 
@@ -284,7 +285,7 @@ msgstr "هېبرو"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Arabic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic"
 msgstr "عربي"
 
@@ -292,7 +293,7 @@ msgstr "عربي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Syriac"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Syriac"
 msgstr "سيريايي"
 
@@ -300,7 +301,7 @@ msgstr "سيريايي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic Supplement"
 msgstr "عربي بشپړوونکی"
 
@@ -308,7 +309,7 @@ msgstr "عربي بشپړوونکی"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Thaana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Thaana"
 msgstr "ټهانا"
 
@@ -316,19 +317,19 @@ msgstr "ټهانا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "NKo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "NKo"
 msgstr "NKo"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:54
 #, fuzzy
 #| msgid "Ramadan"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Samaritan"
 msgstr "رمضان"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:55
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Mandaic"
 msgstr ""
 
@@ -336,7 +337,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Devanagari"
 msgstr "دېونګري"
 
@@ -344,7 +345,7 @@ msgstr "دېونګري"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bengali"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bengali"
 msgstr "بنګالي"
 
@@ -352,7 +353,7 @@ msgstr "بنګالي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Gurmukhi"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Gurmukhi"
 msgstr "ګورموکي"
 
@@ -360,7 +361,7 @@ msgstr "ګورموکي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Gujarati"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Gujarati"
 msgstr "ګجراتي"
 
@@ -368,7 +369,7 @@ msgstr "ګجراتي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Oriya"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Oriya"
 msgstr "وريا"
 
@@ -376,7 +377,7 @@ msgstr "وريا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tamil"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tamil"
 msgstr "ټامېل"
 
@@ -384,7 +385,7 @@ msgstr "ټامېل"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Telugu"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Telugu"
 msgstr "ټېلوګو"
 
@@ -392,7 +393,7 @@ msgstr "ټېلوګو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Kannada"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kannada"
 msgstr "کناډا"
 
@@ -400,7 +401,7 @@ msgstr "کناډا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Malayalam"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Malayalam"
 msgstr "ملايالم"
 
@@ -408,7 +409,7 @@ msgstr "ملايالم"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Sinhala"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Sinhala"
 msgstr "سېنهالا"
 
@@ -416,7 +417,7 @@ msgstr "سېنهالا"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Thai"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Thai"
 msgstr "ټهايي"
 
@@ -424,7 +425,7 @@ msgstr "ټهايي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Lao"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Lao"
 msgstr "لاو"
 
@@ -432,7 +433,7 @@ msgstr "لاو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tibetan"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tibetan"
 msgstr "ټېبېټي"
 
@@ -440,7 +441,7 @@ msgstr "ټېبېټي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Myanmar"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Myanmar"
 msgstr "ميانمار"
 
@@ -448,7 +449,7 @@ msgstr "ميانمار"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Georgian"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Georgian"
 msgstr "ګورجين"
 
@@ -456,7 +457,7 @@ msgstr "ګورجين"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hangul Jamo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Jamo"
 msgstr "هنګول جېمو"
 
@@ -464,7 +465,7 @@ msgstr "هنګول جېمو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic"
 msgstr "اېټوپيايي"
 
@@ -472,7 +473,7 @@ msgstr "اېټوپيايي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic Supplement"
 msgstr "اېټوپيايي بشپړوونکی"
 
@@ -480,12 +481,12 @@ msgstr "اېټوپيايي بشپړوونکی"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Cherokee"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cherokee"
 msgstr "چيرونکي"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:75
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Unified Canadian Aboriginal Syllabics"
 msgstr ""
 
@@ -493,7 +494,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ogham"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ogham"
 msgstr "وګام"
 
@@ -501,7 +502,7 @@ msgstr "وګام"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Runic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Runic"
 msgstr "رونېک"
 
@@ -509,7 +510,7 @@ msgstr "رونېک"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tagalog"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tagalog"
 msgstr "ټېګېلوګ"
 
@@ -517,7 +518,7 @@ msgstr "ټېګېلوګ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hanunoo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hanunoo"
 msgstr "هېنونو"
 
@@ -525,7 +526,7 @@ msgstr "هېنونو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Buhid"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Buhid"
 msgstr "بوهېډ"
 
@@ -533,7 +534,7 @@ msgstr "بوهېډ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tagbanwa"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tagbanwa"
 msgstr "ټېګبنوا"
 
@@ -541,7 +542,7 @@ msgstr "ټېګبنوا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Khmer"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Khmer"
 msgstr "کمير"
 
@@ -549,12 +550,12 @@ msgstr "کمير"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Mongolian"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Mongolian"
 msgstr "منګوليايي"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:84
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Unified Canadian Aboriginal Syllabics Extended"
 msgstr ""
 
@@ -562,7 +563,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Limbu"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Limbu"
 msgstr "لېمبو"
 
@@ -570,7 +571,7 @@ msgstr "لېمبو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tai Le"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tai Le"
 msgstr "ټايي لي"
 
@@ -578,7 +579,7 @@ msgstr "ټايي لي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "New Tai Lue"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "New Tai Lue"
 msgstr "نوې ټايي لي"
 
@@ -586,7 +587,7 @@ msgstr "نوې ټايي لي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Khmer Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Khmer Symbols"
 msgstr "کمير پېلامونه"
 
@@ -594,12 +595,12 @@ msgstr "کمير پېلامونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Buginese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Buginese"
 msgstr "بګينيز"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:90
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tai Tham"
 msgstr ""
 
@@ -607,14 +608,14 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Balinese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Balinese"
 msgstr "بالينيز"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:92
 #, fuzzy
 #| msgid "Sunday"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Sundanese"
 msgstr "يوه نۍ"
 
@@ -622,17 +623,17 @@ msgstr "يوه نۍ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Katakana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Batak"
 msgstr "کټکانا"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:94
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Lepcha"
 msgstr ""
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:95
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ol Chiki"
 msgstr ""
 
@@ -640,7 +641,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phonetic Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Vedic Extensions"
 msgstr "غږيز شاتاړي"
 
@@ -648,7 +649,7 @@ msgstr "غږيز شاتاړي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phonetic Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Phonetic Extensions"
 msgstr "غږيز شاتاړي"
 
@@ -656,20 +657,23 @@ msgstr "غږيز شاتاړي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phonetic Extensions Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Phonetic Extensions Supplement"
 msgstr "د غږيز شاتاړو بشپړوونکی"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:99
-msgctxt "KSharSelect|KCharselect unicode block name"
+#, fuzzy
+#| msgctxt "KCharselect unicode block name"
+#| msgid "Arabic Supplement"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Diacritical Marks Supplement"
-msgstr ""
+msgstr "عربي بشپړوونکی"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:100
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended Additional"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended Additional"
 msgstr "ژوره زياتي لاټيني"
 
@@ -677,7 +681,7 @@ msgstr "ژوره زياتي لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Greek Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Greek Extended"
 msgstr "ژوره ګريک"
 
@@ -685,7 +689,7 @@ msgstr "ژوره ګريک"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "General Punctuation"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "General Punctuation"
 msgstr "ټولګړې نښونه"
 
@@ -693,7 +697,7 @@ msgstr "ټولګړې نښونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Superscripts and Subscripts"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Superscripts and Subscripts"
 msgstr "جګليکونه او ټيټليکونه"
 
@@ -701,12 +705,12 @@ msgstr "جګليکونه او ټيټليکونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Currency Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Currency Symbols"
 msgstr "د پېسو پېلامونه"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:105
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Diacritical Marks for Symbols"
 msgstr ""
 
@@ -714,7 +718,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Letter-Like Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Letterlike Symbols"
 msgstr "توري-غوندې پېلامونه"
 
@@ -722,7 +726,7 @@ msgstr "توري-غوندې پېلامونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Number Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Number Forms"
 msgstr "د شمېر بڼې"
 
@@ -730,7 +734,7 @@ msgstr "د شمېر بڼې"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arrows"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arrows"
 msgstr "غشي"
 
@@ -738,7 +742,7 @@ msgstr "غشي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Mathematical Operators"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Mathematical Operators"
 msgstr "رياضيکي چلووني"
 
@@ -746,7 +750,7 @@ msgstr "رياضيکي چلووني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Technical"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Technical"
 msgstr "ګډوډ تخنيکي"
 
@@ -754,17 +758,17 @@ msgstr "ګډوډ تخنيکي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Control Pictures"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Control Pictures"
 msgstr "مهار انځورونه"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:112
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Optical Character Recognition"
 msgstr ""
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:113
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Enclosed Alphanumerics"
 msgstr ""
 
@@ -772,7 +776,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Box Drawing"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Box Drawing"
 msgstr "بکس انځورونه"
 
@@ -780,7 +784,7 @@ msgstr "بکس انځورونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Block Elements"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Block Elements"
 msgstr "غونډ توکونه"
 
@@ -788,7 +792,7 @@ msgstr "غونډ توکونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Geometric Shapes"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Geometric Shapes"
 msgstr "هندسي سيکې"
 
@@ -796,12 +800,12 @@ msgstr "هندسي سيکې"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Symbols"
 msgstr "ګډوډ پېلامونه"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:118
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Dingbats"
 msgstr ""
 
@@ -809,7 +813,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Mathematical Symbols-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Mathematical Symbols-A"
 msgstr "ګډوډ رياضيکي پېلامونه-ا"
 
@@ -817,7 +821,7 @@ msgstr "ګډوډ رياضيکي پېلامونه-ا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Arrows-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Arrows-A"
 msgstr "بشپړوونکي غشي-ا"
 
@@ -825,7 +829,7 @@ msgstr "بشپړوونکي غشي-ا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Braille Patterns"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Braille Patterns"
 msgstr "برېلي بېلګې"
 
@@ -833,7 +837,7 @@ msgstr "برېلي بېلګې"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Arrows-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Arrows-B"
 msgstr "بشپړوونکي غشي-ب"
 
@@ -841,7 +845,7 @@ msgstr "بشپړوونکي غشي-ب"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Mathematical Symbols-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Mathematical Symbols-B"
 msgstr "ګډوډ رياضيکي پېلامونه-ب"
 
@@ -849,7 +853,7 @@ msgstr "ګډوډ رياضيکي پېلامونه-ب"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Mathematical Operators"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Mathematical Operators"
 msgstr "بشپړوونکي رياضيکي چلووني"
 
@@ -857,7 +861,7 @@ msgstr "بشپړوونکي رياضيکي چلووني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Miscellaneous Symbols and Arrows"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Miscellaneous Symbols and Arrows"
 msgstr "ګډوډ پېلامونه او غشي"
 
@@ -865,7 +869,7 @@ msgstr "ګډوډ پېلامونه او غشي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Glagolitic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Glagolitic"
 msgstr "ګلېګولېټېک"
 
@@ -873,7 +877,7 @@ msgstr "ګلېګولېټېک"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-C"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-C"
 msgstr "ژور-ج لاټيني"
 
@@ -881,7 +885,7 @@ msgstr "ژور-ج لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Coptic"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Coptic"
 msgstr "کوپټېک"
 
@@ -889,7 +893,7 @@ msgstr "کوپټېک"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Georgian Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Georgian Supplement"
 msgstr "ګورجين بشپړوونکی"
 
@@ -897,7 +901,7 @@ msgstr "ګورجين بشپړوونکی"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tifinagh"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tifinagh"
 msgstr "ټېفېنېګ"
 
@@ -905,7 +909,7 @@ msgstr "ټېفېنېګ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic Extended"
 msgstr "ژور اېټوپيايي"
 
@@ -913,7 +917,7 @@ msgstr "ژور اېټوپيايي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic Extended-A"
 msgstr "ژور-ا لاټيني"
 
@@ -921,7 +925,7 @@ msgstr "ژور-ا لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Supplemental Punctuation"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Supplemental Punctuation"
 msgstr "بشپړوونکې نښونه"
 
@@ -929,17 +933,17 @@ msgstr "بشپړوونکې نښونه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Supplement"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Radicals Supplement"
 msgstr "عربي بشپړوونکی"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:135
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kangxi Radicals"
 msgstr ""
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:136
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ideographic Description Characters"
 msgstr ""
 
@@ -947,7 +951,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Symbols and Punctuation"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Symbols and Punctuation"
 msgstr "پېلامونه او نښونه CJK"
 
@@ -955,7 +959,7 @@ msgstr "پېلامونه او نښونه CJK"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Hiragana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hiragana"
 msgstr "هېرګانا"
 
@@ -963,7 +967,7 @@ msgstr "هېرګانا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Katakana"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Katakana"
 msgstr "کټکانا"
 
@@ -971,7 +975,7 @@ msgstr "کټکانا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bopomofo"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bopomofo"
 msgstr "بوپوموفو"
 
@@ -979,7 +983,7 @@ msgstr "بوپوموفو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Compatibility Jamo"
 msgstr "جوړاينه CJK"
 
@@ -987,7 +991,7 @@ msgstr "جوړاينه CJK"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Kanbun"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kanbun"
 msgstr "کېنبن"
 
@@ -995,7 +999,7 @@ msgstr "کېنبن"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Bopomofo Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bopomofo Extended"
 msgstr "ژور بوپوموفو"
 
@@ -1003,7 +1007,7 @@ msgstr "ژور بوپوموفو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Strokes"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Strokes"
 msgstr "CJK وهل"
 
@@ -1011,12 +1015,12 @@ msgstr "CJK وهل"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Katakana Phonetic Extensions"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Katakana Phonetic Extensions"
 msgstr "کټاکنا غږيز شاتاړي"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:146
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Enclosed CJK Letters and Months"
 msgstr ""
 
@@ -1024,35 +1028,40 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Compatibility"
 msgstr "جوړاينه CJK"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:148
-msgctxt "KSharSelect|KCharselect unicode block name"
+#, fuzzy
+#| msgid "Frame Information"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Unified Ideographs Extension A"
-msgstr ""
+msgstr "د چوکاټ خبرتياوې"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:149
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Yijing Hexagram Symbols"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Yijing Hexagram Symbols"
 msgstr "ايجېنګ هېګزاګرام پېلامونه"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:150
-msgctxt "KSharSelect|KCharselect unicode block name"
+#, fuzzy
+#| msgctxt "KCharselect unicode block name"
+#| msgid "CJK Compatibility"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Unified Ideographs"
-msgstr ""
+msgstr "جوړاينه CJK"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:151
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Yi Syllables"
 msgstr ""
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:152
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Yi Radicals"
 msgstr ""
 
@@ -1060,7 +1069,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Limbu"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Lisu"
 msgstr "لېمبو"
 
@@ -1068,7 +1077,7 @@ msgstr "لېمبو"
 #, fuzzy
 #| msgctxt "of Farvardin short"
 #| msgid "of Far"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Vai"
 msgstr "د فرو"
 
@@ -1076,14 +1085,14 @@ msgstr "د فرو"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cyrillic Extended-B"
 msgstr "ژور-ب لاټيني"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:156
 #, fuzzy
 #| msgid "Tamuz"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Bamum"
 msgstr "ټموز"
 
@@ -1091,7 +1100,7 @@ msgstr "ټموز"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Spacing Modifier Letters"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Modifier Tone Letters"
 msgstr "د تشونې بدلوونکي توري"
 
@@ -1099,7 +1108,7 @@ msgstr "د تشونې بدلوونکي توري"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-D"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Latin Extended-D"
 msgstr "ژور-د لاټيني"
 
@@ -1107,7 +1116,7 @@ msgstr "ژور-د لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Syloti Nagri"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Syloti Nagri"
 msgstr "سېلوټي نګري"
 
@@ -1115,7 +1124,7 @@ msgstr "سېلوټي نګري"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Number Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Common Indic Number Forms"
 msgstr "د شمېر بڼې"
 
@@ -1123,12 +1132,12 @@ msgstr "د شمېر بڼې"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Phags-pa"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Phags-pa"
 msgstr "پهېګس-پا"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:162
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Saurashtra"
 msgstr ""
 
@@ -1136,17 +1145,17 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Devanagari"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Devanagari Extended"
 msgstr "دېونګري"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:164
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Kayah Li"
 msgstr ""
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:165
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Rejang"
 msgstr ""
 
@@ -1154,7 +1163,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Jamo Extended-A"
 msgstr "ژور-ا لاټيني"
 
@@ -1162,14 +1171,14 @@ msgstr "ژور-ا لاټيني"
 #, fuzzy
 #| msgctxt "@item Text character set"
 #| msgid "Japanese"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Javanese"
 msgstr "جاپاني"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:168
 #, fuzzy
 #| msgid "Kha"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Cham"
 msgstr "پينځه نۍ"
 
@@ -1177,7 +1186,7 @@ msgstr "پينځه نۍ"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Myanmar Extended-A"
 msgstr "ژور-ا لاټيني"
 
@@ -1185,7 +1194,7 @@ msgstr "ژور-ا لاټيني"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Tai Le"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Tai Viet"
 msgstr "ټايي لي"
 
@@ -1193,17 +1202,17 @@ msgstr "ټايي لي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Ethiopic Extended"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Ethiopic Extended-A"
 msgstr "ژور اېټوپيايي"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:172
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Meetei Mayek"
 msgstr ""
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:173
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Syllables"
 msgstr ""
 
@@ -1211,14 +1220,14 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Latin Extended-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Hangul Jamo Extended-B"
 msgstr "ژور-ب لاټيني"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:175
 #, fuzzy
 #| msgid "Other, Surrogate"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "High Surrogates"
 msgstr "بل، استازی"
 
@@ -1226,14 +1235,14 @@ msgstr "بل، استازی"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Private Use Area"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "High Private Use Surrogates"
 msgstr "د وګړيزې کارونې سيمه"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:177
 #, fuzzy
 #| msgid "<Low Surrogate>"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Low Surrogates"
 msgstr "<ټيټ اسازی>"
 
@@ -1241,7 +1250,7 @@ msgstr "<ټيټ اسازی>"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Private Use Area"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Private Use Area"
 msgstr "د وګړيزې کارونې سيمه"
 
@@ -1249,7 +1258,7 @@ msgstr "د وګړيزې کارونې سيمه"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Compatibility Ideographs"
 msgstr "جوړاينه CJK"
 
@@ -1257,7 +1266,7 @@ msgstr "جوړاينه CJK"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Alphabetic Presentation Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Alphabetic Presentation Forms"
 msgstr "ابېڅې وړانديزونې بڼې"
 
@@ -1265,7 +1274,7 @@ msgstr "ابېڅې وړانديزونې بڼې"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Presentation Forms-A"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic Presentation Forms-A"
 msgstr "د عربي وړانديزونې بڼې-ا"
 
@@ -1273,7 +1282,7 @@ msgstr "د عربي وړانديزونې بڼې-ا"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Variation Selectors"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Variation Selectors"
 msgstr "توپير ټاکونکي"
 
@@ -1281,12 +1290,12 @@ msgstr "توپير ټاکونکي"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Vertical Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Vertical Forms"
 msgstr "نېغې بڼې"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:184
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Combining Half Marks"
 msgstr ""
 
@@ -1294,12 +1303,12 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "CJK Compatibility"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "CJK Compatibility Forms"
 msgstr "جوړاينه CJK"
 
 #: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselect-translation.cpp:186
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Small Form Variants"
 msgstr ""
 
@@ -1307,7 +1316,7 @@ msgstr ""
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Arabic Presentation Forms-B"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Arabic Presentation Forms-B"
 msgstr "د عربي وړانديزونې بڼې-ب"
 
@@ -1315,7 +1324,7 @@ msgstr "د عربي وړانديزونې بڼې-ب"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Half-Width and Full-Width Forms"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Halfwidth and Fullwidth Forms"
 msgstr "نيم-پلني او ټول-پلني بڼې"
 
@@ -1323,7 +1332,7 @@ msgstr "نيم-پلني او ټول-پلني بڼې"
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Specials"
-msgctxt "KSharSelect|KCharselect unicode block name"
+msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Specials"
 msgstr "ځانګړي"
 
@@ -1589,12 +1598,12 @@ msgctxt "KCharSelectItemModel|Character"
 msgid "In decimal"
 msgstr ""
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:278
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:274
 msgctxt "KCharSelectData|"
 msgid "<Non Private Use High Surrogate>"
 msgstr ""
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:280
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:276
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Private Use Area"
@@ -1602,250 +1611,245 @@ msgctxt "KCharSelectData|"
 msgid "<Private Use High Surrogate>"
 msgstr "د وګړيزې کارونې سيمه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:282
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:278
 #, fuzzy
 #| msgid "<Low Surrogate>"
 msgctxt "KCharSelectData|"
 msgid "<Low Surrogate>"
 msgstr "<ټيټ اسازی>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:284
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:280
 #, fuzzy
 #| msgid "<Private Use>"
 msgctxt "KCharSelectData|"
 msgid "<Private Use>"
 msgstr "<وګړيزه کارونه>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:315
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:311
 #, fuzzy
 #| msgid "<not assigned>"
 msgctxt "KCharSelectData|"
 msgid "<not assigned>"
 msgstr "<نه دی ټاکل شوی>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:651
-msgctxt "KCharSelectData|KCharSelect section name"
-msgid "Combining Diacritical Marks"
-msgstr ""
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:660
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:656
 #, fuzzy
 #| msgid "Non-printable"
 msgctxt "KCharSelectData|"
 msgid "Non-printable"
 msgstr "نه-چاپېدونکي"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:693
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:689
 #, fuzzy
 #| msgid "Other, Control"
 msgctxt "KCharSelectData|"
 msgid "Other, Control"
 msgstr "بل، مهار"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:694
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:690
 #, fuzzy
 #| msgid "Other, Format"
 msgctxt "KCharSelectData|"
 msgid "Other, Format"
 msgstr "بل، ډول"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:695
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:691
 #, fuzzy
 #| msgid "Other, Not Assigned"
 msgctxt "KCharSelectData|"
 msgid "Other, Not Assigned"
 msgstr "بل، نه دی ټاکل شوی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:696
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:692
 #, fuzzy
 #| msgid "Other, Private Use"
 msgctxt "KCharSelectData|"
 msgid "Other, Private Use"
 msgstr "بل، وګړيزه کارونه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:697
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:693
 #, fuzzy
 #| msgid "Other, Surrogate"
 msgctxt "KCharSelectData|"
 msgid "Other, Surrogate"
 msgstr "بل، استازی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:698
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:694
 #, fuzzy
 #| msgid "Letter, Lowercase"
 msgctxt "KCharSelectData|"
 msgid "Letter, Lowercase"
 msgstr "توری، کوچني توري"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:699
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:695
 #, fuzzy
 #| msgid "Letter, Modifier"
 msgctxt "KCharSelectData|"
 msgid "Letter, Modifier"
 msgstr "توری، بدلوونکی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:700
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:696
 #, fuzzy
 #| msgid "Letter, Other"
 msgctxt "KCharSelectData|"
 msgid "Letter, Other"
 msgstr "توری، بل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:701
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:697
 #, fuzzy
 #| msgid "Letter, Titlecase"
 msgctxt "KCharSelectData|"
 msgid "Letter, Titlecase"
 msgstr "توری، سرليک کېس"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:702
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:698
 #, fuzzy
 #| msgid "Letter, Uppercase"
 msgctxt "KCharSelectData|"
 msgid "Letter, Uppercase"
 msgstr "توري، لوېتوري"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:703
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:699
 #, fuzzy
 #| msgid "Mark, Spacing Combining"
 msgctxt "KCharSelectData|"
 msgid "Mark, Spacing Combining"
 msgstr "نښه، تشونې يوځايونه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:704
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:700
 #, fuzzy
 #| msgid "Mark, Enclosing"
 msgctxt "KCharSelectData|"
 msgid "Mark, Enclosing"
 msgstr "نښه، راچاپېرونه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:705
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:701
 #, fuzzy
 #| msgid "Mark, Non-Spacing"
 msgctxt "KCharSelectData|"
 msgid "Mark, Non-Spacing"
 msgstr "نښه، نا-تشونه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:706
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:702
 #, fuzzy
 #| msgid "Number, Decimal Digit"
 msgctxt "KCharSelectData|"
 msgid "Number, Decimal Digit"
 msgstr "شمېره، اشاري ټکی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:707
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:703
 #, fuzzy
 #| msgid "Number, Letter"
 msgctxt "KCharSelectData|"
 msgid "Number, Letter"
 msgstr "شمېره، توری"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:708
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:704
 #, fuzzy
 #| msgid "Number, Other"
 msgctxt "KCharSelectData|"
 msgid "Number, Other"
 msgstr "شمېره، بل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:709
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:705
 #, fuzzy
 #| msgid "Punctuation, Connector"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Connector"
 msgstr "نښونه، نښلوونکی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:710
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:706
 #, fuzzy
 #| msgid "Punctuation, Dash"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Dash"
 msgstr "نښونه، کرښکه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:711
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:707
 #, fuzzy
 #| msgid "Punctuation, Close"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Close"
 msgstr "نښونه، بند"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:712
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:708
 #, fuzzy
 #| msgid "Punctuation, Final Quote"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Final Quote"
 msgstr "نښونه، وروستۍ اخيستنښه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:713
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:709
 #, fuzzy
 #| msgid "Punctuation, Initial Quote"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Initial Quote"
 msgstr "نښونه، لومړۍ اخيستنښه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:714
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:710
 #, fuzzy
 #| msgid "Punctuation, Other"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Other"
 msgstr "نښونه، بل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:715
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:711
 #, fuzzy
 #| msgid "Punctuation, Open"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Open"
 msgstr "نښونه، پرانيستی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:716
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:712
 #, fuzzy
 #| msgid "Symbol, Currency"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Currency"
 msgstr "پېلام، پېسه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:717
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:713
 #, fuzzy
 #| msgid "Symbol, Modifier"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Modifier"
 msgstr "پېلام، بدلوونکی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:718
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:714
 #, fuzzy
 #| msgid "Symbol, Math"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Math"
 msgstr "پېلام، رياضي"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:719
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:715
 #, fuzzy
 #| msgid "Symbol, Other"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Other"
 msgstr "پېلام، بل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:720
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:716
 #, fuzzy
 #| msgid "Separator, Line"
 msgctxt "KCharSelectData|"
 msgid "Separator, Line"
 msgstr "بېلند، ليکه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:721
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:717
 #, fuzzy
 #| msgid "Separator, Paragraph"
 msgctxt "KCharSelectData|"
 msgid "Separator, Paragraph"
 msgstr "بېلند، پېرېګراف"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:722
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:718
 #, fuzzy
 #| msgid "Separator, Space"
 msgctxt "KCharSelectData|"
 msgid "Separator, Space"
 msgstr "بېلند، تشه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:723
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kcharselectdata.cpp:719
 #, fuzzy
 #| msgid "Unknown"
 msgctxt "KCharSelectData|"
