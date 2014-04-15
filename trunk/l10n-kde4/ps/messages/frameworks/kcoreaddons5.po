@@ -234,7 +234,7 @@ msgstr ""
 ".نه شي موندلی 'kdemain' کې '%1' په\n"
 "%2"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:222
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:179
 #, fuzzy, qt-format
 #| msgid "The library does not export a factory for creating components."
 msgctxt "KPluginLoader|"
