@@ -223,18 +223,7 @@ msgstr ""
 "ليکلی وو %1\n"
 "%2"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:51
-#, fuzzy, qt-format
-#| msgid ""
-#| "Could not find 'kdemain' in '%1'.\n"
-#| "%2"
-msgctxt "KPluginLoader|"
-msgid "Could not find plugin '%1' for application '%2'"
-msgstr ""
-".نه شي موندلی 'kdemain' کې '%1' په\n"
-"%2"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:179
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:113
 #, fuzzy, qt-format
 #| msgid "The library does not export a factory for creating components."
 msgctxt "KPluginLoader|"
@@ -667,6 +656,16 @@ msgstr "راتلونکی"
 msgctxt "KFormat|"
 msgid "%1, %2"
 msgstr "%1 %2"
+
+#, fuzzy
+#~| msgid ""
+#~| "Could not find 'kdemain' in '%1'.\n"
+#~| "%2"
+#~ msgctxt "KPluginLoader|"
+#~ msgid "Could not find plugin '%1' for application '%2'"
+#~ msgstr ""
+#~ ".نه شي موندلی 'kdemain' کې '%1' په\n"
+#~ "%2"
 
 #, fuzzy
 #~| msgctxt "@item license (short name)"
