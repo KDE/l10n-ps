@@ -658,9 +658,6 @@ msgid "%1, %2"
 msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid ""
-#~| "Could not find 'kdemain' in '%1'.\n"
-#~| "%2"
 #~ msgctxt "KPluginLoader|"
 #~ msgid "Could not find plugin '%1' for application '%2'"
 #~ msgstr ""
@@ -668,70 +665,51 @@ msgstr "%1 %2"
 #~ "%2"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|GNU General Public License Version 2"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|GNU Lesser General Public License Version 2"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|BSD License"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|Artistic License"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|Q Public License"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|GNU General Public License Version 3"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|GNU Lesser General Public License Version 3"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|Custom"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgctxt "@item license (short name)"
-#~| msgid "Artistic License"
 #~ msgctxt "KAboutLicense|Not specified"
 #~ msgid "@item license"
 #~ msgstr "کلاکاريز منښتليک"
 
 #, fuzzy
-#~| msgid "Please give some information about yourself."
 #~ msgctxt ""
 #~ "KAboutData|<p>KDE is translated into many languages thanks to the work of "
 #~ "the translation teams all over the world.</p><p>For more information on "
@@ -987,8 +965,6 @@ msgstr "%1 %2"
 #~ msgstr "<application>زېمبرېک</application>"
 
 #, fuzzy
-#~| msgctxt "@item:inlistbox Spell checker"
-#~| msgid "<application>Hspell</application>"
 #~ msgctxt "@item:inlistbox Spell checker"
 #~ msgid "<application>Hunspell</application>"
 #~ msgstr "<application>هسپېل</application>"
@@ -1110,8 +1086,6 @@ msgstr "%1 %2"
 #~ msgstr "%1 - تلواله"
 
 #, fuzzy
-#~| msgctxt "@item Spelling dictionary"
-#~| msgid "<application>ISpell</application> Default"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "<application>Hunspell</application> Default"
 #~ msgstr "<application>ISpell</application> تلواله"
@@ -1247,7 +1221,6 @@ msgstr "%1 %2"
 #~ msgstr "په موخه پوښۍ سمې پرېښلې نشته."
 
 #, fuzzy
-#~| msgid "Unable to open temporary file."
 #~ msgid "Unable to open temporary file. Error was: %1."
 #~ msgstr ".لنډمهاله دوتنه نه شي پرانيستلی"
 
@@ -1309,7 +1282,6 @@ msgstr "%1 %2"
 #~ msgstr "(.سرپاڼه دوتنې) کاريالونه غورنۍ"
 
 #, fuzzy
-#~| msgid "Path to the autostart directory"
 #~ msgid "Autostart directories"
 #~ msgstr "د خپلپېل پوښۍ يونلور"
 
@@ -1389,7 +1361,6 @@ msgstr "%1 %2"
 #~ msgstr "(.غورنۍ دوتنې) غورنۍ هډوانه XDG"
 
 #, fuzzy
-#~| msgid "Path to the autostart directory"
 #~ msgid "XDG autostart directory"
 #~ msgstr "د خپلپېل پوښۍ يونلور"
 
@@ -1566,7 +1537,6 @@ msgstr "%1 %2"
 #~ "%1"
 
 #, fuzzy
-#~| msgid "Could not Launch Mail Client"
 #~ msgid "Could not launch Mail Client"
 #~ msgstr "ليک پېرن نه شي پېلولی"
 
@@ -1580,7 +1550,6 @@ msgstr "%1 %2"
 #~ "%1"
 
 #, fuzzy
-#~| msgid "Could not Launch Browser"
 #~ msgid "Could not launch Browser"
 #~ msgstr "لټوونی نه شي پېلولی"
 
@@ -1594,7 +1563,6 @@ msgstr "%1 %2"
 #~ "%1"
 
 #, fuzzy
-#~| msgid "Could not Launch Terminal Client"
 #~ msgid "Could not launch Terminal Client"
 #~ msgstr "پايالي پېرن نه شي پېلولی"
 
@@ -1687,141 +1655,106 @@ msgstr "%1 %2"
 #~ msgstr "نړېوال"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Arabic"
 #~ msgctxt "digit set"
 #~ msgid "Arabic-Indic"
 #~ msgstr "عربي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Bengali"
 #~ msgctxt "digit set"
 #~ msgid "Bengali"
 #~ msgstr "بنګالي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Devanagari"
 #~ msgctxt "digit set"
 #~ msgid "Devanagari"
 #~ msgstr "دېونګري"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Gujarati"
 #~ msgctxt "digit set"
 #~ msgid "Gujarati"
 #~ msgstr "ګجراتي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Gurmukhi"
 #~ msgctxt "digit set"
 #~ msgid "Gurmukhi"
 #~ msgstr "ګورموکي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Kannada"
 #~ msgctxt "digit set"
 #~ msgid "Kannada"
 #~ msgstr "کناډا"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Khmer"
 #~ msgctxt "digit set"
 #~ msgid "Khmer"
 #~ msgstr "کمير"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Malayalam"
 #~ msgctxt "digit set"
 #~ msgid "Malayalam"
 #~ msgstr "ملايالم"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Oriya"
 #~ msgctxt "digit set"
 #~ msgid "Oriya"
 #~ msgstr "وريا"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Tamil"
 #~ msgctxt "digit set"
 #~ msgid "Tamil"
 #~ msgstr "ټامېل"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Telugu"
 #~ msgctxt "digit set"
 #~ msgid "Telugu"
 #~ msgstr "ټېلوګو"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Thai"
 #~ msgctxt "digit set"
 #~ msgid "Thai"
 #~ msgstr "ټهايي"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Arabic"
 #~ msgctxt "digit set"
 #~ msgid "Arabic"
 #~ msgstr "عربي"
 
 #, fuzzy
-#~| msgctxt "dictionary name. %1-language and %2-country name"
-#~| msgid "%1 (%2)"
 #~ msgctxt "name of digit set with digit string, e.g. 'Arabic (0123456789)'"
 #~ msgid "%1 (%2)"
 #~ msgstr "%1 (%2)"
 
 #, fuzzy
-#~| msgid "%1 MiB"
 #~ msgctxt "memory size in 2^20 bytes"
 #~ msgid "%1 MB"
 #~ msgstr "م ا ب %1"
 
 #, fuzzy
-#~| msgid "%1 GiB"
 #~ msgctxt "memory size in 2^30 bytes"
 #~ msgid "%1 GB"
 #~ msgstr "ج ا ب %1"
 
 #, fuzzy
-#~| msgid "%1 TiB"
 #~ msgctxt "memory size in 2^40 bytes"
 #~ msgid "%1 TB"
 #~ msgstr "ټ ا ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^50 bytes"
 #~ msgid "%1 PB"
 #~ msgstr "ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^60 bytes"
 #~ msgid "%1 EB"
 #~ msgstr "ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^70 bytes"
 #~ msgid "%1 ZB"
 #~ msgstr "ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^80 bytes"
 #~ msgid "%1 YB"
 #~ msgstr "ب %1"
@@ -1865,7 +1798,6 @@ msgstr "%1 %2"
 #~ msgstr "%2 او‏‎‎ %1"
 
 #, fuzzy
-#~| msgid "AC"
 #~ msgctxt "Before Noon KLocale::NarrowName"
 #~ msgid "A"
 #~ msgstr "AC"
@@ -2031,15 +1963,11 @@ msgstr "%1 %2"
 #~ msgstr "<i>%1</i>"
 
 #, fuzzy
-#~| msgctxt "@emphasis/plain"
-#~| msgid "*%1*"
 #~ msgctxt "@emphasis-strong/plain"
 #~ msgid "**%1**"
 #~ msgstr "*%1*"
 
 #, fuzzy
-#~| msgctxt "@shortcut/rich"
-#~| msgid "<b>%1</b>"
 #~ msgctxt "@emphasis-strong/rich"
 #~ msgid "<b>%1</b>"
 #~ msgstr "<b>%1</b>"
@@ -2375,20 +2303,14 @@ msgstr "%1 %2"
 #~ msgstr "پېرن SOCKS ډېنټي"
 
 #, fuzzy
-#~| msgctxt "Socket error code NotSupported"
-#~| msgid "operation is not supported"
 #~ msgid "The socket operation is not supported"
 #~ msgstr "چلښت نه منل کيږي"
 
 #, fuzzy
-#~| msgctxt "Socket error code ConnectionRefused"
-#~| msgid "connection actively refused"
 #~ msgid "Connection refused"
 #~ msgstr "نښلېدنه په چارنده ډول ونه منل شوه"
 
 #, fuzzy
-#~| msgctxt "Socket error code ConnectionTimedOut"
-#~| msgid "connection timed out"
 #~ msgid "Connection timed out"
 #~ msgstr "د نښلېدنې مهال بشپړ شو"
 
@@ -2396,29 +2318,22 @@ msgstr "%1 %2"
 #~ msgstr "ناپېژندلې تېروتنه"
 
 #, fuzzy
-#~| msgctxt "Socket error code AddressInUse"
-#~| msgid "address already in use"
 #~ msgid "Address is already in use"
 #~ msgstr "پته د مخکې نه کارول کيږي"
 
 #, fuzzy
-#~| msgid "No such interpreter \"%1\""
 #~ msgid "No such file or directory"
 #~ msgstr "\"%1\" داسې ژباړونکی نشته"
 
 #, fuzzy
-#~| msgid "Path to the autostart directory"
 #~ msgid "Not a directory"
 #~ msgstr "د خپلپېل پوښۍ يونلور"
 
 #, fuzzy
-#~| msgid "Unknown error"
 #~ msgid "Unknown socket error"
 #~ msgstr "ناپېژندلې تېروتنه"
 
 #, fuzzy
-#~| msgctxt "Socket error code NotSupported"
-#~| msgid "operation is not supported"
 #~ msgid "Operation not supported"
 #~ msgstr "چلښت نه منل کيږي"
 
@@ -2426,13 +2341,11 @@ msgstr "%1 %2"
 #~ msgstr "لرې کوربه سره د نښلېدلو هڅه کې مهال بشپړ شو"
 
 #, fuzzy
-#~| msgid "no error"
 #~ msgctxt "SSL error"
 #~ msgid "No error"
 #~ msgstr "هېڅ تېروتنه"
 
 #, fuzzy
-#~| msgid "Unknown error"
 #~ msgctxt "SSL error"
 #~ msgid "Unknown error"
 #~ msgstr "ناپېژندلې تېروتنه"
@@ -2601,9 +2514,6 @@ msgstr "%1 %2"
 #~ msgstr "ناپېژندلې تېروتنه :KLibLoader"
 
 #, fuzzy
-#~| msgid ""
-#~| "The service '%1' provides no library or the Library key is missing in "
-#~| "the .desktop file."
 #~ msgid "The service '%1' provides no library or the Library key is missing"
 #~ msgstr ""
 #~ "دوتنه کې يې کتابتون کيلۍ نشته دی. .سرپاڼه پالنه کوم کتابتون نه لري يا په "
@@ -2660,12 +2570,10 @@ msgstr "%1 %2"
 #~ msgstr "خپله اوچتول"
 
 #, fuzzy
-#~| msgid "No entries"
 #~ msgid "No Entries"
 #~ msgstr "هېڅ ننوتنې"
 
 #, fuzzy
-#~| msgid "Clear input"
 #~ msgid "Clear List"
 #~ msgstr "ننوتۍ پاکول"
 
@@ -2695,9 +2603,6 @@ msgstr "%1 %2"
 #~ msgstr "ان&کړپټه ښودل"
 
 #, fuzzy
-#~| msgid ""
-#~| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-#~| "bottom of the window used for status information."
 #~ msgid ""
 #~ "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #~ "the window used for status information.</p>"
@@ -2709,7 +2614,6 @@ msgstr "%1 %2"
 #~ msgstr "نوی"
 
 #, fuzzy
-#~| msgid "Create New Tag..."
 #~ msgid "Create new document"
 #~ msgstr "...نوی بچوی جوړول"
 
@@ -2723,7 +2627,6 @@ msgstr "%1 %2"
 #~ msgstr "ساتل"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Save document"
 #~ msgstr "لاسوند بندول"
 
@@ -2737,7 +2640,6 @@ msgstr "%1 %2"
 #~ msgstr "بندول"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close document"
 #~ msgstr "لاسوند بندول"
 
@@ -2745,8 +2647,6 @@ msgstr "%1 %2"
 #~ msgstr "...چاپول"
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "PrintScreen"
 #~ msgid "Print document"
 #~ msgstr "پرده چاپ"
 
@@ -2766,7 +2666,6 @@ msgstr "%1 %2"
 #~ msgstr "بي&اکړ"
 
 #, fuzzy
-#~| msgid "HTML documentation"
 #~ msgid "Redo last undone action"
 #~ msgstr "لاسوندونه HTML"
 
@@ -2780,7 +2679,6 @@ msgstr "%1 %2"
 #~ msgstr "سرېښل"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Paste clipboard content"
 #~ msgstr "مخکوت لېښل کيږي"
 
@@ -2827,7 +2725,6 @@ msgstr "%1 %2"
 #~ msgstr "...لويول"
 
 #, fuzzy
-#~| msgid "Select a week"
 #~ msgid "Select zoom level"
 #~ msgstr "يوه اونۍ وټاکﺉ"
 
@@ -2835,7 +2732,6 @@ msgstr "%1 %2"
 #~ msgstr "بياښوون"
 
 #, fuzzy
-#~| msgid "&Redisplay"
 #~ msgid "Redisplay document"
 #~ msgstr "بياښوون&"
 
@@ -2846,7 +2742,6 @@ msgstr "%1 %2"
 #~ msgstr "مخکنی مخ"
 
 #, fuzzy
-#~| msgid "&Previous Page"
 #~ msgid "Go to previous page"
 #~ msgstr "مخکنی مخ&"
 
@@ -2854,8 +2749,6 @@ msgstr "%1 %2"
 #~ msgstr "راتلونکی مخ"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "ليکې ته ورتلل"
 
@@ -2872,8 +2765,6 @@ msgstr "%1 %2"
 #~ msgstr "لومړی مخ"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to first page"
 #~ msgstr "ليکې ته ورتلل"
 
@@ -2881,23 +2772,18 @@ msgstr "%1 %2"
 #~ msgstr "وروستی مخ"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgid "Go to last page"
 #~ msgstr "...مخ ته ورتلل&"
 
 #, fuzzy
-#~| msgid "&Back in the Document"
 #~ msgid "Go back in document"
 #~ msgstr "شاته په لاسوند کې&"
 
 #, fuzzy
-#~| msgctxt "go forward"
-#~| msgid "&Forward"
 #~ msgid "&Forward"
 #~ msgstr "مخکې&"
 
 #, fuzzy
-#~| msgid "&Forward in the Document"
 #~ msgid "Go forward in document"
 #~ msgstr "مخکې په لاسوند کې&"
 
@@ -2905,7 +2791,6 @@ msgstr "%1 %2"
 #~ msgstr "ليکنښه &زياتول"
 
 #, fuzzy
-#~| msgid "&Edit Bookmarks"
 #~ msgid "&Edit Bookmarks..."
 #~ msgstr "ليکنښې &سمول"
 
@@ -2913,12 +2798,10 @@ msgstr "%1 %2"
 #~ msgstr "...ليکدود"
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgid "Check spelling in document"
 #~ msgstr "ليکدود کتل"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Show or hide menubar"
 #~ msgstr "غورنۍ پټه ښودل&"
 
@@ -2926,12 +2809,10 @@ msgstr "%1 %2"
 #~ msgstr "توکپټه &ښودل"
 
 #, fuzzy
-#~| msgid "Show &Toolbar"
 #~ msgid "Show or hide toolbar"
 #~ msgstr "توکپټه &ښودل"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgid "Show or hide statusbar"
 #~ msgstr "ان&کړپټه ښودل"
 
@@ -2975,31 +2856,26 @@ msgstr "%1 %2"
 #~ msgstr "د &کډي په اړه"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Exit F&ull Screen Mode"
 #~ msgstr "د ټ&ولې پردې اکر بندول"
 
 #, fuzzy
-#~| msgid "Exit Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Exit Full Screen"
 #~ msgstr "ټوله پرده بندول"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Exit full screen mode"
 #~ msgstr "د ټ&ولې پردې اکر بندول"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "F&ull Screen Mode"
 #~ msgstr "ټ&وله پرده اکر"
 
 #, fuzzy
-#~| msgid "Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Full Screen"
 #~ msgstr "ټوله پرده"
@@ -3080,9 +2956,6 @@ msgstr "%1 %2"
 #~ msgstr "-بېنومه-"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
-#~| "%3</html>"
 #~ msgid ""
 #~ "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</html>"
 #~ msgstr ""
@@ -3090,9 +2963,6 @@ msgstr "%1 %2"
 #~ "html>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
-#~| "%3</html>"
 #~ msgctxt ""
 #~ "Program name, version and KDE platform version; do not translate "
 #~ "'Development Platform'"
@@ -3110,18 +2980,15 @@ msgstr "%1 %2"
 #~ msgstr "منښتليک مننه"
 
 #, fuzzy
-#~| msgid "Other Contributors:"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid "Email contributor"
 #~ msgstr ":نور ګډونوال"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid "Visit contributor's homepage"
 #~ msgstr "کورپاڼه"
 
 #, fuzzy
-#~| msgid "Other Contributors:"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid ""
 #~ "Email contributor\n"
@@ -3129,42 +2996,34 @@ msgstr "%1 %2"
 #~ msgstr ":نور ګډونوال"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid ""
 #~ "Visit contributor's homepage\n"
 #~ "%1"
 #~ msgstr "کورپاڼه"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid ""
 #~ "Visit contributor's page\n"
 #~ "%1"
 #~ msgstr "کورپاڼه"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid ""
 #~ "Visit contributor's blog\n"
 #~ "%1"
 #~ msgstr "کورپاڼه"
 
 #, fuzzy
-#~| msgctxt "@application/plain"
-#~| msgid "%1"
 #~ msgctxt "@item Contributor name in about dialog."
 #~ msgid "%1"
 #~ msgstr "%1"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Other"
 #~ msgctxt "A generic social network or homepage link of an unlisted type."
 #~ msgid "Other"
 #~ msgstr "بل"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgctxt "A type of link."
 #~ msgid "Homepage"
 #~ msgstr "کورپاڼه"
@@ -3173,9 +3032,6 @@ msgstr "%1 %2"
 #~ msgstr "د کډي په اړه"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</"
-#~| "b></html>"
 #~ msgid ""
 #~ "<html><font size=\"5\">KDE - Be Free!</font><br /><b>Platform Version %1</"
 #~ "b></html>"
@@ -3190,7 +3046,6 @@ msgstr "%1 %2"
 #~ msgstr "کړاونه يا غوښتنې راپورول"
 
 #, fuzzy
-#~| msgid "&Join the KDE Team"
 #~ msgid "&Join KDE"
 #~ msgstr "د کډي ډلې کې ګډون کول&"
 
@@ -3211,7 +3066,6 @@ msgstr "%1 %2"
 #~ "تڼۍ وکاروﺉ"
 
 #, fuzzy
-#~| msgid "From:"
 #~ msgctxt "Email sender address"
 #~ msgid "From:"
 #~ msgstr ":له"
@@ -3223,7 +3077,6 @@ msgstr "%1 %2"
 #~ msgstr ".هغه برېښليک پته چې دا کړاو راپور ورته لېږل کيږي"
 
 #, fuzzy
-#~| msgid "To:"
 #~ msgctxt "Email receiver address"
 #~ msgid "To:"
 #~ msgstr ":ته"
@@ -3251,7 +3104,6 @@ msgstr "%1 %2"
 #~ msgstr ":نسخه"
 
 #, fuzzy
-#~| msgid "no version set (programmer error!)"
 #~ msgid "no version set (programmer error)"
 #~ msgstr "نسخه نه ده ټاکل شوې (د کړنلاروونکي تېروتنه!)"
 
@@ -3313,17 +3165,14 @@ msgstr "%1 %2"
 #~ msgstr "دنده مهار"
 
 #, fuzzy
-#~| msgid "Scheduled Printing:"
 #~ msgid "Scheduled printing:"
 #~ msgstr ":مهالوېشي چاپونه"
 
 #, fuzzy
-#~| msgid "Billing Information:"
 #~ msgid "Billing information:"
 #~ msgstr ":د بېلونې خبرتياوې"
 
 #, fuzzy
-#~| msgid "Job Priority:"
 #~ msgid "Job priority:"
 #~ msgstr ":د دندې لوړښت"
 
@@ -3473,22 +3322,18 @@ msgstr "%1 %2"
 #~ msgstr "جګ پټوالی"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgid "All Pages"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgid "Odd Pages"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgid "Even Pages"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Pages Per Sheet"
 #~ msgid "Page Set"
 #~ msgstr "مخونه پر پاڼې"
 
@@ -3512,12 +3357,10 @@ msgstr "%1 %2"
 #~ msgstr "--- بېلند ---"
 
 #, fuzzy
-#~| msgid "Change Icon"
 #~ msgid "Change Text"
 #~ msgstr "انځورن بدلول"
 
 #, fuzzy
-#~| msgid "Link Text:"
 #~ msgid "Icon te&xt:"
 #~ msgstr ":د تړنۍ ليکنه"
 
@@ -3544,7 +3387,6 @@ msgstr "%1 %2"
 #~ msgstr ":ش&ته چارونه"
 
 #, fuzzy
-#~| msgid "&Filter:"
 #~ msgid "Filter"
 #~ msgstr ":چاڼ&"
 
@@ -3555,7 +3397,6 @@ msgstr "%1 %2"
 #~ msgstr "...انځورن بدلول"
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgid "Change Te&xt..."
 #~ msgstr "...انځورن بدلول&"
 
@@ -3642,7 +3483,6 @@ msgstr "%1 %2"
 #~ msgstr ".لاندې يو کارننوم او تېرنويې وليکﺉ"
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Use this password:"
 #~ msgstr "تېرنويې ساتل"
 
@@ -3672,17 +3512,14 @@ msgstr "%1 %2"
 #~ msgstr ":دوديز"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgid "Shortcut Schemes"
 #~ msgstr "لنډلاري"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "Current scheme:"
 #~ msgstr ":اوس&ني چارونه"
 
 #, fuzzy
-#~| msgid "..."
 #~ msgid "New..."
 #~ msgstr "..."
 
@@ -3690,32 +3527,26 @@ msgstr "%1 %2"
 #~ msgstr "ړنګول"
 
 #, fuzzy
-#~| msgid "Action"
 #~ msgid "More Actions"
 #~ msgstr "چار"
 
 #, fuzzy
-#~| msgid "&Defaults"
 #~ msgid "Save as Scheme Defaults"
 #~ msgstr "تلوالې&"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "Name for new scheme:"
 #~ msgstr ":اوس&ني چارونه"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "New Scheme"
 #~ msgstr ":اوس&ني چارونه"
 
 #, fuzzy
-#~| msgid "The tag %1 already exists"
 #~ msgid "A scheme with this name already exists."
 #~ msgstr "بچوی د مخکې نه شتون لري %1"
 
 #, fuzzy
-#~| msgid "Click to Edit Location"
 #~ msgid "Export to Location"
 #~ msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 
@@ -3726,7 +3557,6 @@ msgstr "%1 %2"
 #~ msgstr "چاپول"
 
 #, fuzzy
-#~| msgid "&Defaults"
 #~ msgid "Reset to Defaults"
 #~ msgstr "تلوالې&"
 
@@ -3986,7 +3816,6 @@ msgstr "%1 %2"
 #~ msgstr "ځاېناستول"
 
 #, fuzzy
-#~| msgid "&All"
 #~ msgctxt "@action:button Replace all occurrences"
 #~ msgid "&All"
 #~ msgstr "ټول&"
@@ -4012,13 +3841,11 @@ msgstr "%1 %2"
 #~ msgstr "تاسو غواړﺉ چې پلټنه د پېل نه بيا پېل کړﺉ؟"
 
 #, fuzzy
-#~| msgid "Restart"
 #~ msgctxt "@action:button Restart find & replace"
 #~ msgid "Restart"
 #~ msgstr "بياپېلول"
 
 #, fuzzy
-#~| msgid "Stop"
 #~ msgctxt "@action:button Stop find & replace"
 #~ msgid "Stop"
 #~ msgstr "تمول"
@@ -4189,8 +4016,6 @@ msgstr "%1 %2"
 #~ msgstr " %1/س"
 
 #, fuzzy
-#~| msgctxt "@application/plain"
-#~| msgid "%1"
 #~ msgctxt "%1 is the label, we add a ':' to it"
 #~ msgid "%1:"
 #~ msgstr "%1"
@@ -4211,13 +4036,10 @@ msgstr "%1 %2"
 #~ msgstr[1] "دوتنې %2 / %1"
 
 #, fuzzy
-#~| msgid "%1 % of %2 "
 #~ msgid "%1% of %2"
 #~ msgstr "%1 % له %2 "
 
 #, fuzzy
-#~| msgid "%2 % of 1 file"
-#~| msgid_plural "%2 % of %1 files"
 #~ msgid "%2% of 1 file"
 #~ msgid_plural "%2% of %1 files"
 #~ msgstr[0] "له يوې دوتنې %2 %"
@@ -4237,23 +4059,19 @@ msgstr "%1 %2"
 #~ msgstr "%1/س (شوی)"
 
 #, fuzzy
-#~| msgid "Resume"
 #~ msgid "&Resume"
 #~ msgstr "پرمخبيول"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgid "&Pause"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "Source:"
 #~ msgctxt "The source url of a job"
 #~ msgid "Source:"
 #~ msgstr ":سرچينه"
 
 #, fuzzy
-#~| msgid "Destination:"
 #~ msgctxt "The destination url of a job"
 #~ msgid "Destination:"
 #~ msgstr ":موخه"
@@ -4287,7 +4105,6 @@ msgstr "%1 %2"
 #~ msgstr ".په شاليد کې نه ځغلېدل"
 
 #, fuzzy
-#~| msgid "Quit application"
 #~ msgid "Unknown Application"
 #~ msgstr "کاريال بندول"
 
@@ -4343,7 +4160,6 @@ msgstr "%1 %2"
 #~ msgstr "د سراسر لنډلار سره ټکر"
 
 #, fuzzy
-#~| msgid "Conflict with Global Shortcut"
 #~ msgid "Conflict With Registered Global Shortcut"
 #~ msgstr "د سراسر لنډلار سره ټکر"
 
@@ -4544,13 +4360,11 @@ msgstr "%1 %2"
 #~ msgstr "په لړ کې راتلونکی توکی"
 
 #, fuzzy
-#~| msgid "Open &Recent"
 #~ msgctxt "@action"
 #~ msgid "Open Recent"
 #~ msgstr "اوسني &پرانيستل"
 
 #, fuzzy
-#~| msgid "Save As"
 #~ msgctxt "@action"
 #~ msgid "Save As"
 #~ msgstr "ساتل په"
@@ -4560,7 +4374,6 @@ msgstr "%1 %2"
 #~ msgstr "بېرته"
 
 #, fuzzy
-#~| msgid "Print Preview"
 #~ msgctxt "@action"
 #~ msgid "Print Preview"
 #~ msgstr "چاپ مخليد"
@@ -4574,28 +4387,21 @@ msgstr "%1 %2"
 #~ msgstr "پاکول"
 
 #, fuzzy
-#~| msgid "&Actual Size"
 #~ msgctxt "@action"
 #~ msgid "Actual Size"
 #~ msgstr "ار کچ&"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "FitToPage"
 #~ msgctxt "@action"
 #~ msgid "Fit To Page"
 #~ msgstr "مخ سره برابرول"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "FitToWidth"
 #~ msgctxt "@action"
 #~ msgid "Fit To Width"
 #~ msgstr "پلنوالي سره برابرول"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "FitToHeight"
 #~ msgctxt "@action"
 #~ msgid "Fit To Height"
 #~ msgstr "اوږدوالي سره برابرول"
@@ -4609,28 +4415,21 @@ msgstr "%1 %2"
 #~ msgstr "ته ورتلل"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "GotoPage"
 #~ msgctxt "@action"
 #~ msgid "Goto Page"
 #~ msgstr "مخ ته ورتلل"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "DocumentBack"
 #~ msgctxt "@action"
 #~ msgid "Document Back"
 #~ msgstr "لاسوند شاته"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "DocumentForward"
 #~ msgctxt "@action"
 #~ msgid "Document Forward"
 #~ msgstr "لاسوند مخکې"
 
 #, fuzzy
-#~| msgid "&Edit Bookmarks"
 #~ msgctxt "@action"
 #~ msgid "Edit Bookmarks"
 #~ msgstr "ليکنښې &سمول"
@@ -4640,20 +4439,16 @@ msgstr "%1 %2"
 #~ msgstr "ليکدود"
 
 #, fuzzy
-#~| msgid "Show &Toolbar"
 #~ msgctxt "@action"
 #~ msgid "Show Toolbar"
 #~ msgstr "توکپټه &ښودل"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgctxt "@action"
 #~ msgid "Show Statusbar"
 #~ msgstr "ان&کړپټه ښودل"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "SaveOptions"
 #~ msgctxt "@action"
 #~ msgid "Save Options"
 #~ msgstr "د ساتلو غوراوي"
@@ -4663,51 +4458,41 @@ msgstr "%1 %2"
 #~ msgstr "غوراوي"
 
 #, fuzzy
-#~| msgid "Configure Toolbars"
 #~ msgctxt "@action"
 #~ msgid "Configure Toolbars"
 #~ msgstr "توکپټې سازول"
 
 #, fuzzy
-#~| msgid "Configure Notifications"
 #~ msgctxt "@action"
 #~ msgid "Configure Notifications"
 #~ msgstr "يادښتونه سازول"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "TipofDay"
 #~ msgctxt "@action"
 #~ msgid "Tip Of Day"
 #~ msgstr "د ورځې نکته"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "ReportBug"
 #~ msgctxt "@action"
 #~ msgid "Report Bug"
 #~ msgstr "کړاو راپورول"
 
 #, fuzzy
-#~| msgid "Switch Application Language"
 #~ msgctxt "@action"
 #~ msgid "Switch Application Language"
 #~ msgstr "د کاريال ژبه ونجول"
 
 #, fuzzy
-#~| msgid "Quit application"
 #~ msgctxt "@action"
 #~ msgid "About Application"
 #~ msgstr "کاريال بندول"
 
 #, fuzzy
-#~| msgid "About KDE"
 #~ msgctxt "@action"
 #~ msgid "About KDE"
 #~ msgstr "د کډي په اړه"
 
 #, fuzzy
-#~| msgid "Send Confirmation"
 #~ msgid "Spell Checking Configuration"
 #~ msgstr "د لېږلو باوريينه"
 
@@ -4715,7 +4500,6 @@ msgstr "%1 %2"
 #~ msgstr "شاليد ليکدود کتنه توانول"
 
 #, fuzzy
-#~| msgid "As-you-type spell checking enabled."
 #~ msgid "&Automatic spell checking enabled by default"
 #~ msgstr ".د ليکلو سره سم ليکدود کتنه وتوانول شوه"
 
@@ -4729,7 +4513,6 @@ msgstr "%1 %2"
 #~ msgstr ":تلواله ژبه"
 
 #, fuzzy
-#~| msgid "Suggested Words"
 #~ msgid "Ignored Words"
 #~ msgstr "وړاندې شوي ويېونه"
 
@@ -4742,7 +4525,6 @@ msgstr "%1 %2"
 #~ msgstr "بشپړ شو"
 
 #, fuzzy
-#~| msgid "Spell check stopped."
 #~ msgctxt "progress label"
 #~ msgid "Spell checking in progress..."
 #~ msgstr ".ليکدود کتنه وتمول شوه"
@@ -4885,22 +4667,18 @@ msgstr "%1 %2"
 #~ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
 
 #, fuzzy
-#~| msgid "Close window?"
 #~ msgid "&Close Window"
 #~ msgstr "کړکۍ بندول غواړﺉ؟"
 
 #, fuzzy
-#~| msgid "Close the current window or document"
 #~ msgid "Close the current window."
 #~ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "&Close Document"
 #~ msgstr "لاسوند بندول"
 
 #, fuzzy
-#~| msgid "Close the current window or document"
 #~ msgid "Close the current document."
 #~ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
 
@@ -4981,8 +4759,6 @@ msgstr "%1 %2"
 #~ msgstr "منځني ختيځ ليکونه"
 
 #, fuzzy
-#~| msgctxt "KCharSelect section name"
-#~| msgid "South East Asian Scripts"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "South Asian Scripts"
 #~ msgstr "سهېل ختيځ اسیايي ليکونه"
@@ -5088,7 +4864,6 @@ msgstr "%1 %2"
 #~ msgstr "NKo"
 
 #, fuzzy
-#~| msgid "Ramadan"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Samaritan"
 #~ msgstr "رمضان"
@@ -5226,21 +5001,16 @@ msgstr "%1 %2"
 #~ msgstr "بالينيز"
 
 #, fuzzy
-#~| msgid "Sunday"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Sundanese"
 #~ msgstr "يوه نۍ"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Batak"
 #~ msgstr "کټکانا"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Phonetic Extensions"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Vedic Extensions"
 #~ msgstr "غږيز شاتاړي"
@@ -5274,8 +5044,6 @@ msgstr "%1 %2"
 #~ msgstr "د پېسو پېلامونه"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Letter-Like Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Letterlike Symbols"
 #~ msgstr "توري-غوندې پېلامونه"
@@ -5369,8 +5137,6 @@ msgstr "%1 %2"
 #~ msgstr "ژور اېټوپيايي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Latin Extended-A"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cyrillic Extended-A"
 #~ msgstr "ژور-ا لاټيني"
@@ -5420,28 +5186,21 @@ msgstr "%1 %2"
 #~ msgstr "ايجېنګ هېګزاګرام پېلامونه"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Limbu"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Lisu"
 #~ msgstr "لېمبو"
 
 #, fuzzy
-#~| msgctxt "of Farvardin short"
-#~| msgid "of Far"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Vai"
 #~ msgstr "د فرو"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Latin Extended-B"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cyrillic Extended-B"
 #~ msgstr "ژور-ب لاټيني"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Bamum"
 #~ msgstr "ټموز"
@@ -5455,8 +5214,6 @@ msgstr "%1 %2"
 #~ msgstr "سېلوټي نګري"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Number Forms"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Common Indic Number Forms"
 #~ msgstr "د شمېر بڼې"
@@ -5466,56 +5223,41 @@ msgstr "%1 %2"
 #~ msgstr "پهېګس-پا"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Devanagari"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Devanagari Extended"
 #~ msgstr "دېونګري"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Latin Extended-A"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hangul Jamo Extended-A"
 #~ msgstr "ژور-ا لاټيني"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Japanese"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Javanese"
 #~ msgstr "جاپاني"
 
 #, fuzzy
-#~| msgid "Kha"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cham"
 #~ msgstr "پينځه نۍ"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Latin Extended-A"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Myanmar Extended-A"
 #~ msgstr "ژور-ا لاټيني"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Tai Le"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tai Viet"
 #~ msgstr "ټايي لي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Ethiopic Extended"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended-A"
 #~ msgstr "ژور اېټوپيايي"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Latin Extended-B"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hangul Jamo Extended-B"
 #~ msgstr "ژور-ب لاټيني"
@@ -5545,8 +5287,6 @@ msgstr "%1 %2"
 #~ msgstr "د عربي وړانديزونې بڼې-ب"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Half-Width and Full-Width Forms"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Halfwidth and Fullwidth Forms"
 #~ msgstr "نيم-پلني او ټول-پلني بڼې"
@@ -5559,26 +5299,20 @@ msgstr "%1 %2"
 #~ msgstr "پلټون ويې يا لوښته دلته وليکﺉ"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Previous Item in List"
 #~ msgctxt "Goes to previous character"
 #~ msgid "Previous in History"
 #~ msgstr "په لړ کې مخکنی توکی"
 
 #, fuzzy
-#~| msgid "Previous Character"
 #~ msgid "Previous Character in History"
 #~ msgstr "مخکنۍ لوښه"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Next Item in List"
 #~ msgctxt "Goes to next character"
 #~ msgid "Next in History"
 #~ msgstr "په لړ کې راتلونکی توکی"
 
 #, fuzzy
-#~| msgid "Next Character"
 #~ msgid "Next Character in History"
 #~ msgstr "راتلونکې لوښه"
 
@@ -5655,7 +5389,6 @@ msgstr "%1 %2"
 #~ msgstr ":UTF-۱۶ "
 
 #, fuzzy
-#~| msgid "Unicode category: "
 #~ msgid "Unicode code point:"
 #~ msgstr ":يونيکوډ ټولۍ"
 
@@ -5762,54 +5495,45 @@ msgstr "%1 %2"
 #~ msgstr "بېلند، تشه"
 
 #, fuzzy
-#~| msgid "Do you want to reload KDE configuration?"
 #~ msgid "You are not allowed to save the configuration"
 #~ msgstr "تاسو غواړﺉ چې د کډي سازونه بيا ولېښﺉ؟"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next year"
 #~ msgid "Next Year"
 #~ msgstr "راتلونکی کال"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt "@option next month"
 #~ msgid "Next Month"
 #~ msgstr "راتلونکې مياشت"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next Week"
 #~ msgstr "راتلونکی کال"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt "@option today"
 #~ msgid "Today"
 #~ msgstr "نن"
 
 #, fuzzy
-#~| msgid "Yesterday"
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "پرون"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt "@option last month"
 #~ msgid "Last Month"
 #~ msgstr "راتلونکې مياشت"
 
 #, fuzzy
-#~| msgid "&Last Page"
 #~ msgctxt "@option last year"
 #~ msgid "Last Year"
 #~ msgstr "وروستی مخ&"
 
 #, fuzzy
-#~| msgid "No text"
 #~ msgctxt "@option do not specify a date"
 #~ msgid "No Date"
 #~ msgstr "هېڅ ليکنه"
@@ -5842,7 +5566,6 @@ msgstr "%1 %2"
 #~ msgstr "نننۍ ورځ ټاکل"
 
 #, fuzzy
-#~| msgid "Rating: "
 #~ msgctxt "No specific time zone"
 #~ msgid "Floating"
 #~ msgstr ":کچونه"
@@ -5866,12 +5589,10 @@ msgstr "%1 %2"
 #~ msgstr "مخينه &پاکول"
 
 #, fuzzy
-#~| msgid "No further item in the history."
 #~ msgid "No further items in the history."
 #~ msgstr "په مخينه کې نور توکي نشته دی."
 
 #, fuzzy
-#~| msgid "Conflict with Global Shortcut"
 #~ msgctxt "%1 is the number of shortcuts with which there is a conflict"
 #~ msgid "Conflict with Registered Global Shortcut"
 #~ msgid_plural "Conflict with Registered Global Shortcuts"
@@ -5879,7 +5600,6 @@ msgstr "%1 %2"
 #~ msgstr[1] "د سراسر لنډلار سره ټکر"
 
 #, fuzzy
-#~| msgid "Shortcut conflict"
 #~ msgctxt "%1 is the number of conflicts"
 #~ msgid "Shortcut Conflict"
 #~ msgid_plural "Shortcut Conflicts"
@@ -5887,8 +5607,6 @@ msgstr "%1 %2"
 #~ msgstr[1] "لنډلاري ټکر"
 
 #, fuzzy
-#~| msgctxt "header for an applications shortcut list"
-#~| msgid "Shortcuts for %1"
 #~ msgid "Shortcut '%1' for action '%2'\n"
 #~ msgstr "لپاره لنډلار %1 د"
 
@@ -5896,7 +5614,6 @@ msgstr "%1 %2"
 #~ msgstr "لنډلاري ټکر"
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgid "Reserved Shortcut"
 #~ msgstr "لنډلار"
 
@@ -5908,7 +5625,6 @@ msgstr "%1 %2"
 #~ msgstr "ننوتۍ"
 
 #, fuzzy
-#~| msgid "Unsorted"
 #~ msgid "Unsupported Key"
 #~ msgstr "نا اڼلي"
 
@@ -5916,7 +5632,6 @@ msgstr "%1 %2"
 #~ msgstr "بې نومه"
 
 #, fuzzy
-#~| msgid "1"
 #~ msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 #~ msgid "1"
 #~ msgstr "۱"
@@ -6091,13 +5806,11 @@ msgstr "%1 %2"
 #~ msgstr "ساده ليکنې ته"
 
 #, fuzzy
-#~| msgid "Subscribe"
 #~ msgctxt "@action"
 #~ msgid "Subscript"
 #~ msgstr "ګډون کول"
 
 #, fuzzy
-#~| msgid "Open Script"
 #~ msgctxt "@action"
 #~ msgid "Superscript"
 #~ msgstr "سکرېپټ پرانيستل"
@@ -6109,12 +5822,10 @@ msgstr "%1 %2"
 #~ msgstr ".څه نشته چې ليکدود يې وکتل شي"
 
 #, fuzzy
-#~| msgid "Speak custom text"
 #~ msgid "Speak Text"
 #~ msgstr "دوديزه ليکنه لوستل"
 
 #, fuzzy
-#~| msgid "Suggestions"
 #~ msgid "No suggestions for %1"
 #~ msgstr "وړانديزونه"
 
@@ -6125,13 +5836,11 @@ msgstr "%1 %2"
 #~ msgstr "ويېپانګه کې زياتول"
 
 #, fuzzy
-#~| msgid "Area"
 #~ msgctxt "Define an area in the time zone, like a town area"
 #~ msgid "Area"
 #~ msgstr "سيمه"
 
 #, fuzzy
-#~| msgid "Region"
 #~ msgctxt "Time zone"
 #~ msgid "Region"
 #~ msgstr "سيمه"
@@ -6140,19 +5849,16 @@ msgstr "%1 %2"
 #~ msgstr "څرګندون"
 
 #, fuzzy
-#~| msgid "Show help"
 #~ msgctxt "@title:menu"
 #~ msgid "Show Text"
 #~ msgstr "مرسته ښودل"
 
 #, fuzzy
-#~| msgid "Toolbar Menu"
 #~ msgctxt "@title:menu"
 #~ msgid "Toolbar Settings"
 #~ msgstr "توکپټه غورنۍ"
 
 #, fuzzy
-#~| msgid "Orientation"
 #~ msgctxt "Toolbar orientation"
 #~ msgid "Orientation"
 #~ msgstr "لورموندنه"
@@ -6208,7 +5914,6 @@ msgstr "%1 %2"
 #~ msgstr "(%1x%2) غټ"
 
 #, fuzzy
-#~| msgid "Lock Toolbars"
 #~ msgid "Lock Toolbar Positions"
 #~ msgstr "توکپټې کولپول"
 
@@ -6230,7 +5935,6 @@ msgstr "%1 %2"
 #~ msgstr "...لنډلار سازول"
 
 #, fuzzy
-#~| msgid "Toolbars"
 #~ msgid "Toolbars Shown"
 #~ msgstr "توکپټې"
 
@@ -6332,7 +6036,6 @@ msgstr "%1 %2"
 #~ msgstr "بهر وتل"
 
 #, fuzzy
-#~| msgid "Action"
 #~ msgid "Report Exceptions"
 #~ msgstr "چار"
 
@@ -6378,7 +6081,6 @@ msgstr "%1 %2"
 #~ msgstr "جاواسکرېپټ"
 
 #, fuzzy
-#~| msgid "Open Script"
 #~ msgid "&Stop Script"
 #~ msgstr "سکرېپټ پرانيستل"
 
@@ -6430,7 +6132,6 @@ msgstr "%1 %2"
 #~ msgstr "د لېږلو باوريينه"
 
 #, fuzzy
-#~| msgid "&Send Files"
 #~ msgid "&Send File"
 #~ msgid_plural "&Send Files"
 #~ msgstr[0] "دوتنې لېږل&"
@@ -6465,7 +6166,6 @@ msgstr "%1 %2"
 #~ msgstr "لاسوند خبرتياوې"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgctxt "@title:group Document information"
 #~ msgid "General"
 #~ msgstr "ټولګړي"
@@ -6718,9 +6418,6 @@ msgstr "%1 %2"
 #~ msgstr "ليکبڼه وړول"
 
 #, fuzzy
-#~| msgid ""
-#~| "Find text<br /><br />Shows a dialog that allows you to find text on the "
-#~| "displayed page."
 #~ msgid ""
 #~ "<qt>Find text<br /><br />Shows a dialog that allows you to find text on "
 #~ "the displayed page.</qt>"
@@ -6729,9 +6426,6 @@ msgstr "%1 %2"
 #~ "ليکنه لټولی شﺉ"
 
 #, fuzzy
-#~| msgid ""
-#~| "Find next<br /><br />Find the next occurrence of the text that you have "
-#~| "found using the <b>Find Text</b> function"
 #~ msgid ""
 #~ "<qt>Find next<br /><br />Find the next occurrence of the text that you "
 #~ "have found using the <b>Find Text</b> function.</qt>"
@@ -6740,9 +6434,6 @@ msgstr "%1 %2"
 #~ "راتلونکې پېښه لټول چې په"
 
 #, fuzzy
-#~| msgid ""
-#~| "Find previous<br /><br />Find the previous occurrence of the text that "
-#~| "you have found using the <b>Find Text</b> function"
 #~ msgid ""
 #~ "<qt>Find previous<br /><br />Find the previous occurrence of the text "
 #~ "that you have found using the <b>Find Text</b> function.</qt>"
@@ -6757,9 +6448,6 @@ msgstr "%1 %2"
 #~ msgstr "د ليکلو سره سم تړنه لټول"
 
 #, fuzzy
-#~| msgid ""
-#~| "Print Frame<br /><br />Some pages have several frames. To print only a "
-#~| "single frame, click on it and then use this function."
 #~ msgid ""
 #~ "<qt>Print Frame<br /><br />Some pages have several frames. To print only "
 #~ "a single frame, click on it and then use this function.</qt>"
@@ -6839,7 +6527,6 @@ msgstr "%1 %2"
 #~ msgstr "(تړنه) %1"
 
 #, fuzzy
-#~| msgid "%2 (%1 bytes)"
 #~ msgid "%2 (%1 byte)"
 #~ msgid_plural "%2 (%1 bytes)"
 #~ msgstr[0] "(%1 باېټه) %2"
@@ -6876,14 +6563,11 @@ msgstr "%1 %2"
 #~ msgstr "   <a href=\"%1\">[ځانتياوې]</a>"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Turkish"
 #~ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 #~ msgid "Quirks"
 #~ msgstr "ترکي"
 
 #, fuzzy
-#~| msgid "Start"
 #~ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 #~ msgid "Strict"
 #~ msgstr "پېلول"
@@ -6948,8 +6632,6 @@ msgstr "%1 %2"
 #~ msgstr "د چاڼ تېروتنه"
 
 #, fuzzy
-#~| msgctxt "@item font size"
-#~| msgid "Relative"
 #~ msgid "Inactive"
 #~ msgstr "تړلی"
 
@@ -6978,7 +6660,6 @@ msgstr "%1 %2"
 #~ msgstr "KMultiPart"
 
 #, fuzzy
-#~| msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 #~ msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 #~ msgstr "چاپرښتې ۲۰۰۱، ډېوېډ فاوري <email>david@mandrakesoft.com</email>"
 
@@ -6989,28 +6670,22 @@ msgstr "%1 %2"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgid "New Web Shortcut"
 #~ msgstr "لنډلار"
 
 #, fuzzy
-#~| msgctxt "Socket error code AlreadyCreated"
-#~| msgid "socket is already created"
 #~ msgid "%1 is already assigned to %2"
 #~ msgstr "ساکټ د مخکې نه جوړ شوی"
 
 #, fuzzy
-#~| msgid "Enter search phrase here"
 #~ msgid "New search provider"
 #~ msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgid "UR&I shortcuts:"
 #~ msgstr "لنډلاري"
 
 #, fuzzy
-#~| msgid "Configure Shortcuts"
 #~ msgid "Create Web Shortcut"
 #~ msgstr "لنډلارې سازول"
 
@@ -7057,12 +6732,10 @@ msgstr "%1 %2"
 #~ msgstr "د بېرته تلو ازموېنې بهير ځنډول/پرمخبيول"
 
 #, fuzzy
-#~| msgid "Output to file..."
 #~ msgid "Output to File..."
 #~ msgstr "...دوتنې ته ويستل"
 
 #, fuzzy
-#~| msgid "Regression testing status"
 #~ msgid "Regression Testing Status"
 #~ msgstr "د بېرته تلو ازموېنې انکړ"
 
@@ -7076,42 +6749,34 @@ msgstr "%1 %2"
 #~ msgstr "ازموېنې"
 
 #, fuzzy
-#~| msgid "Only run JS tests"
 #~ msgid "Only Run JS Tests"
 #~ msgstr "يوازې JS ازموېنې ځغلول"
 
 #, fuzzy
-#~| msgid "Only run HTML tests"
 #~ msgid "Only Run HTML Tests"
 #~ msgstr "ازموېنې ځغلول HTML يوازې"
 
 #, fuzzy
-#~| msgid "Do not suppress debug output"
 #~ msgid "Do Not Suppress Debug Output"
 #~ msgstr "د کړاو وتۍ نه ړنګول"
 
 #, fuzzy
-#~| msgid "Run tests..."
 #~ msgid "Run Tests..."
 #~ msgstr "...ازموېنې ځغلول"
 
 #, fuzzy
-#~| msgid "Run single test..."
 #~ msgid "Run Single Test..."
 #~ msgstr "...يوه ګړې ازموېنه ځغلول"
 
 #, fuzzy
-#~| msgid "Specify tests directory..."
 #~ msgid "Specify tests Directory..."
 #~ msgstr "...ازموېنې پوښۍ وټاکﺉ"
 
 #, fuzzy
-#~| msgid "Specify khtml directory..."
 #~ msgid "Specify khtml Directory..."
 #~ msgstr "...پوښۍ وټاکﺉ khtml"
 
 #, fuzzy
-#~| msgid "Specify output directory..."
 #~ msgid "Specify Output Directory..."
 #~ msgstr "...وتۍ پوښۍ وټاکﺉ"
 
@@ -7155,55 +6820,42 @@ msgstr "%1 %2"
 #~ msgstr "کتابتون کاروي KHTML يو بنسټيز لټوونی چې د"
 
 #, fuzzy
-#~| msgid "Find Links as You Type"
 #~ msgid "Find &links only"
 #~ msgstr "د ليکلو سره سم تړنه لټول"
 
 #, fuzzy
-#~| msgid "1 match found."
-#~| msgid_plural "%1 matches found."
 #~ msgid "Not found"
 #~ msgstr ".۱ ساری وموندل شو"
 
 #, fuzzy
-#~| msgid "Find"
 #~ msgid "F&ind:"
 #~ msgstr "لټول"
 
 #, fuzzy
-#~| msgctxt "Opposite to Previous"
-#~| msgid "&Next"
 #~ msgid "&Next"
 #~ msgstr "راتلوکی&"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgid "Opt&ions"
 #~ msgstr "غوراوي"
 
 #, fuzzy
-#~| msgid "Do you really want to delete this item?"
-#~| msgid_plural "Do you really want to delete these %1 items?"
 #~ msgid "Do you want to store this password?"
 #~ msgstr "تاسو په رښتيا غواړﺉ چې دا توکی وړنګوﺉ؟"
 
 #, fuzzy
-#~| msgid "Do you want to restart search from the end?"
 #~ msgid "Do you want to store this password for %1?"
 #~ msgstr "تاسو غواړﺉ چې پلټنه د پای نه بيا پېل کړﺉ؟"
 
 #, fuzzy
-#~| msgid "Store"
 #~ msgid "&Store"
 #~ msgstr "زېرمل"
 
 #, fuzzy
-#~| msgid "Ne&ver for This Site"
 #~ msgid "Ne&ver store for this site"
 #~ msgstr "دې پاڼې لپاره ک&له هم نه"
 
 #, fuzzy
-#~| msgid "Do not show this message again"
 #~ msgid "Do &not store this time"
 #~ msgstr "دا استوزه بيا نه ښودل"
 
@@ -7234,7 +6886,6 @@ msgstr "%1 %2"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "KDEInit could not launch '%1'."
 #~ msgid "KDEInit could not launch '%1'"
 #~ msgstr ".نه شي پرانيستلی '%1' KDEInit"
 
@@ -7272,7 +6923,6 @@ msgstr "%1 %2"
 #~ msgstr "ج.س شمېرګر"
 
 #, fuzzy
-#~| msgid "+"
 #~ msgctxt "addition"
 #~ msgid "+"
 #~ msgstr "+"
@@ -7281,13 +6931,11 @@ msgstr "%1 %2"
 #~ msgstr "AC"
 
 #, fuzzy
-#~| msgid "-"
 #~ msgctxt "subtraction"
 #~ msgid "-"
 #~ msgstr "-"
 
 #, fuzzy
-#~| msgid "="
 #~ msgctxt "evaluation"
 #~ msgid "="
 #~ msgstr "="
@@ -7392,13 +7040,10 @@ msgstr "%1 %2"
 #~ msgstr ".%1 کتابتون يوازې ۱ ارزښتمنۍ اخلي، نه"
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "Alt"
 #~ msgid "Alert"
 #~ msgstr "الټ"
 
 #, fuzzy
-#~| msgid "Configure"
 #~ msgid "Confirm"
 #~ msgstr "سازول"
 
@@ -7448,15 +7093,12 @@ msgstr "%1 %2"
 #~ msgstr ".د ارزښتمنېو ناسم شمېر"
 
 #, fuzzy
-#~| msgid "There is no matching item available.\n"
 #~ msgid "but there is only %1 available"
 #~ msgid_plural "but there are only %1 available"
 #~ msgstr[0] "کوم ساری توکی شتون نه لري.\n"
 #~ msgstr[1] "کوم ساری توکی شتون نه لري.\n"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "%1 is 'the slot asked for foo arguments', %2 is 'but there are only bar "
 #~ "available'"
@@ -7506,7 +7148,6 @@ msgstr "%1 %2"
 #~ msgstr "د کارووني نوم ورکول اړين دي."
 
 #, fuzzy
-#~| msgid "Rating: "
 #~ msgid "loading %1"
 #~ msgstr ":کچونه"
 
@@ -7546,7 +7187,6 @@ msgstr "%1 %2"
 #~ msgstr "%1 بيا:"
 
 #, fuzzy
-#~| msgid "Timeout. Check Internet connection!"
 #~ msgid "Timeout. Check Internet connection."
 #~ msgstr "مهال بشپړ شو. د اېنټرنېټ نښلېدنه وګورﺉ!"
 
@@ -7611,12 +7251,10 @@ msgstr "%1 %2"
 #~ msgstr "نالګول"
 
 #, fuzzy
-#~| msgid "No Downloads"
 #~ msgid "<p>No Downloads</p>"
 #~ msgstr "هېڅ رالېښنې"
 
 #, fuzzy
-#~| msgid "Downloads: %1"
 #~ msgid "<p>Downloads: %1</p>\n"
 #~ msgstr "%1 :رالېښنې"
 
@@ -7624,7 +7262,6 @@ msgstr "%1 %2"
 #~ msgstr "اوسمهالول"
 
 #, fuzzy
-#~| msgid "Rating: "
 #~ msgid "Rating: %1"
 #~ msgstr ":کچونه"
 
@@ -7728,7 +7365,6 @@ msgstr "%1 %2"
 #~ msgstr "دا ننوت ژباړل"
 
 #, fuzzy
-#~| msgid "Download New Stuff"
 #~ msgid "Download New Stuff..."
 #~ msgstr "نوي څيزونه رالېښل"
 
@@ -7745,8 +7381,6 @@ msgstr "%1 %2"
 #~ msgstr "نوي سره شيان وونډوﺉ"
 
 #, fuzzy
-#~| msgctxt "Program name followed by 'Add On Installer'"
-#~| msgid "%1 Add-On Installer"
 #~ msgctxt "Program name followed by 'Add On Uploader'"
 #~ msgid "%1 Add-On Uploader"
 #~ msgstr "پر-زياتووني لګاند %1"
@@ -7800,147 +7434,118 @@ msgstr "%1 %2"
 #~ msgstr ".لورينه وکړﺉ د خپل ځان په اړه څه خبرتياوې ورکړﺉ"
 
 #, fuzzy
-#~| msgid "No text was replaced."
 #~ msgctxt "voting for an item (good/bad)"
 #~ msgid "Your vote was recorded."
 #~ msgstr "کومه ليکنه ونه ځاېناستول شوه."
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Initializing"
 #~ msgstr "لګول"
 
 #, fuzzy
-#~| msgid "Configuration files"
 #~ msgid "Configuration file not found: \"%1\""
 #~ msgstr "د سازونې دوتنې"
 
 #, fuzzy
-#~| msgid "Configuration files"
 #~ msgid "Configuration file is invalid: \"%1\""
 #~ msgstr "د سازونې دوتنې"
 
 #, fuzzy
-#~| msgid "View Frame Information"
 #~ msgid "Loading provider information"
 #~ msgstr "د چوکاټ خبرتياوې کتل"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgid "Loading data"
 #~ msgstr "څېرمه کړنلار لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Loading one preview"
 #~ msgid_plural "Loading %1 previews"
 #~ msgstr[0] "مخکوت لېښل کيږي"
 #~ msgstr[1] "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Installing"
 #~ msgstr "لګول"
 
 #, fuzzy
-#~| msgid "Invalid Filenames"
 #~ msgid "Invalid item."
 #~ msgstr "ناسم دوتنه نومونه"
 
 #, fuzzy
-#~| msgid "Could not create temporary file."
 #~ msgid "Possibly bad download link"
 #~ msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
 #, fuzzy
-#~| msgid "Could not install %1"
 #~ msgid "Could not install \"%1\": file not found."
 #~ msgstr "نه شي لګولی %1"
 
 #, fuzzy
-#~| msgid "Overwrite File?"
 #~ msgid "Overwrite existing file?"
 #~ msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Download File"
 #~ msgstr "رالېښنې"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgid "Details view mode"
 #~ msgstr "سپړاوی کوت"
 
 #, fuzzy
-#~| msgid "*|All Folders"
 #~ msgid "All Providers"
 #~ msgstr "*|ټولۍ پوښۍ"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgid "All Categories"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Provider: %1"
 #~ msgid "Provider:"
 #~ msgstr "%1 :رابروونی"
 
 #, fuzzy
-#~| msgid "Character:"
 #~ msgid "Category:"
 #~ msgstr ":لوښه"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "New"
 #~ msgid "Newest"
 #~ msgstr "نوی"
 
 #, fuzzy
-#~| msgid "Rating: "
 #~ msgid "Rating"
 #~ msgstr ":کچونه"
 
 #, fuzzy
-#~| msgid "Most Downloads"
 #~ msgid "Most downloads"
 #~ msgstr "ډېرې رالېښنې"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Installed"
 #~ msgstr "لګول"
 
 #, fuzzy
-#~| msgid "&Order by:"
 #~ msgid "Order by:"
 #~ msgstr ":اوډونول پر&"
 
 #, fuzzy
-#~| msgid "S&earch:"
 #~ msgid "Search:"
 #~ msgstr ":پ&لټون"
 
 #, fuzzy
-#~| msgid "Suggestions"
 #~ msgid "Details for %1"
 #~ msgstr "وړانديزونه"
 
 #, fuzzy
-#~| msgid "Changelog"
 #~ msgid "Changelog:"
 #~ msgstr "بدلون خبرال"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgctxt "A link to the description of this Get Hot New Stuff item"
 #~ msgid "Homepage"
 #~ msgstr "کورپاڼه"
 
 #, fuzzy
-#~| msgid "HTML documentation"
 #~ msgctxt ""
 #~ "A link to make a donation for a Get Hot New Stuff item (opens a web "
 #~ "browser)"
@@ -7948,142 +7553,114 @@ msgstr "%1 %2"
 #~ msgstr "لاسوندونه HTML"
 
 #, fuzzy
-#~| msgid "Open in New &Window"
 #~ msgctxt "Tooltip for a link in a dialog"
 #~ msgid "Opens in a browser window"
 #~ msgstr "په نوې &کړکۍ کې پرانيستل"
 
 #, fuzzy
-#~| msgid "Rating: "
 #~ msgid "Rating: %1%"
 #~ msgstr ":کچونه"
 
 #, fuzzy
-#~| msgctxt "@interface/rich"
-#~| msgid "<i>%1</i>"
 #~ msgctxt "Show the author of this item in a list"
 #~ msgid "By <i>%1</i>"
 #~ msgstr "<i>%1</i>"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "1 download"
 #~ msgid_plural "%1 downloads"
 #~ msgstr[0] "رالېښنې"
 #~ msgstr[1] "رالېښنې"
 
 #, fuzzy
-#~| msgid "Update"
 #~ msgid "Updating"
 #~ msgstr "اوسمهالول"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Install Again"
 #~ msgstr "لګول"
 
 #, fuzzy
-#~| msgid "Check Spelling..."
 #~ msgid "Checking login..."
 #~ msgstr "...ليکدود کتل"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Fetching your previously updated content..."
 #~ msgstr "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Save Login Information"
 #~ msgid "Could not verify login, please try again."
 #~ msgstr "ننوت خبرتياوې ساتل"
 
 #, fuzzy
-#~| msgid "File %1 not found."
 #~ msgid "File not found: %1"
 #~ msgstr ".دوتنه ونه موندل شوه %1"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Upload Failed"
 #~ msgstr "رالېښنې"
 
 #, fuzzy
-#~| msgid "Select Region of Image"
 #~ msgid "Select preview image"
 #~ msgstr "د انځور سيمه وټاکﺉ"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Uploading Failed"
 #~ msgstr "رالېښنې"
 
 #, fuzzy
-#~| msgid "Communication error"
 #~ msgid "Authentication error."
 #~ msgstr "د اړيکې تېروتنه"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Upload failed: %1"
 #~ msgstr "رالېښنې"
 
 #, fuzzy
-#~| msgid "Page loaded."
 #~ msgid "File to upload:"
 #~ msgstr ".مخ لېښل شوی"
 
 #, fuzzy
-#~| msgid "Reload"
 #~ msgid "New Upload"
 #~ msgstr "بيالېښل"
 
 #, fuzzy
-#~| msgid "Preview URL:"
 #~ msgid "Preview Images"
 #~ msgstr ":مخکوت URL"
 
 #, fuzzy
-#~| msgid "Select Files..."
 #~ msgid "Select Preview..."
 #~ msgstr "...دوتنې ټاکل"
 
 #, fuzzy
-#~| msgid "Ne&ver for This Site"
 #~ msgid "Set a price for this item"
 #~ msgstr "دې پاڼې لپاره ک&له هم نه"
 
 #, fuzzy
-#~| msgid "Source:"
 #~ msgid "Price"
 #~ msgstr ":سرچينه"
 
 #, fuzzy
-#~| msgid "Source:"
 #~ msgid "Price:"
 #~ msgstr ":سرچينه"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Upload content"
 #~ msgstr "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Upload first preview"
 #~ msgstr "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Upload second preview"
 #~ msgstr "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Upload third preview"
 #~ msgstr "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Start replace"
 #~ msgid "Start Upload"
 #~ msgstr "ځاېناستی پېلول"
 
@@ -8112,17 +7689,14 @@ msgstr "%1 %2"
 #~ msgstr "و&ېنا"
 
 #, fuzzy
-#~| msgid "Speak event message"
 #~ msgid "Speak Event Message"
 #~ msgstr "د پېښې استوزه لوستل"
 
 #, fuzzy
-#~| msgid "Speak event name"
 #~ msgid "Speak Event Name"
 #~ msgstr "د پېښې نوم لوستل"
 
 #, fuzzy
-#~| msgid "Speak custom text"
 #~ msgid "Speak Custom Text"
 #~ msgstr "دوديزه ليکنه لوستل"
 
@@ -8151,61 +7725,51 @@ msgstr "%1 %2"
 #~ msgstr "پلټون"
 
 #, fuzzy
-#~| msgid "Re: %1"
 #~ msgctxt "@label Type of file"
 #~ msgid "Type: %1"
 #~ msgstr "%1 بيا:"
 
 #, fuzzy
-#~| msgid "Do not show this message again"
 #~ msgctxt "@label:checkbox"
 #~ msgid "Remember action for files of this type"
 #~ msgstr "دا استوزه بيا نه ښودل"
 
 #, fuzzy
-#~| msgid "&Open with '%1'"
 #~ msgctxt "@label:button"
 #~ msgid "&Open with %1"
 #~ msgstr "پرانيستل '%1' په&"
 
 #, fuzzy
-#~| msgid "&Open with '%1'"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Open &with %1"
 #~ msgstr "پرانيستل '%1' په&"
 
 #, fuzzy
-#~| msgid "Open '%1'"
 #~ msgctxt "@info"
 #~ msgid "Open '%1'?"
 #~ msgstr "پرانيستل '%1'"
 
 #, fuzzy
-#~| msgid "&Open With..."
 #~ msgctxt "@label:button"
 #~ msgid "&Open with..."
 #~ msgstr "...پرانيستل په&"
 
 #, fuzzy
-#~| msgid "&Open With..."
 #~ msgctxt "@label:button"
 #~ msgid "&Open with"
 #~ msgstr "...پرانيستل په&"
 
 #, fuzzy
-#~| msgid "&Open"
 #~ msgctxt "@label:button"
 #~ msgid "&Open"
 #~ msgstr "پرانيستل&"
 
 #, fuzzy
-#~| msgid "Name: "
 #~ msgctxt "@label File name"
 #~ msgid "Name: %1"
 #~ msgstr ":نوم"
 
 #, fuzzy
-#~| msgid "This is the name to save the file as."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "This is the file name suggested by the server"
 #~ msgstr "دا هغه نوم دی چې دوتنه پرې وساتل شي."
@@ -8284,7 +7848,6 @@ msgstr "%1 %2"
 #~ msgstr "د ربي ژباړونکي د خونديتوب کچه"
 
 #, fuzzy
-#~| msgid "Cancel"
 #~ msgid "Cancel?"
 #~ msgstr "بندول"
 
@@ -8331,7 +7894,6 @@ msgstr "%1 %2"
 #~ msgstr "سمون"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgctxt "@title:group Script properties"
 #~ msgid "General"
 #~ msgstr "ټولګړي"
@@ -8353,9 +7915,6 @@ msgstr "%1 %2"
 #~ msgstr "کې پرانيستل شوې %1 دا سازونې برخه د مخکې نه په"
 
 #, fuzzy
-#~| msgid ""
-#~| "The document \"%1\" has been modified.\n"
-#~| "Do you want to save your changes or discard them?"
 #~ msgid ""
 #~ "The settings of the current module have changed.\n"
 #~ "Do you want to apply the changes or discard them?"
@@ -8364,7 +7923,6 @@ msgstr "%1 %2"
 #~ "تاسو خپل بدلونونه ساتل غواړﺉ يا پرېښودل يې غواړﺉ؟"
 
 #, fuzzy
-#~| msgid "Settings"
 #~ msgid "Apply Settings"
 #~ msgstr "امستنې"
 
@@ -8532,7 +8090,6 @@ msgstr "%1 %2"
 #~ msgstr "لګونونه پلټل"
 
 #, fuzzy
-#~| msgid "About %1"
 #~ msgctxt "Used only for plugins"
 #~ msgid "About %1"
 #~ msgstr "په اړه %1 د"
@@ -8559,7 +8116,6 @@ msgstr "%1 %2"
 #~ msgstr "په توکبنسټ کې ناسم ډول"
 
 #, fuzzy
-#~| msgid "Esfand"
 #~ msgctxt ""
 #~ "Boolean AND keyword in desktop search strings. You can add several "
 #~ "variants separated by spaces, e.g. retain the English one alongside the "
@@ -8569,8 +8125,6 @@ msgstr "%1 %2"
 #~ msgstr "اېسفند"
 
 #, fuzzy
-#~| msgctxt "Mordad short"
-#~| msgid "Mor"
 #~ msgctxt ""
 #~ "Boolean OR keyword in desktop search strings. You can add several "
 #~ "variants separated by spaces, e.g. retain the English one alongside the "
@@ -8580,87 +8134,72 @@ msgstr "%1 %2"
 #~ msgstr "مور"
 
 #, fuzzy
-#~| msgid "(C) 2005-2007 Sebastian Sauer"
 #~ msgid "(c) 2006-2009, Sebastian Trüg"
 #~ msgstr "چاپرښتې ۲۰۰۵-۲۰۰۷ سېبېسټين ساور"
 
 #, fuzzy
-#~| msgid "Sebastian Sauer"
 #~ msgid "Sebastian Trüg"
 #~ msgstr "سېبېسټين ساور"
 
 #, fuzzy
-#~| msgid "MainWindow"
 #~ msgid "Maintainer"
 #~ msgstr "ارهکړکۍ"
 
 #, fuzzy
-#~| msgid "Tobias Anton"
 #~ msgid "Tobias Koenig"
 #~ msgstr "ټوبياس اېنټن"
 
 #, fuzzy
-#~| msgid "Change Icon"
 #~ msgctxt "@title:window"
 #~ msgid "Change Tags"
 #~ msgstr "انځورن بدلول"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgctxt "@title:window"
 #~ msgid "Add Tags"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Create New Tag..."
 #~ msgctxt "@label"
 #~ msgid "Create new tag:"
 #~ msgstr "...نوی بچوی جوړول"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@info"
 #~ msgid "Delete tag"
 #~ msgstr "ړنګول"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@title"
 #~ msgid "Delete tag"
 #~ msgstr "ړنګول"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@action:button"
 #~ msgid "Delete"
 #~ msgstr "ړنګول"
 
 #, fuzzy
-#~| msgid "Cancel"
 #~ msgctxt "@action:button"
 #~ msgid "Cancel"
 #~ msgstr "بندول"
 
 #, fuzzy
-#~| msgid "Show all options"
 #~ msgctxt "@label"
 #~ msgid "Show all tags..."
 #~ msgstr "ټول غوراوي ښودل"
 
 #, fuzzy
-#~| msgid "Add..."
 #~ msgctxt "@label"
 #~ msgid "Add Tags..."
 #~ msgstr "...زياتول"
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgctxt "@label"
 #~ msgid "Change..."
 #~ msgstr "...انځورن بدلول&"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -8668,7 +8207,6 @@ msgstr "%1 %2"
 #~ msgstr "نن"
 
 #, fuzzy
-#~| msgid "Yesterday"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -8676,7 +8214,6 @@ msgstr "%1 %2"
 #~ msgstr "پرون"
 
 #, fuzzy
-#~| msgid "&Last Page"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -8684,7 +8221,6 @@ msgstr "%1 %2"
 #~ msgstr "وروستی مخ&"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -8692,7 +8228,6 @@ msgstr "%1 %2"
 #~ msgstr "راتلونکې مياشت"
 
 #, fuzzy
-#~| msgid "&Last Page"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -8700,8 +8235,6 @@ msgstr "%1 %2"
 #~ msgstr "وروستی مخ&"
 
 #, fuzzy
-#~| msgctxt "Custom color"
-#~| msgid "Custom..."
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources that will open a dialog to choose a date range"
@@ -8709,17 +8242,14 @@ msgstr "%1 %2"
 #~ msgstr "...دوديز"
 
 #, fuzzy
-#~| msgid "&Restore"
 #~ msgid "Before"
 #~ msgstr "بيازېرمل"
 
 #, fuzzy
-#~| msgid "Enter"
 #~ msgid "After"
 #~ msgstr "ليکل"
 
 #, fuzzy
-#~| msgid "Choose..."
 #~ msgctxt ""
 #~ "@option:check An item in a list of resources that allows to query for "
 #~ "more resources to put in the list"
@@ -8727,53 +8257,43 @@ msgstr "%1 %2"
 #~ msgstr "ټاکل..."
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "DocumentBack"
 #~ msgctxt "@option:check A filter on file type"
 #~ msgid "Documents"
 #~ msgstr "لاسوند شاته"
 
 #, fuzzy
-#~| msgid "&View"
 #~ msgctxt "@option:check A filter on file type - media video"
 #~ msgid "Video"
 #~ msgstr "کوت&"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgctxt "@option:check A filter on file type"
 #~ msgid "Images"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Job Priority:"
 #~ msgctxt ""
 #~ "@option:radio A filter on prioritizing/sorting a selection of resources"
 #~ msgid "No priority"
 #~ msgstr ":د دندې لوړښت"
 
 #, fuzzy
-#~| msgid "Last modified:"
 #~ msgctxt ""
 #~ "@option:radio A filter on prioritizing/sorting a selection of resources"
 #~ msgid "Last modified"
 #~ msgstr ":وروستی بدلون"
 
 #, fuzzy
-#~| msgid "Add Rating"
 #~ msgctxt "@option:radio A filter on the rating of a resource"
 #~ msgid "Any Rating"
 #~ msgstr "کچونه زياتول"
 
 #, fuzzy
-#~| msgid "Rating: "
 #~ msgctxt "@option:radio A filter on the rating of a resource"
 #~ msgid "Max Rating"
 #~ msgstr ":کچونه"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Miscellaneous Symbols"
 #~ msgctxt ""
 #~ "@title KCategorizedSortFilterProxyModel grouping for all Nepomukj "
 #~ "resources that are of type rdfs:Resource"
@@ -8781,55 +8301,45 @@ msgstr "%1 %2"
 #~ msgstr "ګډوډ پېلامونه"
 
 #, fuzzy
-#~| msgid "&Restore"
 #~ msgctxt "@title:column The Nepomuk resource label and icon"
 #~ msgid "Resource"
 #~ msgstr "بيازېرمل"
 
 #, fuzzy
-#~| msgid "Service types"
 #~ msgctxt "@title:column The Nepomuk resource's RDF type"
 #~ msgid "Resource Type"
 #~ msgstr "د پالنې ډولونه"
 
 #, fuzzy
-#~| msgid "Enter search phrase here"
 #~ msgid "Enter Search Terms..."
 #~ msgstr "پلټون څرګندۍ دلته وليکﺉ"
 
 #, fuzzy
-#~| msgid "Contact author"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Contacts"
 #~ msgstr "ليکوال سره اړيکه نيول"
 
 #, fuzzy
-#~| msgid "Email"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Emails"
 #~ msgstr "برېښليک"
 
 #, fuzzy
-#~| msgid "Task"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Tasks"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgid "Task"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Tags"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgid "File"
 #~ msgctxt "@option:check Do filter on type - show only files"
 #~ msgid "Files"
 #~ msgstr "دوتنه"
 
 #, fuzzy
-#~| msgctxt "@item Text character set"
-#~| msgid "Other"
 #~ msgctxt "@option:check Do filter on type - show everything but files"
 #~ msgid "Other"
 #~ msgstr "بل"
@@ -8838,7 +8348,6 @@ msgstr "%1 %2"
 #~ msgstr "دندې بېلګې ThreadWeaver د"
 
 #, fuzzy
-#~| msgid "Log Thread Activity"
 #~ msgid "Log thread activity"
 #~ msgstr "د مزي چارندتيا خبرالول"
 
@@ -8887,55 +8396,44 @@ msgstr "%1 %2"
 #~ msgstr "دا &څه دي"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next week"
 #~ msgstr "راتلونکی کال"
 
 #, fuzzy
-#~| msgid "&Last Page"
 #~ msgctxt "@option last week"
 #~ msgid "Last week"
 #~ msgstr "وروستی مخ&"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt "@info/plain"
 #~ msgid "today"
 #~ msgstr "نن"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Hide Menubar"
 #~ msgstr "غورنۍ پټه ښودل&"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgid "Hide Statusbar"
 #~ msgstr "ان&کړپټه ښودل"
 
 #, fuzzy
-#~| msgid "File"
 #~ msgctxt "option:check A filter on resource type"
 #~ msgid "Files"
 #~ msgstr "دوتنه"
 
 #, fuzzy
-#~| msgctxt "@application/plain"
-#~| msgid "%1"
 #~ msgctxt "@item Author name in about dialog"
 #~ msgid "%1"
 #~ msgstr "%1"
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "Meta"
 #~ msgctxt "option:check A filter on file type - media files"
 #~ msgid "Media"
 #~ msgstr "Meta"
 
 #, fuzzy
-#~| msgid "HTML Toolbar"
 #~ msgid "Hide Toolbar"
 #~ msgstr "توکپټه HTML"
 
@@ -8997,24 +8495,19 @@ msgstr "%1 %2"
 #~ msgstr "د سونېټ سازونه"
 
 #, fuzzy
-#~| msgid "Ignore"
 #~ msgid "I agree"
 #~ msgstr "پرېښودل"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Upload Your Own Files..."
 #~ msgstr "رالېښنې"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Devanagari"
 #~ msgctxt "digit set"
 #~ msgid "Devenagari"
 #~ msgstr "دېونګري"
 
 #, fuzzy
-#~| msgid "Details"
 #~ msgid "Details..."
 #~ msgstr "خبرتياوې"
 
@@ -9031,7 +8524,6 @@ msgstr "%1 %2"
 #~ msgstr "بچوی شتون لري"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Loading preview..."
 #~ msgstr "مخکوت لېښل کيږي"
 
@@ -9057,100 +8549,81 @@ msgstr "%1 %2"
 #~ msgstr "نوی کوربه نوم"
 
 #, fuzzy
-#~| msgid "Description"
 #~ msgid "description"
 #~ msgstr "سپړاوی"
 
 #, fuzzy
-#~| msgid "Action Name"
 #~ msgid "Autor Name"
 #~ msgstr "چار نوم"
 
 #, fuzzy
-#~| msgid "Could not construct value"
 #~ msgid "Could not get account balance."
 #~ msgstr "ارزښت نه شي جوړولی"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Voting failed."
 #~ msgstr "رالېښنې"
 
 #, fuzzy
-#~| msgid "Could not create temporary file."
 #~ msgid "Could not make you a fan."
 #~ msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
 #, fuzzy
-#~| msgid "No Preview"
 #~ msgid "Previews"
 #~ msgstr "هېڅ مخکوت"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "Community"
 #~ msgstr "څرګندون"
 
 #, fuzzy
-#~| msgid "No Preview"
 #~ msgid "Preview"
 #~ msgstr "هېڅ مخکوت"
 
 #, fuzzy
-#~| msgid "BSD"
 #~ msgid "USD"
 #~ msgstr "ب.س.ډ"
 
 #, fuzzy
-#~| msgid "Loading Preview"
 #~ msgid "Uploading preview image and content..."
 #~ msgstr "مخکوت لېښل کيږي"
 
 #, fuzzy
-#~| msgid "Server: %1"
 #~ msgid "Server:"
 #~ msgstr "%1 :پالنګر"
 
 #, fuzzy
-#~| msgid "&Replace..."
 #~ msgid "Upload..."
 #~ msgstr "...ځاېناستول&"
 
 #, fuzzy
-#~| msgid "Provider information"
 #~ msgid "Fetching provider information..."
 #~ msgstr "د برابرووني خبرتياوې"
 
 #, fuzzy
-#~| msgid "The rating could not be submitted."
 #~ msgid "Provider could not be initialized."
 #~ msgstr ".کچونه ونه لېږل شوه"
 
 #, fuzzy
-#~| msgid "Clear the input in the edit field"
 #~ msgid "Please fill out the name field."
 #~ msgstr "د سمون ډګر ننوتۍ پاکول"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^40 bytes"
 #~ msgid "%1 PB"
 #~ msgstr "ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^50 bytes"
 #~ msgid "%1 EB"
 #~ msgstr "ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^60 bytes"
 #~ msgid "%1 ZB"
 #~ msgstr "ب %1"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "memory size in 2^70 bytes"
 #~ msgid "%1 YB"
 #~ msgstr "ب %1"
@@ -9197,7 +8670,6 @@ msgstr "%1 %2"
 #~ msgstr ".د سازونې خبرتياوې په برياليتوب سره بيا ولېښل شوې"
 
 #, fuzzy
-#~| msgid "From:"
 #~ msgid "Form"
 #~ msgstr ":له"
 
@@ -9423,206 +8895,156 @@ msgstr "%1 %2"
 #~ msgstr "يوه نۍ"
 
 #, fuzzy
-#~| msgctxt "of Shahrivar short"
-#~| msgid "of Sha"
 #~ msgctxt "Indian National month 1 - ShortNamePossessive"
 #~ msgid "of Cha"
 #~ msgstr "د شهر"
 
 #, fuzzy
-#~| msgctxt "of Farvardin short"
-#~| msgid "of Far"
 #~ msgctxt "Indian National month 2 - ShortNamePossessive"
 #~ msgid "of Vai"
 #~ msgstr "د فرو"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Indian National month 3 - ShortNamePossessive"
 #~ msgid "of Jya"
 #~ msgstr "د جنوري"
 
 #, fuzzy
-#~| msgctxt "of Khordad short"
-#~| msgid "of Kho"
 #~ msgctxt "Indian National month 4 - ShortNamePossessive"
 #~ msgid "of Āsh"
 #~ msgstr "د کور"
 
 #, fuzzy
-#~| msgctxt "of Shahrivar short"
-#~| msgid "of Sha"
 #~ msgctxt "Indian National month 5 - ShortNamePossessive"
 #~ msgid "of Shr"
 #~ msgstr "د شهر"
 
 #, fuzzy
-#~| msgctxt "of Bahman short"
-#~| msgid "of Bah"
 #~ msgctxt "Indian National month 6 - ShortNamePossessive"
 #~ msgid "of Bhā"
 #~ msgstr "د بهم"
 
 #, fuzzy
-#~| msgctxt "of Esfand short"
-#~| msgid "of Esf"
 #~ msgctxt "Indian National month 7 - ShortNamePossessive"
 #~ msgid "of Āsw"
 #~ msgstr "د اېس"
 
 #, fuzzy
-#~| msgctxt "of Farvardin short"
-#~| msgid "of Far"
 #~ msgctxt "Indian National month 8 - ShortNamePossessive"
 #~ msgid "of Kār"
 #~ msgstr "د فرو"
 
 #, fuzzy
-#~| msgctxt "of April"
-#~| msgid "of Apr"
 #~ msgctxt "Indian National month 9 - ShortNamePossessive"
 #~ msgid "of Agr"
 #~ msgstr "د اپرېل"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Indian National month 10 - ShortNamePossessive"
 #~ msgid "of Pau"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgctxt "of Mordad short"
-#~| msgid "of Mor"
 #~ msgctxt "Indian National month 11 - ShortNamePossessive"
 #~ msgid "of Māg"
 #~ msgstr "د مور"
 
 #, fuzzy
-#~| msgctxt "of Khordad short"
-#~| msgid "of Kho"
 #~ msgctxt "Indian National month 12 - ShortNamePossessive"
 #~ msgid "of Phā"
 #~ msgstr "د کور"
 
 #, fuzzy
-#~| msgid "of Muharram"
 #~ msgctxt "Indian National month 1 - LongNamePossessive"
 #~ msgid "of Chaitra"
 #~ msgstr "د محرم"
 
 #, fuzzy
-#~| msgid "of Nisan"
 #~ msgctxt "Indian National month 3 - LongNamePossessive"
 #~ msgid "of Jyaishtha"
 #~ msgstr "د نېسان"
 
 #, fuzzy
-#~| msgid "of Shvat"
 #~ msgctxt "Indian National month 5 - LongNamePossessive"
 #~ msgid "of Shrāvana"
 #~ msgstr "د شواټ"
 
 #, fuzzy
-#~| msgid "of Khordad"
 #~ msgctxt "Indian National month 6 - LongNamePossessive"
 #~ msgid "of Bhādrapad"
 #~ msgstr "د کورداد"
 
 #, fuzzy
-#~| msgid "of Heshvan"
 #~ msgctxt "Indian National month 7 - LongNamePossessive"
 #~ msgid "of Āshwin"
 #~ msgstr "د هيشوان"
 
 #, fuzzy
-#~| msgid "of Bahman"
 #~ msgctxt "Indian National month 9 - LongNamePossessive"
 #~ msgid "of Agrahayana"
 #~ msgstr "د بهمن"
 
 #, fuzzy
-#~| msgctxt "of Bahman short"
-#~| msgid "of Bah"
 #~ msgctxt "Indian National month 10 - LongNamePossessive"
 #~ msgid "of Paush"
 #~ msgstr "د بهم"
 
 #, fuzzy
-#~| msgctxt "of Mehr short"
-#~| msgid "of Meh"
 #~ msgctxt "Indian National month 11 - LongNamePossessive"
 #~ msgid "of Māgh"
 #~ msgstr "د مهر"
 
 #, fuzzy
-#~| msgid "Kha"
 #~ msgctxt "Indian National month 1 - ShortName"
 #~ msgid "Cha"
 #~ msgstr "پينځه نۍ"
 
 #, fuzzy
-#~| msgctxt "January"
-#~| msgid "Jan"
 #~ msgctxt "Indian National month 3 - ShortName"
 #~ msgid "Jya"
 #~ msgstr "جنوري"
 
 #, fuzzy
-#~| msgctxt "Shahrivar short"
-#~| msgid "Sha"
 #~ msgctxt "Indian National month 5 - ShortName"
 #~ msgid "Shr"
 #~ msgstr "شهر"
 
 #, fuzzy
-#~| msgid "Arb"
 #~ msgctxt "Indian National month 9 - ShortName"
 #~ msgid "Agr"
 #~ msgstr "منځنۍ"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Indian National month 10 - ShortName"
 #~ msgid "Pau"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Thaana"
 #~ msgctxt "Indian National month 9 - LongName"
 #~ msgid "Agrahayana"
 #~ msgstr "ټهانا"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Indian National month 10 - LongName"
 #~ msgid "Paush"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgctxt "Jumee short"
-#~| msgid "Jom"
 #~ msgctxt "Indian National weekday 1 - ShortDayName"
 #~ msgid "Som"
 #~ msgstr "جومه"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Buhid"
 #~ msgctxt "Indian National weekday 3 - ShortDayName"
 #~ msgid "Bud"
 #~ msgstr "بوهېډ"
 
 #, fuzzy
-#~| msgctxt "Sunday"
-#~| msgid "Sun"
 #~ msgctxt "Indian National weekday 5 - ShortDayName"
 #~ msgid "Suk"
 #~ msgstr "يوه نۍ"
 
 #, fuzzy
-#~| msgid "Sivan"
 #~ msgctxt "Indian National weekday 6 - ShortDayName"
 #~ msgid "San"
 #~ msgstr "سېوان"
@@ -10083,15 +9505,11 @@ msgstr "%1 %2"
 #~ msgstr "اډر ۲"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Coptic"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Coptic"
 #~ msgstr "کوپټېک"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Ethiopic"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Ethiopian"
 #~ msgstr "اېټوپيايي"
@@ -10101,8 +9519,6 @@ msgstr "%1 %2"
 #~ msgstr "عيسوي"
 
 #, fuzzy
-#~| msgctxt "@item Calendar system"
-#~| msgid "Gregorian"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Gregorian (Proleptic)"
 #~ msgstr "عيسوي"
@@ -10120,8 +9536,6 @@ msgstr "%1 %2"
 #~ msgstr "جلالي"
 
 #, fuzzy
-#~| msgctxt "January"
-#~| msgid "Jan"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Julian"
 #~ msgstr "جنوري"
@@ -10131,721 +9545,561 @@ msgstr "%1 %2"
 #~ msgstr "ناسم کليز ډول"
 
 #, fuzzy
-#~| msgctxt "of Khordad short"
-#~| msgid "of Kho"
 #~ msgctxt "Coptic month 1 - ShortNamePossessive"
 #~ msgid "of Tho"
 #~ msgstr "د کور"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Coptic month 2 - ShortNamePossessive"
 #~ msgid "of Pao"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgid "of Shvat"
 #~ msgctxt "Coptic month 3 - ShortNamePossessive"
 #~ msgid "of Hat"
 #~ msgstr "د شواټ"
 
 #, fuzzy
-#~| msgid "of Nisan"
 #~ msgctxt "Coptic month 4 - ShortNamePossessive"
 #~ msgid "of Kia"
 #~ msgstr "د نېسان"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Coptic month 5 - ShortNamePossessive"
 #~ msgid "of Tob"
 #~ msgstr "د فېبروري"
 
 #, fuzzy
-#~| msgctxt "of Mehr short"
-#~| msgid "of Meh"
 #~ msgctxt "Coptic month 6 - ShortNamePossessive"
 #~ msgid "of Mes"
 #~ msgstr "د مهر"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Coptic month 7 - ShortNamePossessive"
 #~ msgid "of Par"
 #~ msgstr "د مارچ"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Coptic month 8 - ShortNamePossessive"
 #~ msgid "of Pam"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgctxt "of Bahman short"
-#~| msgid "of Bah"
 #~ msgctxt "Coptic month 9 - ShortNamePossessive"
 #~ msgid "of Pas"
 #~ msgstr "د بهم"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Coptic month 10 - ShortNamePossessive"
 #~ msgid "of Pan"
 #~ msgstr "د جنوري"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Coptic month 11 - ShortNamePossessive"
 #~ msgid "of Epe"
 #~ msgstr "د فېبروري"
 
 #, fuzzy
-#~| msgctxt "of Mordad short"
-#~| msgid "of Mor"
 #~ msgctxt "Coptic month 12 - ShortNamePossessive"
 #~ msgid "of Meo"
 #~ msgstr "د مور"
 
 #, fuzzy
-#~| msgctxt "of Khordad short"
-#~| msgid "of Kho"
 #~ msgctxt "Coptic month 13 - ShortNamePossessive"
 #~ msgid "of Kou"
 #~ msgstr "د کور"
 
 #, fuzzy
-#~| msgctxt "of Khordad short"
-#~| msgid "of Kho"
 #~ msgctxt "Coptic month 1 - LongNamePossessive"
 #~ msgid "of Thoout"
 #~ msgstr "د کور"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Coptic month 2 - LongNamePossessive"
 #~ msgid "of Paope"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgid "of Hijjah"
 #~ msgctxt "Coptic month 3 - LongNamePossessive"
 #~ msgid "of Hathor"
 #~ msgstr "د حجې"
 
 #, fuzzy
-#~| msgctxt "of Khordad short"
-#~| msgid "of Kho"
 #~ msgctxt "Coptic month 4 - LongNamePossessive"
 #~ msgid "of Kiahk"
 #~ msgstr "د کور"
 
 #, fuzzy
-#~| msgid "of October"
 #~ msgctxt "Coptic month 5 - LongNamePossessive"
 #~ msgid "of Tobe"
 #~ msgstr "د اکټوبر"
 
 #, fuzzy
-#~| msgid "of Mehr"
 #~ msgctxt "Coptic month 6 - LongNamePossessive"
 #~ msgid "of Meshir"
 #~ msgstr "د مهر"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Coptic month 8 - LongNamePossessive"
 #~ msgid "of Parmoute"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgctxt "of Bahman short"
-#~| msgid "of Bah"
 #~ msgctxt "Coptic month 9 - LongNamePossessive"
 #~ msgid "of Pashons"
 #~ msgstr "د بهم"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Coptic month 10 - LongNamePossessive"
 #~ msgid "of Paone"
 #~ msgstr "د جنوري"
 
 #, fuzzy
-#~| msgctxt "of September"
-#~| msgid "of Sep"
 #~ msgctxt "Coptic month 11 - LongNamePossessive"
 #~ msgid "of Epep"
 #~ msgstr "د سېپټمبر"
 
 #, fuzzy
-#~| msgctxt "of Mordad short"
-#~| msgid "of Mor"
 #~ msgctxt "Coptic month 12 - LongNamePossessive"
 #~ msgid "of Mesore"
 #~ msgstr "د مور"
 
 #, fuzzy
-#~| msgid "Thl"
 #~ msgctxt "Coptic month 1 - ShortName"
 #~ msgid "Tho"
 #~ msgstr "درې نۍ"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Coptic month 2 - ShortName"
 #~ msgid "Pao"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgctxt "Saturday"
-#~| msgid "Sat"
 #~ msgctxt "Coptic month 3 - ShortName"
 #~ msgid "Hat"
 #~ msgstr "نۍ"
 
 #, fuzzy
-#~| msgid "Kha"
 #~ msgctxt "Coptic month 4 - ShortName"
 #~ msgid "Kia"
 #~ msgstr "پينځه نۍ"
 
 #, fuzzy
-#~| msgid "Job"
 #~ msgctxt "Coptic month 5 - ShortName"
 #~ msgid "Tob"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgid "Yes"
 #~ msgctxt "Coptic month 6 - ShortName"
 #~ msgid "Mes"
 #~ msgstr "هو"
 
 #, fuzzy
-#~| msgctxt "March"
-#~| msgid "Mar"
 #~ msgctxt "Coptic month 7 - ShortName"
 #~ msgid "Par"
 #~ msgstr "مارچ"
 
 #, fuzzy
-#~| msgid "am"
 #~ msgctxt "Coptic month 8 - ShortName"
 #~ msgid "Pam"
 #~ msgstr "غ.م"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgctxt "Coptic month 9 - ShortName"
 #~ msgid "Pas"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgctxt "January"
-#~| msgid "Jan"
 #~ msgctxt "Coptic month 10 - ShortName"
 #~ msgid "Pan"
 #~ msgstr "جنوري"
 
 #, fuzzy
-#~| msgid "Escape"
 #~ msgctxt "Coptic month 11 - ShortName"
 #~ msgid "Epe"
 #~ msgstr "پرېښودل"
 
 #, fuzzy
-#~| msgctxt "Monday"
-#~| msgid "Mon"
 #~ msgctxt "Coptic month 12 - ShortName"
 #~ msgid "Meo"
 #~ msgstr "دوه نۍ"
 
 #, fuzzy
-#~| msgctxt "Khordad short"
-#~| msgid "Kho"
 #~ msgctxt "Coptic month 13 - ShortName"
 #~ msgid "Kou"
 #~ msgstr "کور"
 
 #, fuzzy
-#~| msgctxt "Thursday"
-#~| msgid "Thu"
 #~ msgctxt "Coptic month 1 - LongName"
 #~ msgid "Thoout"
 #~ msgstr "پينځه نۍ"
 
 #, fuzzy
-#~| msgid "Property"
 #~ msgctxt "Coptic month 2 - LongName"
 #~ msgid "Paope"
 #~ msgstr "ځانتياوی"
 
 #, fuzzy
-#~| msgid "Author"
 #~ msgctxt "Coptic month 3 - LongName"
 #~ msgid "Hathor"
 #~ msgstr "ليکوال"
 
 #, fuzzy
-#~| msgid "Mehr"
 #~ msgctxt "Coptic month 6 - LongName"
 #~ msgid "Meshir"
 #~ msgstr "مهر"
 
 #, fuzzy
-#~| msgid "Parameter"
 #~ msgctxt "Coptic month 7 - LongName"
 #~ msgid "Paremhotep"
 #~ msgstr "ارزښتمنۍ"
 
 #, fuzzy
-#~| msgid "Parameter"
 #~ msgctxt "Coptic month 8 - LongName"
 #~ msgid "Parmoute"
 #~ msgstr "ارزښتمنۍ"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Coptic month 9 - LongName"
 #~ msgid "Pashons"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "Coptic month 10 - LongName"
 #~ msgid "Paone"
 #~ msgstr "هېڅ"
 
 #, fuzzy
-#~| msgid "Escape"
 #~ msgctxt "Coptic month 11 - LongName"
 #~ msgid "Epep"
 #~ msgstr "پرېښودل"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgctxt "Coptic weekday 1 - ShortDayName"
 #~ msgid "Pes"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Coptic weekday 2 - ShortDayName"
 #~ msgid "Psh"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Coptic weekday 6 - ShortDayName"
 #~ msgid "Psa"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Coptic weekday 1 - LongDayName"
 #~ msgid "Pesnau"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgctxt "Coptic weekday 2 - LongDayName"
 #~ msgid "Pshoment"
 #~ msgstr "څرګندون"
 
 #, fuzzy
-#~| msgctxt "of Mehr short"
-#~| msgid "of Meh"
 #~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
 #~ msgid "of Mes"
 #~ msgstr "د مهر"
 
 #, fuzzy
-#~| msgid "of Tevet"
 #~ msgctxt "Ethiopian month 2 - ShortNamePossessive"
 #~ msgid "of Teq"
 #~ msgstr "د ټېوېټ"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Ethiopian month 3 - ShortNamePossessive"
 #~ msgid "of Hed"
 #~ msgstr "د فېبروري"
 
 #, fuzzy
-#~| msgctxt "of Bahman short"
-#~| msgid "of Bah"
 #~ msgctxt "Ethiopian month 4 - ShortNamePossessive"
 #~ msgid "of Tah"
 #~ msgstr "د بهم"
 
 #, fuzzy
-#~| msgctxt "of Tir short"
-#~| msgid "of Tir"
 #~ msgctxt "Ethiopian month 5 - ShortNamePossessive"
 #~ msgid "of Ter"
 #~ msgstr "د تير"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Ethiopian month 6 - ShortNamePossessive"
 #~ msgid "of Yak"
 #~ msgstr "د جنوري"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Ethiopian month 7 - ShortNamePossessive"
 #~ msgid "of Mag"
 #~ msgstr "د مارچ"
 
 #, fuzzy
-#~| msgctxt "of May short"
-#~| msgid "of May"
 #~ msgctxt "Ethiopian month 8 - ShortNamePossessive"
 #~ msgid "of Miy"
 #~ msgstr "د می"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Ethiopian month 9 - ShortNamePossessive"
 #~ msgid "of Gen"
 #~ msgstr "د جنوري"
 
 #, fuzzy
-#~| msgctxt "of September"
-#~| msgid "of Sep"
 #~ msgctxt "Ethiopian month 10 - ShortNamePossessive"
 #~ msgid "of Sen"
 #~ msgstr "د سېپټمبر"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Ethiopian month 11 - ShortNamePossessive"
 #~ msgid "of Ham"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgctxt "of Mehr short"
-#~| msgid "of Meh"
 #~ msgctxt "Ethiopian month 12 - ShortNamePossessive"
 #~ msgid "of Neh"
 #~ msgstr "د مهر"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Ethiopian month 13 - ShortNamePossessive"
 #~ msgid "of Pag"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgid "of Mehr"
 #~ msgctxt "Ethiopian month 1 - LongNamePossessive"
 #~ msgid "of Meskerem"
 #~ msgstr "د مهر"
 
 #, fuzzy
-#~| msgid "of Tevet"
 #~ msgctxt "Ethiopian month 2 - LongNamePossessive"
 #~ msgid "of Tequemt"
 #~ msgstr "د ټېوېټ"
 
 #, fuzzy
-#~| msgid "of Adar"
 #~ msgctxt "Ethiopian month 3 - LongNamePossessive"
 #~ msgid "of Hedar"
 #~ msgstr "د اډر"
 
 #, fuzzy
-#~| msgid "of Bahman"
 #~ msgctxt "Ethiopian month 4 - LongNamePossessive"
 #~ msgid "of Tahsas"
 #~ msgstr "د بهمن"
 
 #, fuzzy
-#~| msgctxt "of Tir short"
-#~| msgid "of Tir"
 #~ msgctxt "Ethiopian month 5 - LongNamePossessive"
 #~ msgid "of Ter"
 #~ msgstr "د تير"
 
 #, fuzzy
-#~| msgctxt "of Farvardin short"
-#~| msgid "of Far"
 #~ msgctxt "Ethiopian month 6 - LongNamePossessive"
 #~ msgid "of Yakatit"
 #~ msgstr "د فرو"
 
 #, fuzzy
-#~| msgid "of Rajab"
 #~ msgctxt "Ethiopian month 7 - LongNamePossessive"
 #~ msgid "of Magabit"
 #~ msgstr "د رجب"
 
 #, fuzzy
-#~| msgctxt "of May short"
-#~| msgid "of May"
 #~ msgctxt "Ethiopian month 8 - LongNamePossessive"
 #~ msgid "of Miyazya"
 #~ msgstr "د می"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Ethiopian month 9 - LongNamePossessive"
 #~ msgid "of Genbot"
 #~ msgstr "د فېبروري"
 
 #, fuzzy
-#~| msgctxt "of September"
-#~| msgid "of Sep"
 #~ msgctxt "Ethiopian month 10 - LongNamePossessive"
 #~ msgid "of Sene"
 #~ msgstr "د سېپټمبر"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Ethiopian month 11 - LongNamePossessive"
 #~ msgid "of Hamle"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgctxt "of Shahrivar short"
-#~| msgid "of Sha"
 #~ msgctxt "Ethiopian month 12 - LongNamePossessive"
 #~ msgid "of Nehase"
 #~ msgstr "د شهر"
 
 #, fuzzy
-#~| msgid "of Tamuz"
 #~ msgctxt "Ethiopian month 13 - LongNamePossessive"
 #~ msgid "of Pagumen"
 #~ msgstr "د ټموز"
 
 #, fuzzy
-#~| msgid "Yes"
 #~ msgctxt "Ethiopian month 1 - ShortName"
 #~ msgid "Mes"
 #~ msgstr "هو"
 
 #, fuzzy
-#~| msgctxt "Tuesday"
-#~| msgid "Tue"
 #~ msgctxt "Ethiopian month 2 - ShortName"
 #~ msgid "Teq"
 #~ msgstr "درې نۍ"
 
 #, fuzzy
-#~| msgctxt "Wednesday"
-#~| msgid "Wed"
 #~ msgctxt "Ethiopian month 3 - ShortName"
 #~ msgid "Hed"
 #~ msgstr "منځنۍ"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "Ethiopian month 4 - ShortName"
 #~ msgid "Tah"
 #~ msgstr "خځلنۍ"
 
 #, fuzzy
-#~| msgctxt "Tuesday"
-#~| msgid "Tue"
 #~ msgctxt "Ethiopian month 5 - ShortName"
 #~ msgid "Ter"
 #~ msgstr "درې نۍ"
 
 #, fuzzy
-#~| msgctxt "March"
-#~| msgid "Mar"
 #~ msgctxt "Ethiopian month 7 - ShortName"
 #~ msgid "Mag"
 #~ msgstr "مارچ"
 
 #, fuzzy
-#~| msgctxt "May short"
-#~| msgid "May"
 #~ msgctxt "Ethiopian month 8 - ShortName"
 #~ msgid "Miy"
 #~ msgstr "د می"
 
 #, fuzzy
-#~| msgid "Green:"
 #~ msgctxt "Ethiopian month 9 - ShortName"
 #~ msgid "Gen"
 #~ msgstr ":شين"
 
 #, fuzzy
-#~| msgid "&Send"
 #~ msgctxt "Ethiopian month 10 - ShortName"
 #~ msgid "Sen"
 #~ msgstr "لېږل&"
 
 #, fuzzy
-#~| msgid "am"
 #~ msgctxt "Ethiopian month 11 - ShortName"
 #~ msgid "Ham"
 #~ msgstr "غ.م"
 
 #, fuzzy
-#~| msgctxt "Mehr short"
-#~| msgid "Meh"
 #~ msgctxt "Ethiopian month 12 - ShortName"
 #~ msgid "Neh"
 #~ msgstr "مهر"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgctxt "Ethiopian month 13 - ShortName"
 #~ msgid "Pag"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgid "Tevet"
 #~ msgctxt "Ethiopian month 2 - LongName"
 #~ msgid "Tequemt"
 #~ msgstr "ټېوېټ"
 
 #, fuzzy
-#~| msgid "Adar"
 #~ msgctxt "Ethiopian month 3 - LongName"
 #~ msgid "Hedar"
 #~ msgstr "اډر"
 
 #, fuzzy
-#~| msgid "Task"
 #~ msgctxt "Ethiopian month 4 - LongName"
 #~ msgid "Tahsas"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgctxt "Tuesday"
-#~| msgid "Tue"
 #~ msgctxt "Ethiopian month 5 - LongName"
 #~ msgid "Ter"
 #~ msgstr "درې نۍ"
 
 #, fuzzy
-#~| msgid "&Send"
 #~ msgctxt "Ethiopian month 10 - LongName"
 #~ msgid "Sene"
 #~ msgstr "لېږل&"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgctxt "Ethiopian month 11 - LongName"
 #~ msgid "Hamle"
 #~ msgstr "نوم"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgctxt "Ethiopian month 12 - LongName"
 #~ msgid "Nehase"
 #~ msgstr "نوم"
 
 #, fuzzy
-#~| msgid "Pages"
 #~ msgctxt "Ethiopian month 13 - LongName"
 #~ msgid "Pagumen"
 #~ msgstr "مخونه"
 
 #, fuzzy
-#~| msgctxt "September"
-#~| msgid "Sep"
 #~ msgctxt "Ethiopian weekday 1 - ShortDayName"
 #~ msgid "Seg"
 #~ msgstr "سېپټمبر"
 
 #, fuzzy
-#~| msgctxt "March"
-#~| msgid "Mar"
 #~ msgctxt "Ethiopian weekday 2 - ShortDayName"
 #~ msgid "Mak"
 #~ msgstr "مارچ"
 
 #, fuzzy
-#~| msgid "Job"
 #~ msgctxt "Ethiopian weekday 3 - ShortDayName"
 #~ msgid "Rob"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgid "am"
 #~ msgctxt "Ethiopian weekday 4 - ShortDayName"
 #~ msgid "Ham"
 #~ msgstr "غ.م"
 
 #, fuzzy
-#~| msgid "Arb"
 #~ msgctxt "Ethiopian weekday 5 - ShortDayName"
 #~ msgid "Arb"
 #~ msgstr "منځنۍ"
 
 #, fuzzy
-#~| msgctxt "Wednesday"
-#~| msgid "Wed"
 #~ msgctxt "Ethiopian weekday 6 - ShortDayName"
 #~ msgid "Qed"
 #~ msgstr "منځنۍ"
 
 #, fuzzy
-#~| msgctxt "Thursday"
-#~| msgid "Thu"
 #~ msgctxt "Ethiopian weekday 7 - ShortDayName"
 #~ msgid "Ehu"
 #~ msgstr "پينځه نۍ"
 
 #, fuzzy
-#~| msgid "&Send"
 #~ msgctxt "Ethiopian weekday 1 - LongDayName"
 #~ msgid "Segno"
 #~ msgstr "لېږل&"
 
 #, fuzzy
-#~| msgid "Job"
 #~ msgctxt "Ethiopian weekday 3 - LongDayName"
 #~ msgid "Rob"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgid "Pause"
 #~ msgctxt "Ethiopian weekday 4 - LongDayName"
 #~ msgid "Hamus"
 #~ msgstr "ځنډول"
 
 #, fuzzy
-#~| msgid "Arb"
 #~ msgctxt "Ethiopian weekday 5 - LongDayName"
 #~ msgid "Arb"
 #~ msgstr "منځنۍ"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgctxt "Ethiopian weekday 6 - LongDayName"
 #~ msgid "Qedame"
 #~ msgstr "نوم"
 
 #, fuzzy
-#~| msgid "Most Downloads"
 #~ msgctxt "Sorting order of the list of items in get hot new stuff"
 #~ msgid "Most Downloads"
 #~ msgstr "ډېرې رالېښنې"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgctxt "Sorting order of the list of items in get hot new stuff"
 #~ msgid "Installed only"
 #~ msgstr "لګول"
 
 #, fuzzy
-#~| msgid "Download New Stuff"
 #~ msgid "Download New Stuff"
 #~ msgstr "نوي څيزونه رالېښل"
 
@@ -10853,12 +10107,10 @@ msgstr "%1 %2"
 #~ msgstr "رالېښل %1 نوی"
 
 #, fuzzy
-#~| msgid "Conflict with Global Shortcut"
 #~ msgid "Conflict With Registered Global Shortcut(s)"
 #~ msgstr "د سراسر لنډلار سره ټکر"
 
 #, fuzzy
-#~| msgid "Shortcut conflict"
 #~ msgid "Shortcut Conflict(s)"
 #~ msgstr "لنډلاري ټکر"
 
@@ -10866,7 +10118,6 @@ msgstr "%1 %2"
 #~ msgstr "tagcloudtest"
 
 #, fuzzy
-#~| msgid "Unlock Toolbars"
 #~ msgid "Unlock Toolbar Positions"
 #~ msgstr "توکپټې ناکولپول"
 
@@ -10875,29 +10126,23 @@ msgstr "%1 %2"
 #~ msgstr "اېنډېک ليکونه"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Save"
 #~ msgid "Save"
 #~ msgstr "ساتل"
 
 #, fuzzy
-#~| msgid "Action"
 #~ msgid "Long Action"
 #~ msgstr "چار"
 
 #, fuzzy
-#~| msgid "Open"
 #~ msgctxt "The open file menu entry"
 #~ msgid "Open"
 #~ msgstr "پرانيستل"
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "KIdleTest"
 #~ msgstr "ازموېل"
 
 #, fuzzy
-#~| msgid "David Faure"
 #~ msgid "Dario Freddi"
 #~ msgstr "ډېوېډ فوري"
 
@@ -10961,46 +10206,36 @@ msgstr "%1 %2"
 #~ msgstr "us"
 
 #, fuzzy
-#~| msgid "Do Not Store"
 #~ msgid "Do &Not Store"
 #~ msgstr "نه زېرمل"
 
 #, fuzzy
-#~| msgid "Back"
 #~ msgctxt "Goes to previous character"
 #~ msgid "Back"
 #~ msgstr "شاته"
 
 #, fuzzy
-#~| msgid "Forward"
 #~ msgctxt "Goes to next character"
 #~ msgid "Forward"
 #~ msgstr "مخکې"
 
 #, fuzzy
-#~| msgid "Add Comment"
 #~ msgid "Add Elements"
 #~ msgstr "څرګندون زياتول"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Block Elements"
 #~ msgid "Remove Elements"
 #~ msgstr "غونډ توکونه"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Block Elements"
 #~ msgid "Replace Element"
 #~ msgstr "غونډ توکونه"
 
 #, fuzzy
-#~| msgid "Quit application"
 #~ msgid "Sample KFormula application"
 #~ msgstr "کاريال بندول"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgid "&Options"
 #~ msgstr "غوراوي"
 
