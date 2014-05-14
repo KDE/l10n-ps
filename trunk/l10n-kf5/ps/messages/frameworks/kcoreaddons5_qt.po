@@ -170,7 +170,7 @@ msgctxt "KAboutLicense|@item license"
 msgid "Not specified"
 msgstr "نه دی ټاکل شوی"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:875
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:809
 #, fuzzy
 #| msgctxt "replace this with information about your translation team"
 #| msgid ""
@@ -189,21 +189,21 @@ msgstr ""
 "p><p>د کډي د نړېوالونې په اړه د نورو خبرتياو لپاره وګورﺉ<a href=\"http://"
 "l10n.kde.org\">http://l10n.kde.org</a></p>"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:1018
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:942
 #, fuzzy
 #| msgid "Show author information"
 msgctxt "KAboutData CLI|"
 msgid "Show author information."
 msgstr "د ليکوال خبرتياوې ښودل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:1019
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:943
 #, fuzzy
 #| msgid "Show license information"
 msgctxt "KAboutData CLI|"
 msgid "Show license information."
 msgstr "د منښتليک خبرتياوې ښودل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:1028
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:952
 #, fuzzy
 #| msgid ""
 #| "This application was written by somebody who wants to remain anonymous."
@@ -211,7 +211,7 @@ msgctxt "KAboutData CLI|"
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "دا کاريال د يو داسې وګړي لخوا جوړ شوی چې خپل نوم ښودل نه غواړي."
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:1030
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/kaboutdata.cpp:954
 #, fuzzy
 #| msgctxt "the 2nd argument is a list of name+address, one on each line"
 #| msgid ""
