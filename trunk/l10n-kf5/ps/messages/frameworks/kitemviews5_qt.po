@@ -19,28 +19,28 @@ msgstr ""
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kitemviews/src/kfilterproxysearchline.cpp:73
+#: kfilterproxysearchline.cpp:73
 #, fuzzy
 #| msgid "Search"
 msgctxt "KFilterProxySearchLine|"
 msgid "Search"
 msgstr "پلټون"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kitemviews/src/ktreewidgetsearchline.cpp:434
+#: ktreewidgetsearchline.cpp:434
 #, fuzzy
 #| msgid "Search Columns"
 msgctxt "KTreeWidgetSearchLine|"
 msgid "Search Columns"
 msgstr "ستنې پلټل"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kitemviews/src/ktreewidgetsearchline.cpp:436
+#: ktreewidgetsearchline.cpp:436
 #, fuzzy
 #| msgid "All Visible Columns"
 msgctxt "KTreeWidgetSearchLine|"
 msgid "All Visible Columns"
 msgstr "ټولې ښکارېدونکې ستنې"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kitemviews/src/ktreewidgetsearchlinewidget.cpp:63
+#: ktreewidgetsearchlinewidget.cpp:63
 #, fuzzy
 #| msgid "S&earch:"
 msgctxt "KTreeWidgetSearchLineWidget|"

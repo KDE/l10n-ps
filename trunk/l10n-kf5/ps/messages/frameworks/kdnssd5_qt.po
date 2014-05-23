@@ -19,21 +19,21 @@ msgstr ""
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kdnssd/src/servicemodel.cpp:110
+#: servicemodel.cpp:110
 #, fuzzy
 #| msgid "Name"
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Name"
 msgstr "نوم"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kdnssd/src/servicemodel.cpp:111
+#: servicemodel.cpp:111
 #, fuzzy
 #| msgid "Host"
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Host"
 msgstr "کوربه"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kdnssd/src/servicemodel.cpp:112
+#: servicemodel.cpp:112
 #, fuzzy
 #| msgid "Port"
 msgctxt "KDNSSD::ServiceModel|"
