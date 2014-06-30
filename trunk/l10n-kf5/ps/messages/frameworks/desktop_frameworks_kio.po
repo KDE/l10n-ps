@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-18 08:05+0000\n"
+"POT-Creation-Date: 2014-06-30 08:26+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "پټياد پاکوونکی HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:36
+#: src/ioslaves/http/http_cache_cleaner.desktop:37
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "پټياد څخه زړې ننوتنې پاکوي HTTP د"
@@ -29,7 +29,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr ""
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:32
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:33
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -62,7 +62,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
 
-#: src/kpac/proxyscout.desktop:31
+#: src/kpac/proxyscout.desktop:32
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
@@ -75,32 +75,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
 
-#: src/kpac/proxyscout.notifyrc:33
+#: src/kpac/proxyscout.notifyrc:34
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "ناسم ګوډاګی سکرېپټ"
 
-#: src/kpac/proxyscout.notifyrc:63
+#: src/kpac/proxyscout.notifyrc:65
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "رالېښل شوی ګوډاګي سازونې سکرېپټ ناسم دی"
 
-#: src/kpac/proxyscout.notifyrc:97
+#: src/kpac/proxyscout.notifyrc:100
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "د سکرېپټ رالېښنې تېروتنه"
 
-#: src/kpac/proxyscout.notifyrc:127
+#: src/kpac/proxyscout.notifyrc:131
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "د ګوډاګي د سازونې سکرېپټ رالېښل کېدی نه شي"
 
-#: src/kpac/proxyscout.notifyrc:162
+#: src/kpac/proxyscout.notifyrc:167
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:191
+#: src/kpac/proxyscout.notifyrc:197
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "د ګوډاګي سازونې سکرېپټ په چلولو کې ستونزه رامنځته شوه"
@@ -120,7 +120,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: src/kssld/kssld.desktop:36
+#: src/kssld/kssld.desktop:37
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -590,7 +590,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:52
+#: src/urifilters/ikws/searchproviders/freecode.desktop:53
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr ""
@@ -738,7 +738,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:52
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:53
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr ""
@@ -905,7 +905,7 @@ msgctxt "Name"
 msgid "KDE Projects"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_projects.desktop:51
+#: src/urifilters/ikws/searchproviders/kde_projects.desktop:52
 msgctxt "Query"
 msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 msgstr ""
@@ -1110,7 +1110,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:52
+#: src/urifilters/ikws/searchproviders/qt4.desktop:53
 msgctxt "Query"
 msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
 msgstr ""
@@ -1140,7 +1140,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:48
+#: src/urifilters/ikws/searchproviders/rag.desktop:49
 msgctxt "Query"
 msgid ""
 "http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=\\\\{@}"
