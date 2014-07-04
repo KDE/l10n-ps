@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-03 08:04+0000\n"
+"POT-Creation-Date: 2014-07-04 08:32+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "پټياد پاکوونکی HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:38
+#: src/ioslaves/http/http_cache_cleaner.desktop:39
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "پټياد څخه زړې ننوتنې پاکوي HTTP د"
@@ -62,7 +62,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
 
-#: src/kpac/proxyscout.desktop:33
+#: src/kpac/proxyscout.desktop:34
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
@@ -75,32 +75,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
 
-#: src/kpac/proxyscout.notifyrc:35
+#: src/kpac/proxyscout.notifyrc:36
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "ناسم ګوډاګی سکرېپټ"
 
-#: src/kpac/proxyscout.notifyrc:67
+#: src/kpac/proxyscout.notifyrc:69
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "رالېښل شوی ګوډاګي سازونې سکرېپټ ناسم دی"
 
-#: src/kpac/proxyscout.notifyrc:103
+#: src/kpac/proxyscout.notifyrc:106
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "د سکرېپټ رالېښنې تېروتنه"
 
-#: src/kpac/proxyscout.notifyrc:135
+#: src/kpac/proxyscout.notifyrc:139
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "د ګوډاګي د سازونې سکرېپټ رالېښل کېدی نه شي"
 
-#: src/kpac/proxyscout.notifyrc:172
+#: src/kpac/proxyscout.notifyrc:177
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:203
+#: src/kpac/proxyscout.notifyrc:208
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "د ګوډاګي سازونې سکرېپټ په چلولو کې ستونزه رامنځته شوه"
@@ -110,7 +110,7 @@ msgctxt "Name"
 msgid "Password Caching"
 msgstr ""
 
-#: src/kpasswdserver/kpasswdserver.desktop:71
+#: src/kpasswdserver/kpasswdserver.desktop:70
 msgctxt "Comment"
 msgid "Temporary password caching"
 msgstr ""
@@ -120,7 +120,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr ""
 
-#: src/kssld/kssld.desktop:38
+#: src/kssld/kssld.desktop:39
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -205,7 +205,7 @@ msgctxt "Name"
 msgid "Debian Backports Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/backports.desktop:88
+#: src/urifilters/ikws/searchproviders/backports.desktop:87
 msgctxt "Query"
 msgid ""
 "http://packages.debian.org/search?suite=squeeze-"
@@ -217,7 +217,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/baidu.desktop:71
+#: src/urifilters/ikws/searchproviders/baidu.desktop:72
 msgctxt "Query"
 msgid "http://www.baidu.com/s?wd=\\\\{@}"
 msgstr ""
@@ -240,7 +240,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/bing.desktop:71
+#: src/urifilters/ikws/searchproviders/bing.desktop:72
 msgctxt "Query"
 msgid "http://www.bing.com/search?q=\\\\{@}"
 msgstr ""
@@ -280,7 +280,7 @@ msgctxt "Name"
 msgid "QRZ.com Callsign Database"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/call.desktop:91
+#: src/urifilters/ikws/searchproviders/call.desktop:90
 msgctxt "Query"
 msgid "http://www.qrz.com/db/\\\\{@}"
 msgstr ""
@@ -347,7 +347,7 @@ msgctxt "Name"
 msgid "Debian BTS Bug Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dbug.desktop:89
+#: src/urifilters/ikws/searchproviders/dbug.desktop:88
 msgctxt "Query"
 msgid "http://bugs.debian.org/\\\\{@}"
 msgstr ""
@@ -590,7 +590,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:53
+#: src/urifilters/ikws/searchproviders/freecode.desktop:54
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr ""
@@ -656,7 +656,7 @@ msgctxt "Name"
 msgid "Google Code"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_code.desktop:72
+#: src/urifilters/ikws/searchproviders/google_code.desktop:71
 msgctxt "Query"
 msgid "https://code.google.com/query/#q=\\\\{%2520}"
 msgstr ""
@@ -738,7 +738,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:53
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:54
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr ""
@@ -905,7 +905,7 @@ msgctxt "Name"
 msgid "KDE Projects"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_projects.desktop:52
+#: src/urifilters/ikws/searchproviders/kde_projects.desktop:53
 msgctxt "Query"
 msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 msgstr ""
@@ -1045,7 +1045,7 @@ msgctxt "Name"
 msgid "Telephonebook Search Provider"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:91
+#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:90
 msgctxt "Query"
 msgid ""
 "http://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
@@ -1057,7 +1057,7 @@ msgctxt "Name"
 msgid "Teletekst Search Provider"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:93
+#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:92
 msgctxt "Query"
 msgid "http://teletekst.nos.nl/gif/\\\\{@}-01.html"
 msgstr ""
@@ -1067,7 +1067,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opendesktop.desktop:71
+#: src/urifilters/ikws/searchproviders/opendesktop.desktop:72
 msgctxt "Query"
 msgid ""
 "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1078,7 +1078,7 @@ msgctxt "Name"
 msgid "OpenPGP Key Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:92
+#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:91
 msgctxt "Query"
 msgid "http://pgp.mit.edu:11371/pks/lookup?search=\\\\{@}&op=vindex"
 msgstr ""
@@ -1110,7 +1110,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:53
+#: src/urifilters/ikws/searchproviders/qt4.desktop:54
 msgctxt "Query"
 msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
 msgstr ""
@@ -1151,7 +1151,7 @@ msgctxt "Name"
 msgid "IETF Requests for Comments"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/rfc.desktop:89
+#: src/urifilters/ikws/searchproviders/rfc.desktop:88
 msgctxt "Query"
 msgid "http://tools.ietf.org/id/\\\\{@}"
 msgstr ""
