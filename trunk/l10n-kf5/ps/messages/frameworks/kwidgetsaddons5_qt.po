@@ -2524,6 +2524,418 @@ msgctxt "KSqueezedTextLabel|"
 msgid "&Copy Full Text"
 msgstr "ټوله ليکنه لمېسل"
 
+#: kstandardguiitem.cpp:108
+#, fuzzy
+#| msgid "&OK"
+msgctxt "KStandardGuiItem|"
+msgid "&OK"
+msgstr "هوکې"
+
+#: kstandardguiitem.cpp:113
+#, fuzzy
+#| msgid "&Cancel"
+msgctxt "KStandardGuiItem|"
+msgid "&Cancel"
+msgstr "بندول"
+
+#: kstandardguiitem.cpp:118
+#, fuzzy
+#| msgid "&Yes"
+msgctxt "KStandardGuiItem|"
+msgid "&Yes"
+msgstr "هو"
+
+#: kstandardguiitem.cpp:118
+#, fuzzy
+#| msgid "Yes"
+msgctxt "KStandardGuiItem|"
+msgid "Yes"
+msgstr "هو"
+
+#: kstandardguiitem.cpp:123
+#, fuzzy
+#| msgid "&No"
+msgctxt "KStandardGuiItem|"
+msgid "&No"
+msgstr "نه"
+
+#: kstandardguiitem.cpp:123
+#, fuzzy
+#| msgid "No"
+msgctxt "KStandardGuiItem|"
+msgid "No"
+msgstr "نه"
+
+#: kstandardguiitem.cpp:128
+#, fuzzy
+#| msgid "&Discard"
+msgctxt "KStandardGuiItem|"
+msgid "&Discard"
+msgstr "پرېښودل"
+
+#: kstandardguiitem.cpp:128
+#, fuzzy
+#| msgid "Discard changes"
+msgctxt "KStandardGuiItem|"
+msgid "Discard changes"
+msgstr "بدلونونه پرېښودل"
+
+#: kstandardguiitem.cpp:129
+msgctxt "KStandardGuiItem|"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog."
+msgstr ""
+
+#: kstandardguiitem.cpp:135
+#, fuzzy
+#| msgid "&Save"
+msgctxt "KStandardGuiItem|"
+msgid "&Save"
+msgstr "ساتل"
+
+#: kstandardguiitem.cpp:135
+#, fuzzy
+#| msgid "Save data"
+msgctxt "KStandardGuiItem|"
+msgid "Save data"
+msgstr "اومتوک ساتل"
+
+#: kstandardguiitem.cpp:140
+#, fuzzy
+#| msgid "&Do Not Save"
+msgctxt "KStandardGuiItem|"
+msgid "&Do Not Save"
+msgstr "نه ساتل"
+
+#: kstandardguiitem.cpp:141
+#, fuzzy
+#| msgid "Do not save data"
+msgctxt "KStandardGuiItem|"
+msgid "Do not save data"
+msgstr "اومتوک نه ساتل"
+
+#: kstandardguiitem.cpp:146
+#, fuzzy
+#| msgid "Save &As..."
+msgctxt "KStandardGuiItem|"
+msgid "Save &As..."
+msgstr "...ساتل &په"
+
+#: kstandardguiitem.cpp:147
+#, fuzzy
+#| msgid "Save file with another name"
+msgctxt "KStandardGuiItem|"
+msgid "Save file with another name"
+msgstr "دوتنه په بل نوم ساتل"
+
+#: kstandardguiitem.cpp:152
+#, fuzzy
+#| msgid "&Apply"
+msgctxt "KStandardGuiItem|"
+msgid "&Apply"
+msgstr "کارول"
+
+#: kstandardguiitem.cpp:152
+#, fuzzy
+#| msgid "Apply changes"
+msgctxt "KStandardGuiItem|"
+msgid "Apply changes"
+msgstr "بدلونونه کارول"
+
+#: kstandardguiitem.cpp:153
+msgctxt "KStandardGuiItem|"
+msgid ""
+"When you click <b>Apply</b>, the settings will be handed over to the "
+"program, but the dialog will not be closed.\n"
+"Use this to try different settings."
+msgstr ""
+
+#: kstandardguiitem.cpp:161
+#, fuzzy
+#| msgid "Administrator &Mode..."
+msgctxt "KStandardGuiItem|"
+msgid "Administrator &Mode..."
+msgstr "...پازوال &اکر"
+
+#: kstandardguiitem.cpp:161
+#, fuzzy
+#| msgid "Enter Administrator Mode"
+msgctxt "KStandardGuiItem|"
+msgid "Enter Administrator Mode"
+msgstr "پازوال اکر ته ننوتل"
+
+#: kstandardguiitem.cpp:162
+msgctxt "KStandardGuiItem|"
+msgid ""
+"When you click <b>Administrator Mode</b> you will be prompted for the "
+"administrator (root) password in order to make changes which require root "
+"privileges."
+msgstr ""
+
+#: kstandardguiitem.cpp:169
+#, fuzzy
+#| msgid "C&lear"
+msgctxt "KStandardGuiItem|"
+msgid "C&lear"
+msgstr "پ&اکول"
+
+#: kstandardguiitem.cpp:170
+#, fuzzy
+#| msgid "Clear input"
+msgctxt "KStandardGuiItem|"
+msgid "Clear input"
+msgstr "ننوتۍ پاکول"
+
+#: kstandardguiitem.cpp:171
+#, fuzzy
+#| msgid "Clear the input in the edit field"
+msgctxt "KStandardGuiItem|"
+msgid "Clear the input in the edit field"
+msgstr "د سمون ډګر ننوتۍ پاکول"
+
+#: kstandardguiitem.cpp:176
+#, fuzzy
+#| msgid "&Help"
+msgctxt "KStandardGuiItem|show help"
+msgid "&Help"
+msgstr "مرسته"
+
+#: kstandardguiitem.cpp:177
+#, fuzzy
+#| msgid "Show help"
+msgctxt "KStandardGuiItem|"
+msgid "Show help"
+msgstr "مرسته ښودل"
+
+#: kstandardguiitem.cpp:182
+#, fuzzy
+#| msgid "&Close"
+msgctxt "KStandardGuiItem|"
+msgid "&Close"
+msgstr "بندول"
+
+#: kstandardguiitem.cpp:183
+#, fuzzy
+#| msgid "Close the current window or document"
+msgctxt "KStandardGuiItem|"
+msgid "Close the current window or document"
+msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
+
+#: kstandardguiitem.cpp:188
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "&Close Window"
+msgstr "کړکۍ بندول غواړﺉ؟"
+
+#: kstandardguiitem.cpp:189
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Close the current window."
+msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
+
+#: kstandardguiitem.cpp:194
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "&Close Document"
+msgstr "لاسوند بندول"
+
+#: kstandardguiitem.cpp:195
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Close the current document."
+msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
+
+#: kstandardguiitem.cpp:200
+#, fuzzy
+#| msgid "&Defaults"
+msgctxt "KStandardGuiItem|"
+msgid "&Defaults"
+msgstr "تلوالې"
+
+#: kstandardguiitem.cpp:201
+#, fuzzy
+#| msgid "Reset all items to their default values"
+msgctxt "KStandardGuiItem|"
+msgid "Reset all items to their default values"
+msgstr "ټول توکي خپل تلواله ارزښتونو ته ګرځول"
+
+#: kstandardguiitem.cpp:208
+#, fuzzy
+#| msgid "&Back"
+msgctxt "KStandardGuiItem|go back"
+msgid "&Back"
+msgstr "شاته"
+
+#: kstandardguiitem.cpp:209
+#, fuzzy
+#| msgid "Go back one step"
+msgctxt "KStandardGuiItem|"
+msgid "Go back one step"
+msgstr "يو پړاو شاته ورتلل"
+
+#: kstandardguiitem.cpp:216
+#, fuzzy
+#| msgctxt "go forward"
+#| msgid "&Forward"
+msgctxt "KStandardGuiItem|go forward"
+msgid "&Forward"
+msgstr "مخکې&"
+
+#: kstandardguiitem.cpp:217
+#, fuzzy
+#| msgid "Go forward one step"
+msgctxt "KStandardGuiItem|"
+msgid "Go forward one step"
+msgstr "يو پړاو مخکې ورتلل"
+
+#: kstandardguiitem.cpp:227
+#, fuzzy
+#| msgid "&Print..."
+msgctxt "KStandardGuiItem|"
+msgid "&Print..."
+msgstr "...چاپول"
+
+#: kstandardguiitem.cpp:228
+#, fuzzy
+#| msgid "Opens the print dialog to print the current document"
+msgctxt "KStandardGuiItem|"
+msgid "Opens the print dialog to print the current document"
+msgstr "د اوسني لاسوند د چاپولو لپاره د چاپ کړکۍ پرانيزي"
+
+#: kstandardguiitem.cpp:234
+#, fuzzy
+#| msgid "C&ontinue"
+msgctxt "KStandardGuiItem|"
+msgid "C&ontinue"
+msgstr "پ&رمختلل"
+
+#: kstandardguiitem.cpp:235
+#, fuzzy
+#| msgid "Continue operation"
+msgctxt "KStandardGuiItem|"
+msgid "Continue operation"
+msgstr "چلښت پرمخبيول"
+
+#: kstandardguiitem.cpp:240
+#, fuzzy
+#| msgid "&Delete"
+msgctxt "KStandardGuiItem|"
+msgid "&Delete"
+msgstr "ړنګول"
+
+#: kstandardguiitem.cpp:241
+#, fuzzy
+#| msgid "Delete item(s)"
+msgctxt "KStandardGuiItem|"
+msgid "Delete item(s)"
+msgstr "توکي ړنګول"
+
+#: kstandardguiitem.cpp:246
+#, fuzzy
+#| msgid "&Open..."
+msgctxt "KStandardGuiItem|"
+msgid "&Open..."
+msgstr "...پرانيستل"
+
+#: kstandardguiitem.cpp:247
+#, fuzzy
+#| msgid "Open file"
+msgctxt "KStandardGuiItem|"
+msgid "Open file"
+msgstr "دوتنه پرانيستل"
+
+#: kstandardguiitem.cpp:252
+#, fuzzy
+#| msgid "&Quit"
+msgctxt "KStandardGuiItem|"
+msgid "&Quit"
+msgstr "وتل"
+
+#: kstandardguiitem.cpp:253
+#, fuzzy
+#| msgid "Quit application"
+msgctxt "KStandardGuiItem|"
+msgid "Quit application"
+msgstr "کاريال بندول"
+
+#: kstandardguiitem.cpp:258
+#, fuzzy
+#| msgid "&Reset"
+msgctxt "KStandardGuiItem|"
+msgid "&Reset"
+msgstr "بياټاکل"
+
+#: kstandardguiitem.cpp:259
+#, fuzzy
+#| msgid "Reset configuration"
+msgctxt "KStandardGuiItem|"
+msgid "Reset configuration"
+msgstr "سازونه بياټاکل"
+
+#: kstandardguiitem.cpp:264
+#, fuzzy
+#| msgctxt "Verb"
+#| msgid "&Insert"
+msgctxt "KStandardGuiItem|Verb"
+msgid "&Insert"
+msgstr "ورننويستل"
+
+#: kstandardguiitem.cpp:269
+#, fuzzy
+#| msgid "Confi&gure..."
+msgctxt "KStandardGuiItem|"
+msgid "Confi&gure..."
+msgstr "...ساز&ول"
+
+#: kstandardguiitem.cpp:274
+#, fuzzy
+#| msgid "&Find"
+msgctxt "KStandardGuiItem|"
+msgid "&Find"
+msgstr "لټول"
+
+#: kstandardguiitem.cpp:279
+#, fuzzy
+#| msgid "Stop"
+msgctxt "KStandardGuiItem|"
+msgid "Stop"
+msgstr "تمول"
+
+#: kstandardguiitem.cpp:284
+#, fuzzy
+#| msgid "Add"
+msgctxt "KStandardGuiItem|"
+msgid "Add"
+msgstr "زياتول"
+
+#: kstandardguiitem.cpp:289
+#, fuzzy
+#| msgid "Remove"
+msgctxt "KStandardGuiItem|"
+msgid "Remove"
+msgstr "ړنګول"
+
+#: kstandardguiitem.cpp:294
+#, fuzzy
+#| msgid "Test"
+msgctxt "KStandardGuiItem|"
+msgid "Test"
+msgstr "ازموېل"
+
+#: kstandardguiitem.cpp:299
+#, fuzzy
+#| msgid "Properties"
+msgctxt "KStandardGuiItem|"
+msgid "Properties"
+msgstr "ځانتياوې"
+
+#: kstandardguiitem.cpp:304
+#, fuzzy
+#| msgid "&Overwrite"
+msgctxt "KStandardGuiItem|"
+msgid "&Overwrite"
+msgstr "ځاېناستول"
+
 #: ktimecombobox.cpp:252
 msgctxt "KTimeComboBox|@info"
 msgid "The time you entered is invalid"
@@ -4604,21 +5016,12 @@ msgstr ""
 #~ msgid "Create new document"
 #~ msgstr "...نوی بچوی جوړول"
 
-#~ msgid "&Open..."
-#~ msgstr "...پرانيستل"
-
 #~ msgid "Open &Recent"
 #~ msgstr "اوسني &پرانيستل"
-
-#~ msgid "&Save"
-#~ msgstr "ساتل"
 
 #, fuzzy
 #~ msgid "Save document"
 #~ msgstr "لاسوند بندول"
-
-#~ msgid "Save &As..."
-#~ msgstr "...ساتل &په"
 
 #~ msgid "Re&vert"
 #~ msgstr "ب&ېرته"
@@ -4626,9 +5029,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Close document"
 #~ msgstr "لاسوند بندول"
-
-#~ msgid "&Print..."
-#~ msgstr "...چاپول"
 
 #, fuzzy
 #~ msgid "Print document"
@@ -4639,12 +5039,6 @@ msgstr ""
 
 #~ msgid "&Mail..."
 #~ msgstr "...ليک"
-
-#~ msgid "&Quit"
-#~ msgstr "وتل"
-
-#~ msgid "Quit application"
-#~ msgstr "کاريال بندول"
 
 #~ msgid "Re&do"
 #~ msgstr "بي&اکړ"
@@ -4665,9 +5059,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Paste clipboard content"
 #~ msgstr "مخکوت لېښل کيږي"
-
-#~ msgid "C&lear"
-#~ msgstr "پ&اکول"
 
 #~ msgid "Select &All"
 #~ msgstr "ټول &ټاکل"
@@ -5549,9 +5940,6 @@ msgstr ""
 #~ msgid "Fallback language:"
 #~ msgstr ":دوېمه ژبه"
 
-#~ msgid "Remove"
-#~ msgstr "ړنګول"
-
 #~ msgid "Tip of the Day"
 #~ msgstr "د ورځې نکته"
 
@@ -5648,9 +6036,6 @@ msgstr ""
 
 #~ msgid "Start replace"
 #~ msgstr "ځاېناستی پېلول"
-
-#~ msgid "&Find"
-#~ msgstr "لټول"
 
 #~ msgid "Start searching"
 #~ msgstr "پلټنه پېلول"
@@ -5819,9 +6204,6 @@ msgstr ""
 
 #~ msgid "Search"
 #~ msgstr "پلټون"
-
-#~ msgid "Stop"
-#~ msgstr "تمول"
 
 #~ msgid " Stalled "
 #~ msgstr " درېدلی"
@@ -6420,134 +6802,6 @@ msgstr ""
 #~ msgid "Cut"
 #~ msgstr "سکڼل"
 
-#~ msgid "&OK"
-#~ msgstr "هوکې"
-
-#~ msgid "&Cancel"
-#~ msgstr "بندول"
-
-#~ msgid "&Yes"
-#~ msgstr "هو"
-
-#~ msgid "Yes"
-#~ msgstr "هو"
-
-#~ msgid "&No"
-#~ msgstr "نه"
-
-#~ msgid "No"
-#~ msgstr "نه"
-
-#~ msgid "&Discard"
-#~ msgstr "پرېښودل"
-
-#~ msgid "Discard changes"
-#~ msgstr "بدلونونه پرېښودل"
-
-#~ msgid "Save data"
-#~ msgstr "اومتوک ساتل"
-
-#~ msgid "&Do Not Save"
-#~ msgstr "نه ساتل"
-
-#~ msgid "Do not save data"
-#~ msgstr "اومتوک نه ساتل"
-
-#~ msgid "Save file with another name"
-#~ msgstr "دوتنه په بل نوم ساتل"
-
-#~ msgid "&Apply"
-#~ msgstr "کارول"
-
-#~ msgid "Apply changes"
-#~ msgstr "بدلونونه کارول"
-
-#~ msgid "Administrator &Mode..."
-#~ msgstr "...پازوال &اکر"
-
-#~ msgid "Enter Administrator Mode"
-#~ msgstr "پازوال اکر ته ننوتل"
-
-#~ msgid "Clear input"
-#~ msgstr "ننوتۍ پاکول"
-
-#~ msgid "Clear the input in the edit field"
-#~ msgstr "د سمون ډګر ننوتۍ پاکول"
-
-#~ msgid "Show help"
-#~ msgstr "مرسته ښودل"
-
-#~ msgid "Close the current window or document"
-#~ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
-
-#, fuzzy
-#~ msgid "&Close Window"
-#~ msgstr "کړکۍ بندول غواړﺉ؟"
-
-#, fuzzy
-#~ msgid "Close the current window."
-#~ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
-
-#, fuzzy
-#~ msgid "&Close Document"
-#~ msgstr "لاسوند بندول"
-
-#, fuzzy
-#~ msgid "Close the current document."
-#~ msgstr "اوسنۍ کړکۍ يا لاسوند بندول"
-
-#~ msgid "&Defaults"
-#~ msgstr "تلوالې"
-
-#~ msgid "Reset all items to their default values"
-#~ msgstr "ټول توکي خپل تلواله ارزښتونو ته ګرځول"
-
-#~ msgid "Go forward one step"
-#~ msgstr "يو پړاو مخکې ورتلل"
-
-#~ msgid "Opens the print dialog to print the current document"
-#~ msgstr "د اوسني لاسوند د چاپولو لپاره د چاپ کړکۍ پرانيزي"
-
-#~ msgid "C&ontinue"
-#~ msgstr "پ&رمختلل"
-
-#~ msgid "Continue operation"
-#~ msgstr "چلښت پرمخبيول"
-
-#~ msgid "&Delete"
-#~ msgstr "ړنګول"
-
-#~ msgid "Delete item(s)"
-#~ msgstr "توکي ړنګول"
-
-#~ msgid "Open file"
-#~ msgstr "دوتنه پرانيستل"
-
-#~ msgid "&Reset"
-#~ msgstr "بياټاکل"
-
-#~ msgid "Reset configuration"
-#~ msgstr "سازونه بياټاکل"
-
-#~ msgctxt "Verb"
-#~ msgid "&Insert"
-#~ msgstr "ورننويستل"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "...ساز&ول"
-
-#~ msgid "Add"
-#~ msgstr "زياتول"
-
-#~ msgid "Test"
-#~ msgstr "ازموېل"
-
-#~ msgid "Properties"
-#~ msgstr "ځانتياوې"
-
-#~ msgid "&Overwrite"
-#~ msgstr "ځاېناستول"
-
 #~ msgid "Redo"
 #~ msgstr "بياکړ"
 
@@ -6624,9 +6878,6 @@ msgstr ""
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "پرون"
-
-#~ msgid "&Help"
-#~ msgstr "مرسته"
 
 #~ msgid "Clear &History"
 #~ msgstr "مخينه &پاکول"
