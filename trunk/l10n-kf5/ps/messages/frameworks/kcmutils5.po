@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-02 08:08+0000\n"
+"POT-Creation-Date: 2014-08-02 08:13+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -418,7 +418,7 @@ msgstr "په اړه %1 د"
 msgid "Select Components"
 msgstr "رغتوکي ټاکل"
 
-#: ksettings/dialog.cpp:230
+#: ksettings/dialog.cpp:231
 msgid "Enable component"
 msgstr "رغتوکی توانول"
 
