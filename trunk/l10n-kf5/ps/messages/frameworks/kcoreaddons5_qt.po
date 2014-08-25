@@ -223,7 +223,7 @@ msgstr ""
 "ليکلی وو %1\n"
 "%2"
 
-#: lib/plugin/kpluginloader.cpp:119
+#: lib/plugin/kpluginloader.cpp:121
 #, fuzzy, qt-format
 #| msgid "The library does not export a factory for creating components."
 msgctxt "KPluginLoader|"
