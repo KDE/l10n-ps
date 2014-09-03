@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-22 08:13+0000\n"
+"POT-Creation-Date: 2014-09-03 07:53+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1566,7 +1566,7 @@ msgstr "دې پاڼې لپاره ک&له هم نه"
 msgid "Do &not store this time"
 msgstr "دا استوزه بيا نه ښودل"
 
-#: xml/dom_docimpl.cpp:2380
+#: xml/dom_docimpl.cpp:2368
 msgid "Basic Page Style"
 msgstr "بنسټيز مخ ډول"
 
