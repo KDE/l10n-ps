@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-24 08:50+0000\n"
+"POT-Creation-Date: 2014-09-06 08:12+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -23,11 +23,11 @@ msgstr ""
 msgid "Manage Link"
 msgstr "تړنه سمبالول"
 
-#: dialogs/klinkdialog.cpp:59
+#: dialogs/klinkdialog.cpp:60
 msgid "Link Text:"
 msgstr ":د تړنۍ ليکنه"
 
-#: dialogs/klinkdialog.cpp:62
+#: dialogs/klinkdialog.cpp:63
 msgid "Link URL:"
 msgstr ":URL د تړنې"
 
