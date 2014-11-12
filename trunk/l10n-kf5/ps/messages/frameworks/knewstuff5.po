@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-23 08:00+0000\n"
+"POT-Creation-Date: 2014-11-12 07:56+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -100,27 +100,27 @@ msgstr ""
 msgid "Error initializing provider."
 msgstr ""
 
-#: core/engine.cpp:212 core/engine.cpp:527
+#: core/engine.cpp:212 core/engine.cpp:529
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "څېرمه کړنلار لېښل کيږي"
 
-#: core/engine.cpp:240
+#: core/engine.cpp:242
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:245
+#: core/engine.cpp:247
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: core/engine.cpp:487
+#: core/engine.cpp:489
 #, kde-format
 msgid "Re: %1"
 msgstr "%1 بيا:"
 
-#: core/engine.cpp:529
+#: core/engine.cpp:531
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -128,7 +128,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "مخکوت لېښل کيږي"
 msgstr[1] "مخکوت لېښل کيږي"
 
-#: core/engine.cpp:531 ui/itemsgridviewdelegate.cpp:334
+#: core/engine.cpp:533 ui/itemsgridviewdelegate.cpp:334
 #: ui/itemsviewdelegate.cpp:128
 #, fuzzy
 #| msgid "Install"
@@ -481,76 +481,76 @@ msgstr "اوسمهالول"
 msgid "Install Again"
 msgstr "لګول"
 
-#: uploaddialog.cpp:63
+#: uploaddialog.cpp:66
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "راتلونکی"
 
-#: uploaddialog.cpp:68
+#: uploaddialog.cpp:71
 msgid "Finish"
 msgstr "پای"
 
-#: uploaddialog.cpp:174
+#: uploaddialog.cpp:177
 #, fuzzy
 #| msgid "Provider information"
 msgid "Fetching provider information..."
 msgstr "د برابرووني خبرتياوې"
 
-#: uploaddialog.cpp:181
+#: uploaddialog.cpp:184
 msgid "Fetching license data from server..."
 msgstr ""
 
-#: uploaddialog.cpp:188
+#: uploaddialog.cpp:191
 msgid "Fetching content data from server..."
 msgstr ""
 
-#: uploaddialog.cpp:263
+#: uploaddialog.cpp:266
 #, fuzzy
 #| msgid "Provider information"
 msgid "Could not fetch provider information."
 msgstr "د برابرووني خبرتياوې"
 
-#: uploaddialog.cpp:287
+#: uploaddialog.cpp:290
 msgid "Register a new account"
 msgstr ""
 
-#: uploaddialog.cpp:311
+#: uploaddialog.cpp:314
 #, fuzzy
 #| msgid "Check Spelling..."
 msgid "Checking login..."
 msgstr "...ليکدود کتل"
 
-#: uploaddialog.cpp:333
+#: uploaddialog.cpp:336
 #, fuzzy
 #| msgid "Loading Preview"
 msgid "Fetching your previously updated content..."
 msgstr "مخکوت لېښل کيږي"
 
-#: uploaddialog.cpp:336
+#: uploaddialog.cpp:339
 #, fuzzy
 #| msgid "Save Login Information"
 msgid "Could not verify login, please try again."
 msgstr "ننوت خبرتياوې ساتل"
 
-#: uploaddialog.cpp:355
+#: uploaddialog.cpp:358
 msgid "Fetching your previously updated content finished."
 msgstr ""
 
-#: uploaddialog.cpp:373
+#: uploaddialog.cpp:376
 msgid "Fetching content data from server finished."
 msgstr ""
 
-#: uploaddialog.cpp:396 uploaddialog.cpp:835
+#: uploaddialog.cpp:399 uploaddialog.cpp:838
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:442 uploaddialog.ui:14
+#: uploaddialog.cpp:445 uploaddialog.ui:14
 msgid "Share Hot New Stuff"
 msgstr "نوي سره شيان وونډوﺉ"
 
-#: uploaddialog.cpp:465
+#: uploaddialog.cpp:468
 #, fuzzy, kde-format
 #| msgctxt "Program name followed by 'Add On Installer'"
 #| msgid "%1 Add-On Installer"
@@ -558,19 +558,19 @@ msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "پر-زياتووني لګاند %1"
 
-#: uploaddialog.cpp:485 uploaddialog.cpp:760
+#: uploaddialog.cpp:488 uploaddialog.cpp:763
 #, fuzzy, kde-format
 #| msgid "File %1 not found."
 msgid "File not found: %1"
 msgstr ".دوتنه ونه موندل شوه %1"
 
-#: uploaddialog.cpp:485 uploaddialog.cpp:611 uploaddialog.cpp:760
+#: uploaddialog.cpp:488 uploaddialog.cpp:614 uploaddialog.cpp:763
 #, fuzzy
 #| msgid "Download"
 msgid "Upload Failed"
 msgstr "رالېښنې"
 
-#: uploaddialog.cpp:565
+#: uploaddialog.cpp:568
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -581,38 +581,38 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: uploaddialog.cpp:568
+#: uploaddialog.cpp:571
 msgid "Error"
 msgstr "تېروتنه"
 
-#: uploaddialog.cpp:611
+#: uploaddialog.cpp:614
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr ""
 
-#: uploaddialog.cpp:660 uploaddialog.cpp:675 uploaddialog.cpp:689
+#: uploaddialog.cpp:663 uploaddialog.cpp:678 uploaddialog.cpp:692
 #, fuzzy
 #| msgid "Select Region of Image"
 msgid "Select preview image"
 msgstr "د انځور سيمه وټاکﺉ"
 
-#: uploaddialog.cpp:704
+#: uploaddialog.cpp:707
 msgid "There was a network error."
 msgstr ""
 
-#: uploaddialog.cpp:704 uploaddialog.cpp:709
+#: uploaddialog.cpp:707 uploaddialog.cpp:712
 #, fuzzy
 #| msgid "Download"
 msgid "Uploading Failed"
 msgstr "رالېښنې"
 
-#: uploaddialog.cpp:709
+#: uploaddialog.cpp:712
 #, fuzzy
 #| msgid "Communication error"
 msgid "Authentication error."
 msgstr "د اړيکې تېروتنه"
 
-#: uploaddialog.cpp:719
+#: uploaddialog.cpp:722
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "Upload failed: %1"
