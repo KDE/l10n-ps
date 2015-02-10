@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-02-10 09:59+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -46,6 +46,13 @@ msgstr "تلواله"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
+
+#: kconfigdialog.cpp:45
+#, fuzzy
+#| msgid "Configure"
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "سازول"
 
 #: klanguagebutton.cpp:194
 msgid "without name"
@@ -528,6 +535,42 @@ msgstr "په اړه %1 د"
 #: kstandardaction_p.h:115
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
+
+#: ktipdialog.cpp:239
+#, fuzzy
+#| msgid "Tip of the Day"
+msgctxt "@title:window"
+msgid "Tip of the Day"
+msgstr "د ورځې نکته"
+
+#: ktipdialog.cpp:255
+#, fuzzy
+#| msgid "Did you know...?\n"
+msgctxt "@title"
+msgid "Did you know...?\n"
+msgstr "تاسو پوهېدﺉ...؟\n"
+
+#: ktipdialog.cpp:307
+#, fuzzy
+#| msgid "&Show tips on startup"
+msgctxt "@option:check"
+msgid "&Show tips on startup"
+msgstr "په پېلنګ کې نکتې ښودل"
+
+#: ktipdialog.cpp:312
+#, fuzzy
+#| msgid "&Previous"
+msgctxt "@action:button Goes to previous tip"
+msgid "&Previous"
+msgstr "مخکنی"
+
+#: ktipdialog.cpp:317
+#, fuzzy
+#| msgctxt "Opposite to Previous"
+#| msgid "&Next"
+msgctxt "@action:button Goes to next tip, opposite to previous"
+msgid "&Next"
+msgstr "راتلوکی&"
 
 #~ msgid "Name"
 #~ msgstr "نوم"
@@ -3032,9 +3075,6 @@ msgstr "د &کډي په اړه"
 #~ msgid "Close Message"
 #~ msgstr "استوزه بندول"
 
-#~ msgid "Configure"
-#~ msgstr "سازول"
-
 #~ msgid "Job"
 #~ msgstr "دنده"
 
@@ -3536,18 +3576,6 @@ msgstr "د &کډي په اړه"
 
 #~ msgid "Remove"
 #~ msgstr "ړنګول"
-
-#~ msgid "Tip of the Day"
-#~ msgstr "د ورځې نکته"
-
-#~ msgid "Did you know...?\n"
-#~ msgstr "تاسو پوهېدﺉ...؟\n"
-
-#~ msgid "&Show tips on startup"
-#~ msgstr "په پېلنګ کې نکتې ښودل"
-
-#~ msgid "&Previous"
-#~ msgstr "مخکنی"
 
 #~ msgctxt "Opposite to Previous"
 #~ msgid "&Next"
@@ -6896,12 +6924,6 @@ msgstr "د &کډي په اړه"
 #~| msgid "Find"
 #~ msgid "F&ind:"
 #~ msgstr "لټول"
-
-#, fuzzy
-#~| msgctxt "Opposite to Previous"
-#~| msgid "&Next"
-#~ msgid "&Next"
-#~ msgstr "راتلوکی&"
 
 #, fuzzy
 #~| msgid "Options"
