@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-03-05 09:24+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -18,6 +18,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ستاسو نومونه"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "zabeehkhan@gmail.com"
+
+#: kpackagelauncherqml/main.cpp:42
+msgid "KPackage QML application shell"
+msgstr ""
+
+#: kpackagelauncherqml/main.cpp:50
+#, fuzzy
+#| msgid "defines the application font"
+msgid "The unique name of the application (mandatory)"
+msgstr "د کاريال ليکبڼه ټاکي"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 msgid ""
@@ -103,14 +121,6 @@ msgstr "نا اڼلي"
 #~| msgid "Select All"
 #~ msgid "Select All"
 #~ msgstr "ټول ټاکل"
-
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "ستاسو نومونه"
-
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "zabeehkhan@gmail.com"
 
 #~ msgid "Name"
 #~ msgstr "نوم"
@@ -864,9 +874,6 @@ msgstr "نا اڼلي"
 
 #~ msgid "Restore the application for the given 'sessionId'"
 #~ msgstr "کاريال د ورکړل شوې 'ناستې پېژند' لپاره بيازېرمل"
-
-#~ msgid "defines the application font"
-#~ msgstr "د کاريال ليکبڼه ټاکي"
 
 #~ msgid "sets the default foreground color"
 #~ msgstr "د تلواله پاسليد رنګ ټاکي"
