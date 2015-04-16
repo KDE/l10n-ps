@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-12 07:56+0000\n"
+"POT-Creation-Date: 2015-04-16 08:32+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -385,6 +385,114 @@ msgstr ""
 #: ui/itemsviewdelegate.cpp:148
 msgid "Install"
 msgstr "لګول"
+
+#: kmoretools/kmoretools.cpp:590
+#, fuzzy
+#| msgid "Choose..."
+msgctxt "@action:inmenu"
+msgid "More"
+msgstr "ټاکل..."
+
+#: kmoretools/kmoretools.cpp:605
+#, fuzzy
+#| msgid "Install"
+msgctxt "@action:inmenu"
+msgid "Not installed:"
+msgstr "لګول"
+
+#: kmoretools/kmoretools.cpp:641
+#, fuzzy
+#| msgid "Confi&gure..."
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "...ساز&ول"
+
+#: kmoretools/kmoretools_p.h:370
+#, fuzzy
+#| msgid "Homepage"
+msgctxt "@action:inmenu"
+msgid "Visit homepage"
+msgstr "کورپاڼه"
+
+#: kmoretools/kmoretools_p.h:377
+#, fuzzy
+#| msgid "There is no matching item available.\n"
+msgctxt "@action:inmenu"
+msgid "No further information available."
+msgstr "کوم ساری توکی شتون نه لري.\n"
+
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:191
+#, fuzzy
+#| msgid "Configure"
+msgid "Configure menu"
+msgstr "سازول"
+
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:193
+#, fuzzy, kde-format
+#| msgid "&Configure %1..."
+msgid "Configure menu - %1"
+msgstr "...سازول %1"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:25
+#, fuzzy
+#| msgid "MainWindow"
+msgid "Main section"
+msgstr "ارهکړکۍ"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveDown)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:58
+#, fuzzy
+#| msgid "Move &Down"
+msgid "Move down"
+msgstr "ښکته &خوځول"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveUp)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:79
+#, fuzzy
+#| msgid "Move &Up"
+msgid "Move up"
+msgstr "بره &خوځول"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMain)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:100
+#, fuzzy
+#| msgid "Move to Trash"
+msgid "Move to Main section"
+msgstr "خځلنۍ ته لېږل"
+
+#. i18n: ectx: property (text), widget (QToolButton, buttonMoveToMore)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:121
+#, fuzzy
+#| msgid "Action"
+msgid "Move to More section"
+msgstr "چار"
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonReset)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:142
+msgid "Reset"
+msgstr "بياټاکل"
+
+#. i18n: ectx: property (title), widget (QGroupBox, gbMoreSection)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:161
+#, fuzzy
+#| msgid "Action"
+msgid "More section"
+msgstr "چار"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:213
+msgid ""
+"For this menu there are some more tools suggested which are currently not "
+"installed:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, buttonNotInstalledTools)
+#: kmoretools/ui/kmoretoolsconfigwidget.ui:223
+#, fuzzy
+#| msgid "Choose..."
+msgid "More tools..."
+msgstr "ټاکل..."
 
 #: ui/entrydetailsdialog.cpp:91
 #, fuzzy, kde-format
@@ -3266,9 +3374,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgid "Configure S&hortcuts..."
 #~ msgstr "...ل&نډلاري سازول"
 
-#~ msgid "&Configure %1..."
-#~ msgstr "...سازول %1"
-
 #~ msgid "Configure Tool&bars..."
 #~ msgstr "...توک&پټې سازول"
 
@@ -3436,11 +3541,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid "Email contributor"
 #~ msgstr ":نور ګډونوال"
-
-#, fuzzy
-#~| msgid "Homepage"
-#~ msgid "Visit contributor's homepage"
-#~ msgstr "کورپاڼه"
 
 #, fuzzy
 #~| msgid "Other Contributors:"
@@ -3625,9 +3725,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "Close Message"
 #~ msgstr "استوزه بندول"
-
-#~ msgid "Configure"
-#~ msgstr "سازول"
 
 #~ msgid "Job"
 #~ msgstr "دنده"
@@ -3857,9 +3954,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgid "Reset Toolbars"
 #~ msgstr "توکپټې بياټاکل"
 
-#~ msgid "Reset"
-#~ msgstr "بياټاکل"
-
 #~ msgid "&Toolbar:"
 #~ msgstr ":توکپټه"
 
@@ -3999,11 +4093,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "Delete"
 #~ msgstr "ړنګول"
-
-#, fuzzy
-#~| msgid "Action"
-#~ msgid "More Actions"
-#~ msgstr "چار"
 
 #, fuzzy
 #~| msgid "&Defaults"
@@ -5084,9 +5173,6 @@ msgstr "ځاېناستی پېلول"
 #~ "بشپړېدنه نا څرګنده ده، د يو نه ډېر\n"
 #~ "ساري شتون لري.\n"
 
-#~ msgid "There is no matching item available.\n"
-#~ msgstr "کوم ساری توکی شتون نه لري.\n"
-
 #~ msgid "Backspace"
 #~ msgstr "شاتشه"
 
@@ -5254,9 +5340,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "ورننويستل"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "...ساز&ول"
 
 #~ msgid "Add"
 #~ msgstr "زياتول"
@@ -6169,12 +6252,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "&Remove"
 #~ msgstr "ړنګول"
-
-#~ msgid "Move &Up"
-#~ msgstr "بره &خوځول"
-
-#~ msgid "Move &Down"
-#~ msgstr "ښکته &خوځول"
 
 #~ msgid "&Help"
 #~ msgstr "مرسته"
@@ -8529,11 +8606,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgstr "سېبېسټين ساور"
 
 #, fuzzy
-#~| msgid "MainWindow"
-#~ msgid "Maintainer"
-#~ msgstr "ارهکړکۍ"
-
-#, fuzzy
 #~| msgid "Tobias Anton"
 #~ msgid "Tobias Koenig"
 #~ msgstr "ټوبياس اېنټن"
@@ -8656,14 +8728,6 @@ msgstr "ځاېناستی پېلول"
 #~| msgid "Enter"
 #~ msgid "After"
 #~ msgstr "ليکل"
-
-#, fuzzy
-#~| msgid "Choose..."
-#~ msgctxt ""
-#~ "@option:check An item in a list of resources that allows to query for "
-#~ "more resources to put in the list"
-#~ msgid "More..."
-#~ msgstr "ټاکل..."
 
 #, fuzzy
 #~| msgctxt "@action"
@@ -11294,9 +11358,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "New Folder..."
 #~ msgstr "...نوې پوښۍ"
-
-#~ msgid "Move to Trash"
-#~ msgstr "خځلنۍ ته لېږل"
 
 #~ msgid "Sorting"
 #~ msgstr "اڼل کيږي"
