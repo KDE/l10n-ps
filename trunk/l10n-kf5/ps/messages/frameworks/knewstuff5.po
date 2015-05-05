@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-03 08:53+0000\n"
+"POT-Creation-Date: 2015-05-05 12:18+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -407,14 +407,14 @@ msgctxt "@action:inmenu"
 msgid "Configure..."
 msgstr "...ساز&ول"
 
-#: kmoretools/kmoretools_p.h:366
+#: kmoretools/kmoretools_p.h:382
 #, fuzzy
 #| msgid "Homepage"
 msgctxt "@action:inmenu"
 msgid "Visit homepage"
 msgstr "کورپاڼه"
 
-#: kmoretools/kmoretools_p.h:373
+#: kmoretools/kmoretools_p.h:389
 #, fuzzy
 #| msgid "There is no matching item available.\n"
 msgctxt "@action:inmenu"
