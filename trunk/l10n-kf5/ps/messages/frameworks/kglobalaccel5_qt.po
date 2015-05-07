@@ -72,6 +72,17 @@ msgctxt "KGlobalAccel|"
 msgid "Conflict With Registered Global Shortcut"
 msgstr "د سراسر لنډلار سره ټکر"
 
+#: runtime/main.cpp:61 runtime/main.cpp:63
+msgctxt "QObject|"
+msgid "KDE Global Shortcuts Service"
+msgstr ""
+
+#: runtime/main.cpp:66 runtime/main.cpp:67
+#, fuzzy
+msgctxt "QObject|"
+msgid "Maintainer"
+msgstr "ارهکړکۍ"
+
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
 #~ msgstr "ستاسو نومونه"
@@ -7738,10 +7749,6 @@ msgstr "د سراسر لنډلار سره ټکر"
 #, fuzzy
 #~ msgid "Sebastian Trüg"
 #~ msgstr "سېبېسټين ساور"
-
-#, fuzzy
-#~ msgid "Maintainer"
-#~ msgstr "ارهکړکۍ"
 
 #, fuzzy
 #~ msgid "Tobias Koenig"
