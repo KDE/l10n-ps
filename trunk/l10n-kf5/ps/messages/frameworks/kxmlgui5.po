@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-07 11:57+0000\n"
+"POT-Creation-Date: 2015-08-01 08:57+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -686,8 +686,8 @@ msgstr[0] "د سراسر لنډلار سره ټکر"
 msgstr[1] "د سراسر لنډلار سره ټکر"
 
 #: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:233
-#: kkeysequencewidget.cpp:619 kshortcutseditor.cpp:622
-#: kshortcutseditor.cpp:640
+#: kkeysequencewidget.cpp:619 kshortcutseditor.cpp:624
+#: kshortcutseditor.cpp:642
 msgid "Reassign"
 msgstr "بياټاکل"
 
@@ -989,59 +989,59 @@ msgstr "د موږک تڼۍ اشاره"
 msgid "Mouse Shape Gesture"
 msgstr "د موږک سيکه اشاره"
 
-#: kshortcutseditor.cpp:617 kshortcutseditor.cpp:635
+#: kshortcutseditor.cpp:619 kshortcutseditor.cpp:637
 msgid "Key Conflict"
 msgstr "کيلۍ ټکر"
 
-#: kshortcutseditor.cpp:618
+#: kshortcutseditor.cpp:620
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:636
+#: kshortcutseditor.cpp:638
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:683
+#: kshortcutseditor.cpp:685
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "لپاره لنډلار %1 د"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:701 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:703 kshortcutwidget.ui:22
 msgid "Main:"
 msgstr ":ار"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:702 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:704 kshortcutwidget.ui:52
 msgid "Alternate:"
 msgstr ":دوېمګړی"
 
-#: kshortcutseditor.cpp:703
+#: kshortcutseditor.cpp:705
 msgid "Global:"
 msgstr "سراسر:"
 
-#: kshortcutseditor.cpp:704
+#: kshortcutseditor.cpp:706
 #, fuzzy
 #| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "سراسر دوېمګړی"
 
-#: kshortcutseditor.cpp:719
+#: kshortcutseditor.cpp:721
 msgid "Action Name"
 msgstr "چار نوم"
 
-#: kshortcutseditor.cpp:723
+#: kshortcutseditor.cpp:725
 msgid "Shortcuts"
 msgstr "لنډلاري"
 
-#: kshortcutseditor.cpp:727
+#: kshortcutseditor.cpp:729
 msgid "Description"
 msgstr "سپړاوی"
 
