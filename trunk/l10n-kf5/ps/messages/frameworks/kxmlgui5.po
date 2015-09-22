@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-25 10:49+0000\n"
+"POT-Creation-Date: 2015-09-22 09:57+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -886,44 +886,58 @@ msgstr "تلوالې&"
 msgid "Export Scheme..."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:101
+#: kshortcutschemeseditor.cpp:86
+#, fuzzy
+#| msgid "Shortcuts"
+msgid "Import Scheme..."
+msgstr "لنډلاري"
+
+#: kshortcutschemeseditor.cpp:102
 msgid "Name for New Scheme"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:103
 #, fuzzy
 #| msgid "Curr&ent actions:"
 msgid "Name for new scheme:"
 msgstr ":اوس&ني چارونه"
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:103
 #, fuzzy
 #| msgid "Curr&ent actions:"
 msgid "New Scheme"
 msgstr ":اوس&ني چارونه"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, fuzzy
 #| msgid "The tag %1 already exists"
 msgid "A scheme with this name already exists."
 msgstr "بچوی د مخکې نه شتون لري %1"
 
-#: kshortcutschemeseditor.cpp:137
+#: kshortcutschemeseditor.cpp:138
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:167
+#: kshortcutschemeseditor.cpp:168
 #, fuzzy
-#| msgid "Click to Edit Location"
-msgid "Export to Location"
-msgstr "د ځای د سمولو لپاره کېکاږﺉ"
+#| msgid "Shortcuts"
+msgid "Export Shortcuts"
+msgstr "لنډلاري"
 
-#: kshortcutschemeseditor.cpp:175
-msgid "Could not export shortcuts scheme because the location is invalid."
-msgstr ""
+#: kshortcutschemeseditor.cpp:168 kshortcutschemeseditor.cpp:179
+#, fuzzy
+#| msgid "Shortcut conflict"
+msgid "Shortcuts (*.shortcuts)"
+msgstr "لنډلاري ټکر"
+
+#: kshortcutschemeseditor.cpp:179
+#, fuzzy
+#| msgid "Shortcuts"
+msgid "Import Shortcuts"
+msgstr "لنډلاري"
 
 #: kshortcutsdialog.cpp:85
 msgid ""
@@ -1279,6 +1293,11 @@ msgstr "امستنې"
 #: ui_standards.rc:194
 msgid "Main Toolbar"
 msgstr "اره توکپټه"
+
+#, fuzzy
+#~| msgid "Click to Edit Location"
+#~ msgid "Export to Location"
+#~ msgstr "د ځای د سمولو لپاره کېکاږﺉ"
 
 #, fuzzy
 #~| msgid ""
@@ -11007,11 +11026,6 @@ msgstr "اره توکپټه"
 #~| msgid "Conflict with Global Shortcut"
 #~ msgid "Conflict With Registered Global Shortcut(s)"
 #~ msgstr "د سراسر لنډلار سره ټکر"
-
-#, fuzzy
-#~| msgid "Shortcut conflict"
-#~ msgid "Shortcut Conflict(s)"
-#~ msgstr "لنډلاري ټکر"
 
 #~ msgid "tagcloudtest"
 #~ msgstr "tagcloudtest"
