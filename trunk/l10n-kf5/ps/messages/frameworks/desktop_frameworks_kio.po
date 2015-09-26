@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-20 09:13+0000\n"
+"POT-Creation-Date: 2015-09-26 09:24+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "پټياد پاکوونکی HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:50
+#: src/ioslaves/http/http_cache_cleaner.desktop:51
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "پټياد څخه زړې ننوتنې پاکوي HTTP د"
@@ -80,7 +80,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr ""
 
-#: src/kcms/kio/cache.desktop:133
+#: src/kcms/kio/cache.desktop:134
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -90,12 +90,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:49
+#: src/kcms/kio/cookies.desktop:51
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:131
+#: src/kcms/kio/cookies.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -377,7 +377,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:136
+#: src/kcms/webshortcuts/webshortcuts.desktop:137
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -392,32 +392,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
 
-#: src/kpac/proxyscout.notifyrc:49
+#: src/kpac/proxyscout.notifyrc:50
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "ناسم ګوډاګی سکرېپټ"
 
-#: src/kpac/proxyscout.notifyrc:93
+#: src/kpac/proxyscout.notifyrc:95
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "رالېښل شوی ګوډاګي سازونې سکرېپټ ناسم دی"
 
-#: src/kpac/proxyscout.notifyrc:141
+#: src/kpac/proxyscout.notifyrc:144
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "د سکرېپټ رالېښنې تېروتنه"
 
-#: src/kpac/proxyscout.notifyrc:185
+#: src/kpac/proxyscout.notifyrc:189
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "د ګوډاګي د سازونې سکرېپټ رالېښل کېدی نه شي"
 
-#: src/kpac/proxyscout.notifyrc:234
+#: src/kpac/proxyscout.notifyrc:239
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: src/kpac/proxyscout.notifyrc:276
+#: src/kpac/proxyscout.notifyrc:282
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "د ګوډاګي سازونې سکرېپټ په چلولو کې ستونزه رامنځته شوه"
@@ -502,7 +502,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:33
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:34
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr ""
@@ -1055,7 +1055,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:36
+#: src/urifilters/ikws/searchproviders/grec.desktop:38
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr ""
@@ -1212,7 +1212,7 @@ msgctxt "Name"
 msgid "KDE Projects"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_projects.desktop:56
+#: src/urifilters/ikws/searchproviders/kde_projects.desktop:57
 msgctxt "Query"
 msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 msgstr ""
@@ -1222,7 +1222,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:73
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:72
 msgctxt "Query"
 msgid "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr ""
@@ -1417,7 +1417,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:56
+#: src/urifilters/ikws/searchproviders/qt4.desktop:57
 msgctxt "Query"
 msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
 msgstr ""
@@ -1437,7 +1437,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:40
+#: src/urifilters/ikws/searchproviders/qwant.desktop:41
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr ""
@@ -1447,7 +1447,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:40
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:41
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr ""
@@ -1457,7 +1457,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:40
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:41
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr ""
@@ -1467,7 +1467,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:40
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:41
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr ""
@@ -1477,7 +1477,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:40
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:41
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr ""
@@ -1487,7 +1487,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:40
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:42
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr ""
