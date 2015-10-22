@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-20 10:05+0000\n"
+"POT-Creation-Date: 2015-10-22 08:39+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -18,14 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
-
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ستاسو نومونه"
-
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "zabeehkhan@gmail.com"
 
 #: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:271
 #, kde-format
@@ -783,6 +775,16 @@ msgstr ""
 #| msgid "Unsorted"
 msgid "Unsupported Key"
 msgstr "نا اڼلي"
+
+#: kmainwindow.cpp:213
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ستاسو نومونه"
+
+#: kmainwindow.cpp:214
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "zabeehkhan@gmail.com"
 
 #: kmenumenuhandler_p.cpp:50
 msgid "Add to Toolbar"
