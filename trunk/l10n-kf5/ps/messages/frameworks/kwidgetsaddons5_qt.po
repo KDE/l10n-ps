@@ -2486,24 +2486,7 @@ msgctxt "KMimeTypeChooser|"
 msgid "Click this button to display the familiar KDE mime type editor."
 msgstr "د نوې کړکۍ جوړولو لپاره دا تڼۍ کېکاږﺉ"
 
-#: knewpassworddialog.cpp:73
-msgctxt "KNewPasswordDialog|"
-msgid ""
-"The password strength meter gives an indication of the security of the "
-"password you have entered.  To improve the strength of the password, try:\n"
-" - using a longer password;\n"
-" - using a mixture of upper- and lower-case letters;\n"
-" - using numbers or symbols, such as #, as well as letters."
-msgstr ""
-
-#: knewpassworddialog.cpp:161
-#, fuzzy
-#| msgid "Password is empty"
-msgctxt "KNewPasswordDialog|"
-msgid "Password is empty"
-msgstr "تېرنويې تشه ده"
-
-#: knewpassworddialog.cpp:167
+#: knewpassworddialog.cpp:76
 #, fuzzy, qt-format
 #| msgid "Password must be at least 1 character long"
 #| msgid_plural "Password must be at least %1 characters long"
@@ -2513,35 +2496,35 @@ msgid_plural "Password must be at least %n character(s) long"
 msgstr[0] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
 msgstr[1] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
 
-#: knewpassworddialog.cpp:170
+#: knewpassworddialog.cpp:81
 #, fuzzy
-#| msgid "Passwords match"
+#| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
-msgid "Passwords match"
-msgstr "تېرنويې ساري دي"
+msgid "Password is empty"
+msgstr "تېرنويې تشه ده"
 
-#: knewpassworddialog.cpp:171 knewpassworddialog.ui:112
+#: knewpassworddialog.cpp:86 knewpassworddialog.ui:53
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords do not match"
 msgstr "تېرنويې ساري نه دي"
 
-#: knewpassworddialog.cpp:226
+#: knewpassworddialog.cpp:92
 #, fuzzy
-#| msgid "You entered two different passwords. Please try again."
+#| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
-msgid "You entered two different passwords. Please try again."
-msgstr "تاسو دوه بېلې تېرنويې وليکلې. لورينه وکړﺉ بيا هڅه وکړﺉ."
+msgid "Passwords match"
+msgstr "تېرنويې ساري دي"
 
-#: knewpassworddialog.cpp:236
+#: knewpassworddialog.cpp:139
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "د تېرنويې ټيټ کلکوالی"
 
-#: knewpassworddialog.cpp:237
+#: knewpassworddialog.cpp:140
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
@@ -2552,27 +2535,6 @@ msgid ""
 "\n"
 "Would you like to use this password anyway?"
 msgstr ""
-
-#: knewpassworddialog.ui:52
-#, fuzzy
-#| msgid "Password:"
-msgctxt "KNewPasswordDialog|"
-msgid "Password:"
-msgstr "تېرنويې"
-
-#: knewpassworddialog.ui:62
-#, fuzzy
-#| msgid "&Verify:"
-msgctxt "KNewPasswordDialog|"
-msgid "&Verify:"
-msgstr ":باورييل"
-
-#: knewpassworddialog.ui:90
-#, fuzzy
-#| msgid "Password strength meter:"
-msgctxt "KNewPasswordDialog|"
-msgid "Password strength meter:"
-msgstr ":د تېرنويې د کلکوالي ميټر"
 
 #: knewpasswordwidget.cpp:65
 msgctxt "KNewPasswordWidget|@info:whatsthis"
@@ -3179,6 +3141,30 @@ msgstr "ټوله پرده"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgid "You entered two different passwords. Please try again."
+#~ msgctxt "KNewPasswordDialog|"
+#~ msgid "You entered two different passwords. Please try again."
+#~ msgstr "تاسو دوه بېلې تېرنويې وليکلې. لورينه وکړﺉ بيا هڅه وکړﺉ."
+
+#, fuzzy
+#~| msgid "Password:"
+#~ msgctxt "KNewPasswordDialog|"
+#~ msgid "Password:"
+#~ msgstr "تېرنويې"
+
+#, fuzzy
+#~| msgid "&Verify:"
+#~ msgctxt "KNewPasswordDialog|"
+#~ msgid "&Verify:"
+#~ msgstr ":باورييل"
+
+#, fuzzy
+#~| msgid "Password strength meter:"
+#~ msgctxt "KNewPasswordDialog|"
+#~ msgid "Password strength meter:"
+#~ msgstr ":د تېرنويې د کلکوالي ميټر"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
