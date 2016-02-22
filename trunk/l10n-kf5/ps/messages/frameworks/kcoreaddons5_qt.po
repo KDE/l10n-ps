@@ -231,7 +231,7 @@ msgstr "دا کاريال د يو داسې وګړي لخوا جوړ شوی چې 
 #| "%1 was written by\n"
 #| "%2"
 msgctxt "KAboutData CLI|"
-msgid "%s was written by:\n"
+msgid "%s was written by:"
 msgstr ""
 "ليکلی وو %1\n"
 "%2"
@@ -247,7 +247,7 @@ msgstr ".وکاروﺉ http://bugs.kde.org لورينه وکړﺉ د کړاون�
 #, fuzzy
 #| msgid "Please report bugs to %1.\n"
 msgctxt "KAboutData CLI|"
-msgid "Please report bugs to %s.\n"
+msgid "Please report bugs to %s."
 msgstr ".ته راپور کړﺉ %1 لورينه وکړﺉ کړاونه\n"
 
 #: lib/plugin/kpluginloader.cpp:122
