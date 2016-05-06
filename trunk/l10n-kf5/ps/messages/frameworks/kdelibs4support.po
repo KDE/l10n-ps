@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-20 07:38+0000\n"
+"POT-Creation-Date: 2016-05-06 07:45+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -7096,14 +7096,14 @@ msgstr ""
 msgid "KDE-tempfile"
 msgstr "کډي-لنډمهالدوتنه"
 
-#: kdecore/kdatetime.cpp:1557 kdecore/kdatetime.cpp:1567
-#: kdecore/kdatetime.cpp:2975
+#: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
+#: kdecore/kdatetime.cpp:2985
 #, fuzzy
 msgid "am"
 msgstr "غ.م"
 
-#: kdecore/kdatetime.cpp:1557 kdecore/kdatetime.cpp:1567
-#: kdecore/kdatetime.cpp:2980
+#: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
+#: kdecore/kdatetime.cpp:2990
 msgid "pm"
 msgstr "غ.و"
 
