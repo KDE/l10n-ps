@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-19 08:34+0000\n"
+"POT-Creation-Date: 2016-08-01 07:32+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -535,6 +535,24 @@ msgstr "په اړه %1 د"
 #: kstandardaction_p.h:115
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
+
+#: kstandardaction_p.h:116
+#, fuzzy
+#| msgid "Delete File"
+msgid "&Delete File"
+msgstr "دوتنه ړنګول"
+
+#: kstandardaction_p.h:117
+#, fuzzy
+#| msgid "&Send Files"
+msgid "&Rename File"
+msgstr "دوتنې لېږل&"
+
+#: kstandardaction_p.h:118
+#, fuzzy
+#| msgid "Move to Trash"
+msgid "&Move to Trash"
+msgstr "خځلنۍ ته لېږل"
 
 #: ktipdialog.cpp:238
 #, fuzzy
@@ -6184,13 +6202,6 @@ msgstr "راتلوکی&"
 #~ msgid "Send Confirmation"
 #~ msgstr "د لېږلو باوريينه"
 
-#, fuzzy
-#~| msgid "&Send Files"
-#~ msgid "&Send File"
-#~ msgid_plural "&Send Files"
-#~ msgstr[0] "دوتنې لېږل&"
-#~ msgstr[1] "دوتنې لېږل&"
-
 #~ msgid "Submit"
 #~ msgstr "لېږل"
 
@@ -11066,9 +11077,6 @@ msgstr "راتلوکی&"
 #~ "<qt>تاسو په رښتيا غواړﺉ چې ويې ړنګوﺉ\n"
 #~ " <b>'%1'</b>؟</qt>"
 
-#~ msgid "Delete File"
-#~ msgstr "دوتنه ړنګول"
-
 #~ msgid "Delete Files"
 #~ msgstr "دوتنې ړنګول"
 
@@ -11114,9 +11122,6 @@ msgstr "راتلوکی&"
 
 #~ msgid "New Folder..."
 #~ msgstr "...نوې پوښۍ"
-
-#~ msgid "Move to Trash"
-#~ msgstr "خځلنۍ ته لېږل"
 
 #~ msgid "Sorting"
 #~ msgstr "اڼل کيږي"
