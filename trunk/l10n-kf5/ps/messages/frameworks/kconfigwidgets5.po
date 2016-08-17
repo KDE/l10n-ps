@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-01 07:32+0000\n"
+"POT-Creation-Date: 2016-08-17 06:33+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -553,6 +553,10 @@ msgstr "دوتنې لېږل&"
 #| msgid "Move to Trash"
 msgid "&Move to Trash"
 msgstr "خځلنۍ ته لېږل"
+
+#: kstandardaction_p.h:119
+msgid "&Donate"
+msgstr ""
 
 #: ktipdialog.cpp:238
 #, fuzzy
