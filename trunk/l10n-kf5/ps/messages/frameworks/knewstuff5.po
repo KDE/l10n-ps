@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-30 07:42+0000\n"
+"POT-Creation-Date: 2016-09-08 07:29+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -67,7 +67,7 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
 
-#: button.cpp:49
+#: button.cpp:51
 #, fuzzy
 #| msgid "Download New Stuff"
 msgid "Download New Stuff..."
@@ -227,11 +227,11 @@ msgid ""
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
-#: downloaddialog.cpp:80 downloadwidget.cpp:207
+#: downloaddialog.cpp:82 downloadwidget.cpp:207
 msgid "Get Hot New Stuff"
 msgstr "نوي سره شيان ترلاسه کړﺉ"
 
-#: downloaddialog.cpp:92
+#: downloaddialog.cpp:94
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
