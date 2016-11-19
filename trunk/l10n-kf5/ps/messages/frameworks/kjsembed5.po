@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:58+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -40,14 +40,14 @@ msgid "library only takes 1 argument, not %1."
 msgstr ".%1 کتابتون يوازې ۱ ارزښتمنۍ اخلي، نه"
 
 #: kjsembed/builtins.cpp:137
-#, fuzzy
+#, fuzzy, kde-format
 #| msgctxt "keyboard-key-name"
 #| msgid "Alt"
 msgid "Alert"
 msgstr "الټ"
 
 #: kjsembed/builtins.cpp:147
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Configure"
 msgid "Confirm"
 msgstr "سازول"
@@ -68,6 +68,7 @@ msgid "Could not open file '%1'"
 msgstr "دوتنه نه شي پرانيستلی '%1'"
 
 #: kjsembed/fileio.cpp:106
+#, kde-format
 msgid "Could not create temporary file."
 msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
@@ -82,14 +83,17 @@ msgid "%1 is not an Object type"
 msgstr "يو څيز ډول نه دی %1"
 
 #: kjsembed/qaction_binding.cpp:57
+#, kde-format
 msgid "Action takes 2 args."
 msgstr "چار ۲ ارزښتمنۍ اخلي."
 
 #: kjsembed/qaction_binding.cpp:79
+#, kde-format
 msgid "ActionGroup takes 2 args."
 msgstr "چارډله ۲ ارزښتمنۍ اخلي."
 
 #: kjsembed/qaction_binding.cpp:84
+#, kde-format
 msgid "Must supply a valid parent."
 msgstr ".سم پلرين ورکول اړين دی"
 
@@ -104,6 +108,7 @@ msgid "Could not read file '%1'"
 msgstr "دوتنه نه شي لوستلی '%1'"
 
 #: kjsembed/qformbuilder_binding.cpp:67 kjsembed/quiloader_binding.cpp:124
+#, kde-format
 msgid "Must supply a filename."
 msgstr ".دوتنه نوم ورکول اړين دي"
 
@@ -113,18 +118,22 @@ msgid "'%1' is not a valid QLayout."
 msgstr ".سمه ک.هډوانه نه ده '%1'"
 
 #: kjsembed/qlayout_binding.cpp:93
+#, kde-format
 msgid "Must supply a layout name."
 msgstr ".د هډوانې نوم ورکول اړين دي"
 
 #: kjsembed/qobject_binding.cpp:141
+#, kde-format
 msgid "Wrong object type."
 msgstr ".ناسم څيز ډول"
 
 #: kjsembed/qobject_binding.cpp:148
+#, kde-format
 msgid "First argument must be a QObject."
 msgstr "ښايي چې لومړۍ ارزښتمنۍ يو ک.څيز وي."
 
 #: kjsembed/qobject_binding.cpp:182
+#, kde-format
 msgid "Incorrect number of arguments."
 msgstr ".د ارزښتمنېو ناسم شمېر"
 
@@ -174,34 +183,42 @@ msgid "Call to '%1' failed."
 msgstr ".سره اړيکنيو پاتې راغی '%1'"
 
 #: kjsembed/qobject_binding.cpp:793
+#, kde-format
 msgid "Could not construct value"
 msgstr "ارزښت نه شي جوړولی"
 
 #: kjsembed/quiloader_binding.cpp:49
+#, kde-format
 msgid "Not enough arguments."
 msgstr ".بشپړې ارزښمنۍ نشته"
 
 #: kjsembed/quiloader_binding.cpp:68
+#, kde-format
 msgid "Failed to create Action."
 msgstr ".چار جوړولو کې پاتې راغی"
 
 #: kjsembed/quiloader_binding.cpp:82
+#, kde-format
 msgid "Failed to create ActionGroup."
 msgstr "د چارډلې په جوړولو کې پاتې راغی."
 
 #: kjsembed/quiloader_binding.cpp:90
+#, kde-format
 msgid "No classname specified"
 msgstr "پاړکی نوم نه دی ورکړل شوی"
 
 #: kjsembed/quiloader_binding.cpp:98
+#, kde-format
 msgid "Failed to create Layout."
 msgstr ".د هډوانې په جوړولو کې پاتې راغی"
 
 #: kjsembed/quiloader_binding.cpp:107
+#, kde-format
 msgid "No classname specified."
 msgstr ".پاړکی نوم نه دی ورکړل شوی"
 
 #: kjsembed/quiloader_binding.cpp:115
+#, kde-format
 msgid "Failed to create Widget."
 msgstr "د کارووني په جوړولو کې پاتې راغی."
 
@@ -221,6 +238,7 @@ msgid "'%1' is not a valid QWidget."
 msgstr "سم ک.کاروونی نه دی. '%1'"
 
 #: kjsembed/qwidget_binding.cpp:170
+#, kde-format
 msgid "Must supply a widget name."
 msgstr "د کارووني نوم ورکول اړين دي."
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-03 07:15+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,51 +19,53 @@ msgstr ""
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "ستاسو نومونه"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "zabeehkhan@gmail.com"
 
 #: console/main.cpp:99
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Kross"
 msgctxt "application name"
 msgid "Kross"
 msgstr "کراس"
 
 #: console/main.cpp:101
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "KDE application to run Kross scripts."
 msgctxt "application description"
 msgid "Command-line utility to run Kross scripts."
 msgstr "د کراس سکرېپټونو ځغلولو لپاره د کډي کاريال"
 
 #: console/main.cpp:103
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "(C) 2006 Sebastian Sauer"
 msgctxt "@info:credit"
 msgid "Copyright 2006 Sebastian Sauer"
 msgstr "چاپرښتې ۲۰۰۶ سېبېسټين ساور"
 
 #: console/main.cpp:107
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Sebastian Sauer"
 msgctxt "@info:credit"
 msgid "Sebastian Sauer"
 msgstr "سېبېسټين ساور"
 
 #: console/main.cpp:108
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@info:credit"
 msgid "Author"
 msgstr "ليکوال"
 
 #: console/main.cpp:118
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Description"
 msgctxt "@info:shell command-line argument"
 msgid "The script to run."
@@ -100,11 +102,12 @@ msgid "Failed to create script for interpreter \"%1\""
 msgstr "\"%1\" د ژباړونکي لپاره سکرېپټ جوړولو کې پاتی راغی"
 
 #: core/manager.cpp:145
+#, kde-format
 msgid "Level of safety of the Ruby interpreter"
 msgstr "د ربي ژباړونکي د خونديتوب کچه"
 
 #: modules/form.cpp:328
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "بندول"
@@ -115,75 +118,92 @@ msgid "No such function \"%1\""
 msgstr "\"%1\" داسې کړنه نشته"
 
 #: ui/actioncollectionview.cpp:175
+#, kde-format
 msgid "Name:"
 msgstr ":نوم"
 
 #: ui/actioncollectionview.cpp:183
+#, kde-format
 msgid "Text:"
 msgstr ":ليکنه"
 
 #: ui/actioncollectionview.cpp:190
+#, kde-format
 msgid "Comment:"
 msgstr ":څرګندون"
 
 #: ui/actioncollectionview.cpp:197
+#, kde-format
 msgid "Icon:"
 msgstr ":انځورن"
 
 #: ui/actioncollectionview.cpp:218
+#, kde-format
 msgid "Interpreter:"
 msgstr ":ژباړونکی"
 
 #: ui/actioncollectionview.cpp:234
+#, kde-format
 msgid "File:"
 msgstr ":دوتنه"
 
 #: ui/actioncollectionview.cpp:327
+#, kde-format
 msgid "Run"
 msgstr "ځغلول"
 
 #: ui/actioncollectionview.cpp:329
+#, kde-format
 msgid "Execute the selected script."
 msgstr ".ټاکل شوی سکرېپټ چلول"
 
 #: ui/actioncollectionview.cpp:334
+#, kde-format
 msgid "Stop"
 msgstr "تمول"
 
 #: ui/actioncollectionview.cpp:336
+#, kde-format
 msgid "Stop execution of the selected script."
 msgstr "د ټاکل شوي سکرېپټ چلونه تمول"
 
 #: ui/actioncollectionview.cpp:341
+#, kde-format
 msgid "Edit..."
 msgstr "...سمول"
 
 #: ui/actioncollectionview.cpp:343
+#, kde-format
 msgid "Edit selected script."
 msgstr "ټاکل شوی سکرېپټ سمول"
 
 #: ui/actioncollectionview.cpp:348
+#, kde-format
 msgid "Add..."
 msgstr "...زياتول"
 
 #: ui/actioncollectionview.cpp:350
+#, kde-format
 msgid "Add a new script."
 msgstr ".نوی سکرېپټ زياتول"
 
 #: ui/actioncollectionview.cpp:355
+#, kde-format
 msgid "Remove"
 msgstr "ړنګول"
 
 #: ui/actioncollectionview.cpp:357
+#, kde-format
 msgid "Remove selected script."
 msgstr ".ټاکل شوی سکرېپټ ړنګول"
 
 #: ui/actioncollectionview.cpp:550
+#, kde-format
 msgid "Edit"
 msgstr "سمون"
 
 #: ui/actioncollectionview.cpp:555
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "General"
 msgctxt "@title:group Script properties"
 msgid "General"

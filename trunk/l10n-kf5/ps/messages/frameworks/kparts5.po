@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-07 06:58+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,10 +19,12 @@ msgstr ""
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "ستاسو نومونه"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "zabeehkhan@gmail.com"
@@ -33,10 +35,12 @@ msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
 msgstr "<qt>لپاره اېنټرنېټ وپلټﺉ؟ <b>%1</b> تاسو غواړﺉ چې د</qt>"
 
 #: browserextension.cpp:242
+#, kde-format
 msgid "Internet Search"
 msgstr "اېنټرنېټ پلټون"
 
 #: browserextension.cpp:242
+#, kde-format
 msgid "&Search"
 msgstr "پلټون"
 
@@ -48,7 +52,7 @@ msgid "Type: %1"
 msgstr "%1 بيا:"
 
 #: browseropenorsavequestion.cpp:112
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
 msgid "Remember action for files of this type"
@@ -76,21 +80,21 @@ msgid "Open '%1'?"
 msgstr "پرانيستل '%1'"
 
 #: browseropenorsavequestion.cpp:246
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with..."
 msgstr "...پرانيستل په&"
 
 #: browseropenorsavequestion.cpp:266
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with"
 msgstr "...پرانيستل په&"
 
 #: browseropenorsavequestion.cpp:334
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "&Open"
 msgctxt "@label:button"
 msgid "&Open"
@@ -104,7 +108,7 @@ msgid "Name: %1"
 msgstr ":نوم"
 
 #: browseropenorsavequestion.cpp:361
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "This is the name to save the file as."
 msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
@@ -116,10 +120,12 @@ msgid "Do you really want to execute '%1'?"
 msgstr "په رښتيا چلول غواړﺉ؟ '%1'"
 
 #: browserrun.cpp:347
+#, kde-format
 msgid "Execute File?"
 msgstr "دوتنه چلول غواړﺉ؟"
 
 #: browserrun.cpp:347
+#, kde-format
 msgid "Execute"
 msgstr "چلول"
 
@@ -129,6 +135,7 @@ msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
 #: browserrun.cpp:406
+#, kde-format
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -139,18 +146,22 @@ msgstr ""
 "د کانکويرر سره به يې ټينګوالی وناتوانول شي."
 
 #: browserrun.cpp:432
+#, kde-format
 msgid "Save As"
 msgstr "ساتل په"
 
 #: htmlsettingsinterface.cpp:34
+#, kde-format
 msgid "Accept"
 msgstr "منل"
 
 #: htmlsettingsinterface.cpp:36
+#, kde-format
 msgid "Reject"
 msgstr "نه منل"
 
 #: readwritepart.cpp:93
+#, kde-format
 msgid "Untitled"
 msgstr "بېسرليکه"
 
@@ -164,6 +175,7 @@ msgstr ""
 "تاسو خپل بدلونونه ساتل غواړﺉ يا پرېښودل يې غواړﺉ؟"
 
 #: readwritepart.cpp:104
+#, kde-format
 msgid "Close Document"
 msgstr "لاسوند بندول"
 

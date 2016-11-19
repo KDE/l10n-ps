@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-19 08:55+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -19,58 +19,60 @@ msgstr ""
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "ستاسو نومونه"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "zabeehkhan@gmail.com"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:56
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "KBuildSycoca"
 msgctxt "application name"
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:58
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Rebuilds the system configuration cache."
 msgctxt "application description"
 msgid "Rebuilds the system configuration cache."
 msgstr "د غونډال سازونې پټياد بيا جوړوي."
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:60
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "(c) 1999-2002 KDE Developers"
 msgctxt "@info:credit"
 msgid "Copyright 1999-2014 KDE Developers"
 msgstr "چاپرښتې ۱۹۹۹-۲۰۰۲ د کډي پرمخبيونکي"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:61
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "David Faure"
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr "ډېوېډ فوري"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:62 kbuildsycoca/kbuildsycoca_main.cpp:65
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@info:credit"
 msgid "Author"
 msgstr "ليکوال"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:64
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Waldo Bastian"
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "وېلډو بېسټين"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:75
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Disable checking files (dangerous)"
 msgctxt "@info:shell command-line option"
 msgid ""
@@ -79,49 +81,53 @@ msgid ""
 msgstr "د دوتنو کتنه ناتوانول (وېروونکی)"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:78
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Disable incremental update, re-read everything"
 msgctxt "@info:shell command-line option"
 msgid "Disable incremental update, re-read everything"
 msgstr "انکرېمېنټل اوسمهالونه ناتوانول، هر څه بيا لوستل"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:81
+#, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Check file timestamps (deprecated, no longer having any effect)"
 msgstr ""
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:84
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Disable checking files (dangerous)"
 msgctxt "@info:shell command-line option"
 msgid "Disable checking files (deprecated, no longer having any effect)"
 msgstr "د دوتنو کتنه ناتوانول (وېروونکی)"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:87
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Create global database"
 msgctxt "@info:shell command-line option"
 msgid "Create global database"
 msgstr "سراسري توکبنسټ جوړول"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:90
+#, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Perform menu generation test run only"
 msgstr ""
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:93
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Track menu id for debug purposes"
 msgctxt "@info:shell command-line option"
 msgid "Track menu id for debug purposes"
 msgstr "د کړاوتمبونې لپاره د غورنۍ پېژند پلنيول"
 
 #: kbuildsycoca/kbuildsycoca_main.cpp:97
+#, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Switch QStandardPaths to test mode, for unit tests only"
 msgstr ""
 
 #: kdeinit/ktoolinvocation.cpp:66
+#, kde-format
 msgid "Function must be called from the main thread."
 msgstr "ښايي چې کړنې سره د ار مزي نه اړيکه ونيول شي."
 
@@ -151,11 +157,14 @@ msgstr ""
 "%1"
 
 #: kdeinit/ktoolinvocation_x11.cpp:252
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Could not Launch Mail Client"
 msgid "Could not launch Mail Client"
 msgstr "ليک پېرن نه شي پېلولی"
 
+#. i18n("Could not launch %1:\n\n%2", exe, error),
+#. i18n("Could not launch %1:\n\n%2", htmlApp->exec(), error),
+#. i18n("Could not launch %1:\n\n%2", exe, error),
 #: kdeinit/ktoolinvocation_x11.cpp:301 kdeinit/ktoolinvocation_x11.cpp:326
 #: kdeinit/ktoolinvocation_x11.cpp:345
 #, kde-format
@@ -170,7 +179,7 @@ msgstr ""
 
 #: kdeinit/ktoolinvocation_x11.cpp:302 kdeinit/ktoolinvocation_x11.cpp:327
 #: kdeinit/ktoolinvocation_x11.cpp:346
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Could not Launch Browser"
 msgid "Could not launch Browser"
 msgstr "لټوونی نه شي پېلولی"
@@ -187,7 +196,7 @@ msgstr ""
 "%1"
 
 #: kdeinit/ktoolinvocation_x11.cpp:386
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Could not Launch Terminal Client"
 msgid "Could not launch Terminal Client"
 msgstr "پايالي پېرن نه شي پېلولی"
@@ -198,6 +207,7 @@ msgid "No service implementing %1"
 msgstr ""
 
 #: services/kservice.cpp:1012
+#, kde-format
 msgid "The provided service is not valid"
 msgstr ""
 
