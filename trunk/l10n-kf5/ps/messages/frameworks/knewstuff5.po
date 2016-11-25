@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 20:12+0100\n"
+"POT-Creation-Date: 2016-11-25 03:09+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -145,23 +145,23 @@ msgstr[1] "مخکوت لېښل کيږي"
 msgid "Installing"
 msgstr "لګول"
 
-#: core/installation.cpp:187
+#: core/installation.cpp:197
 #, fuzzy, kde-format
 #| msgid "Invalid Filenames"
 msgid "Invalid item."
 msgstr "ناسم دوتنه نومونه"
 
-#: core/installation.cpp:194
+#: core/installation.cpp:204
 #, kde-format
 msgid "Download of item failed: no download URL for \"%1\"."
 msgstr ""
 
-#: core/installation.cpp:233
+#: core/installation.cpp:243
 #, kde-format
 msgid "Download of \"%1\" failed, error: %2"
 msgstr ""
 
-#: core/installation.cpp:243
+#: core/installation.cpp:253
 #, kde-format
 msgid ""
 "The downloaded file is a html file. This indicates a link to a website "
@@ -169,30 +169,30 @@ msgid ""
 "browser instead?"
 msgstr ""
 
-#: core/installation.cpp:244
+#: core/installation.cpp:254
 #, fuzzy, kde-format
 #| msgid "Could not create temporary file."
 msgid "Possibly bad download link"
 msgstr ".لنډمهاله دوتنه نه شي جوړولی"
 
-#: core/installation.cpp:247
+#: core/installation.cpp:257
 #, kde-format
 msgid "Downloaded file was a HTML file. Opened in browser."
 msgstr ""
 
-#: core/installation.cpp:310
+#: core/installation.cpp:320
 #, fuzzy, kde-format
 #| msgid "Could not install %1"
 msgid "Could not install \"%1\": file not found."
 msgstr "نه شي لګولی %1"
 
-#: core/installation.cpp:545
+#: core/installation.cpp:555
 #, fuzzy, kde-format
 #| msgid "Overwrite File?"
 msgid "Overwrite existing file?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
-#: core/installation.cpp:546
+#: core/installation.cpp:556
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "Download File"
