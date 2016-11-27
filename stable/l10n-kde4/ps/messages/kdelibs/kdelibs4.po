@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 18:40+0100\n"
+"POT-Creation-Date: 2016-11-27 02:05+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -7884,7 +7884,7 @@ msgstr "هوکې"
 msgid "&Cancel"
 msgstr "بندول"
 
-#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:817
+#: kdeui/util/kstandardguiitem.cpp:120 khtml/java/kjavaappletserver.cpp:819
 #, kde-format
 msgid "&Yes"
 msgstr "هو"
@@ -10963,12 +10963,12 @@ msgstr ""
 msgid "the following permission"
 msgstr "لاندنۍ پرېښلې"
 
-#: khtml/java/kjavaappletserver.cpp:814
+#: khtml/java/kjavaappletserver.cpp:815
 #, kde-format
 msgid "&Reject All"
 msgstr "ټول نه منل"
 
-#: khtml/java/kjavaappletserver.cpp:820
+#: khtml/java/kjavaappletserver.cpp:823
 #, kde-format
 msgid "&Grant All"
 msgstr "ټول منل"
