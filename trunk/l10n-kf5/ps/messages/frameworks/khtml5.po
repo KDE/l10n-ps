@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-27 02:48+0100\n"
+"POT-Creation-Date: 2016-12-07 02:43+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1454,33 +1454,33 @@ msgstr "د چاڼ تېروتنه"
 msgid "Inactive"
 msgstr "تړلی"
 
-#: khtmlimage.cpp:46
+#: khtmlimage.cpp:49
 #, fuzzy, kde-format
 #| msgid "KHTML"
 msgid "KHTML Image"
 msgstr "KHTML"
 
-#: khtmlimage.cpp:217
+#: khtmlimage.cpp:195
 #, kde-format
 msgid "%1 (%2 - %3x%4 Pixels)"
 msgstr "%1 (%2 - %3x%4 پېکسله)"
 
-#: khtmlimage.cpp:219
+#: khtmlimage.cpp:197
 #, kde-format
 msgid "%1 - %2x%3 Pixels"
 msgstr "%1 - %2x%3 پېکسله"
 
-#: khtmlimage.cpp:224
+#: khtmlimage.cpp:202
 #, kde-format
 msgid "%1 (%2x%3 Pixels)"
 msgstr "%1 (%2x%3 پېکسله)"
 
-#: khtmlimage.cpp:226
+#: khtmlimage.cpp:204
 #, kde-format
 msgid "Image - %1x%2 Pixels"
 msgstr "انځور - %1x%2 پېکسله"
 
-#: khtmlimage.cpp:232
+#: khtmlimage.cpp:210
 #, kde-format
 msgid "Done."
 msgstr ".وشو"
