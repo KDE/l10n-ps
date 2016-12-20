@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-25 03:09+0100\n"
+"POT-Creation-Date: 2016-12-20 08:52+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -238,71 +238,71 @@ msgid ""
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:214
+#: downloaddialog.cpp:83 downloadwidget.cpp:219
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "نوي سره شيان ترلاسه کړﺉ"
 
-#: downloaddialog.cpp:95
+#: downloaddialog.cpp:98
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "پر-زياتووني لګاند %1"
 
-#: downloadwidget.cpp:126
+#: downloadwidget.cpp:131
 #, fuzzy, kde-format
 #| msgid "Timeout. Check Internet connection!"
 msgid "Timeout. Check Internet connection."
 msgstr "مهال بشپړ شو. د اېنټرنېټ نښلېدنه وګورﺉ!"
 
-#: downloadwidget.cpp:186
+#: downloadwidget.cpp:191
 #, kde-format
 msgid "Server: %1"
 msgstr "%1 :پالنګر"
 
-#: downloadwidget.cpp:187
+#: downloadwidget.cpp:192
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />%1 برابروونی:"
 
-#: downloadwidget.cpp:188
+#: downloadwidget.cpp:193
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />%1 نسخه:"
 
-#: downloadwidget.cpp:192
+#: downloadwidget.cpp:197
 #, kde-format
 msgid "Provider information"
 msgstr "د برابرووني خبرتياوې"
 
-#: downloadwidget.cpp:203
+#: downloadwidget.cpp:208
 #, kde-format
 msgid "Could not install %1"
 msgstr "نه شي لګولی %1"
 
-#: downloadwidget.cpp:204
+#: downloadwidget.cpp:209
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "نوي سره شيان ترلاسه کړﺉ!"
 
-#: downloadwidget.cpp:258
+#: downloadwidget.cpp:263
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:260
+#: downloadwidget.cpp:265
 #, fuzzy, kde-format
 #| msgid "Detailed View"
 msgid "Details view mode"
 msgstr "سپړاوی کوت"
 
-#: downloadwidget.cpp:275
+#: downloadwidget.cpp:280
 #, fuzzy, kde-format
 #| msgid "*|All Folders"
 msgid "All Providers"
 msgstr "*|ټولۍ پوښۍ"
 
-#: downloadwidget.cpp:282
+#: downloadwidget.cpp:287
 #, fuzzy, kde-format
 #| msgid "Pages"
 msgid "All Categories"
