@@ -20,7 +20,7 @@ msgstr ""
 "X-Poedit-Country: AFGHANISTAN\n"
 "X-Qt-Contexts: true\n"
 
-#: knotificationrestrictions.cpp:185
+#: knotificationrestrictions.cpp:192
 #, fuzzy
 #| msgid "Quit application"
 msgctxt "KNotificationRestrictions|"
