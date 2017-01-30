@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-30 14:54+0100\n"
+"POT-Creation-Date: 2017-01-30 03:49+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -76,36 +76,36 @@ msgstr "هېڅ ننوتنې"
 msgid "Clear List"
 msgstr "ننوتۍ پاکول"
 
-#: kstandardaction.cpp:146
+#: kstandardaction.cpp:153
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "شاته"
 
-#: kstandardaction.cpp:153
+#: kstandardaction.cpp:160
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "مخکې"
 
-#: kstandardaction.cpp:160
+#: kstandardaction.cpp:167
 #, kde-format
 msgctxt "home page"
 msgid "&Home"
 msgstr "کور"
 
-#: kstandardaction.cpp:163
+#: kstandardaction.cpp:170
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "مرسته"
 
-#: kstandardaction.cpp:200
+#: kstandardaction.cpp:207
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "غورنۍ پټه ښودل<p>د پټولو نه وروسته بېرته غورنۍ پټه ښکاره کوي</p>"
 
-#: kstandardaction.cpp:219
+#: kstandardaction.cpp:226
 #, fuzzy, kde-format
 #| msgid ""
 #| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
