@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-25 03:55+0100\n"
+"POT-Creation-Date: 2017-01-31 09:03+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -186,13 +186,13 @@ msgstr ""
 msgid "Could not install \"%1\": file not found."
 msgstr "نه شي لګولی %1"
 
-#: core/installation.cpp:537
+#: core/installation.cpp:536
 #, fuzzy, kde-format
 #| msgid "Overwrite File?"
 msgid "Overwrite existing file?"
 msgstr "دوتنه ځاېناستول غواړﺉ؟"
 
-#: core/installation.cpp:538
+#: core/installation.cpp:537
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "Download File"
