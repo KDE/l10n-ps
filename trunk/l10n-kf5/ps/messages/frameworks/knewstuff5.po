@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-07-06 03:04+0200\n"
+"POT-Creation-Date: 2017-07-08 03:05+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -109,7 +109,7 @@ msgstr ""
 msgid "Error initializing provider."
 msgstr ""
 
-#: core/engine.cpp:249 core/engine.cpp:594
+#: core/engine.cpp:249 core/engine.cpp:596
 #, fuzzy, kde-format
 #| msgid "Loading Applet"
 msgid "Loading data"
@@ -125,12 +125,12 @@ msgstr ""
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: core/engine.cpp:554
+#: core/engine.cpp:556
 #, kde-format
 msgid "Re: %1"
 msgstr "%1 بيا:"
 
-#: core/engine.cpp:596
+#: core/engine.cpp:598
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgid "Loading one preview"
@@ -138,7 +138,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "مخکوت لېښل کيږي"
 msgstr[1] "مخکوت لېښل کيږي"
 
-#: core/engine.cpp:598 ui/itemsgridviewdelegate.cpp:343
+#: core/engine.cpp:600 ui/itemsgridviewdelegate.cpp:343
 #: ui/itemsviewdelegate.cpp:132
 #, fuzzy, kde-format
 #| msgid "Install"
