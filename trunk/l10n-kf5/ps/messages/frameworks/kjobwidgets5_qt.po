@@ -307,47 +307,47 @@ msgctxt "KWidgetJobTracker|The destination url of a job"
 msgid "Destination:"
 msgstr ":موخه"
 
-#: kwidgetjobtracker.cpp:511 kwidgetjobtracker.cpp:687
+#: kwidgetjobtracker.cpp:511 kwidgetjobtracker.cpp:688
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to expand the dialog, to show details"
 msgstr ""
 
-#: kwidgetjobtracker.cpp:545
+#: kwidgetjobtracker.cpp:546
 #, fuzzy
 #| msgid "&Keep this window open after transfer is complete"
 msgctxt "KWidgetJobTracker|"
 msgid "&Keep this window open after transfer is complete"
 msgstr "د لېږنې د بشپړېدو نه وروسته دا کړکۍ پرانيستې ساتل"
 
-#: kwidgetjobtracker.cpp:553
+#: kwidgetjobtracker.cpp:554
 #, fuzzy
 #| msgid "Open &File"
 msgctxt "KWidgetJobTracker|"
 msgid "Open &File"
 msgstr "دوتنه &پرانيستل"
 
-#: kwidgetjobtracker.cpp:559
+#: kwidgetjobtracker.cpp:560
 #, fuzzy
 #| msgid "Open &Destination"
 msgctxt "KWidgetJobTracker|"
 msgid "Open &Destination"
 msgstr "موخه &پرانيستل"
 
-#: kwidgetjobtracker.cpp:567
+#: kwidgetjobtracker.cpp:568
 #, fuzzy
 #| msgid "&Cancel"
 msgctxt "KWidgetJobTracker|"
 msgid "&Cancel"
 msgstr "بندول"
 
-#: kwidgetjobtracker.cpp:575
+#: kwidgetjobtracker.cpp:576
 #, fuzzy
 #| msgid "Progress Dialog"
 msgctxt "KWidgetJobTracker|"
 msgid "Progress Dialog"
 msgstr "پرمختګ کړکۍ"
 
-#: kwidgetjobtracker.cpp:590
+#: kwidgetjobtracker.cpp:591
 #, fuzzy, qt-format
 #| msgid "%1 folder"
 #| msgid_plural "%1 folders"
@@ -357,7 +357,7 @@ msgid_plural "%n folder(s)"
 msgstr[0] "پوښۍ %1"
 msgstr[1] "پوښۍ %1"
 
-#: kwidgetjobtracker.cpp:594
+#: kwidgetjobtracker.cpp:595
 #, fuzzy, qt-format
 #| msgid "%1 file"
 #| msgid_plural "%1 files"
@@ -367,7 +367,7 @@ msgid_plural "%n file(s)"
 msgstr[0] "دوتنه %1"
 msgstr[1] "دوتنې %1"
 
-#: kwidgetjobtracker.cpp:680
+#: kwidgetjobtracker.cpp:681
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
