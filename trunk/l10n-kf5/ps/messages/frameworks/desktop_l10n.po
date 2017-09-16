@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-09-10 01:34+0000\n"
+"POT-Creation-Date: 2017-09-16 01:38+0000\n"
 "PO-Revision-Date: 2008-08-15 20:20-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -481,7 +481,7 @@ msgctxt "Name"
 msgid "Uyghur"
 msgstr ""
 
-#: uk/messages/frameworks/kf5_entry.desktop:52
+#: uk/messages/frameworks/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "اکرېني"
