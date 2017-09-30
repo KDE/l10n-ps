@@ -2834,7 +2834,7 @@ msgctxt "KPixmapRegionSelectorWidget|"
 msgid "Rotate &Counterclockwise"
 msgstr "سرچپه &ګړېغوندې چورلول"
 
-#: ksqueezedtextlabel.cpp:203
+#: ksqueezedtextlabel.cpp:215
 #, fuzzy
 #| msgid "&Copy Full Text"
 msgctxt "KSqueezedTextLabel|"
