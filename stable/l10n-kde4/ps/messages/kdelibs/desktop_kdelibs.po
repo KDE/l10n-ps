@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-05-13 00:41+0000\n"
+"POT-Creation-Date: 2017-10-16 00:56+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1238,32 +1238,32 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "خپلکارې ګوډاګي سازونه"
 
-#: kio/misc/kpac/proxyscout.notifyrc:73
+#: kio/misc/kpac/proxyscout.notifyrc:72
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "ناسم ګوډاګی سکرېپټ"
 
-#: kio/misc/kpac/proxyscout.notifyrc:160
+#: kio/misc/kpac/proxyscout.notifyrc:158
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "رالېښل شوی ګوډاګي سازونې سکرېپټ ناسم دی"
 
-#: kio/misc/kpac/proxyscout.notifyrc:256
+#: kio/misc/kpac/proxyscout.notifyrc:253
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "د سکرېپټ رالېښنې تېروتنه"
 
-#: kio/misc/kpac/proxyscout.notifyrc:344
+#: kio/misc/kpac/proxyscout.notifyrc:340
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "د ګوډاګي د سازونې سکرېپټ رالېښل کېدی نه شي"
 
-#: kio/misc/kpac/proxyscout.notifyrc:441
+#: kio/misc/kpac/proxyscout.notifyrc:436
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
-#: kio/misc/kpac/proxyscout.notifyrc:527
+#: kio/misc/kpac/proxyscout.notifyrc:521
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "د ګوډاګي سازونې سکرېپټ په چلولو کې ستونزه رامنځته شوه"
@@ -1288,7 +1288,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "پټياد پاکوونکی HTTP"
 
-#: kioslave/http/http_cache_cleaner.desktop:100
+#: kioslave/http/http_cache_cleaner.desktop:99
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "پټياد څخه زړې ننوتنې پاکوي HTTP د"
