@@ -2747,6 +2747,13 @@ msgctxt "KPasswordDialog|"
 msgid "Password"
 msgstr "تېرنويې"
 
+#: kpassworddialog.cpp:104
+#, fuzzy
+#| msgid "Supply a username and password below."
+msgctxt "KPasswordDialog|"
+msgid "Supply a password below."
+msgstr ".لاندې يو کارننوم او تېرنويې وليکﺉ"
+
 #: kpassworddialog.ui:26
 #, fuzzy
 #| msgid "Supply a username and password below."
