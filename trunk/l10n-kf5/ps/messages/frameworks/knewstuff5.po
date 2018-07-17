@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-26 03:26+0200\n"
+"POT-Creation-Date: 2018-07-17 03:37+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -238,12 +238,12 @@ msgid ""
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:220
+#: downloaddialog.cpp:83 downloadwidget.cpp:222
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "نوي سره شيان ترلاسه کړﺉ"
 
-#: downloaddialog.cpp:98
+#: downloaddialog.cpp:101
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
@@ -255,54 +255,54 @@ msgstr "پر-زياتووني لګاند %1"
 msgid "Timeout. Check Internet connection."
 msgstr "مهال بشپړ شو. د اېنټرنېټ نښلېدنه وګورﺉ!"
 
-#: downloadwidget.cpp:192
+#: downloadwidget.cpp:194
 #, kde-format
 msgid "Server: %1"
 msgstr "%1 :پالنګر"
 
-#: downloadwidget.cpp:193
+#: downloadwidget.cpp:195
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />%1 برابروونی:"
 
-#: downloadwidget.cpp:194
+#: downloadwidget.cpp:196
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />%1 نسخه:"
 
-#: downloadwidget.cpp:198
+#: downloadwidget.cpp:200
 #, kde-format
 msgid "Provider information"
 msgstr "د برابرووني خبرتياوې"
 
-#: downloadwidget.cpp:209
+#: downloadwidget.cpp:211
 #, kde-format
 msgid "Could not install %1"
 msgstr "نه شي لګولی %1"
 
-#: downloadwidget.cpp:210
+#: downloadwidget.cpp:212
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "نوي سره شيان ترلاسه کړﺉ!"
 
-#: downloadwidget.cpp:264
+#: downloadwidget.cpp:267
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:266
+#: downloadwidget.cpp:269
 #, fuzzy, kde-format
 #| msgid "Detailed View"
 msgid "Details view mode"
 msgstr "سپړاوی کوت"
 
-#: downloadwidget.cpp:281
+#: downloadwidget.cpp:284
 #, fuzzy, kde-format
 #| msgid "*|All Folders"
 msgid "All Providers"
 msgstr "*|ټولۍ پوښۍ"
 
-#: downloadwidget.cpp:288
+#: downloadwidget.cpp:291
 #, fuzzy, kde-format
 #| msgid "Pages"
 msgid "All Categories"
@@ -324,20 +324,20 @@ msgstr "%1 :رابروونی"
 msgid "Category:"
 msgstr ":لوښه"
 
-#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: downloadwidget.ui:90
+#, fuzzy, kde-format
+#| msgid "Rating: "
+msgid "Rating"
+msgstr ":کچونه"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#: downloadwidget.ui:103
 #, fuzzy, kde-format
 #| msgctxt "@action"
 #| msgid "New"
 msgid "Newest"
 msgstr "نوی"
-
-#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:103
-#, fuzzy, kde-format
-#| msgid "Rating: "
-msgid "Rating"
-msgstr ":کچونه"
 
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: downloadwidget.ui:110
