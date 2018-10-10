@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-02-12 02:29+0000\n"
+"POT-Creation-Date: 2018-10-10 02:26+0000\n"
 "PO-Revision-Date: 2008-08-15 20:20-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -28,14 +28,6 @@ msgstr "عربي"
 msgctxt "Name"
 msgid "Assamese"
 msgstr ""
-
-#: ast/messages/frameworks/kf5_entry.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Estonian"
-msgctxt "Name"
-msgid "Asturian"
-msgstr "اېسټونيايي"
 
 #: be@latin/messages/frameworks/kf5_entry.desktop:2
 #, fuzzy
@@ -535,6 +527,13 @@ msgstr "چينايي (هانګ کانګ)"
 msgctxt "Name"
 msgid "Traditional Chinese"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Estonian"
+#~ msgctxt "Name"
+#~ msgid "Asturian"
+#~ msgstr "اېسټونيايي"
 
 #~ msgctxt "Name"
 #~ msgid "KOffice"
