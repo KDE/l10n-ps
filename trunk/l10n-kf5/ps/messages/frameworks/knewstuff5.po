@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-20 03:02+0100\n"
+"POT-Creation-Date: 2018-12-28 02:58+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -324,12 +324,12 @@ msgstr "%1 :رابروونی"
 msgid "Category:"
 msgstr ":لوښه"
 
-#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: downloadwidget.ui:90
 #, fuzzy, kde-format
-#| msgid "Rating: "
-msgid "Rating"
-msgstr ":کچونه"
+#| msgid "Most Downloads"
+msgid "Most downloads"
+msgstr "ډېرې رالېښنې"
 
 #. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
 #: downloadwidget.ui:103
@@ -339,12 +339,12 @@ msgstr ":کچونه"
 msgid "Newest"
 msgstr "نوی"
 
-#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
 #: downloadwidget.ui:110
 #, fuzzy, kde-format
-#| msgid "Most Downloads"
-msgid "Most downloads"
-msgstr "ډېرې رالېښنې"
+#| msgid "Rating: "
+msgid "Rating"
+msgstr ":کچونه"
 
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
 #: downloadwidget.ui:117
