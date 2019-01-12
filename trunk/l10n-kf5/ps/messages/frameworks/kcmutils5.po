@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-04 03:02+0100\n"
+"POT-Creation-Date: 2019-01-12 03:00+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -459,9 +459,10 @@ msgstr[0] "لګون په خپلکارې توګه وړنګول شو %1 د لګو�
 msgstr[1] "لګونونه په خپلکارې توګه وړنګول شول %1 د لګون د اړتياوو له امله"
 
 #: kpluginselector.cpp:261
-#, kde-format
-msgid "Search Plugins"
-msgstr "لګونونه پلټل"
+#, fuzzy, kde-format
+#| msgid "Search"
+msgid "Search..."
+msgstr "پلټون"
 
 #: kpluginselector.cpp:710
 #, fuzzy, kde-format
@@ -485,6 +486,9 @@ msgstr "رغتوکي ټاکل"
 #, kde-format
 msgid "Enable component"
 msgstr "رغتوکی توانول"
+
+#~ msgid "Search Plugins"
+#~ msgstr "لګونونه پلټل"
 
 #~ msgid "Name"
 #~ msgstr "نوم"
@@ -4184,9 +4188,6 @@ msgstr "رغتوکی توانول"
 
 #~ msgid "Preview of the \"%1\" font"
 #~ msgstr "ليکبڼې مخکوت \"%1\" د"
-
-#~ msgid "Search"
-#~ msgstr "پلټون"
 
 #~ msgid "Stop"
 #~ msgstr "تمول"
