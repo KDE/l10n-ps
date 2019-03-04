@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-26 03:02+0100\n"
+"POT-Creation-Date: 2019-03-04 03:12+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -46,7 +46,7 @@ msgctxt "Encodings menu"
 msgid "Default"
 msgstr "تلواله"
 
-#: kcodecaction.cpp:98
+#: kcodecaction.cpp:99
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Autodetect"
@@ -71,36 +71,36 @@ msgstr "هېڅ ننوتنې"
 msgid "Clear List"
 msgstr "ننوتۍ پاکول"
 
-#: kstandardaction.cpp:154
+#: kstandardaction.cpp:155
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "شاته"
 
-#: kstandardaction.cpp:161
+#: kstandardaction.cpp:162
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "مخکې"
 
-#: kstandardaction.cpp:168
+#: kstandardaction.cpp:169
 #, kde-format
 msgctxt "home page"
 msgid "&Home"
 msgstr "کور"
 
-#: kstandardaction.cpp:171
+#: kstandardaction.cpp:172
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "مرسته"
 
-#: kstandardaction.cpp:208
+#: kstandardaction.cpp:209
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "غورنۍ پټه ښودل<p>د پټولو نه وروسته بېرته غورنۍ پټه ښکاره کوي</p>"
 
-#: kstandardaction.cpp:227
+#: kstandardaction.cpp:229
 #, fuzzy, kde-format
 #| msgid ""
 #| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
