@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-22 03:10+0100\n"
+"POT-Creation-Date: 2019-03-23 03:21+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -99,7 +99,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "امستنې"
 
-#: kcmultidialog.cpp:261 kpluginselector.cpp:715
+#: kcmultidialog.cpp:261 kpluginselector.cpp:716
 #, kde-format
 msgid "Configure"
 msgstr "سازول"
@@ -414,7 +414,7 @@ msgid ""
 "dependencies:\n"
 msgstr "د لګون د اړتياوو د بشپړولو لپاره خپلکاري بدلونونه سرته ورسېدل:\n"
 
-#: kpluginselector.cpp:211
+#: kpluginselector.cpp:212
 #, kde-format
 msgid ""
 "\n"
@@ -424,7 +424,7 @@ msgstr ""
 "\n"
 "    لګون د اړتياوو له امله په خپلکارې توګه وکتل شو %2 لګون د %1"
 
-#: kpluginselector.cpp:213
+#: kpluginselector.cpp:214
 #, kde-format
 msgid ""
 "\n"
@@ -434,43 +434,43 @@ msgstr ""
 "\n"
 "    لګون سره د تړاو له امله په خپلکارې توګه وناکتل شو %2 لګون د %1"
 
-#: kpluginselector.cpp:216
+#: kpluginselector.cpp:217
 #, kde-format
 msgid "Dependency Check"
 msgstr "د اړېدنې کتنه"
 
-#: kpluginselector.cpp:233
+#: kpluginselector.cpp:234
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] "لګون په خپلکارې توګه زيات کړل شو %1 د لګون د اړتياوو له امله"
 msgstr[1] "لګونونه په خپلکارې توګه زيات کړل شول %1 د لګون د اړتياوو له امله"
 
-#: kpluginselector.cpp:237
+#: kpluginselector.cpp:238
 #, kde-format
 msgid ", "
 msgstr "،"
 
-#: kpluginselector.cpp:241
+#: kpluginselector.cpp:242
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "لګون په خپلکارې توګه وړنګول شو %1 د لګون د اړتياوو له امله"
 msgstr[1] "لګونونه په خپلکارې توګه وړنګول شول %1 د لګون د اړتياوو له امله"
 
-#: kpluginselector.cpp:261
+#: kpluginselector.cpp:262
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
 msgstr "پلټون"
 
-#: kpluginselector.cpp:710
+#: kpluginselector.cpp:711
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
 msgstr "په اړه"
 
-#: kpluginselector.cpp:813
+#: kpluginselector.cpp:814
 #, fuzzy, kde-format
 #| msgid "About %1"
 msgctxt "Used only for plugins"
@@ -482,7 +482,7 @@ msgstr "په اړه %1 د"
 msgid "Select Components"
 msgstr "رغتوکي ټاکل"
 
-#: ksettings/dialog.cpp:231
+#: ksettings/dialog.cpp:232
 #, kde-format
 msgid "Enable component"
 msgstr "رغتوکی توانول"
