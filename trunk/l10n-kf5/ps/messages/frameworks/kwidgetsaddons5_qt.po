@@ -2681,8 +2681,8 @@ msgstr "د نوې کړکۍ جوړولو لپاره دا تڼۍ کېکاږﺉ"
 #| msgid "Password must be at least 1 character long"
 #| msgid_plural "Password must be at least %1 characters long"
 msgctxt "KNewPasswordDialog|"
-msgid "Password must be at least %n character(s) long"
-msgid_plural "Password must be at least %n character(s) long"
+msgid "Password must be at least %n character(s) long."
+msgid_plural "Password must be at least %n character(s) long."
 msgstr[0] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
 msgstr[1] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده وي"
 
@@ -2690,21 +2690,21 @@ msgstr[1] "ښايي چې تېرنويې لږ تر لږه ۱ لوښه اوږده 
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
-msgid "Password is empty"
+msgid "Password is empty."
 msgstr "تېرنويې تشه ده"
 
 #: knewpassworddialog.cpp:84
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
-msgid "Passwords do not match"
+msgid "Passwords do not match."
 msgstr "تېرنويې ساري نه دي"
 
 #: knewpassworddialog.cpp:89
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
-msgid "Passwords match"
+msgid "Passwords match."
 msgstr "تېرنويې ساري دي"
 
 #: knewpassworddialog.cpp:144
