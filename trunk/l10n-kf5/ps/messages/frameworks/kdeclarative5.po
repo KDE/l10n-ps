@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:55+0200\n"
+"POT-Creation-Date: 2019-06-15 02:52+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -39,13 +39,6 @@ msgstr ""
 #| msgid "defines the application font"
 msgid "The unique name of the application (mandatory)"
 msgstr "د کاريال ليکبڼه ټاکي"
-
-#: qmlcontrols/kcmcontrols/qml/GridDelegate.qml:108
-#, fuzzy, kde-format
-#| msgctxt "No shortcut defined"
-#| msgid "None"
-msgid "None"
-msgstr "هېڅ"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 #, kde-format
@@ -108,6 +101,12 @@ msgstr ""
 #| msgid "Unsorted"
 msgid "Unsupported Key"
 msgstr "نا اڼلي"
+
+#, fuzzy
+#~| msgctxt "No shortcut defined"
+#~| msgid "None"
+#~ msgid "None"
+#~ msgstr "هېڅ"
 
 #~ msgid "Undo"
 #~ msgstr "ناکړ"
