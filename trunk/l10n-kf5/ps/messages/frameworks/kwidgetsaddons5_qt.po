@@ -2700,14 +2700,14 @@ msgctxt "KNewPasswordDialog|"
 msgid "Passwords match."
 msgstr "تېرنويې ساري دي"
 
-#: knewpassworddialog.cpp:152
+#: knewpassworddialog.cpp:154
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "د تېرنويې ټيټ کلکوالی"
 
-#: knewpassworddialog.cpp:153
+#: knewpassworddialog.cpp:155
 msgctxt "KNewPasswordDialog|"
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
