@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 02:53+0100\n"
+"POT-Creation-Date: 2019-11-25 02:49+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -476,13 +476,6 @@ msgstr "پلټون"
 msgid "About"
 msgstr "په اړه"
 
-#: kpluginselector.cpp:821
-#, fuzzy, kde-format
-#| msgid "About %1"
-msgctxt "Used only for plugins"
-msgid "About %1"
-msgstr "په اړه %1 د"
-
 #: ksettings/componentsdialog.cpp:56
 #, kde-format
 msgid "Select Components"
@@ -492,6 +485,12 @@ msgstr "رغتوکي ټاکل"
 #, kde-format
 msgid "Enable component"
 msgstr "رغتوکی توانول"
+
+#, fuzzy
+#~| msgid "About %1"
+#~ msgctxt "Used only for plugins"
+#~ msgid "About %1"
+#~ msgstr "په اړه %1 د"
 
 #~ msgid "Search Plugins"
 #~ msgstr "لګونونه پلټل"
