@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-10 02:58+0100\n"
+"POT-Creation-Date: 2019-12-11 02:53+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -880,7 +880,7 @@ msgctxt ""
 msgid "Show Reviews and Replies"
 msgstr ""
 
-#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:180
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:155
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:198
 #, fuzzy, kde-format
 #| msgid "Download"
@@ -888,7 +888,7 @@ msgctxt "The number of times the item has been downloaded"
 msgid "%1 downloads"
 msgstr "رالېښنې"
 
-#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:193
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:168
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:180
 #, fuzzy, kde-format
 #| msgctxt "@interface/rich"
