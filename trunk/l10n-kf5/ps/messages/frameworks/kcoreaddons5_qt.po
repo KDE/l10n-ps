@@ -836,122 +836,38 @@ msgid "Invalid date"
 msgstr "ناسم دوتنه نومونه"
 
 #: lib/util/kformatprivate.cpp:519
+#, fuzzy
+#| msgid "%1 days"
+msgctxt "KFormat|"
+msgid "In two days"
+msgstr "ورځې %1"
+
+#: lib/util/kformatprivate.cpp:521
 msgctxt "KFormat|"
 msgid "Tomorrow"
 msgstr ""
 
-#: lib/util/kformatprivate.cpp:521
+#: lib/util/kformatprivate.cpp:523
 #, fuzzy
 #| msgid "Today"
 msgctxt "KFormat|"
 msgid "Today"
 msgstr "نن"
 
-#: lib/util/kformatprivate.cpp:523
+#: lib/util/kformatprivate.cpp:525
 #, fuzzy
 #| msgid "Yesterday"
 msgctxt "KFormat|"
 msgid "Yesterday"
 msgstr "پرون"
 
-#: lib/util/kformatprivate.cpp:529
-#, fuzzy
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Monday"
-msgstr "راتلونکې مياشت"
-
-#: lib/util/kformatprivate.cpp:531
-#, fuzzy
-#| msgid "Tuesday"
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Tuesday"
-msgstr "درې نۍ"
-
-#: lib/util/kformatprivate.cpp:533
-#, fuzzy
-#| msgid "Wednesday"
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Wednesday"
-msgstr "منځنۍ"
-
-#: lib/util/kformatprivate.cpp:535
-#, fuzzy
-#| msgid "Thursday"
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Thursday"
-msgstr "درې نۍ"
-
-#: lib/util/kformatprivate.cpp:537
-#, fuzzy
-#| msgid "Friday"
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Friday"
-msgstr "جومه"
-
-#: lib/util/kformatprivate.cpp:539
-#, fuzzy
-#| msgid "Saturday"
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Saturday"
-msgstr "نۍ"
-
-#: lib/util/kformatprivate.cpp:541
-#, fuzzy
-#| msgid "Sunday"
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Sunday"
-msgstr "يوه نۍ"
-
-#: lib/util/kformatprivate.cpp:546
-#, fuzzy
-msgctxt "KFormat|the next such day after today"
-msgid "Next Monday"
-msgstr "راتلونکې مياشت"
-
-#: lib/util/kformatprivate.cpp:548
-#, fuzzy
-#| msgid "Tuesday"
-msgctxt "KFormat|the next such day after today"
-msgid "Next Tuesday"
-msgstr "درې نۍ"
-
-#: lib/util/kformatprivate.cpp:550
-#, fuzzy
-#| msgid "Wednesday"
-msgctxt "KFormat|the next such day after today"
-msgid "Next Wednesday"
-msgstr "منځنۍ"
-
-#: lib/util/kformatprivate.cpp:552
-#, fuzzy
-#| msgid "Thursday"
-msgctxt "KFormat|the next such day after today"
-msgid "Next Thursday"
-msgstr "درې نۍ"
-
-#: lib/util/kformatprivate.cpp:554
-#, fuzzy
-#| msgid "Friday"
-msgctxt "KFormat|the next such day after today"
-msgid "Next Friday"
-msgstr "جومه"
-
-#: lib/util/kformatprivate.cpp:556
-#, fuzzy
-#| msgid "Saturday"
-msgctxt "KFormat|the next such day after today"
-msgid "Next Saturday"
-msgstr "نۍ"
-
-#: lib/util/kformatprivate.cpp:558
-#, fuzzy
-#| msgid "Sunday"
-msgctxt "KFormat|the next such day after today"
-msgid "Next Sunday"
-msgstr "يوه نۍ"
+#: lib/util/kformatprivate.cpp:527
+msgctxt "KFormat|"
+msgid "Two days ago"
+msgstr ""
 
 #. relative datetime with %1 result of formatReleativeDate() and %2 the formatted time If this does not fit the grammar of your language please contact the i18n team to solve the problem
-#: lib/util/kformatprivate.cpp:573
+#: lib/util/kformatprivate.cpp:541
 #, fuzzy, qt-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
@@ -976,6 +892,88 @@ msgstr ""
 msgctxt "QObject|"
 msgid "KListOpenFilesJob is not supported on Windows"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Monday"
+#~ msgstr "راتلونکې مياشت"
+
+#, fuzzy
+#~| msgid "Tuesday"
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Tuesday"
+#~ msgstr "درې نۍ"
+
+#, fuzzy
+#~| msgid "Wednesday"
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Wednesday"
+#~ msgstr "منځنۍ"
+
+#, fuzzy
+#~| msgid "Thursday"
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Thursday"
+#~ msgstr "درې نۍ"
+
+#, fuzzy
+#~| msgid "Friday"
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Friday"
+#~ msgstr "جومه"
+
+#, fuzzy
+#~| msgid "Saturday"
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Saturday"
+#~ msgstr "نۍ"
+
+#, fuzzy
+#~| msgid "Sunday"
+#~ msgctxt "KFormat|most recent such day before today"
+#~ msgid "Last Sunday"
+#~ msgstr "يوه نۍ"
+
+#, fuzzy
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Monday"
+#~ msgstr "راتلونکې مياشت"
+
+#, fuzzy
+#~| msgid "Tuesday"
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Tuesday"
+#~ msgstr "درې نۍ"
+
+#, fuzzy
+#~| msgid "Wednesday"
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Wednesday"
+#~ msgstr "منځنۍ"
+
+#, fuzzy
+#~| msgid "Thursday"
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Thursday"
+#~ msgstr "درې نۍ"
+
+#, fuzzy
+#~| msgid "Friday"
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Friday"
+#~ msgstr "جومه"
+
+#, fuzzy
+#~| msgid "Saturday"
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Saturday"
+#~ msgstr "نۍ"
+
+#, fuzzy
+#~| msgid "Sunday"
+#~ msgctxt "KFormat|the next such day after today"
+#~ msgid "Next Sunday"
+#~ msgstr "يوه نۍ"
 
 #, fuzzy
 #~| msgid "&Last Page"
