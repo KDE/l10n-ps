@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-06 03:03+0100\n"
+"POT-Creation-Date: 2020-01-17 02:55+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -51,6 +51,19 @@ msgstr "تلواله"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "خپله اوچتول"
+
+#: kcolorschememanager.cpp:109
+#, fuzzy, kde-format
+#| msgctxt "Encodings menu"
+#| msgid "Default"
+msgid "Default"
+msgstr "تلواله"
+
+#: kcolorschememanager.cpp:215 kcolorschememanager.cpp:220
+#, fuzzy, kde-format
+#| msgid "Shortcuts"
+msgid "Color Scheme"
+msgstr "لنډلاري"
 
 #: kconfigdialog.cpp:44
 #, fuzzy, kde-format
@@ -3546,11 +3559,6 @@ msgstr "راتلوکی&"
 
 #~ msgid "Custom:"
 #~ msgstr ":دوديز"
-
-#, fuzzy
-#~| msgid "Shortcuts"
-#~ msgid "Shortcut Schemes"
-#~ msgstr "لنډلاري"
 
 #, fuzzy
 #~| msgid "Curr&ent actions:"
