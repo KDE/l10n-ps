@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-30 02:51+0100\n"
+"POT-Creation-Date: 2020-02-07 03:03+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -396,13 +396,13 @@ msgstr "يوه اونۍ وټاکﺉ"
 
 #: kstandardaction_p.h:76
 #, kde-format
-msgid "&Redisplay"
-msgstr "بياښوون"
+msgid "&Refresh"
+msgstr ""
 
 #: kstandardaction_p.h:76
 #, fuzzy, kde-format
 #| msgid "&Redisplay"
-msgid "Redisplay document"
+msgid "Refresh document"
 msgstr "بياښوون&"
 
 #: kstandardaction_p.h:78
@@ -678,6 +678,9 @@ msgstr "مخکنی"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "راتلوکی&"
+
+#~ msgid "&Redisplay"
+#~ msgstr "بياښوون"
 
 #~ msgid "without name"
 #~ msgstr "بې نومه"
