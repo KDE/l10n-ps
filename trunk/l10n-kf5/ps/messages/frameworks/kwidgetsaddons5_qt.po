@@ -2619,14 +2619,14 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "دا استوزه بيا نه ښودل"
 
-#: kmessagewidget.cpp:95
+#: kmessagewidget.cpp:87
 #, fuzzy
 #| msgid "&Close"
 msgctxt "KMessageWidget|"
 msgid "&Close"
 msgstr "بندول"
 
-#: kmessagewidget.cpp:96
+#: kmessagewidget.cpp:88
 #, fuzzy
 #| msgid "Close Message"
 msgctxt "KMessageWidget|"
