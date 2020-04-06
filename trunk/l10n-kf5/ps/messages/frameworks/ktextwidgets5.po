@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-08 02:59+0100\n"
+"POT-Creation-Date: 2020-04-06 03:00+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -34,49 +34,49 @@ msgstr ":د تړنۍ ليکنه"
 msgid "Link URL:"
 msgstr ":URL د تړنې"
 
-#: findreplace/kfind.cpp:60
+#: findreplace/kfind.cpp:61
 #, kde-format
 msgid "Find Next"
 msgstr "راتلونکی لټول"
 
-#: findreplace/kfind.cpp:64
+#: findreplace/kfind.cpp:65
 #, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>راتلونکې پېښېدنه لټول غواړﺉ؟ '<b>%1</b>' د</qt>"
 
-#: findreplace/kfind.cpp:622 findreplace/kfind.cpp:641
+#: findreplace/kfind.cpp:665 findreplace/kfind.cpp:684
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] ".۱ ساری وموندل شو"
 msgstr[1] ".ساري وموندل شول %1"
 
-#: findreplace/kfind.cpp:624
+#: findreplace/kfind.cpp:667
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>.لپاره کوم ساري ونه موندل شول '<b>%1</b>' د</qt>"
 
-#: findreplace/kfind.cpp:643
+#: findreplace/kfind.cpp:686
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr ".لپاره کوم ساري ونه موندل شول '<b>%1</b>' د"
 
-#: findreplace/kfind.cpp:647 findreplace/kreplace.cpp:387
+#: findreplace/kfind.cpp:690 findreplace/kreplace.cpp:419
 #, kde-format
 msgid "Beginning of document reached."
 msgstr "د لاسوند پېل ورسېدو."
 
-#: findreplace/kfind.cpp:649 findreplace/kreplace.cpp:389
+#: findreplace/kfind.cpp:692 findreplace/kreplace.cpp:421
 #, kde-format
 msgid "End of document reached."
 msgstr "د لاسوند پای ورسېدو."
 
-#: findreplace/kfind.cpp:657
+#: findreplace/kfind.cpp:700
 #, kde-format
 msgid "Continue from the end?"
 msgstr "د پای نه پرمختلل غواړﺉ؟"
 
-#: findreplace/kfind.cpp:658
+#: findreplace/kfind.cpp:701
 #, kde-format
 msgid "Continue from the beginning?"
 msgstr "د پېل نه پرمختلل غواړﺉ؟"
@@ -336,73 +336,73 @@ msgstr "ټکی"
 msgid "Complete Match"
 msgstr "بشپړ ساری"
 
-#: findreplace/kfinddialog.cpp:553
+#: findreplace/kfinddialog.cpp:552
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "(%1) نيول شوې ليکنه"
 
-#: findreplace/kfinddialog.cpp:561
+#: findreplace/kfinddialog.cpp:560
 #, kde-format
 msgid "You must enter some text to search for."
 msgstr "تاسو ته ښايي چې د پلټلو لپاره څه وليکﺉ."
 
-#: findreplace/kfinddialog.cpp:570
+#: findreplace/kfinddialog.cpp:567
 #, kde-format
-msgid "Invalid regular expression."
-msgstr "ناسمه ساده څرګندنه."
+msgid "Invalid PCRE pattern syntax."
+msgstr ""
 
-#: findreplace/kreplace.cpp:60 findreplace/kreplace.cpp:72
+#: findreplace/kreplace.cpp:61 findreplace/kreplace.cpp:73
 #, kde-format
 msgid "Replace"
 msgstr "ځاېناستول"
 
-#: findreplace/kreplace.cpp:68
+#: findreplace/kreplace.cpp:69
 #, fuzzy, kde-format
 #| msgid "&All"
 msgctxt "@action:button Replace all occurrences"
 msgid "&All"
 msgstr "ټول&"
 
-#: findreplace/kreplace.cpp:70
+#: findreplace/kreplace.cpp:71
 #, kde-format
 msgid "&Skip"
 msgstr "پرېښودل"
 
-#: findreplace/kreplace.cpp:89
+#: findreplace/kreplace.cpp:90
 #, kde-format
 msgid "Replace '%1' with '%2'?"
 msgstr "سره ځاېناستول غواړﺉ؟ '%2' د '%1'"
 
-#: findreplace/kreplace.cpp:177 findreplace/kreplace.cpp:381
+#: findreplace/kreplace.cpp:179 findreplace/kreplace.cpp:413
 #, kde-format
 msgid "No text was replaced."
 msgstr "کومه ليکنه ونه ځاېناستول شوه."
 
-#: findreplace/kreplace.cpp:179 findreplace/kreplace.cpp:383
+#: findreplace/kreplace.cpp:181 findreplace/kreplace.cpp:415
 #, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "۱ ځاېناستونه وشوه."
 msgstr[1] "ځاېناستونې وشوې. %1"
 
-#: findreplace/kreplace.cpp:397
+#: findreplace/kreplace.cpp:429
 #, kde-format
 msgid "Do you want to restart search from the end?"
 msgstr "تاسو غواړﺉ چې پلټنه د پای نه بيا پېل کړﺉ؟"
 
-#: findreplace/kreplace.cpp:398
+#: findreplace/kreplace.cpp:430
 #, kde-format
 msgid "Do you want to restart search at the beginning?"
 msgstr "تاسو غواړﺉ چې پلټنه د پېل نه بيا پېل کړﺉ؟"
 
-#: findreplace/kreplace.cpp:401
+#: findreplace/kreplace.cpp:433
 #, fuzzy, kde-format
 #| msgid "Restart"
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "بياپېلول"
 
-#: findreplace/kreplace.cpp:402
+#: findreplace/kreplace.cpp:434
 #, fuzzy, kde-format
 #| msgid "Stop"
 msgctxt "@action:button Stop find & replace"
@@ -702,6 +702,9 @@ msgstr "لښتيالونه پرېښل"
 #| msgid "Speak custom text"
 msgid "Speak Text"
 msgstr "دوديزه ليکنه لوستل"
+
+#~ msgid "Invalid regular expression."
+#~ msgstr "ناسمه ساده څرګندنه."
 
 #, fuzzy
 #~| msgid "1"
