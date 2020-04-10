@@ -20,6 +20,14 @@ msgstr ""
 "X-Poedit-Country: AFGHANISTAN\n"
 "X-Qt-Contexts: true\n"
 
+#. Job name, e.g. Copying has failed
+#: knotificationjobuidelegate.cpp:39
+#, fuzzy, qt-format
+#| msgid "%1 (Link)"
+msgctxt "KNotificationJobUiDelegate|"
+msgid "%1 (Failed)"
+msgstr "(تړنه) %1"
+
 #: knotificationrestrictions.cpp:192
 #, fuzzy
 #| msgid "Quit application"
@@ -6104,9 +6112,6 @@ msgstr "د غونډال مجمې نه بندول باوري کړﺉ"
 
 #~ msgid "Symbolic Link"
 #~ msgstr "پېلامي تړنه"
-
-#~ msgid "%1 (Link)"
-#~ msgstr "(تړنه) %1"
 
 #, fuzzy
 #~ msgid "%2 (%1 byte)"
