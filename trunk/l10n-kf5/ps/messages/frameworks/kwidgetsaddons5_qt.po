@@ -2297,22 +2297,14 @@ msgctxt "KEditListWidget|"
 msgid "Move &Down"
 msgstr "ښکته &خوځول"
 
-#: kfontchooser.cpp:159
-#, fuzzy
-#| msgctxt "@info:whatsthis"
-#| msgid "Here you can choose the font to be used."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid "Here you can choose the font to be used."
-msgstr ".دلته تاسو د کارولو ليکبڼه ټاکلی شﺉ"
-
-#: kfontchooser.cpp:181
+#: kfontchooser.cpp:189
 #, fuzzy
 #| msgid "Requested Font"
 msgctxt "KFontChooser|"
 msgid "Requested Font"
 msgstr "غوښتل شوې ليکبڼه"
 
-#: kfontchooser.cpp:198
+#: kfontchooser.cpp:203
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Font"
@@ -2320,23 +2312,7 @@ msgctxt "KFontChooser|@option:check"
 msgid "Font"
 msgstr "ليکبڼه"
 
-#: kfontchooser.cpp:202
-#, fuzzy
-#| msgctxt "@info:whatsthis"
-#| msgid "Enable this checkbox to change the font family settings."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid "Enable this checkbox to change the font family settings."
-msgstr ".دا خوښبکس وتوانوﺉ چې د ليکبڼې کورنۍ امستنې بدلې کړﺉ"
-
-#: kfontchooser.cpp:203
-#, fuzzy
-#| msgctxt "@info:tooltip"
-#| msgid "Change font family?"
-msgctxt "KFontChooser|@info:tooltip"
-msgid "Change font family?"
-msgstr "د ليکبڼې کورنۍ بدلول غواړﺉ؟"
-
-#: kfontchooser.cpp:207
+#: kfontchooser.cpp:208
 #, fuzzy
 #| msgctxt "@label"
 #| msgid "Font:"
@@ -2344,7 +2320,7 @@ msgctxt "KFontChooser|@label"
 msgid "Font:"
 msgstr ":ليکبڼه"
 
-#: kfontchooser.cpp:214
+#: kfontchooser.cpp:241
 #, fuzzy
 #| msgctxt "@option:check"
 #| msgid "Font style"
@@ -2352,78 +2328,14 @@ msgctxt "KFontChooser|@option:check"
 msgid "Font style"
 msgstr "ليکبڼې ډول"
 
-#: kfontchooser.cpp:218
-#, fuzzy
-#| msgctxt "@info:whatsthis"
-#| msgid "Enable this checkbox to change the font style settings."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid "Enable this checkbox to change the font style settings."
-msgstr ".دا خوښبکس وتوانوﺉ چې د ليکبڼه ډول امستنې بدلې کړﺉ"
-
-#: kfontchooser.cpp:219
-#, fuzzy
-#| msgctxt "@info:tooltip"
-#| msgid "Change font style?"
-msgctxt "KFontChooser|@info:tooltip"
-msgid "Change font style?"
-msgstr "د ليکبڼې ډول بدلول غواړﺉ؟"
-
-#: kfontchooser.cpp:223
+#: kfontchooser.cpp:246
 #, fuzzy
 #| msgid "Font style:"
 msgctxt "KFontChooser|"
 msgid "Font style:"
 msgstr ":ليکبڼې ډول"
 
-#: kfontchooser.cpp:231
-#, fuzzy
-#| msgctxt "@option:check"
-#| msgid "Size"
-msgctxt "KFontChooser|@option:check"
-msgid "Size"
-msgstr "کچ"
-
-#: kfontchooser.cpp:239
-#, fuzzy
-#| msgctxt "@info:whatsthis"
-#| msgid "Enable this checkbox to change the font size settings."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid "Enable this checkbox to change the font size settings."
-msgstr ".دا خوښبکس وتوانوﺉ چې د ليکبڼه کچ امستنې بدلې کړﺉ"
-
-#: kfontchooser.cpp:240
-#, fuzzy
-#| msgctxt "@info:tooltip"
-#| msgid "Change font size?"
-msgctxt "KFontChooser|@info:tooltip"
-msgid "Change font size?"
-msgstr "د ليکبڼې کچ بدلول غواړﺉ؟"
-
-#: kfontchooser.cpp:244
-#, fuzzy
-#| msgctxt "@label:listbox Font size"
-#| msgid "Size:"
-msgctxt "KFontChooser|@label:listbox Font size"
-msgid "Size:"
-msgstr ":کچ"
-
 #: kfontchooser.cpp:260
-#, fuzzy
-#| msgctxt "@info:whatsthis"
-#| msgid "Here you can choose the font family to be used."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid "Here you can choose the font family to be used."
-msgstr ".دلته تاسو د کارولو د ليکبڼې کورنۍ ټاکلی شﺉ"
-
-#: kfontchooser.cpp:284
-#, fuzzy
-#| msgctxt "@info:whatsthis"
-#| msgid "Here you can choose the font style to be used."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid "Here you can choose the font style to be used."
-msgstr ".دلته تاسو د کارولو ليکبڼه ډول ټاکلی شﺉ"
-
-#: kfontchooser.cpp:292
 #, fuzzy
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -2431,7 +2343,7 @@ msgctxt "KFontChooser|QFontDatabase"
 msgid "Normal"
 msgstr "لېوی"
 
-#: kfontchooser.cpp:293 kfontchooser.cpp:597
+#: kfontchooser.cpp:261 kfontchooser.cpp:587
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Italic"
@@ -2439,7 +2351,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Italic"
 msgstr "کوږ"
 
-#: kfontchooser.cpp:294 kfontchooser.cpp:598
+#: kfontchooser.cpp:262 kfontchooser.cpp:588
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Oblique"
@@ -2447,7 +2359,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Oblique"
 msgstr "رېونده"
 
-#: kfontchooser.cpp:295
+#: kfontchooser.cpp:263
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Bold"
@@ -2455,7 +2367,7 @@ msgctxt "KFontChooser|@item font"
 msgid "Bold"
 msgstr "ډبل"
 
-#: kfontchooser.cpp:296
+#: kfontchooser.cpp:264
 #, fuzzy
 #| msgctxt "@item font"
 #| msgid "Bold Italic"
@@ -2463,7 +2375,23 @@ msgctxt "KFontChooser|@item font"
 msgid "Bold Italic"
 msgstr "ډبل کوږ"
 
-#: kfontchooser.cpp:314
+#: kfontchooser.cpp:280
+#, fuzzy
+#| msgctxt "@option:check"
+#| msgid "Size"
+msgctxt "KFontChooser|@option:check"
+msgid "Size"
+msgstr "کچ"
+
+#: kfontchooser.cpp:285
+#, fuzzy
+#| msgctxt "@label:listbox Font size"
+#| msgid "Size:"
+msgctxt "KFontChooser|@label:listbox Font size"
+msgid "Size:"
+msgstr ":کچ"
+
+#: kfontchooser.cpp:306
 #, fuzzy
 #| msgctxt "@item font size"
 #| msgid "Relative"
@@ -2471,12 +2399,12 @@ msgctxt "KFontChooser|@item font size"
 msgid "Relative"
 msgstr "تړلی"
 
-#: kfontchooser.cpp:316
+#: kfontchooser.cpp:308
 msgctxt "KFontChooser|"
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr ""
 
-#: kfontchooser.cpp:318
+#: kfontchooser.cpp:310
 msgctxt "KFontChooser|"
 msgid ""
 "Here you can switch between fixed font size and font size to be calculated "
@@ -2484,28 +2412,26 @@ msgid ""
 "paper size)."
 msgstr ""
 
-#: kfontchooser.cpp:342
-#, fuzzy
-#| msgid "Here you can choose the font size to be used."
-msgctxt "KFontChooser|"
-msgid "Here you can choose the font size to be used."
-msgstr ".دلته تاسو د کارولو ليکبڼه کچ ټاکلی شﺉ"
-
-#: kfontchooser.cpp:379
+#: kfontchooser.cpp:362
 #, fuzzy
 #| msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgctxt "KFontChooser|"
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr "چټک نسواري ګيدړ په لټ سپي ټوپ وهي"
 
-#: kfontchooser.cpp:382
+#: kfontchooser.cpp:365
 msgctxt "KFontChooser|"
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
 msgstr ""
 
-#: kfontchooser.cpp:582
+#: kfontchooser.cpp:376
+msgctxt "KFontChooser|@option:check"
+msgid "Show only monospaced fonts"
+msgstr ""
+
+#: kfontchooser.cpp:572
 #, fuzzy, qt-format
 #| msgctxt "@application/plain"
 #| msgid "%1"
@@ -2645,21 +2571,32 @@ msgctxt "KMessageWidget|"
 msgid "Close message"
 msgstr "استوزه بندول"
 
-#: kmimetypechooser.cpp:86
+#: kmimetypechooser.cpp:99
+msgctxt "KMimeTypeChooser|"
+msgid "Search for file type or filename pattern..."
+msgstr ""
+
+#: kmimetypechooser.cpp:100
+#, fuzzy
+msgctxt "KMimeTypeChooser|"
+msgid "&Filter:"
+msgstr ":چاڼ&"
+
+#: kmimetypechooser.cpp:114
 #, fuzzy
 #| msgid "Mime types"
 msgctxt "KMimeTypeChooser|"
 msgid "Mime Type"
 msgstr "ميمي ډول"
 
-#: kmimetypechooser.cpp:89
+#: kmimetypechooser.cpp:117
 #, fuzzy
 #| msgid "Comment"
 msgctxt "KMimeTypeChooser|"
 msgid "Comment"
 msgstr "څرګندون"
 
-#: kmimetypechooser.cpp:92
+#: kmimetypechooser.cpp:121
 #, fuzzy
 #| msgctxt "KCharselect unicode block name"
 #| msgid "Braille Patterns"
@@ -2667,19 +2604,17 @@ msgctxt "KMimeTypeChooser|"
 msgid "Patterns"
 msgstr "برېلي بېلګې"
 
-#: kmimetypechooser.cpp:105
+#: kmimetypechooser.cpp:137
 #, fuzzy
 #| msgid "&Edit..."
 msgctxt "KMimeTypeChooser|"
 msgid "&Edit..."
 msgstr "...سمول"
 
-#: kmimetypechooser.cpp:115
-#, fuzzy
-#| msgid "Click this button to create a new folder."
+#: kmimetypechooser.cpp:147
 msgctxt "KMimeTypeChooser|"
-msgid "Click this button to display the familiar KDE mime type editor."
-msgstr "د نوې کړکۍ جوړولو لپاره دا تڼۍ کېکاږﺉ"
+msgid "Launch the KDE mime type editor."
+msgstr ""
 
 #: knewpassworddialog.cpp:69
 #, fuzzy, qt-format
@@ -3338,6 +3273,81 @@ msgstr "ټوله پرده"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Here you can choose the font to be used."
+#~ msgctxt "KFontChooser|@info:whatsthis"
+#~ msgid "Here you can choose the font to be used."
+#~ msgstr ".دلته تاسو د کارولو ليکبڼه ټاکلی شﺉ"
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Enable this checkbox to change the font family settings."
+#~ msgctxt "KFontChooser|@info:whatsthis"
+#~ msgid "Enable this checkbox to change the font family settings."
+#~ msgstr ".دا خوښبکس وتوانوﺉ چې د ليکبڼې کورنۍ امستنې بدلې کړﺉ"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip"
+#~| msgid "Change font family?"
+#~ msgctxt "KFontChooser|@info:tooltip"
+#~ msgid "Change font family?"
+#~ msgstr "د ليکبڼې کورنۍ بدلول غواړﺉ؟"
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Enable this checkbox to change the font style settings."
+#~ msgctxt "KFontChooser|@info:whatsthis"
+#~ msgid "Enable this checkbox to change the font style settings."
+#~ msgstr ".دا خوښبکس وتوانوﺉ چې د ليکبڼه ډول امستنې بدلې کړﺉ"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip"
+#~| msgid "Change font style?"
+#~ msgctxt "KFontChooser|@info:tooltip"
+#~ msgid "Change font style?"
+#~ msgstr "د ليکبڼې ډول بدلول غواړﺉ؟"
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Enable this checkbox to change the font size settings."
+#~ msgctxt "KFontChooser|@info:whatsthis"
+#~ msgid "Enable this checkbox to change the font size settings."
+#~ msgstr ".دا خوښبکس وتوانوﺉ چې د ليکبڼه کچ امستنې بدلې کړﺉ"
+
+#, fuzzy
+#~| msgctxt "@info:tooltip"
+#~| msgid "Change font size?"
+#~ msgctxt "KFontChooser|@info:tooltip"
+#~ msgid "Change font size?"
+#~ msgstr "د ليکبڼې کچ بدلول غواړﺉ؟"
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Here you can choose the font family to be used."
+#~ msgctxt "KFontChooser|@info:whatsthis"
+#~ msgid "Here you can choose the font family to be used."
+#~ msgstr ".دلته تاسو د کارولو د ليکبڼې کورنۍ ټاکلی شﺉ"
+
+#, fuzzy
+#~| msgctxt "@info:whatsthis"
+#~| msgid "Here you can choose the font style to be used."
+#~ msgctxt "KFontChooser|@info:whatsthis"
+#~ msgid "Here you can choose the font style to be used."
+#~ msgstr ".دلته تاسو د کارولو ليکبڼه ډول ټاکلی شﺉ"
+
+#, fuzzy
+#~| msgid "Here you can choose the font size to be used."
+#~ msgctxt "KFontChooser|"
+#~ msgid "Here you can choose the font size to be used."
+#~ msgstr ".دلته تاسو د کارولو ليکبڼه کچ ټاکلی شﺉ"
+
+#, fuzzy
+#~| msgid "Click this button to create a new folder."
+#~ msgctxt "KMimeTypeChooser|"
+#~ msgid "Click this button to display the familiar KDE mime type editor."
+#~ msgstr "د نوې کړکۍ جوړولو لپاره دا تڼۍ کېکاږﺉ"
 
 #, fuzzy
 #~| msgid "&Details"
@@ -6115,10 +6125,6 @@ msgstr ""
 
 #~ msgid "A&vailable actions:"
 #~ msgstr ":ش&ته چارونه"
-
-#, fuzzy
-#~ msgid "Filter"
-#~ msgstr ":چاڼ&"
 
 #~ msgid "Curr&ent actions:"
 #~ msgstr ":اوس&ني چارونه"
