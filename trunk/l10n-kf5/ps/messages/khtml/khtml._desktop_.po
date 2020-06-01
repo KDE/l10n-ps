@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2020-06-01 01:08+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -29,7 +29,7 @@ msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
 msgstr "ليدانی رغتوک HTML راتاوېدونکی"
 
-#: src/khtml.desktop:101
+#: src/khtml.desktop:102
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
@@ -39,7 +39,7 @@ msgctxt "Comment"
 msgid "Embeddable Image Viewing Component"
 msgstr "راتاوېدونکی انځور ليدانی رغتوک"
 
-#: src/khtmlimage.desktop:99
+#: src/khtmlimage.desktop:100
 msgctxt "Name"
 msgid "Embeddable Image Viewer"
 msgstr "راتاوېدونکی انځور ليدانی"
