@@ -1645,183 +1645,183 @@ msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font size"
 msgstr "د ليکبڼې کچ ټاکل"
 
-#: kcharselect.cpp:781
+#: kcharselect.cpp:785
 #, fuzzy
 #| msgid "Character:"
 msgctxt "KCharSelect|"
 msgid "Character:"
 msgstr ":لوښه"
 
-#: kcharselect.cpp:787
+#: kcharselect.cpp:791
 #, fuzzy
 #| msgid "Name: "
 msgctxt "KCharSelect|"
 msgid "Name: "
 msgstr ":نوم"
 
-#: kcharselect.cpp:796
+#: kcharselect.cpp:800
 msgctxt "KCharSelect|"
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kcharselect.cpp:800
+#: kcharselect.cpp:804
 #, fuzzy
 #| msgid "Alias names:"
 msgctxt "KCharSelect|"
 msgid "Alias names:"
 msgstr ":پورنوم نومونه"
 
-#: kcharselect.cpp:808
+#: kcharselect.cpp:812
 #, fuzzy
 #| msgid "Notes:"
 msgctxt "KCharSelect|"
 msgid "Notes:"
 msgstr ":يادښتونه"
 
-#: kcharselect.cpp:816
+#: kcharselect.cpp:820
 #, fuzzy
 #| msgid "See also:"
 msgctxt "KCharSelect|"
 msgid "See also:"
 msgstr ":دا هم وګورﺉ"
 
-#: kcharselect.cpp:831
+#: kcharselect.cpp:835
 #, fuzzy
 #| msgid "Equivalents:"
 msgctxt "KCharSelect|"
 msgid "Equivalents:"
 msgstr ":ورته"
 
-#: kcharselect.cpp:839
+#: kcharselect.cpp:843
 #, fuzzy
 #| msgid "Approximate equivalents:"
 msgctxt "KCharSelect|"
 msgid "Approximate equivalents:"
 msgstr ":نږدې ورته"
 
-#: kcharselect.cpp:847
+#: kcharselect.cpp:851
 #, fuzzy
 #| msgid "Description:"
 msgctxt "KCharSelect|"
 msgid "Decomposition:"
 msgstr ":سپړاوی"
 
-#: kcharselect.cpp:859
+#: kcharselect.cpp:863
 #, fuzzy
 #| msgid "Frame Information"
 msgctxt "KCharSelect|"
 msgid "CJK Ideograph Information"
 msgstr "د چوکاټ خبرتياوې"
 
-#: kcharselect.cpp:862
+#: kcharselect.cpp:866
 #, fuzzy
 #| msgid "Definition in English: "
 msgctxt "KCharSelect|"
 msgid "Definition in English: "
 msgstr ":پېژنداوی په انګريزي"
 
-#: kcharselect.cpp:869
+#: kcharselect.cpp:873
 #, fuzzy
 #| msgid "Mandarin Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Mandarin Pronunciation: "
 msgstr ":مېنډېرين لوستنه"
 
-#: kcharselect.cpp:876
+#: kcharselect.cpp:880
 #, fuzzy
 #| msgid "Cantonese Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Cantonese Pronunciation: "
 msgstr ":کېنټوني لوستنه"
 
-#: kcharselect.cpp:883
+#: kcharselect.cpp:887
 #, fuzzy
 #| msgid "Japanese On Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Japanese On Pronunciation: "
 msgstr ":چاپانۍ ان لوستنه"
 
-#: kcharselect.cpp:890
+#: kcharselect.cpp:894
 #, fuzzy
 #| msgid "Japanese Kun Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Japanese Kun Pronunciation: "
 msgstr ":چاپانۍ کون لوستنه"
 
-#: kcharselect.cpp:897
+#: kcharselect.cpp:901
 #, fuzzy
 #| msgid "Tang Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Tang Pronunciation: "
 msgstr ":ټېنګ لوستنه"
 
-#: kcharselect.cpp:904
+#: kcharselect.cpp:908
 #, fuzzy
 #| msgid "Korean Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Korean Pronunciation: "
 msgstr ":کوريايي لوستنه"
 
-#: kcharselect.cpp:910
+#: kcharselect.cpp:914
 #, fuzzy
 #| msgid "General Character Properties"
 msgctxt "KCharSelect|"
 msgid "General Character Properties"
 msgstr "ټولګړې لوښه ځانتياوې"
 
-#: kcharselect.cpp:911
+#: kcharselect.cpp:915
 #, fuzzy
 #| msgid "Block: "
 msgctxt "KCharSelect|"
 msgid "Block: "
 msgstr ":غونډ"
 
-#: kcharselect.cpp:912
+#: kcharselect.cpp:916
 #, fuzzy
 #| msgid "Unicode category: "
 msgctxt "KCharSelect|"
 msgid "Unicode category: "
 msgstr ":يونيکوډ ټولۍ"
 
-#: kcharselect.cpp:916
+#: kcharselect.cpp:920
 #, fuzzy
 #| msgid "Various Useful Representations"
 msgctxt "KCharSelect|"
 msgid "Various Useful Representations"
 msgstr "ډېرې کارېدونکې وړانديزونې"
 
-#: kcharselect.cpp:917
+#: kcharselect.cpp:921
 #, fuzzy
 #| msgid "UTF-8:"
 msgctxt "KCharSelect|"
 msgid "UTF-8:"
 msgstr ":UTF-۸"
 
-#: kcharselect.cpp:921
+#: kcharselect.cpp:925
 #, fuzzy
 #| msgid "UTF-16: "
 msgctxt "KCharSelect|"
 msgid "UTF-16: "
 msgstr ":UTF-۱۶ "
 
-#: kcharselect.cpp:928
+#: kcharselect.cpp:932
 msgctxt "KCharSelect|"
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kcharselect.cpp:932
+#: kcharselect.cpp:936
 msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kcharselect.cpp:1077
+#: kcharselect.cpp:1081
 #, fuzzy
 #| msgid "Unicode category: "
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr ":يونيکوډ ټولۍ"
 
-#: kcharselect.cpp:1078
+#: kcharselect.cpp:1082
 msgctxt "KCharSelectItemModel|Character"
 msgid "In decimal"
 msgstr ""
