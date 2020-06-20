@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-05 02:01+0200\n"
+"POT-Creation-Date: 2020-06-20 02:01+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -749,7 +749,7 @@ msgid "Change Icon"
 msgstr "انځورن بدلول"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:172 ui_standards.rc:177
+#: khelpmenu.cpp:172 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "مرسته"
@@ -1240,10 +1240,10 @@ msgstr "%1"
 
 #: kswitchlanguagedialog_p.cpp:159
 #, fuzzy, kde-format
-#| msgid "Switch Application Language"
+#| msgid "Configure"
 msgctxt "@title:window"
-msgid "Switch Application Language"
-msgstr "د کاريال ژبه ونجول"
+msgid "Configure Language"
+msgstr "سازول"
 
 #: kswitchlanguagedialog_p.cpp:164
 #, kde-format
@@ -1523,10 +1523,16 @@ msgid "&Settings"
 msgstr "امستنې"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: ui_standards.rc:196
+#: ui_standards.rc:195
 #, kde-format
 msgid "Main Toolbar"
 msgstr "اره توکپټه"
+
+#, fuzzy
+#~| msgid "Switch Application Language"
+#~ msgctxt "@title:window"
+#~ msgid "Switch Application Language"
+#~ msgstr "د کاريال ژبه ونجول"
 
 #~ msgid "Compiler:"
 #~ msgstr ":پېلوونکی"
@@ -4201,9 +4207,6 @@ msgstr "اره توکپټه"
 
 #~ msgid "Finish"
 #~ msgstr "پای"
-
-#~ msgid "Configure"
-#~ msgstr "سازول"
 
 #~ msgid "Job"
 #~ msgstr "دنده"
