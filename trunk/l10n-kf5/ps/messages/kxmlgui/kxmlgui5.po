@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-20 02:01+0200\n"
+"POT-Creation-Date: 2020-06-30 02:01+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -26,28 +26,28 @@ msgctxt "@title:window"
 msgid "About %1"
 msgstr "په اړه %1 د"
 
-#: kaboutapplicationdialog.cpp:106 kaboutplugindialog.cpp:92
+#: kaboutapplicationdialog.cpp:105 kaboutplugindialog.cpp:92
 #, fuzzy, kde-format
 #| msgid "&About"
 msgctxt "@title:tab"
 msgid "About"
 msgstr "په اړه"
 
-#: kaboutapplicationdialog.cpp:113
+#: kaboutapplicationdialog.cpp:112
 #, kde-format
 msgid ""
 "<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</li><li>The <em>"
 "%4</em> windowing system</li></ul>"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:123
+#: kaboutapplicationdialog.cpp:122
 #, fuzzy, kde-format
 #| msgid "Libraries"
 msgctxt "@title:tab"
 msgid "Libraries"
 msgstr "کتابتونونه"
 
-#: kaboutapplicationdialog.cpp:133 kaboutplugindialog.cpp:103
+#: kaboutapplicationdialog.cpp:132 kaboutplugindialog.cpp:103
 #, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@title:tab"
@@ -56,14 +56,14 @@ msgid_plural "Authors"
 msgstr[0] "ليکوال"
 msgstr[1] "ليکوال"
 
-#: kaboutapplicationdialog.cpp:140 kaboutplugindialog.cpp:110
+#: kaboutapplicationdialog.cpp:139 kaboutplugindialog.cpp:110
 #, fuzzy, kde-format
 #| msgid "&Thanks To"
 msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "ته مننه"
 
-#: kaboutapplicationdialog.cpp:147 kaboutplugindialog.cpp:116
+#: kaboutapplicationdialog.cpp:146 kaboutplugindialog.cpp:116
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "@title:tab"
@@ -183,7 +183,7 @@ msgid "<html><font size=\"5\">KDE - Be Free!</font></html>"
 msgstr ""
 "<html><font size=\"5\">ک سرپاڼه چاپېريال</font><br /><b>%1 نسخه</b></html>"
 
-#: kaboutkdedialog_p.cpp:55
+#: kaboutkdedialog_p.cpp:56
 #, kde-format
 msgid ""
 "<html><b>KDE</b> is a world-wide community of software engineers, artists, "
@@ -198,7 +198,7 @@ msgid ""
 "software we produce.</html>"
 msgstr ""
 
-#: kaboutkdedialog_p.cpp:75
+#: kaboutkdedialog_p.cpp:76
 #, kde-format
 msgid ""
 "<html>Software can always be improved, and the KDE team is ready to do so. "
@@ -210,7 +210,7 @@ msgid ""
 "your wish. Make sure you use the severity called \"Wishlist\".</html>"
 msgstr ""
 
-#: kaboutkdedialog_p.cpp:93
+#: kaboutkdedialog_p.cpp:94
 #, kde-format
 msgid ""
 "<html>You do not have to be a software developer to be a member of the KDE "
@@ -222,7 +222,7 @@ msgid ""
 "what you need.</html>"
 msgstr ""
 
-#: kaboutkdedialog_p.cpp:115
+#: kaboutkdedialog_p.cpp:116
 #, kde-format
 msgid ""
 "<html>KDE software is and will always be available free of charge, however "
@@ -239,7 +239,7 @@ msgid ""
 "advance for your support.</html>"
 msgstr ""
 
-#: kaboutkdedialog_p.cpp:135
+#: kaboutkdedialog_p.cpp:136
 #, fuzzy, kde-format
 #| msgctxt "About KDE"
 #| msgid "&About"
@@ -247,28 +247,28 @@ msgctxt "@title:tab About KDE"
 msgid "&About"
 msgstr "په اړه"
 
-#: kaboutkdedialog_p.cpp:136
+#: kaboutkdedialog_p.cpp:137
 #, fuzzy, kde-format
 #| msgid "&Report Bugs or Wishes"
 msgctxt "@title:tab"
 msgid "&Report Bugs or Wishes"
 msgstr "کړاونه يا غوښتنې راپورول"
 
-#: kaboutkdedialog_p.cpp:137
+#: kaboutkdedialog_p.cpp:138
 #, fuzzy, kde-format
 #| msgid "&Join the KDE Team"
 msgctxt "@title:tab"
 msgid "&Join KDE"
 msgstr "د کډي ډلې کې ګډون کول&"
 
-#: kaboutkdedialog_p.cpp:138
+#: kaboutkdedialog_p.cpp:139
 #, fuzzy, kde-format
 #| msgid "&Support KDE"
 msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "د کډي ملاتړ"
 
-#: kabstractaboutdialog_p.cpp:47
+#: kabstractaboutdialog_p.cpp:48
 #, fuzzy, kde-format
 #| msgid ""
 #| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
@@ -277,12 +277,12 @@ msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
 msgstr ""
 "<html><font size=\"5\">%1</font><br/><b>%2 نسخه</b><br/>کاروي %3 کډي</html>"
 
-#: kabstractaboutdialog_p.cpp:92
+#: kabstractaboutdialog_p.cpp:93
 #, kde-format
 msgid "License: %1"
 msgstr "%1 :منښتليک"
 
-#: kabstractaboutdialog_p.cpp:124
+#: kabstractaboutdialog_p.cpp:125
 #, fuzzy, kde-format
 #| msgid ""
 #| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
@@ -294,7 +294,7 @@ msgstr ""
 ".وکاروﺉ <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> لورينه وکړﺉ "
 "د کړاونو د راپورولو لپاره\n"
 
-#: kabstractaboutdialog_p.cpp:130
+#: kabstractaboutdialog_p.cpp:131
 #, fuzzy, kde-format
 #| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
@@ -327,7 +327,7 @@ msgstr "کړاو راپور لېږل"
 msgid "Submit Bug Report"
 msgstr "کړاو راپور لېږل"
 
-#: kbugreport.cpp:143
+#: kbugreport.cpp:144
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -335,66 +335,66 @@ msgstr ""
 "ستاسو برېښليک پته. که چېرې ناسمه وي، د بدلولو لپاره يې د برېښليک سازول تڼۍ "
 "وکاروﺉ"
 
-#: kbugreport.cpp:144
+#: kbugreport.cpp:145
 #, fuzzy, kde-format
 #| msgid "From:"
 msgctxt "Email sender address"
 msgid "From:"
 msgstr ":له"
 
-#: kbugreport.cpp:152
+#: kbugreport.cpp:153
 #, fuzzy, kde-format
 #| msgid "Configure Email..."
 msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "...برېښليک سازول"
 
-#: kbugreport.cpp:158
+#: kbugreport.cpp:159
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr ".هغه برېښليک پته چې دا کړاو راپور ورته لېږل کيږي"
 
-#: kbugreport.cpp:159
+#: kbugreport.cpp:160
 #, fuzzy, kde-format
 #| msgid "To:"
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr ":ته"
 
-#: kbugreport.cpp:168
+#: kbugreport.cpp:169
 #, fuzzy, kde-format
 #| msgid "&Send"
 msgctxt "@action:button"
 msgid "&Send"
 msgstr "لېږل"
 
-#: kbugreport.cpp:169
+#: kbugreport.cpp:170
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr ".کړاو راپور لېږل"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:171
 #, fuzzy, kde-format
 #| msgid "Send this bug report to %1."
 msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr ".ته لېږل %1 دا کړاو راپور"
 
-#: kbugreport.cpp:178
+#: kbugreport.cpp:179
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
 "please use the Report Bug menu item of the correct application"
 msgstr ""
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:180
 #, kde-format
 msgid "Application: "
 msgstr ":کاريال"
 
-#: kbugreport.cpp:189
+#: kbugreport.cpp:190
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -403,44 +403,44 @@ msgstr ""
 "د دې کاريال نسخه - لورينه وکړﺉ د کړاو راپورولو نه مخکې باوري کړﺉ چې د دې "
 "کاريال کومه نوې نسخه شتون نه لري"
 
-#: kbugreport.cpp:190
+#: kbugreport.cpp:191
 #, kde-format
 msgid "Version:"
 msgstr ":نسخه"
 
-#: kbugreport.cpp:195
+#: kbugreport.cpp:196
 #, fuzzy, kde-format
 #| msgid "no version set (programmer error!)"
 msgid "no version set (programmer error)"
 msgstr "نسخه نه ده ټاکل شوې (د کړنلاروونکي تېروتنه!)"
 
-#: kbugreport.cpp:207
+#: kbugreport.cpp:208
 #, kde-format
 msgid "OS:"
 msgstr ":چليز غونډال"
 
-#: kbugreport.cpp:217
+#: kbugreport.cpp:218
 #, fuzzy, kde-format
 #| msgid "Se&verity"
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "کل&کوالی"
 
-#: kbugreport.cpp:221
+#: kbugreport.cpp:222
 #, fuzzy, kde-format
 #| msgid "Critical"
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "بېړنی"
 
-#: kbugreport.cpp:222
+#: kbugreport.cpp:223
 #, fuzzy, kde-format
 #| msgid "Grave"
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "اړين"
 
-#: kbugreport.cpp:223
+#: kbugreport.cpp:224
 #, fuzzy, kde-format
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -448,26 +448,26 @@ msgctxt "bug severity"
 msgid "Normal"
 msgstr "لېوی"
 
-#: kbugreport.cpp:224
+#: kbugreport.cpp:225
 #, fuzzy, kde-format
 #| msgid "Wishlist"
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "غوښتنلړ"
 
-#: kbugreport.cpp:225
+#: kbugreport.cpp:226
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "ژباړه"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:244
 #, kde-format
 msgid "S&ubject: "
 msgstr ":س&رليک"
 
-#: kbugreport.cpp:251
+#: kbugreport.cpp:252
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -476,7 +476,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kbugreport.cpp:273
+#: kbugreport.cpp:274
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -485,35 +485,35 @@ msgid ""
 "be transferred to that server.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:278
+#: kbugreport.cpp:279
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
 "browser window on <a href=\"%1\">%2</a>.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:294
+#: kbugreport.cpp:295
 #, fuzzy, kde-format
 #| msgid "&Launch Bug Report Wizard"
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "د کړاو راپورونې اسانګر پېلول"
 
-#: kbugreport.cpp:296
+#: kbugreport.cpp:297
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "کړاو راپور لېږل"
 
-#: kbugreport.cpp:390
+#: kbugreport.cpp:391
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr ""
 
-#: kbugreport.cpp:399
+#: kbugreport.cpp:400
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -525,7 +525,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:411
+#: kbugreport.cpp:412
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -537,7 +537,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:425
+#: kbugreport.cpp:426
 #, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -545,12 +545,12 @@ msgid ""
 "See https://bugs.kde.org/ for instructions."
 msgstr ""
 
-#: kbugreport.cpp:433
+#: kbugreport.cpp:434
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr ".کړاو راپور ولېږل شو، ستاسو د ليکلو نه مننه"
 
-#: kbugreport.cpp:442
+#: kbugreport.cpp:443
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -559,7 +559,7 @@ msgstr ""
 "سمول شوې استوزه\n"
 "بندول او پرېښودل"
 
-#: kbugreport.cpp:443
+#: kbugreport.cpp:444
 #, fuzzy, kde-format
 #| msgid "Close Message"
 msgctxt "@title:window"
