@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-16 02:07+0200\n"
+"POT-Creation-Date: 2020-07-02 02:01+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -800,12 +800,12 @@ msgctxt ""
 msgid "Download New Stuff"
 msgstr "نوي څيزونه رالېښل"
 
-#: qtquick/qml/DownloadItemsSheet.qml:49
+#: qtquick/qml/DownloadItemsSheet.qml:46
 #, kde-format
 msgid "Pick Your Installation Option"
 msgstr ""
 
-#: qtquick/qml/DownloadItemsSheet.qml:55
+#: qtquick/qml/DownloadItemsSheet.qml:57
 #, kde-format
 msgid ""
 "Please select the option you wish to install from the list of downloadable "
