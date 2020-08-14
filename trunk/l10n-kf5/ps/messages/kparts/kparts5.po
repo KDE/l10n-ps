@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-11 02:11+0200\n"
+"POT-Creation-Date: 2020-08-14 02:08+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -44,97 +44,97 @@ msgstr "اېنټرنېټ پلټون"
 msgid "&Search"
 msgstr "پلټون"
 
-#: browseropenorsavequestion.cpp:88
+#: browseropenorsavequestion.cpp:87
 #, fuzzy, kde-format
 #| msgid "Re: %1"
 msgctxt "@label Type of file"
 msgid "Type: %1"
 msgstr "%1 بيا:"
 
-#: browseropenorsavequestion.cpp:96
+#: browseropenorsavequestion.cpp:95
 #, fuzzy, kde-format
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
 msgid "Remember action for files of this type"
 msgstr "دا استوزه بيا نه ښودل"
 
-#: browseropenorsavequestion.cpp:148 browseropenorsavequestion.cpp:241
+#: browseropenorsavequestion.cpp:147 browseropenorsavequestion.cpp:240
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@label:button"
 msgid "&Open with %1"
 msgstr "پرانيستل '%1' په&"
 
-#: browseropenorsavequestion.cpp:215
+#: browseropenorsavequestion.cpp:214
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@action:inmenu"
 msgid "Open &with %1"
 msgstr "پرانيستل '%1' په&"
 
-#: browseropenorsavequestion.cpp:226 browseropenorsavequestion.cpp:321
+#: browseropenorsavequestion.cpp:225 browseropenorsavequestion.cpp:320
 #, fuzzy, kde-format
 #| msgid "Open '%1'"
 msgctxt "@info"
 msgid "Open '%1'?"
 msgstr "پرانيستل '%1'"
 
-#: browseropenorsavequestion.cpp:230
+#: browseropenorsavequestion.cpp:229
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with..."
 msgstr "...پرانيستل په&"
 
-#: browseropenorsavequestion.cpp:250
+#: browseropenorsavequestion.cpp:249
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with"
 msgstr "...پرانيستل په&"
 
-#: browseropenorsavequestion.cpp:318
+#: browseropenorsavequestion.cpp:317
 #, fuzzy, kde-format
 #| msgid "&Open"
 msgctxt "@label:button"
 msgid "&Open"
 msgstr "پرانيستل&"
 
-#: browseropenorsavequestion.cpp:343
+#: browseropenorsavequestion.cpp:342
 #, fuzzy, kde-format
 #| msgid "Name: "
 msgctxt "@label File name"
 msgid "Name: %1"
 msgstr ":نوم"
 
-#: browseropenorsavequestion.cpp:345
+#: browseropenorsavequestion.cpp:344
 #, fuzzy, kde-format
 #| msgid "This is the name to save the file as."
 msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "دا هغه نوم دی چې دوتنه پرې وساتل شي."
 
-#: browserrun.cpp:339
+#: browserrun.cpp:338
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "په رښتيا چلول غواړﺉ؟ '%1'"
 
-#: browserrun.cpp:340
+#: browserrun.cpp:339
 #, kde-format
 msgid "Execute File?"
 msgstr "دوتنه چلول غواړﺉ؟"
 
-#: browserrun.cpp:340
+#: browserrun.cpp:339
 #, kde-format
 msgid "Execute"
 msgstr "چلول"
 
-#: browserrun.cpp:399
+#: browserrun.cpp:398
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: browserrun.cpp:400
+#: browserrun.cpp:399
 #, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -145,7 +145,7 @@ msgstr ""
 "\n"
 "د کانکويرر سره به يې ټينګوالی وناتوانول شي."
 
-#: browserrun.cpp:427
+#: browserrun.cpp:426
 #, kde-format
 msgid "Save As"
 msgstr "ساتل په"
