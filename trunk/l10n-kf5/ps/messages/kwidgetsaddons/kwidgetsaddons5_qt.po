@@ -2805,6 +2805,25 @@ msgctxt "KPixmapRegionSelectorWidget|@action:inmenu"
 msgid "Rotate &Counterclockwise"
 msgstr "سرچپه &ګړېغوندې چورلول"
 
+#: krecentfilesmenu.cpp:103
+#, fuzzy
+msgctxt "KRecentFilesMenu|"
+msgid "No Entries"
+msgstr "هېڅ ننوتنې"
+
+#: krecentfilesmenu.cpp:106
+#, fuzzy
+msgctxt "KRecentFilesMenu|"
+msgid "Clear List"
+msgstr "ننوتۍ پاکول"
+
+#: krecentfilesmenu.cpp:113
+#, fuzzy
+#| msgid "Delete Files"
+msgctxt "KRecentFilesMenu|"
+msgid "Recent Files"
+msgstr "دوتنې ړنګول"
+
 #: ksqueezedtextlabel.cpp:206
 #, fuzzy
 #| msgid "&Copy Full Text"
@@ -5393,14 +5412,6 @@ msgstr ""
 #~ msgctxt "Encodings menu"
 #~ msgid "Autodetect"
 #~ msgstr "خپله اوچتول"
-
-#, fuzzy
-#~ msgid "No Entries"
-#~ msgstr "هېڅ ننوتنې"
-
-#, fuzzy
-#~ msgid "Clear List"
-#~ msgstr "ننوتۍ پاکول"
 
 #~ msgctxt "go back"
 #~ msgid "&Back"
@@ -12186,9 +12197,6 @@ msgstr ""
 
 #~ msgid "Delete File"
 #~ msgstr "دوتنه ړنګول"
-
-#~ msgid "Delete Files"
-#~ msgstr "دوتنې ړنګول"
 
 #~ msgid "You did not select a file to trash."
 #~ msgstr ".تاسو د خځلنۍ ته لېږلو لپاره کومه دوتنه نه ده ټاکلې"
