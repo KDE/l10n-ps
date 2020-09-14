@@ -1551,28 +1551,28 @@ msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Symbols for Legacy Computing"
 msgstr ""
 
-#: kcharselect.cpp:393
+#: kcharselect.cpp:387
 #, fuzzy
 #| msgid "Enter a search term or character here"
 msgctxt "KCharSelect|@info:placeholder"
 msgid "Enter a search term or character..."
 msgstr "پلټون ويې يا لوښته دلته وليکﺉ"
 
-#: kcharselect.cpp:395
+#: kcharselect.cpp:389
 #, fuzzy
 #| msgid "Enter a search term or character here"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Enter a search term or character here"
 msgstr "پلټون ويې يا لوښته دلته وليکﺉ"
 
-#: kcharselect.cpp:400
+#: kcharselect.cpp:394
 #, fuzzy
 #| msgid "&Find..."
 msgctxt "KCharSelect|@action"
 msgid "&Find..."
 msgstr "...لټول"
 
-#: kcharselect.cpp:420
+#: kcharselect.cpp:414
 #, fuzzy
 #| msgctxt "@action"
 #| msgid "Previous Item in List"
@@ -1580,14 +1580,14 @@ msgctxt "KCharSelect|@action:button Goes to previous character"
 msgid "Previous in History"
 msgstr "په لړ کې مخکنی توکی"
 
-#: kcharselect.cpp:422
+#: kcharselect.cpp:416
 #, fuzzy
 #| msgid "Previous Character"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Go to previous character in history"
 msgstr "مخکنۍ لوښه"
 
-#: kcharselect.cpp:427
+#: kcharselect.cpp:421
 #, fuzzy
 #| msgctxt "@action"
 #| msgid "Next Item in List"
@@ -1595,21 +1595,21 @@ msgctxt "KCharSelect|@action:button Goes to next character"
 msgid "Next in History"
 msgstr "په لړ کې راتلونکی توکی"
 
-#: kcharselect.cpp:429
+#: kcharselect.cpp:423
 #, fuzzy
 #| msgid "Next Character"
 msgctxt "KCharSelect|info:tooltip"
 msgid "Go to next character in history"
 msgstr "راتلونکې لوښه"
 
-#: kcharselect.cpp:434
+#: kcharselect.cpp:428
 #, fuzzy
 #| msgid "&Back"
 msgctxt "KCharSelect|@action go back"
 msgid "&Back"
 msgstr "شاته"
 
-#: kcharselect.cpp:441
+#: kcharselect.cpp:435
 #, fuzzy
 #| msgctxt "go forward"
 #| msgid "&Forward"
@@ -1617,211 +1617,211 @@ msgctxt "KCharSelect|@action go forward"
 msgid "&Forward"
 msgstr "مخکې&"
 
-#: kcharselect.cpp:456
+#: kcharselect.cpp:450
 #, fuzzy
 #| msgid "Select a category"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Select a category"
 msgstr "يوه ټولۍ وټاکﺉ"
 
-#: kcharselect.cpp:460
+#: kcharselect.cpp:454
 #, fuzzy
 #| msgid "Select a block to be displayed"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Select a block to be displayed"
 msgstr "د ښودلو لپاره يو غونډ وټاکﺉ"
 
-#: kcharselect.cpp:473
+#: kcharselect.cpp:467
 #, fuzzy
 #| msgid "Set font"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font"
 msgstr "ليکبڼه ټاکل"
 
-#: kcharselect.cpp:480
+#: kcharselect.cpp:474
 #, fuzzy
 #| msgid "Set font size"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font size"
 msgstr "د ليکبڼې کچ ټاکل"
 
-#: kcharselect.cpp:772
+#: kcharselect.cpp:766
 #, fuzzy
 #| msgid "Character:"
 msgctxt "KCharSelect|"
 msgid "Character:"
 msgstr ":لوښه"
 
-#: kcharselect.cpp:778
+#: kcharselect.cpp:772
 #, fuzzy
 #| msgid "Name: "
 msgctxt "KCharSelect|"
 msgid "Name: "
 msgstr ":نوم"
 
-#: kcharselect.cpp:787
+#: kcharselect.cpp:781
 msgctxt "KCharSelect|"
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kcharselect.cpp:791
+#: kcharselect.cpp:785
 #, fuzzy
 #| msgid "Alias names:"
 msgctxt "KCharSelect|"
 msgid "Alias names:"
 msgstr ":پورنوم نومونه"
 
-#: kcharselect.cpp:799
+#: kcharselect.cpp:793
 #, fuzzy
 #| msgid "Notes:"
 msgctxt "KCharSelect|"
 msgid "Notes:"
 msgstr ":يادښتونه"
 
-#: kcharselect.cpp:807
+#: kcharselect.cpp:801
 #, fuzzy
 #| msgid "See also:"
 msgctxt "KCharSelect|"
 msgid "See also:"
 msgstr ":دا هم وګورﺉ"
 
-#: kcharselect.cpp:822
+#: kcharselect.cpp:816
 #, fuzzy
 #| msgid "Equivalents:"
 msgctxt "KCharSelect|"
 msgid "Equivalents:"
 msgstr ":ورته"
 
-#: kcharselect.cpp:830
+#: kcharselect.cpp:824
 #, fuzzy
 #| msgid "Approximate equivalents:"
 msgctxt "KCharSelect|"
 msgid "Approximate equivalents:"
 msgstr ":نږدې ورته"
 
-#: kcharselect.cpp:838
+#: kcharselect.cpp:832
 #, fuzzy
 #| msgid "Description:"
 msgctxt "KCharSelect|"
 msgid "Decomposition:"
 msgstr ":سپړاوی"
 
-#: kcharselect.cpp:850
+#: kcharselect.cpp:844
 #, fuzzy
 #| msgid "Frame Information"
 msgctxt "KCharSelect|"
 msgid "CJK Ideograph Information"
 msgstr "د چوکاټ خبرتياوې"
 
-#: kcharselect.cpp:853
+#: kcharselect.cpp:847
 #, fuzzy
 #| msgid "Definition in English: "
 msgctxt "KCharSelect|"
 msgid "Definition in English: "
 msgstr ":پېژنداوی په انګريزي"
 
-#: kcharselect.cpp:860
+#: kcharselect.cpp:854
 #, fuzzy
 #| msgid "Mandarin Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Mandarin Pronunciation: "
 msgstr ":مېنډېرين لوستنه"
 
-#: kcharselect.cpp:867
+#: kcharselect.cpp:861
 #, fuzzy
 #| msgid "Cantonese Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Cantonese Pronunciation: "
 msgstr ":کېنټوني لوستنه"
 
-#: kcharselect.cpp:874
+#: kcharselect.cpp:868
 #, fuzzy
 #| msgid "Japanese On Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Japanese On Pronunciation: "
 msgstr ":چاپانۍ ان لوستنه"
 
-#: kcharselect.cpp:881
+#: kcharselect.cpp:875
 #, fuzzy
 #| msgid "Japanese Kun Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Japanese Kun Pronunciation: "
 msgstr ":چاپانۍ کون لوستنه"
 
-#: kcharselect.cpp:888
+#: kcharselect.cpp:882
 #, fuzzy
 #| msgid "Tang Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Tang Pronunciation: "
 msgstr ":ټېنګ لوستنه"
 
-#: kcharselect.cpp:895
+#: kcharselect.cpp:889
 #, fuzzy
 #| msgid "Korean Pronunciation: "
 msgctxt "KCharSelect|"
 msgid "Korean Pronunciation: "
 msgstr ":کوريايي لوستنه"
 
-#: kcharselect.cpp:901
+#: kcharselect.cpp:895
 #, fuzzy
 #| msgid "General Character Properties"
 msgctxt "KCharSelect|"
 msgid "General Character Properties"
 msgstr "ټولګړې لوښه ځانتياوې"
 
-#: kcharselect.cpp:902
+#: kcharselect.cpp:896
 #, fuzzy
 #| msgid "Block: "
 msgctxt "KCharSelect|"
 msgid "Block: "
 msgstr ":غونډ"
 
-#: kcharselect.cpp:903
+#: kcharselect.cpp:897
 #, fuzzy
 #| msgid "Unicode category: "
 msgctxt "KCharSelect|"
 msgid "Unicode category: "
 msgstr ":يونيکوډ ټولۍ"
 
-#: kcharselect.cpp:907
+#: kcharselect.cpp:901
 #, fuzzy
 #| msgid "Various Useful Representations"
 msgctxt "KCharSelect|"
 msgid "Various Useful Representations"
 msgstr "ډېرې کارېدونکې وړانديزونې"
 
-#: kcharselect.cpp:908
+#: kcharselect.cpp:902
 #, fuzzy
 #| msgid "UTF-8:"
 msgctxt "KCharSelect|"
 msgid "UTF-8:"
 msgstr ":UTF-۸"
 
-#: kcharselect.cpp:912
+#: kcharselect.cpp:906
 #, fuzzy
 #| msgid "UTF-16: "
 msgctxt "KCharSelect|"
 msgid "UTF-16: "
 msgstr ":UTF-۱۶ "
 
-#: kcharselect.cpp:919
+#: kcharselect.cpp:913
 msgctxt "KCharSelect|"
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kcharselect.cpp:923
+#: kcharselect.cpp:917
 msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kcharselect.cpp:1068
+#: kcharselect.cpp:1062
 #, fuzzy
 #| msgid "Unicode category: "
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr ":يونيکوډ ټولۍ"
 
-#: kcharselect.cpp:1069
+#: kcharselect.cpp:1063
 msgctxt "KCharSelectItemModel|Character"
 msgid "In decimal"
 msgstr ""
@@ -2276,28 +2276,28 @@ msgctxt "KDateTimeEdit|@info"
 msgid "The entered date and time is after the maximum allowed date and time."
 msgstr ""
 
-#: keditlistwidget.cpp:294
+#: keditlistwidget.cpp:292
 #, fuzzy
 #| msgid "&Add"
 msgctxt "KEditListWidget|@action:button"
 msgid "&Add"
 msgstr "زياتول"
 
-#: keditlistwidget.cpp:306
+#: keditlistwidget.cpp:304
 #, fuzzy
 #| msgid "&Remove"
 msgctxt "KEditListWidget|@action:button"
 msgid "&Remove"
 msgstr "ړنګول"
 
-#: keditlistwidget.cpp:318
+#: keditlistwidget.cpp:316
 #, fuzzy
 #| msgid "Move &Up"
 msgctxt "KEditListWidget|@action:button"
 msgid "Move &Up"
 msgstr "بره &خوځول"
 
-#: keditlistwidget.cpp:323
+#: keditlistwidget.cpp:321
 #, fuzzy
 #| msgid "Move &Down"
 msgctxt "KEditListWidget|@action:button"
@@ -2446,7 +2446,7 @@ msgctxt "KFontChooser|@item Font style"
 msgid "%1"
 msgstr "%1"
 
-#: kfontchooserdialog.cpp:43
+#: kfontchooserdialog.cpp:38
 #, fuzzy
 #| msgid "Select Font"
 msgctxt "KFontChooserDialog|@title:window"
@@ -2489,12 +2489,12 @@ msgid ""
 "\"Choose Font...\" button."
 msgstr ""
 
-#: kled.cpp:182
+#: kled.cpp:176
 msgctxt "KLed|Accessible name of a Led whose state is on"
 msgid "LED on"
 msgstr ""
 
-#: kled.cpp:183
+#: kled.cpp:177
 msgctxt "KLed|Accessible name of a Led whose state is off"
 msgid "LED off"
 msgstr ""
@@ -2673,7 +2673,7 @@ msgid ""
 "Would you like to use this password anyway?"
 msgstr ""
 
-#: knewpasswordwidget.cpp:53
+#: knewpasswordwidget.cpp:48
 msgctxt "KNewPasswordWidget|@info:whatsthis"
 msgid ""
 "The password strength meter gives an indication of the security of the "
@@ -2704,14 +2704,14 @@ msgctxt "KNewPasswordWidget|@label"
 msgid "Password strength &meter:"
 msgstr ":د تېرنويې د کلکوالي ميټر"
 
-#: kpassworddialog.cpp:52
+#: kpassworddialog.cpp:50
 #, fuzzy
 #| msgid "Password"
 msgctxt "KPasswordDialog|@title:window"
 msgid "Password"
 msgstr "تېرنويې"
 
-#: kpassworddialog.cpp:92
+#: kpassworddialog.cpp:90
 #, fuzzy
 #| msgid "Supply a username and password below."
 msgctxt "KPasswordDialog|"
@@ -3260,42 +3260,42 @@ msgctxt "KTimeComboBox|@info"
 msgid "Time cannot be later than %1"
 msgstr ""
 
-#: ktogglefullscreenaction.cpp:33
+#: ktogglefullscreenaction.cpp:32
 #, fuzzy
 #| msgid "Exit F&ull Screen Mode"
 msgctxt "KToggleFullScreenAction|@action:inmenu"
 msgid "Exit F&ull Screen Mode"
 msgstr "د ټ&ولې پردې اکر بندول"
 
-#: ktogglefullscreenaction.cpp:34
+#: ktogglefullscreenaction.cpp:33
 #, fuzzy
 #| msgid "Exit Full Screen"
 msgctxt "KToggleFullScreenAction|@action:intoolbar"
 msgid "Exit Full Screen"
 msgstr "ټوله پرده بندول"
 
-#: ktogglefullscreenaction.cpp:35
+#: ktogglefullscreenaction.cpp:34
 #, fuzzy
 #| msgid "Exit F&ull Screen Mode"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Exit full screen mode"
 msgstr "د ټ&ولې پردې اکر بندول"
 
-#: ktogglefullscreenaction.cpp:38
+#: ktogglefullscreenaction.cpp:37
 #, fuzzy
 #| msgid "F&ull Screen Mode"
 msgctxt "KToggleFullScreenAction|@action:inmenu"
 msgid "F&ull Screen Mode"
 msgstr "ټ&وله پرده اکر"
 
-#: ktogglefullscreenaction.cpp:39
+#: ktogglefullscreenaction.cpp:38
 #, fuzzy
 #| msgid "Full Screen"
 msgctxt "KToggleFullScreenAction|@action:intoolbar"
 msgid "Full Screen"
 msgstr "ټوله پرده"
 
-#: ktogglefullscreenaction.cpp:40
+#: ktogglefullscreenaction.cpp:39
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
