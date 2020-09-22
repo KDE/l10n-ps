@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-20 00:38+0000\n"
+"POT-Creation-Date: 2020-09-22 00:45+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -392,12 +392,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:33
+#: src/kcms/webshortcuts/webshortcuts.desktop:35
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:52
+#: src/kcms/webshortcuts/webshortcuts.desktop:56
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -754,7 +754,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:25
+#: src/urifilters/ikws/searchproviders/deepl.desktop:26
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
