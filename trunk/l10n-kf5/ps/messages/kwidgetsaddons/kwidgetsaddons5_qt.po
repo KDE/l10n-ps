@@ -2453,35 +2453,35 @@ msgctxt "KFontChooserDialog|@title:window"
 msgid "Select Font"
 msgstr "ليکبڼه ټاکل"
 
-#: kfontrequester.cpp:202
+#: kfontrequester.cpp:150
 #, fuzzy
 #| msgid "Choose..."
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Choose font..."
 msgstr "ټاکل..."
 
-#: kfontrequester.cpp:208
+#: kfontrequester.cpp:156
 #, fuzzy
 #| msgid "Preview of the selected font"
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Preview of the selected font"
 msgstr "د ټاکل شوې ليکبڼې مخکوت"
 
-#: kfontrequester.cpp:209
+#: kfontrequester.cpp:157
 msgctxt "KFontRequester|@info:whatsthis"
 msgid ""
 "This is a preview of the selected font. You can change it by clicking the "
 "\"Choose Font...\" button."
 msgstr ""
 
-#: kfontrequester.cpp:212
+#: kfontrequester.cpp:160
 #, fuzzy, qt-format
 #| msgid "Preview of the \"%1\" font"
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Preview of the \"%1\" font"
 msgstr "ليکبڼې مخکوت \"%1\" د"
 
-#: kfontrequester.cpp:213
+#: kfontrequester.cpp:161
 #, qt-format
 msgctxt "KFontRequester|@info:whatsthis"
 msgid ""
