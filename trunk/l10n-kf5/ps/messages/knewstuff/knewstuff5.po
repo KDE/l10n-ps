@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-23 02:13+0200\n"
+"POT-Creation-Date: 2020-10-24 02:12+0200\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -82,7 +82,7 @@ msgstr ""
 msgid "Download New Stuff..."
 msgstr "نوي څيزونه رالېښل"
 
-#: core/commentsmodel.cpp:170
+#: core/commentsmodel.cpp:168
 #, fuzzy, kde-format
 #| msgid "Unknown error"
 msgctxt ""
@@ -615,21 +615,21 @@ msgstr ""
 msgid "Install"
 msgstr "لګول"
 
-#: kmoretools/kmoretools.cpp:534
+#: kmoretools/kmoretools.cpp:533
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "لګول"
 
-#: kmoretools/kmoretools.cpp:630
+#: kmoretools/kmoretools.cpp:629
 #, fuzzy, kde-format
 #| msgid "Choose..."
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "ټاکل..."
 
-#: kmoretools/kmoretools.cpp:668
+#: kmoretools/kmoretools.cpp:667
 #, fuzzy, kde-format
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
@@ -1200,7 +1200,7 @@ msgstr ""
 msgid "None"
 msgstr "هېڅ"
 
-#: qtquick/quickengine.cpp:136
+#: qtquick/quickengine.cpp:135
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
