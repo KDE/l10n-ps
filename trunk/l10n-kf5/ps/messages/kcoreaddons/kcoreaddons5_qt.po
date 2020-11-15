@@ -266,7 +266,7 @@ msgctxt "KAboutData CLI|"
 msgid "Please report bugs to %1."
 msgstr ".ته راپور کړﺉ %1 لورينه وکړﺉ کړاونه\n"
 
-#: lib/plugin/kpluginloader.cpp:108
+#: lib/plugin/kpluginloader.cpp:109
 #, fuzzy, qt-format
 #| msgid "The library does not export a factory for creating components."
 msgctxt "KPluginLoader|"
