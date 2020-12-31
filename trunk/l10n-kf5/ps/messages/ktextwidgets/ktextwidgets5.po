@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-06 02:14+0100\n"
+"POT-Creation-Date: 2020-12-31 02:14+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -34,49 +34,49 @@ msgstr ":د تړنۍ ليکنه"
 msgid "Link URL:"
 msgstr ":URL د تړنې"
 
-#: findreplace/kfind.cpp:49
+#: findreplace/kfind.cpp:52
 #, kde-format
 msgid "Find Next"
 msgstr "راتلونکی لټول"
 
-#: findreplace/kfind.cpp:53
+#: findreplace/kfind.cpp:56
 #, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>راتلونکې پېښېدنه لټول غواړﺉ؟ '<b>%1</b>' د</qt>"
 
-#: findreplace/kfind.cpp:661 findreplace/kfind.cpp:680
+#: findreplace/kfind.cpp:666 findreplace/kfind.cpp:685
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] ".۱ ساری وموندل شو"
 msgstr[1] ".ساري وموندل شول %1"
 
-#: findreplace/kfind.cpp:663
+#: findreplace/kfind.cpp:668
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>.لپاره کوم ساري ونه موندل شول '<b>%1</b>' د</qt>"
 
-#: findreplace/kfind.cpp:682
+#: findreplace/kfind.cpp:687
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr ".لپاره کوم ساري ونه موندل شول '<b>%1</b>' د"
 
-#: findreplace/kfind.cpp:686 findreplace/kreplace.cpp:406
+#: findreplace/kfind.cpp:691 findreplace/kreplace.cpp:409
 #, kde-format
 msgid "Beginning of document reached."
 msgstr "د لاسوند پېل ورسېدو."
 
-#: findreplace/kfind.cpp:688 findreplace/kreplace.cpp:408
+#: findreplace/kfind.cpp:693 findreplace/kreplace.cpp:411
 #, kde-format
 msgid "End of document reached."
 msgstr "د لاسوند پای ورسېدو."
 
-#: findreplace/kfind.cpp:696
+#: findreplace/kfind.cpp:701
 #, kde-format
 msgid "Continue from the end?"
 msgstr "د پای نه پرمختلل غواړﺉ؟"
 
-#: findreplace/kfind.cpp:697
+#: findreplace/kfind.cpp:702
 #, kde-format
 msgid "Continue from the beginning?"
 msgstr "د پېل نه پرمختلل غواړﺉ؟"
@@ -351,82 +351,82 @@ msgstr "تاسو ته ښايي چې د پلټلو لپاره څه وليکﺉ."
 msgid "Invalid PCRE pattern syntax."
 msgstr ""
 
-#: findreplace/kreplace.cpp:49 findreplace/kreplace.cpp:60
+#: findreplace/kreplace.cpp:52 findreplace/kreplace.cpp:63
 #, kde-format
 msgid "Replace"
 msgstr "ځاېناستول"
 
-#: findreplace/kreplace.cpp:56
+#: findreplace/kreplace.cpp:59
 #, fuzzy, kde-format
 #| msgid "&All"
 msgctxt "@action:button Replace all occurrences"
 msgid "&All"
 msgstr "ټول&"
 
-#: findreplace/kreplace.cpp:58
+#: findreplace/kreplace.cpp:61
 #, kde-format
 msgid "&Skip"
 msgstr "پرېښودل"
 
-#: findreplace/kreplace.cpp:77
+#: findreplace/kreplace.cpp:80
 #, kde-format
 msgid "Replace '%1' with '%2'?"
 msgstr "سره ځاېناستول غواړﺉ؟ '%2' د '%1'"
 
-#: findreplace/kreplace.cpp:166 findreplace/kreplace.cpp:400
+#: findreplace/kreplace.cpp:169 findreplace/kreplace.cpp:403
 #, kde-format
 msgid "No text was replaced."
 msgstr "کومه ليکنه ونه ځاېناستول شوه."
 
-#: findreplace/kreplace.cpp:168 findreplace/kreplace.cpp:402
+#: findreplace/kreplace.cpp:171 findreplace/kreplace.cpp:405
 #, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "۱ ځاېناستونه وشوه."
 msgstr[1] "ځاېناستونې وشوې. %1"
 
-#: findreplace/kreplace.cpp:416
+#: findreplace/kreplace.cpp:419
 #, kde-format
 msgid "Do you want to restart search from the end?"
 msgstr "تاسو غواړﺉ چې پلټنه د پای نه بيا پېل کړﺉ؟"
 
-#: findreplace/kreplace.cpp:417
+#: findreplace/kreplace.cpp:420
 #, kde-format
 msgid "Do you want to restart search at the beginning?"
 msgstr "تاسو غواړﺉ چې پلټنه د پېل نه بيا پېل کړﺉ؟"
 
-#: findreplace/kreplace.cpp:420
+#: findreplace/kreplace.cpp:423
 #, fuzzy, kde-format
 #| msgid "Restart"
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "بياپېلول"
 
-#: findreplace/kreplace.cpp:421
+#: findreplace/kreplace.cpp:424
 #, fuzzy, kde-format
 #| msgid "Stop"
 msgctxt "@action:button Stop find & replace"
 msgid "Stop"
 msgstr "تمول"
 
-#: findreplace/kreplacedialog.cpp:137
+#: findreplace/kreplacedialog.cpp:139
 #, kde-format
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
 msgstr ""
 
-#: findreplace/kreplacedialog.cpp:139
+#: findreplace/kreplacedialog.cpp:141
 #, kde-format
 msgid "but your pattern only defines 1 capture."
 msgid_plural "but your pattern only defines %1 captures."
 msgstr[0] "خو ستاسو بېلګه يوازې ۱ نيونه پېژني."
 msgstr[1] ".نيونې پېژني %1 خو ستاسو بېلګه يوازې"
 
-#: findreplace/kreplacedialog.cpp:141
+#: findreplace/kreplacedialog.cpp:143
 #, kde-format
 msgid "but your pattern defines no captures."
 msgstr "خو ستاسو بېلګه کومه نيونه نه پېژني"
 
-#: findreplace/kreplacedialog.cpp:142
+#: findreplace/kreplacedialog.cpp:144
 #, kde-format
 msgid ""
 "\n"
