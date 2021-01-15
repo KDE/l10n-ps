@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-13 02:55+0100\n"
+"POT-Creation-Date: 2021-01-15 02:32+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -419,14 +419,14 @@ msgid ""
 "not be possible.</qt>"
 msgstr ""
 
-#: core/security.cpp:203
+#: core/security.cpp:199
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
 "i><br />:</qt>"
 msgstr ""
 
-#: core/security.cpp:281
+#: core/security.cpp:277
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -434,17 +434,17 @@ msgid ""
 "will not be possible.</qt>"
 msgstr ""
 
-#: core/security.cpp:336
+#: core/security.cpp:332
 #, kde-format
 msgid "Key used for signing:"
 msgstr ":هغه کيلۍ چې د نښونې لپاره کارول کيږي"
 
-#: core/security.cpp:337
+#: core/security.cpp:333
 #, kde-format
 msgid "Select Signing Key"
 msgstr "د نښونې کيلۍ وټاکﺉ"
 
-#: core/security.cpp:372
+#: core/security.cpp:368
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
