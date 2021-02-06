@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-03 02:46+0100\n"
+"POT-Creation-Date: 2021-02-06 02:22+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -505,7 +505,7 @@ msgstr "نه شي لګولی %1"
 msgid "Get Hot New Stuff!"
 msgstr "نوي سره شيان ترلاسه کړﺉ!"
 
-#: downloadwidget.cpp:263 qtquick/qml/Page.qml:199
+#: downloadwidget.cpp:263
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
@@ -538,7 +538,7 @@ msgstr "%1 :رابروونی"
 
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#: downloadwidget.ui:71 uploaddialog.ui:304
+#: downloadwidget.ui:71 qtquick/qml/Page.qml:347 uploaddialog.ui:304
 #, fuzzy, kde-format
 #| msgid "Character:"
 msgid "Category:"
@@ -560,14 +560,14 @@ msgid "Newest"
 msgstr "نوی"
 
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:110
+#: downloadwidget.ui:110 qtquick/qml/Page.qml:274
 #, fuzzy, kde-format
 #| msgid "Rating: "
 msgid "Rating"
 msgstr ":کچونه"
 
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
-#: downloadwidget.ui:117
+#: downloadwidget.ui:117 qtquick/qml/Page.qml:223
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installed"
@@ -588,7 +588,7 @@ msgid "Search:"
 msgstr ":پ&لټون"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:217 qtquick/qml/Page.qml:213
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:332
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
@@ -979,7 +979,7 @@ msgctxt "List option which will set the filter to show everything"
 msgid "Show Everything"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:69 qtquick/qml/Page.qml:253
+#: qtquick/qml/NewStuffList.qml:69
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt ""
@@ -987,7 +987,7 @@ msgctxt ""
 msgid "Installed Only"
 msgstr "لګول"
 
-#: qtquick/qml/NewStuffList.qml:70 qtquick/qml/Page.qml:254
+#: qtquick/qml/NewStuffList.qml:70
 #, kde-format
 msgctxt ""
 "List option which will set the filter so only installed items with updates "
@@ -1037,63 +1037,127 @@ msgid ""
 "not be found."
 msgstr ""
 
-#: qtquick/qml/Page.qml:190
+#: qtquick/qml/Page.qml:176
 #, fuzzy, kde-format
-#| msgid "Detailed View"
-msgid "Tiles view mode"
-msgstr "سپړاوی کوت"
+#| msgid "File"
+msgid "Tiles"
+msgstr "دوتنه"
 
-#: qtquick/qml/Page.qml:208
-#, fuzzy, kde-format
-#| msgid "Detailed View"
-msgid "Preview view mode"
-msgstr "سپړاوی کوت"
-
-#: qtquick/qml/Page.qml:234
-#, fuzzy, kde-format
-#| msgid "Show %1"
-msgid "Show:"
-msgstr "ښودل %1"
-
-#: qtquick/qml/Page.qml:252
+#: qtquick/qml/Page.qml:178
 #, kde-format
-msgctxt "List option which will set the filter to show everything"
+msgid "Icons"
+msgstr "انځورنونه"
+
+#: qtquick/qml/Page.qml:180
+#, fuzzy, kde-format
+#| msgid "No Preview"
+msgid "Preview"
+msgstr "هېڅ مخکوت"
+
+#: qtquick/qml/Page.qml:195
+#, fuzzy, kde-format
+#| msgid "Detailed Tree View"
+msgid "Detailed Tiles View Mode"
+msgstr "سپړاويز ونه کوت"
+
+#: qtquick/qml/Page.qml:203
+#, fuzzy, kde-format
+#| msgid "Icons Only"
+msgid "Icons Only View Mode"
+msgstr "يوازې انځورنونه"
+
+#: qtquick/qml/Page.qml:211
+#, fuzzy, kde-format
+#| msgid "Detailed View"
+msgid "Large Preview View Mode"
+msgstr "سپړاوی کوت"
+
+#: qtquick/qml/Page.qml:221
+#, kde-format
 msgid "Everything"
 msgstr ""
 
-#: qtquick/qml/Page.qml:266
+#: qtquick/qml/Page.qml:225
+#, fuzzy, kde-format
+#| msgid "Update"
+msgid "Updateable"
+msgstr "اوسمهالول"
+
+#: qtquick/qml/Page.qml:244
+#, fuzzy, kde-format
+#| msgid "&Show All Entries"
+msgctxt "List option which will set the filter to show everything"
+msgid "Show All Entries"
+msgstr "ټولې ننوتنې ښودل&"
+
+#: qtquick/qml/Page.qml:252
+#, fuzzy, kde-format
+#| msgid "&Show All Entries"
+msgctxt ""
+"List option which will set the filter so only installed items are shown"
+msgid "Show Only Installed Entries"
+msgstr "ټولې ننوتنې ښودل&"
+
+#: qtquick/qml/Page.qml:260
+#, fuzzy, kde-format
+#| msgid "&Show All Entries"
+msgctxt ""
+"List option which will set the filter so only installed items with updates "
+"available are shown"
+msgid "Show Only Updateable Entries"
+msgstr "ټولې ننوتنې ښودل&"
+
+#: qtquick/qml/Page.qml:270
+#, fuzzy, kde-format
+#| msgctxt "@action"
+#| msgid "OpenRecent"
+msgid "Recent"
+msgstr "اوسنی پرانيستل"
+
+#: qtquick/qml/Page.qml:272
+#, kde-format
+msgid "Alphabetical"
+msgstr ""
+
+#: qtquick/qml/Page.qml:276
+#, fuzzy, kde-format
+#| msgid "Download"
+msgid "Downloads"
+msgstr "رالېښنې"
+
+#: qtquick/qml/Page.qml:295
 #, fuzzy, kde-format
 #| msgid "Show directories first"
 msgctxt ""
 "List option which will set the sort order to based on when items were most "
 "recently updated"
-msgid "Most recent first"
+msgid "Show Most Recent First"
 msgstr "لومړی پوښۍ ښودل"
 
-#: qtquick/qml/Page.qml:267
+#: qtquick/qml/Page.qml:303
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to be alphabetical based on the "
 "name"
-msgid "A-Z"
+msgid "Sort Alphabetically By Name"
 msgstr ""
 
-#: qtquick/qml/Page.qml:268
+#: qtquick/qml/Page.qml:311
 #, fuzzy, kde-format
 #| msgid "Show directories first"
 msgctxt "List option which will set the sort order to based on user ratings"
-msgid "Highest rated first"
+msgid "Show Highest Rated First"
 msgstr "لومړی پوښۍ ښودل"
 
-#: qtquick/qml/Page.qml:269
+#: qtquick/qml/Page.qml:319
 #, fuzzy, kde-format
 #| msgid "Most Downloads"
 msgctxt ""
 "List option which will set the sort order to based on number of downloads"
-msgid "Most downloaded first"
+msgid "Show Most Downloaded First"
 msgstr "ډېرې رالېښنې"
 
-#: qtquick/qml/Page.qml:344
+#: qtquick/qml/Page.qml:426
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
@@ -1101,7 +1165,7 @@ msgctxt ""
 msgid "Loading more..."
 msgstr "مخکوت لېښل کيږي"
 
-#: qtquick/qml/Page.qml:355
+#: qtquick/qml/Page.qml:437
 #, kde-format
 msgctxt ""
 "A message shown when there are no entries in the list, and when it is not "
@@ -1716,6 +1780,37 @@ msgstr ""
 #| msgid "Start replace"
 msgid "Start Upload"
 msgstr "ځاېناستی پېلول"
+
+#, fuzzy
+#~| msgid "Detailed View"
+#~ msgid "Tiles view mode"
+#~ msgstr "سپړاوی کوت"
+
+#, fuzzy
+#~| msgid "Show %1"
+#~ msgid "Show:"
+#~ msgstr "ښودل %1"
+
+#, fuzzy
+#~| msgid "Show directories first"
+#~ msgctxt ""
+#~ "List option which will set the sort order to based on when items were "
+#~ "most recently updated"
+#~ msgid "Most recent first"
+#~ msgstr "لومړی پوښۍ ښودل"
+
+#, fuzzy
+#~| msgid "Show directories first"
+#~ msgctxt "List option which will set the sort order to based on user ratings"
+#~ msgid "Highest rated first"
+#~ msgstr "لومړی پوښۍ ښودل"
+
+#, fuzzy
+#~| msgid "Most Downloads"
+#~ msgctxt ""
+#~ "List option which will set the sort order to based on number of downloads"
+#~ msgid "Most downloaded first"
+#~ msgstr "ډېرې رالېښنې"
 
 #, fuzzy
 #~| msgid "Rating: "
@@ -2340,9 +2435,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "HTML documentation"
 #~ msgstr "لاسوندونه HTML"
-
-#~ msgid "Icons"
-#~ msgstr "انځورنونه"
 
 #~ msgid "Configuration description files"
 #~ msgstr "د سازونې سپړاوي دوتنې"
@@ -7397,9 +7489,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgid "Text Position"
 #~ msgstr "د ليکنې ځای"
 
-#~ msgid "Icons Only"
-#~ msgstr "يوازې انځورنونه"
-
 #~ msgid "Text Only"
 #~ msgstr "يوازې ليکنه"
 
@@ -7672,9 +7761,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "Missing Plugin"
 #~ msgstr "ورک لګون"
-
-#~ msgid "Download"
-#~ msgstr "رالېښنې"
 
 #~ msgid "Do Not Download"
 #~ msgstr "مه رالېښه"
@@ -9621,12 +9707,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgstr "دنده"
 
 #, fuzzy
-#~| msgid "File"
-#~ msgctxt "@option:check Do filter on type - show only files"
-#~ msgid "Files"
-#~ msgstr "دوتنه"
-
-#, fuzzy
 #~| msgctxt "@item Text character set"
 #~| msgid "Other"
 #~ msgctxt "@option:check Do filter on type - show everything but files"
@@ -9874,11 +9954,6 @@ msgstr "ځاېناستی پېلول"
 #~| msgid "Comment"
 #~ msgid "Community"
 #~ msgstr "څرګندون"
-
-#, fuzzy
-#~| msgid "No Preview"
-#~ msgid "Preview"
-#~ msgstr "هېڅ مخکوت"
 
 #, fuzzy
 #~| msgid "BSD"
@@ -11829,10 +11904,6 @@ msgstr "ځاېناستی پېلول"
 #~ msgstr ".د کوډه ناکښنې تېروتنه"
 
 #~ msgctxt "@action"
-#~ msgid "OpenRecent"
-#~ msgstr "اوسنی پرانيستل"
-
-#~ msgctxt "@action"
 #~ msgid "SaveAs"
 #~ msgstr "ساتل په"
 
@@ -11888,9 +11959,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "&Hide '%1'"
 #~ msgstr "پټول '%1'&"
-
-#~ msgid "&Show All Entries"
-#~ msgstr "ټولې ننوتنې ښودل&"
 
 #~ msgid "&Remove '%1'"
 #~ msgstr "ړنګول %1'&"
@@ -12143,9 +12211,6 @@ msgstr "ځاېناستی پېلول"
 
 #~ msgid "Tree View"
 #~ msgstr "ونه کوت"
-
-#~ msgid "Detailed Tree View"
-#~ msgstr "سپړاويز ونه کوت"
 
 #~ msgid "Show Hidden Files"
 #~ msgstr "پټې دوتنې ښودل"
