@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-09 02:36+0100\n"
+"POT-Creation-Date: 2021-02-13 02:23+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -538,7 +538,7 @@ msgstr "%1 :رابروونی"
 
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#: downloadwidget.ui:71 qtquick/qml/Page.qml:347 uploaddialog.ui:304
+#: downloadwidget.ui:71 qtquick/qml/Page.qml:348 uploaddialog.ui:304
 #, fuzzy, kde-format
 #| msgid "Character:"
 msgid "Category:"
@@ -588,7 +588,7 @@ msgid "Search:"
 msgstr ":پ&لټون"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:332
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:333
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
@@ -1157,7 +1157,7 @@ msgctxt ""
 msgid "Show Most Downloaded First"
 msgstr "ډېرې رالېښنې"
 
-#: qtquick/qml/Page.qml:426
+#: qtquick/qml/Page.qml:427
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
@@ -1165,7 +1165,7 @@ msgctxt ""
 msgid "Loading more..."
 msgstr "مخکوت لېښل کيږي"
 
-#: qtquick/qml/Page.qml:437
+#: qtquick/qml/Page.qml:438
 #, kde-format
 msgctxt ""
 "A message shown when there are no entries in the list, and when it is not "
@@ -1294,7 +1294,7 @@ msgctxt ""
 msgid "(%1/%2)"
 msgstr "(%1/س)"
 
-#: qtquick/quickengine.cpp:143
+#: qtquick/quickengine.cpp:144
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
