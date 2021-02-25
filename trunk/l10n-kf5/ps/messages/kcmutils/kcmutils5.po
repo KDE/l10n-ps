@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-12 02:26+0100\n"
+"POT-Creation-Date: 2021-02-25 02:22+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -41,37 +41,37 @@ msgid ""
 "qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:71
+#: kcmoduleloader.cpp:74
 #, kde-format
 msgid "The module %1 is disabled."
 msgstr ".رغبېلګه ناتوانول شوې ده %1"
 
-#: kcmoduleloader.cpp:72
+#: kcmoduleloader.cpp:75
 #, kde-format
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:99
+#: kcmoduleloader.cpp:103
 #, fuzzy, kde-format
 #| msgid "Error opening file."
 msgid "Error loading QML file."
 msgstr "دوتنې پرانيستلو کې ستونز"
 
-#: kcmoduleloader.cpp:144
+#: kcmoduleloader.cpp:149
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr ".رغبېلګه سمه سازون رغبېلګه نه ده %1"
 
-#: kcmoduleloader.cpp:145
+#: kcmoduleloader.cpp:150
 #, kde-format
 msgid ""
 "<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
 "qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:186
+#: kcmoduleloader.cpp:191
 #, kde-format
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last system "
@@ -81,13 +81,13 @@ msgid ""
 "this fails, consider contacting your distributor or packager.</p></qt>"
 msgstr ""
 
-#: kcmoduleproxy.cpp:111
+#: kcmoduleproxy.cpp:114
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "کې پرانيستل شوې %1 دا سازونې برخه د مخکې نه په"
 
-#: kcmultidialog.cpp:50
+#: kcmultidialog.cpp:49
 #, fuzzy, kde-format
 #| msgid ""
 #| "The document \"%1\" has been modified.\n"
@@ -99,13 +99,13 @@ msgstr ""
 "لاسوند بدل شوی دی. \"%1\"\n"
 "تاسو خپل بدلونونه ساتل غواړﺉ يا پرېښودل يې غواړﺉ؟"
 
-#: kcmultidialog.cpp:52
+#: kcmultidialog.cpp:51
 #, fuzzy, kde-format
 #| msgid "Settings"
 msgid "Apply Settings"
 msgstr "امستنې"
 
-#: kcmultidialog.cpp:245 kpluginselector.cpp:783
+#: kcmultidialog.cpp:242 kpluginselector.cpp:806
 #, kde-format
 msgid "Configure"
 msgstr "سازول"
@@ -404,7 +404,7 @@ msgstr "د تېرنويې د انګازې ډول"
 msgid "The size of the dialog"
 msgstr "د کړکۍ کچ"
 
-#: kpluginselector.cpp:130
+#: kpluginselector.cpp:129
 #, kde-format
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
@@ -413,14 +413,14 @@ msgstr ""
 "د لګون د اړتياوو له امله خپلکاري بدلونونه سرته ورسېدل. د نورو خبرتياوو لپاره "
 "دلته کېکاږﺉ"
 
-#: kpluginselector.cpp:198
+#: kpluginselector.cpp:197
 #, kde-format
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
 "dependencies:\n"
 msgstr "د لګون د اړتياوو د بشپړولو لپاره خپلکاري بدلونونه سرته ورسېدل:\n"
 
-#: kpluginselector.cpp:202
+#: kpluginselector.cpp:201
 #, kde-format
 msgid ""
 "\n"
@@ -430,7 +430,7 @@ msgstr ""
 "\n"
 "    لګون د اړتياوو له امله په خپلکارې توګه وکتل شو %2 لګون د %1"
 
-#: kpluginselector.cpp:204
+#: kpluginselector.cpp:205
 #, kde-format
 msgid ""
 "\n"
@@ -440,37 +440,37 @@ msgstr ""
 "\n"
 "    لګون سره د تړاو له امله په خپلکارې توګه وناکتل شو %2 لګون د %1"
 
-#: kpluginselector.cpp:207
+#: kpluginselector.cpp:210
 #, kde-format
 msgid "Dependency Check"
 msgstr "د اړېدنې کتنه"
 
-#: kpluginselector.cpp:224
+#: kpluginselector.cpp:228
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] "لګون په خپلکارې توګه زيات کړل شو %1 د لګون د اړتياوو له امله"
 msgstr[1] "لګونونه په خپلکارې توګه زيات کړل شول %1 د لګون د اړتياوو له امله"
 
-#: kpluginselector.cpp:228
+#: kpluginselector.cpp:232
 #, kde-format
 msgid ", "
 msgstr "،"
 
-#: kpluginselector.cpp:232
+#: kpluginselector.cpp:236
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "لګون په خپلکارې توګه وړنګول شو %1 د لګون د اړتياوو له امله"
 msgstr[1] "لګونونه په خپلکارې توګه وړنګول شول %1 د لګون د اړتياوو له امله"
 
-#: kpluginselector.cpp:252
+#: kpluginselector.cpp:258
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
 msgstr "پلټون"
 
-#: kpluginselector.cpp:778
+#: kpluginselector.cpp:801
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
@@ -481,7 +481,7 @@ msgstr "په اړه"
 msgid "Select Components"
 msgstr "رغتوکي ټاکل"
 
-#: ksettings/dialog.cpp:220
+#: ksettings/dialog.cpp:216
 #, kde-format
 msgid "Enable component"
 msgstr "رغتوکی توانول"
