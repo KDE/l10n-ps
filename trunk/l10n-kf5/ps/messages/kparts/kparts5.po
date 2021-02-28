@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-10 02:31+0100\n"
+"POT-Creation-Date: 2021-02-28 02:23+0100\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -29,71 +29,71 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "zabeehkhan@gmail.com"
 
-#: browserextension.cpp:224
+#: browserextension.cpp:219
 #, kde-format
 msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
 msgstr "<qt>لپاره اېنټرنېټ وپلټﺉ؟ <b>%1</b> تاسو غواړﺉ چې د</qt>"
 
-#: browserextension.cpp:225
+#: browserextension.cpp:220
 #, kde-format
 msgid "Internet Search"
 msgstr "اېنټرنېټ پلټون"
 
-#: browserextension.cpp:225
+#: browserextension.cpp:221
 #, kde-format
 msgid "&Search"
 msgstr "پلټون"
 
-#: browseropenorsavequestion.cpp:87
+#: browseropenorsavequestion.cpp:89
 #, fuzzy, kde-format
 #| msgid "Re: %1"
 msgctxt "@label Type of file"
 msgid "Type: %1"
 msgstr "%1 بيا:"
 
-#: browseropenorsavequestion.cpp:95
+#: browseropenorsavequestion.cpp:97
 #, fuzzy, kde-format
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
 msgid "Remember action for files of this type"
 msgstr "دا استوزه بيا نه ښودل"
 
-#: browseropenorsavequestion.cpp:147 browseropenorsavequestion.cpp:237
+#: browseropenorsavequestion.cpp:149 browseropenorsavequestion.cpp:238
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@label:button"
 msgid "&Open with %1"
 msgstr "پرانيستل '%1' په&"
 
-#: browseropenorsavequestion.cpp:211
+#: browseropenorsavequestion.cpp:213
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@action:inmenu"
 msgid "Open &with %1"
 msgstr "پرانيستل '%1' په&"
 
-#: browseropenorsavequestion.cpp:222 browseropenorsavequestion.cpp:318
+#: browseropenorsavequestion.cpp:224 browseropenorsavequestion.cpp:319
 #, fuzzy, kde-format
 #| msgid "Open '%1'"
 msgctxt "@info"
 msgid "Open '%1'?"
 msgstr "پرانيستل '%1'"
 
-#: browseropenorsavequestion.cpp:226
+#: browseropenorsavequestion.cpp:228
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with..."
 msgstr "...پرانيستل په&"
 
-#: browseropenorsavequestion.cpp:246
+#: browseropenorsavequestion.cpp:247
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with"
 msgstr "...پرانيستل په&"
 
-#: browseropenorsavequestion.cpp:315
+#: browseropenorsavequestion.cpp:316
 #, fuzzy, kde-format
 #| msgid "&Open"
 msgctxt "@label:button"
@@ -114,12 +114,12 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "دا هغه نوم دی چې دوتنه پرې وساتل شي."
 
-#: browserrun.cpp:335
+#: browserrun.cpp:334
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "په رښتيا چلول غواړﺉ؟ '%1'"
 
-#: browserrun.cpp:336
+#: browserrun.cpp:335
 #, kde-format
 msgid "Execute File?"
 msgstr "دوتنه چلول غواړﺉ؟"
@@ -129,12 +129,12 @@ msgstr "دوتنه چلول غواړﺉ؟"
 msgid "Execute"
 msgstr "چلول"
 
-#: browserrun.cpp:395
+#: browserrun.cpp:398
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "کې ونه موندل شو $يونلور ستاسو په (%1) د رالېښنې سمبالګر"
 
-#: browserrun.cpp:396
+#: browserrun.cpp:399
 #, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -145,38 +145,38 @@ msgstr ""
 "\n"
 "د کانکويرر سره به يې ټينګوالی وناتوانول شي."
 
-#: browserrun.cpp:423
+#: browserrun.cpp:426
 #, kde-format
 msgid "Save As"
 msgstr "ساتل په"
 
-#: htmlsettingsinterface.cpp:22
+#: htmlsettingsinterface.cpp:21
 #, kde-format
 msgid "Accept"
 msgstr "منل"
 
-#: htmlsettingsinterface.cpp:24
+#: htmlsettingsinterface.cpp:23
 #, kde-format
 msgid "Reject"
 msgstr "نه منل"
 
-#: partloader.cpp:170
+#: partloader.cpp:181
 #, kde-format
 msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
 
-#: partloader.cpp:185
+#: partloader.cpp:198
 #, fuzzy, kde-format
 #| msgid "No handler found for %1."
 msgid "No part was found for mimeType %1"
 msgstr ".د %1 لپاره کوم سمبالوونکی ونه مونل شو"
 
-#: readwritepart.cpp:81
+#: readwritepart.cpp:80
 #, kde-format
 msgid "Untitled"
 msgstr "بېسرليکه"
 
-#: readwritepart.cpp:90
+#: readwritepart.cpp:89
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
