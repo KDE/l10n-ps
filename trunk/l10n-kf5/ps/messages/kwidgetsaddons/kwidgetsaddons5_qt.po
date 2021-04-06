@@ -2899,25 +2899,11 @@ msgctxt "KStandardGuiItem|"
 msgid "&Yes"
 msgstr "هو"
 
-#: kstandardguiitem.cpp:170
-#, fuzzy
-#| msgid "Yes"
-msgctxt "KStandardGuiItem|"
-msgid "Yes"
-msgstr "هو"
-
 #: kstandardguiitem.cpp:175
 #, fuzzy
 #| msgid "&No"
 msgctxt "KStandardGuiItem|"
 msgid "&No"
-msgstr "نه"
-
-#: kstandardguiitem.cpp:175
-#, fuzzy
-#| msgid "No"
-msgctxt "KStandardGuiItem|"
-msgid "No"
 msgstr "نه"
 
 #: kstandardguiitem.cpp:180
@@ -3346,6 +3332,18 @@ msgstr "ټوله پرده"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Yes"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "Yes"
+#~ msgstr "هو"
+
+#, fuzzy
+#~| msgid "No"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "No"
+#~ msgstr "نه"
 
 #, fuzzy
 #~| msgid "&Back"
