@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-18 00:15+0000\n"
+"POT-Creation-Date: 2021-05-20 00:14+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -200,7 +200,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "مخکوت لېښل کيږي"
 msgstr[1] "مخکوت لېښل کيږي"
 
-#: core/engine.cpp:1140
+#: core/engine.cpp:1141
 #, fuzzy, kde-format
 #| msgid "Failed to load file '%1'"
 msgid ""
@@ -1312,10 +1312,10 @@ msgstr ""
 msgid ""
 "The KNSRC file you want to show. If none is passed, you will be presented "
 "with a dialog which lets you switch between all the config files installed "
-"into the systemwide knsrc file location, which on your system is: %1"
+"into the systemwide knsrc file location"
 msgstr ""
 
-#: tools/knewstuff-dialog/main.cpp:36
+#: tools/knewstuff-dialog/main.cpp:35
 #, kde-format
 msgid ""
 "A kns url to show information from. The format for a kns url is kns://"
