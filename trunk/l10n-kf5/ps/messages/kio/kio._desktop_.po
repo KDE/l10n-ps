@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-18 00:26+0000\n"
+"POT-Creation-Date: 2021-06-19 00:25+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -212,7 +212,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr ""
 
-#: src/new_file_templates/linkPath.desktop:24
+#: src/new_file_templates/linkPath.desktop:25
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
