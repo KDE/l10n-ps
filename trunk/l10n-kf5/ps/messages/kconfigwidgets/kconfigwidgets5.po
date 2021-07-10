@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-29 00:13+0000\n"
+"POT-Creation-Date: 2021-07-10 00:13+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -72,14 +72,14 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "سازول"
 
-#: khamburgermenu.cpp:125
+#: khamburgermenu.cpp:127
 #, fuzzy, kde-format
 #| msgid "Menu"
 msgctxt "@action:inmenu General purpose menu"
 msgid "&Menu"
 msgstr "غورنۍ"
 
-#: khamburgermenu.cpp:336
+#: khamburgermenu.cpp:338
 #, fuzzy, kde-format
 #| msgctxt "header for an applications shortcut list"
 #| msgid "Shortcuts for %1"
@@ -89,7 +89,7 @@ msgid_plural "For %1 more actions:"
 msgstr[0] "لپاره لنډلار %1 د"
 msgstr[1] "لپاره لنډلار %1 د"
 
-#: khamburgermenu.cpp:339
+#: khamburgermenu.cpp:341
 #, kde-format
 msgctxt ""
 "@action:inmenu A section heading advertising the contents of the menu bar"
