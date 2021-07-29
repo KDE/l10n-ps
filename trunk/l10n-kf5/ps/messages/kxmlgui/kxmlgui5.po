@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-16 00:14+0000\n"
+"POT-Creation-Date: 2021-07-29 00:14+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1418,12 +1418,12 @@ msgstr "ناکړ"
 msgid "No text"
 msgstr "هېڅ ليکنه"
 
-#: kxmlguiwindow.cpp:163
+#: kxmlguiwindow.cpp:189
 #, kde-format
 msgid "Open Command Bar"
 msgstr ""
 
-#: kxmlguiwindow.cpp:508
+#: kxmlguiwindow.cpp:534
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1431,7 +1431,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:513
+#: kxmlguiwindow.cpp:539
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgid "Ambiguous Shortcuts"
