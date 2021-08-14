@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-06 02:33+0100\n"
+"POT-Creation-Date: 2021-08-14 00:14+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -29,12 +29,12 @@ msgstr "نه په لوستلو کې تېروتنه PTY د"
 msgid "Error writing to PTY"
 msgstr "ته په ليکلو کې تېروتنه PTY"
 
-#: kptydevice.cpp:404
+#: kptydevice.cpp:405
 #, kde-format
 msgid "PTY operation timed out"
 msgstr "چلښت مهال بشپړ شو PTY د"
 
-#: kptydevice.cpp:463 kptydevice.cpp:477
+#: kptydevice.cpp:464 kptydevice.cpp:478
 #, kde-format
 msgid "Error opening PTY"
 msgstr "په پرانيستلو کې تېروتنه PTY د"
