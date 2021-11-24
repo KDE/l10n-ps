@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-15 00:25+0000\n"
+"POT-Creation-Date: 2021-11-24 00:24+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -156,527 +156,462 @@ msgstr ""
 "انکړپټه ښودل<br /><br />انکړ پټه ښيي، چې د کړکۍ په لاندنۍ برخه کې يوه پټه ده "
 "او د انکړ خبرتياوو لپاره کارول کيږي."
 
-#: kstandardaction_p.h:29
-#, kde-format
+#: kstandardaction_p.h:30
 msgid "&New"
 msgstr "نوی"
 
-#: kstandardaction_p.h:29
-#, fuzzy, kde-format
+#: kstandardaction_p.h:30
+#, fuzzy
 #| msgid "Create New Tag..."
 msgid "Create new document"
 msgstr "...نوی بچوی جوړول"
 
-#: kstandardaction_p.h:30
-#, kde-format
+#: kstandardaction_p.h:31
 msgid "&Open..."
 msgstr "...پرانيستل"
 
-#: kstandardaction_p.h:30
-#, fuzzy, kde-format
+#: kstandardaction_p.h:31
+#, fuzzy
 #| msgid "&Back in the Document"
 msgid "Open an existing document"
 msgstr "شاته په لاسوند کې&"
 
-#: kstandardaction_p.h:31
-#, kde-format
+#: kstandardaction_p.h:32
 msgid "Open &Recent"
 msgstr "اوسني &پرانيستل"
 
-#: kstandardaction_p.h:31
-#, kde-format
+#: kstandardaction_p.h:32
 msgid "Open a document which was recently opened"
 msgstr ""
 
-#: kstandardaction_p.h:32
-#, kde-format
+#: kstandardaction_p.h:33
 msgid "&Save"
 msgstr "ساتل"
 
-#: kstandardaction_p.h:32
-#, fuzzy, kde-format
+#: kstandardaction_p.h:33
+#, fuzzy
 #| msgid "Close Document"
 msgid "Save document"
 msgstr "لاسوند بندول"
 
-#: kstandardaction_p.h:33
-#, kde-format
+#: kstandardaction_p.h:34
 msgid "Save &As..."
 msgstr "...ساتل &په"
 
-#: kstandardaction_p.h:33
-#, fuzzy, kde-format
+#: kstandardaction_p.h:34
+#, fuzzy
 #| msgid "Close Document"
 msgid "Save document under a new name"
 msgstr "لاسوند بندول"
 
-#: kstandardaction_p.h:34
-#, kde-format
+#: kstandardaction_p.h:35
 msgid "Re&vert"
 msgstr "ب&ېرته"
 
-#: kstandardaction_p.h:34
-#, kde-format
+#: kstandardaction_p.h:35
 msgid "Revert unsaved changes made to document"
 msgstr ""
 
-#: kstandardaction_p.h:35
-#, kde-format
+#: kstandardaction_p.h:36
 msgid "&Close"
 msgstr "بندول"
 
-#: kstandardaction_p.h:35
-#, fuzzy, kde-format
+#: kstandardaction_p.h:36
+#, fuzzy
 #| msgid "Close Document"
 msgid "Close document"
 msgstr "لاسوند بندول"
 
-#: kstandardaction_p.h:36
-#, kde-format
+#: kstandardaction_p.h:37
 msgid "&Print..."
 msgstr "...چاپول"
 
-#: kstandardaction_p.h:36
-#, fuzzy, kde-format
+#: kstandardaction_p.h:37
+#, fuzzy
 #| msgctxt "keyboard-key-name"
 #| msgid "PrintScreen"
 msgid "Print document"
 msgstr "پرده چاپ"
 
-#: kstandardaction_p.h:37
-#, kde-format
+#: kstandardaction_p.h:38
 msgid "Print Previe&w"
 msgstr "چاپ مخلي_د"
 
-#: kstandardaction_p.h:37
-#, kde-format
+#: kstandardaction_p.h:38
 msgid "Show a print preview of document"
 msgstr ""
 
-#: kstandardaction_p.h:38
-#, kde-format
+#: kstandardaction_p.h:39
 msgid "&Mail..."
 msgstr "...ليک"
 
-#: kstandardaction_p.h:38
-#, fuzzy, kde-format
+#: kstandardaction_p.h:39
+#, fuzzy
 #| msgid "Close Document"
 msgid "Send document by mail"
 msgstr "لاسوند بندول"
 
-#: kstandardaction_p.h:39
-#, kde-format
+#: kstandardaction_p.h:40
 msgid "&Quit"
 msgstr "وتل"
 
-#: kstandardaction_p.h:39
-#, kde-format
+#: kstandardaction_p.h:40
 msgid "Quit application"
 msgstr "کاريال بندول"
 
-#: kstandardaction_p.h:41
-#, kde-format
+#: kstandardaction_p.h:42
 msgid "&Undo"
 msgstr "ناکړ"
 
-#: kstandardaction_p.h:41
-#, fuzzy, kde-format
+#: kstandardaction_p.h:42
+#, fuzzy
 #| msgid "HTML documentation"
 msgid "Undo last action"
 msgstr "لاسوندونه HTML"
 
-#: kstandardaction_p.h:42
-#, kde-format
+#: kstandardaction_p.h:43
 msgid "Re&do"
 msgstr "بي&اکړ"
 
-#: kstandardaction_p.h:42
-#, fuzzy, kde-format
+#: kstandardaction_p.h:43
+#, fuzzy
 #| msgid "HTML documentation"
 msgid "Redo last undone action"
 msgstr "لاسوندونه HTML"
 
-#: kstandardaction_p.h:43
-#, kde-format
+#: kstandardaction_p.h:44
 msgid "Cu&t"
 msgstr "سکڼ_ل"
 
-#: kstandardaction_p.h:43
-#, kde-format
+#: kstandardaction_p.h:44
 msgid "Cut selection to clipboard"
 msgstr ""
 
-#: kstandardaction_p.h:44
-#, kde-format
+#: kstandardaction_p.h:45
 msgid "&Copy"
 msgstr "لمېسل"
 
-#: kstandardaction_p.h:44
-#, kde-format
+#: kstandardaction_p.h:45
 msgid "Copy selection to clipboard"
 msgstr ""
 
-#: kstandardaction_p.h:45 kstandardaction_p.h:47
-#, kde-format
+#: kstandardaction_p.h:46 kstandardaction_p.h:48
 msgid "&Paste"
 msgstr "سرېښل"
 
-#: kstandardaction_p.h:45 kstandardaction_p.h:47
-#, fuzzy, kde-format
+#: kstandardaction_p.h:46 kstandardaction_p.h:48
+#, fuzzy
 #| msgid "Loading Preview"
 msgid "Paste clipboard content"
 msgstr "مخکوت لېښل کيږي"
 
-#: kstandardaction_p.h:49
-#, kde-format
+#: kstandardaction_p.h:50
 msgid "C&lear"
 msgstr "پ&اکول"
 
-#: kstandardaction_p.h:50
-#, kde-format
+#: kstandardaction_p.h:51
 msgid "Select &All"
 msgstr "ټول &ټاکل"
 
-#: kstandardaction_p.h:51
-#, kde-format
+#: kstandardaction_p.h:52
 msgid "Dese&lect"
 msgstr "ناټا&کل"
 
-#: kstandardaction_p.h:52
-#, kde-format
+#: kstandardaction_p.h:53
 msgid "&Find..."
 msgstr "...لټول"
 
-#: kstandardaction_p.h:53
-#, kde-format
+#: kstandardaction_p.h:54
 msgid "Find &Next"
 msgstr "راتلونکی لټول"
 
-#: kstandardaction_p.h:54
-#, kde-format
+#: kstandardaction_p.h:55
 msgid "Find Pre&vious"
 msgstr "مخ&کنی لټول"
 
-#: kstandardaction_p.h:55
-#, kde-format
+#: kstandardaction_p.h:56
 msgid "&Replace..."
 msgstr "...ځاېناستول"
 
-#: kstandardaction_p.h:57
-#, kde-format
+#: kstandardaction_p.h:58
 msgid "&Actual Size"
 msgstr "ار کچ"
 
-#: kstandardaction_p.h:57
-#, kde-format
+#: kstandardaction_p.h:58
 msgid "View document at its actual size"
 msgstr ""
 
-#: kstandardaction_p.h:58
-#, kde-format
+#: kstandardaction_p.h:59
 msgid "&Fit to Page"
 msgstr "مخ سره برابرول"
 
-#: kstandardaction_p.h:58
-#, fuzzy, kde-format
+#: kstandardaction_p.h:59
+#, fuzzy
 #| msgctxt "@action"
 #| msgid "Go to Line"
 msgid "Zoom to fit page in window"
 msgstr "ليکې ته ورتلل"
 
-#: kstandardaction_p.h:59
-#, kde-format
+#: kstandardaction_p.h:60
 msgid "Fit to Page &Width"
 msgstr "د &مخ پلنوالي سره برابرول"
 
-#: kstandardaction_p.h:59
-#, kde-format
+#: kstandardaction_p.h:60
 msgid "Zoom to fit page width in window"
 msgstr ""
 
-#: kstandardaction_p.h:60
-#, kde-format
+#: kstandardaction_p.h:61
 msgid "Fit to Page &Height"
 msgstr "د مخ &اوږدوالي سره برابرول"
 
-#: kstandardaction_p.h:60
-#, kde-format
+#: kstandardaction_p.h:61
 msgid "Zoom to fit page height in window"
 msgstr ""
 
-#: kstandardaction_p.h:61
-#, kde-format
+#: kstandardaction_p.h:62
 msgid "Zoom &In"
 msgstr "لوډېرول"
 
-#: kstandardaction_p.h:62
-#, kde-format
+#: kstandardaction_p.h:63
 msgid "Zoom &Out"
 msgstr "لو&کمول"
 
-#: kstandardaction_p.h:63
-#, kde-format
+#: kstandardaction_p.h:64
 msgid "&Zoom..."
 msgstr "...لويول"
 
-#: kstandardaction_p.h:63
-#, fuzzy, kde-format
+#: kstandardaction_p.h:64
+#, fuzzy
 #| msgid "Select a week"
 msgid "Select zoom level"
 msgstr "يوه اونۍ وټاکﺉ"
 
-#: kstandardaction_p.h:64
-#, kde-format
+#: kstandardaction_p.h:65
 msgid "&Refresh"
 msgstr ""
 
-#: kstandardaction_p.h:64
-#, fuzzy, kde-format
+#: kstandardaction_p.h:65
+#, fuzzy
 #| msgid "&Redisplay"
 msgid "Refresh document"
 msgstr "بياښوون&"
 
-#: kstandardaction_p.h:66
-#, kde-format
+#: kstandardaction_p.h:67
 msgid "&Up"
 msgstr "پاس"
 
-#: kstandardaction_p.h:66
-#, kde-format
+#: kstandardaction_p.h:67
 msgid "Go up"
 msgstr ""
 
-#: kstandardaction_p.h:71
-#, kde-format
+#: kstandardaction_p.h:72
 msgid "&Previous Page"
 msgstr "مخکنی مخ"
 
-#: kstandardaction_p.h:71
-#, fuzzy, kde-format
+#: kstandardaction_p.h:72
+#, fuzzy
 #| msgid "&Previous Page"
 msgid "Go to previous page"
 msgstr "مخکنی مخ&"
 
-#: kstandardaction_p.h:72
-#, kde-format
+#: kstandardaction_p.h:73
 msgid "&Next Page"
 msgstr "راتلونکی مخ"
 
-#: kstandardaction_p.h:72
-#, fuzzy, kde-format
+#: kstandardaction_p.h:73
+#, fuzzy
 #| msgctxt "@action"
 #| msgid "Go to Line"
 msgid "Go to next page"
 msgstr "ليکې ته ورتلل"
 
-#: kstandardaction_p.h:73
-#, kde-format
+#: kstandardaction_p.h:74
 msgid "&Go To..."
 msgstr "ته ورتګ"
 
-#: kstandardaction_p.h:74
-#, kde-format
+#: kstandardaction_p.h:75
 msgid "&Go to Page..."
 msgstr "...مخ ته ورتلل"
 
-#: kstandardaction_p.h:75
-#, kde-format
+#: kstandardaction_p.h:76
 msgid "&Go to Line..."
 msgstr "...ليکې ته ورتلل"
 
-#: kstandardaction_p.h:76
-#, kde-format
+#: kstandardaction_p.h:77
 msgid "&First Page"
 msgstr "لومړی مخ"
 
-#: kstandardaction_p.h:76
-#, fuzzy, kde-format
+#: kstandardaction_p.h:77
+#, fuzzy
 #| msgctxt "@action"
 #| msgid "Go to Line"
 msgid "Go to first page"
 msgstr "ليکې ته ورتلل"
 
-#: kstandardaction_p.h:77
-#, kde-format
+#: kstandardaction_p.h:78
 msgid "&Last Page"
 msgstr "وروستی مخ"
 
-#: kstandardaction_p.h:77
-#, fuzzy, kde-format
+#: kstandardaction_p.h:78
+#, fuzzy
 #| msgid "&Go to Page..."
 msgid "Go to last page"
 msgstr "...مخ ته ورتلل&"
 
-#: kstandardaction_p.h:78
-#, kde-format
+#: kstandardaction_p.h:79
 msgid "&Back"
 msgstr "شاته"
 
-#: kstandardaction_p.h:78
-#, fuzzy, kde-format
+#: kstandardaction_p.h:79
+#, fuzzy
 #| msgid "&Back in the Document"
 msgid "Go back in document"
 msgstr "شاته په لاسوند کې&"
 
-#: kstandardaction_p.h:79
-#, fuzzy, kde-format
+#: kstandardaction_p.h:80
+#, fuzzy
 #| msgctxt "go forward"
 #| msgid "&Forward"
 msgid "&Forward"
 msgstr "مخکې&"
 
-#: kstandardaction_p.h:79
-#, fuzzy, kde-format
+#: kstandardaction_p.h:80
+#, fuzzy
 #| msgid "&Forward in the Document"
 msgid "Go forward in document"
 msgstr "مخکې په لاسوند کې&"
 
-#: kstandardaction_p.h:81
-#, kde-format
+#: kstandardaction_p.h:82
 msgid "&Add Bookmark"
 msgstr "ليکنښه &زياتول"
 
-#: kstandardaction_p.h:82
-#, fuzzy, kde-format
+#: kstandardaction_p.h:83
+#, fuzzy
 #| msgid "&Edit Bookmarks"
 msgid "&Edit Bookmarks..."
 msgstr "ليکنښې &سمول"
 
-#: kstandardaction_p.h:84
-#, kde-format
+#: kstandardaction_p.h:85
 msgid "&Spelling..."
 msgstr "...ليکدود"
 
-#: kstandardaction_p.h:84
-#, fuzzy, kde-format
+#: kstandardaction_p.h:85
+#, fuzzy
 #| msgid "Check Spelling"
 msgid "Check spelling in document"
 msgstr "ليکدود کتل"
 
-#: kstandardaction_p.h:86
-#, kde-format
+#: kstandardaction_p.h:87
 msgid "Show &Menubar"
 msgstr "غورنۍ پټه ښودل"
 
-#: kstandardaction_p.h:86
-#, fuzzy, kde-format
+#: kstandardaction_p.h:87
+#, fuzzy
 #| msgid "Show &Menubar"
 msgid "Show or hide menubar"
 msgstr "غورنۍ پټه ښودل&"
 
-#: kstandardaction_p.h:87
-#, kde-format
+#: kstandardaction_p.h:88
 msgid "Show &Toolbar"
 msgstr "توکپټه &ښودل"
 
-#: kstandardaction_p.h:87
-#, fuzzy, kde-format
+#: kstandardaction_p.h:88
+#, fuzzy
 #| msgid "Show &Toolbar"
 msgid "Show or hide toolbar"
 msgstr "توکپټه &ښودل"
 
-#: kstandardaction_p.h:88
-#, kde-format
+#: kstandardaction_p.h:89
 msgid "Show St&atusbar"
 msgstr "ان&کړپټه ښودل"
 
-#: kstandardaction_p.h:88
-#, fuzzy, kde-format
+#: kstandardaction_p.h:89
+#, fuzzy
 #| msgid "Show St&atusbar"
 msgid "Show or hide statusbar"
 msgstr "ان&کړپټه ښودل"
 
-#: kstandardaction_p.h:89
-#, kde-format
+#: kstandardaction_p.h:90
 msgid "F&ull Screen Mode"
 msgstr "ټ&وله پرده اکر"
 
-#: kstandardaction_p.h:91
-#, kde-format
+#: kstandardaction_p.h:92
 msgid "&Save Settings"
 msgstr "امستنې ساتل"
 
-#: kstandardaction_p.h:93
-#, fuzzy, kde-format
+#: kstandardaction_p.h:94
+#, fuzzy
 #| msgid "Configure S&hortcuts..."
 msgid "Configure Keyboard S&hortcuts..."
 msgstr "...ل&نډلاري سازول"
 
-#: kstandardaction_p.h:94
+#: kstandardaction_p.h:95
 #, kde-format
 msgid "&Configure %1..."
 msgstr "...سازول %1"
 
-#: kstandardaction_p.h:95
-#, kde-format
+#: kstandardaction_p.h:96
 msgid "Configure Tool&bars..."
 msgstr "...توک&پټې سازول"
 
-#: kstandardaction_p.h:96
-#, kde-format
+#: kstandardaction_p.h:97
 msgid "Configure &Notifications..."
 msgstr "...يادښتونه &سازول"
 
-#: kstandardaction_p.h:103
+#: kstandardaction_p.h:104
 #, kde-format
 msgid "%1 &Handbook"
 msgstr "لاسکتاب %1"
 
-#: kstandardaction_p.h:104
-#, kde-format
+#: kstandardaction_p.h:105
 msgid "What's &This?"
 msgstr "دا &څه دي؟"
 
-#: kstandardaction_p.h:105
-#, kde-format
+#: kstandardaction_p.h:106
 msgid "Tip of the &Day"
 msgstr "د &ورځې نکته"
 
-#: kstandardaction_p.h:106
-#, kde-format
+#: kstandardaction_p.h:107
 msgid "&Report Bug..."
 msgstr "کړاو راپورول"
 
-#: kstandardaction_p.h:107
-#, fuzzy, kde-format
+#: kstandardaction_p.h:108
+#, fuzzy
 #| msgid "Configure Email..."
 msgid "Configure &Language..."
 msgstr "...برېښليک سازول"
 
-#: kstandardaction_p.h:108
+#: kstandardaction_p.h:109
 #, kde-format
 msgid "&About %1"
 msgstr "په اړه %1 د"
 
-#: kstandardaction_p.h:109
-#, kde-format
+#: kstandardaction_p.h:110
 msgid "About &KDE"
 msgstr "د &کډي په اړه"
 
-#: kstandardaction_p.h:110
-#, kde-format
+#: kstandardaction_p.h:111
 msgid "&Delete"
 msgstr "ړنګول"
 
-#: kstandardaction_p.h:111
-#, fuzzy, kde-format
+#: kstandardaction_p.h:112
+#, fuzzy
 #| msgid "&Replace..."
 msgid "&Rename..."
 msgstr "...ځاېناستول"
 
-#: kstandardaction_p.h:112
-#, fuzzy, kde-format
+#: kstandardaction_p.h:113
+#, fuzzy
 #| msgid "Move to Trash"
 msgid "&Move to Trash"
 msgstr "خځلنۍ ته لېږل"
 
-#: kstandardaction_p.h:113
-#, kde-format
+#: kstandardaction_p.h:114
 msgid "&Donate"
 msgstr ""
 
-#: kstandardaction_p.h:114
-#, fuzzy, kde-format
+#: kstandardaction_p.h:115
+#, fuzzy
 #| msgid "Open &Recent"
 msgid "Open &Menu"
 msgstr "اوسني &پرانيستل"
