@@ -28,7 +28,7 @@ msgctxt "KNotificationJobUiDelegate|"
 msgid "%1 (Failed)"
 msgstr "(تړنه) %1"
 
-#: knotificationrestrictions.cpp:182
+#: knotificationrestrictions.cpp:187
 #, fuzzy
 #| msgid "Quit application"
 msgctxt "KNotificationRestrictions|"
