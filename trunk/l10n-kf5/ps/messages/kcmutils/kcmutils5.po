@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-30 00:41+0000\n"
+"POT-Creation-Date: 2022-04-24 00:40+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -117,7 +117,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "امستنې"
 
-#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:365
+#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:327
 #, kde-format
 msgid "Configure"
 msgstr "سازول"
@@ -182,13 +182,13 @@ msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] "لګون په خپلکارې توګه وړنګول شو %1 د لګون د اړتياوو له امله"
 msgstr[1] "لګونونه په خپلکارې توګه وړنګول شول %1 د لګون د اړتياوو له امله"
 
-#: kpluginselector.cpp:264 kpluginwidget.cpp:57
+#: kpluginselector.cpp:264 kpluginwidget.cpp:59
 #, fuzzy, kde-format
 #| msgid "Search"
 msgid "Search..."
 msgstr "پلټون"
 
-#: kpluginselector.cpp:804 kpluginwidget.cpp:360
+#: kpluginselector.cpp:804 kpluginwidget.cpp:322
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
@@ -198,6 +198,74 @@ msgstr "په اړه"
 #, kde-format
 msgid "Enable component"
 msgstr "رغتوکی توانول"
+
+#: qml/components/KPluginDelegate.qml:45
+#, fuzzy, kde-format
+#| msgid "&About"
+msgctxt "@info:tooltip"
+msgid "About"
+msgstr "په اړه"
+
+#: qml/components/KPluginDelegate.qml:56
+#, fuzzy, kde-format
+#| msgid "Confi&gure..."
+msgctxt "@info:tooltip"
+msgid "Configure..."
+msgstr "...ساز&ول"
+
+#: qml/components/KPluginSelector.qml:78
+#, kde-format
+msgid "No matches"
+msgstr ""
+
+#: qml/components/KPluginSelector.qml:78
+#, fuzzy, kde-format
+#| msgid "1 match found."
+#| msgid_plural "%1 matches found."
+msgid "No plugins found"
+msgstr ".۱ ساری وموندل شو"
+
+#: qml/components/private/AboutPlugin.qml:42
+#, fuzzy, kde-format
+#| msgctxt "concatenation of dates and time"
+#| msgid "%1 %2"
+msgctxt "Plugin name and plugin version"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/components/private/AboutPlugin.qml:64
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copyright"
+msgstr "لمېسل"
+
+#: qml/components/private/AboutPlugin.qml:81
+#, kde-format
+msgid "License:"
+msgstr ":منښتليک"
+
+#: qml/components/private/AboutPlugin.qml:100
+#, fuzzy, kde-format
+#| msgid "A&uthors"
+msgid "Authors"
+msgstr "ل&يکوالان"
+
+#: qml/components/private/AboutPlugin.qml:117
+#, kde-format
+msgid "Credits"
+msgstr ""
+
+#: qml/components/private/AboutPlugin.qml:134
+#, fuzzy, kde-format
+#| msgid "Translation"
+msgid "Translators"
+msgstr "ژباړه"
+
+#: qml/components/private/AboutPlugin.qml:161
+#, fuzzy, kde-format
+#| msgid "&Send Email"
+msgid "Send an email to %1"
+msgstr "برېښليک لېږل"
 
 #~ msgid "Distance between desktop icons"
 #~ msgstr "د سرپاڼې انځورنونو ترمنځ تشه"
@@ -390,9 +458,6 @@ msgstr "رغتوکی توانول"
 
 #~ msgid "A&uthor"
 #~ msgstr "ل&يکوال"
-
-#~ msgid "A&uthors"
-#~ msgstr "ل&يکوالان"
 
 #~ msgid ""
 #~ "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
@@ -1696,10 +1761,6 @@ msgstr "رغتوکی توانول"
 
 #~ msgid "Yesterday"
 #~ msgstr "پرون"
-
-#~ msgctxt "concatenation of dates and time"
-#~ msgid "%1 %2"
-#~ msgstr "%1 %2"
 
 #~ msgctxt "concatenation of date/time and time zone"
 #~ msgid "%1 %2"
@@ -3126,9 +3187,6 @@ msgstr "رغتوکی توانول"
 
 #~ msgid "Wishlist"
 #~ msgstr "غوښتنلړ"
-
-#~ msgid "Translation"
-#~ msgstr "ژباړه"
 
 #~ msgid "S&ubject: "
 #~ msgstr ":س&رليک"
@@ -4653,9 +4711,6 @@ msgstr "رغتوکی توانول"
 #~ msgid "Front"
 #~ msgstr "مخه"
 
-#~ msgid "Copy"
-#~ msgstr "لمېسل"
-
 #~ msgid "Open"
 #~ msgstr "پرانيستل"
 
@@ -4787,9 +4842,6 @@ msgstr "رغتوکی توانول"
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "ورننويستل"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "...ساز&ول"
 
 #~ msgid "Add"
 #~ msgstr "زياتول"
@@ -6753,9 +6805,6 @@ msgstr "رغتوکی توانول"
 #~ msgid "&Send Unencrypted"
 #~ msgstr "کوډه ناکښلې لېږل"
 
-#~ msgid "&Send Email"
-#~ msgstr "برېښليک لېږل"
-
 #~ msgid "(%1/s)"
 #~ msgstr "(%1/س)"
 
@@ -7008,12 +7057,6 @@ msgstr "رغتوکی توانول"
 #~| msgid "Find Links as You Type"
 #~ msgid "Find &links only"
 #~ msgstr "د ليکلو سره سم تړنه لټول"
-
-#, fuzzy
-#~| msgid "1 match found."
-#~| msgid_plural "%1 matches found."
-#~ msgid "Not found"
-#~ msgstr ".۱ ساری وموندل شو"
 
 #, fuzzy
 #~| msgid "Find"
@@ -7618,9 +7661,6 @@ msgstr "رغتوکی توانول"
 
 #~ msgid "Email address:"
 #~ msgstr ":برېښليک پته"
-
-#~ msgid "License:"
-#~ msgstr ":منښتليک"
 
 #~ msgid "GPL"
 #~ msgstr "ګ.پ.ل"
