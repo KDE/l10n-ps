@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-18 00:54+0000\n"
+"POT-Creation-Date: 2022-05-20 00:53+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1465,7 +1465,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/rfc.desktop:92
 msgctxt "Query"
-msgid "https://tools.ietf.org/id/\\\\{@}"
+msgid "https://datatracker.ietf.org/doc/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/rpmfind.desktop:3
