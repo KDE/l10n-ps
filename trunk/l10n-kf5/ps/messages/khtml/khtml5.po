@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-09 00:42+0000\n"
+"POT-Creation-Date: 2022-06-06 00:41+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -179,7 +179,6 @@ msgstr "اخځ"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, _headers)
 #: ecma/debugger/localvariabledock.cpp:52 htmlpageinfo.ui:219
-#: java/kjavaappletviewer.cpp:146
 #, kde-format
 msgid "Value"
 msgstr "ارزښت"
@@ -547,111 +546,6 @@ msgstr "سريزونه HTTP"
 #, kde-format
 msgid "Property"
 msgstr "ځانتياوی"
-
-#: java/kjavaapplet.cpp:227
-#, kde-format
-msgid "Initializing Applet \"%1\"..."
-msgstr "...څېرمه کړنلار پېليږي \"%1\""
-
-#: java/kjavaapplet.cpp:233
-#, kde-format
-msgid "Starting Applet \"%1\"..."
-msgstr "...څېرمه کړنلار پېليږي \"%1\""
-
-#: java/kjavaapplet.cpp:240
-#, kde-format
-msgid "Applet \"%1\" started"
-msgstr "څېرمه کړنلار پېل شو \"%1\""
-
-#: java/kjavaapplet.cpp:246
-#, kde-format
-msgid "Applet \"%1\" stopped"
-msgstr "څېرمه کړنلار تم شو \"%1\""
-
-#: java/kjavaappletserver.cpp:143
-#, kde-format
-msgid "Loading Applet"
-msgstr "څېرمه کړنلار لېښل کيږي"
-
-#: java/kjavaappletserver.cpp:146
-#, kde-format
-msgid "Error: java executable not found"
-msgstr "تېروتنه: د جاوا چلېدونکی ونه موندل شو"
-
-#: java/kjavaappletserver.cpp:673
-#, kde-format
-msgid "Signed by (validation: %1)"
-msgstr "(%1 لاسليک کړی (باورتيا:"
-
-#: java/kjavaappletserver.cpp:675
-#, kde-format
-msgid "Certificate (validation: %1)"
-msgstr "(%1 برېليک (باورتيا:"
-
-#: java/kjavaappletserver.cpp:811 khtml_part.cpp:7047
-#, kde-format
-msgid "Security Alert"
-msgstr "د خونديتوب خبرونه"
-
-#: java/kjavaappletserver.cpp:816
-#, kde-format
-msgid "Do you grant Java applet with certificate(s):"
-msgstr ""
-
-#: java/kjavaappletserver.cpp:818
-#, kde-format
-msgid "the following permission"
-msgstr "لاندنۍ پرېښلې"
-
-#: java/kjavaappletserver.cpp:827
-#, kde-format
-msgid "&No"
-msgstr "نه"
-
-#: java/kjavaappletserver.cpp:832
-#, kde-format
-msgid "&Reject All"
-msgstr "ټول نه منل"
-
-#: java/kjavaappletserver.cpp:836
-#, kde-format
-msgid "&Yes"
-msgstr "هو"
-
-#: java/kjavaappletserver.cpp:840
-#, kde-format
-msgid "&Grant All"
-msgstr "ټول منل"
-
-#: java/kjavaappletviewer.cpp:55
-#, kde-format
-msgid "KDE Java Applet Plugin"
-msgstr "د کډي جاوا څېرمه کړنلار لګون"
-
-#: java/kjavaappletviewer.cpp:137
-#, kde-format
-msgid "Applet Parameters"
-msgstr "د څېرمه کړنلار ارزښتمنۍ"
-
-#: java/kjavaappletviewer.cpp:145
-#, kde-format
-msgid "Parameter"
-msgstr "ارزښتمنۍ"
-
-#: java/kjavaappletviewer.cpp:149
-#, kde-format
-msgid "Class"
-msgstr "پاړکی"
-
-#: java/kjavaappletviewer.cpp:155
-#, kde-format
-msgid "Base URL"
-msgstr "URL بنسټ"
-
-#: java/kjavaappletviewer.cpp:161
-#, kde-format
-msgid "Archives"
-msgstr "ارشيونه"
 
 #. i18n: ectx: Menu (edit)
 #: khtml.rc:4 khtml_browser.rc:11
@@ -1324,6 +1218,11 @@ msgstr "د خونديتوب خبرتيا"
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
 
+#: khtml_part.cpp:7047
+#, kde-format
+msgid "Security Alert"
+msgstr "د خونديتوب خبرونه"
+
 #: khtml_part.cpp:7417
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
@@ -1800,6 +1699,63 @@ msgstr ""
 #, kde-format
 msgid "XML parsing error"
 msgstr "تجزيه کولو تېروتنه XML"
+
+#~ msgid "Initializing Applet \"%1\"..."
+#~ msgstr "...څېرمه کړنلار پېليږي \"%1\""
+
+#~ msgid "Starting Applet \"%1\"..."
+#~ msgstr "...څېرمه کړنلار پېليږي \"%1\""
+
+#~ msgid "Applet \"%1\" started"
+#~ msgstr "څېرمه کړنلار پېل شو \"%1\""
+
+#~ msgid "Applet \"%1\" stopped"
+#~ msgstr "څېرمه کړنلار تم شو \"%1\""
+
+#~ msgid "Loading Applet"
+#~ msgstr "څېرمه کړنلار لېښل کيږي"
+
+#~ msgid "Error: java executable not found"
+#~ msgstr "تېروتنه: د جاوا چلېدونکی ونه موندل شو"
+
+#~ msgid "Signed by (validation: %1)"
+#~ msgstr "(%1 لاسليک کړی (باورتيا:"
+
+#~ msgid "Certificate (validation: %1)"
+#~ msgstr "(%1 برېليک (باورتيا:"
+
+#~ msgid "the following permission"
+#~ msgstr "لاندنۍ پرېښلې"
+
+#~ msgid "&No"
+#~ msgstr "نه"
+
+#~ msgid "&Reject All"
+#~ msgstr "ټول نه منل"
+
+#~ msgid "&Yes"
+#~ msgstr "هو"
+
+#~ msgid "&Grant All"
+#~ msgstr "ټول منل"
+
+#~ msgid "KDE Java Applet Plugin"
+#~ msgstr "د کډي جاوا څېرمه کړنلار لګون"
+
+#~ msgid "Applet Parameters"
+#~ msgstr "د څېرمه کړنلار ارزښتمنۍ"
+
+#~ msgid "Parameter"
+#~ msgstr "ارزښتمنۍ"
+
+#~ msgid "Class"
+#~ msgstr "پاړکی"
+
+#~ msgid "Base URL"
+#~ msgstr "URL بنسټ"
+
+#~ msgid "Archives"
+#~ msgstr "ارشيونه"
 
 #~ msgid "Overwrite"
 #~ msgstr "ځاېناستول"

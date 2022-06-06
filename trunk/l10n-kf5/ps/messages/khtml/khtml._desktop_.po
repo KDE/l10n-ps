@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-30 00:53+0000\n"
+"POT-Creation-Date: 2022-06-06 00:53+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -13,11 +13,6 @@ msgstr ""
 "X-Poedit-Language: Pashto, Pushto\n"
 "X-Poedit-Country: AFGHANISTAN\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: src/java/kjavaappletviewer.desktop:2
-msgctxt "Name"
-msgid "Embedded Java Applet Viewer"
-msgstr "راتاو جاوا څېرمه کړنلار ليدانی"
 
 #: src/khtmladaptorpart.desktop:2
 msgctxt "Name"
@@ -48,6 +43,10 @@ msgstr "راتاوېدونکی انځور ليدانی"
 msgctxt "Name"
 msgid "Embeddable Component for multipart/mixed"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Java Applet Viewer"
+#~ msgstr "راتاو جاوا څېرمه کړنلار ليدانی"
 
 #, fuzzy
 #~| msgctxt "Name"
