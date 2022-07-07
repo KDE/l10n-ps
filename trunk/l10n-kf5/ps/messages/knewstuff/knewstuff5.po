@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-22 00:41+0000\n"
+"POT-Creation-Date: 2022-07-07 00:41+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -1326,6 +1326,15 @@ msgstr "لګول"
 msgctxt "Title for a dialog box which shows error messages"
 msgid "An Error Occurred"
 msgstr ""
+
+#: qtquick/qml/private/ErrorDisplayer.qml:51
+#, fuzzy, kde-format
+#| msgid "Please put in a name."
+msgid ""
+"\n"
+"\n"
+"Please try again later."
+msgstr ".لورينه وکړﺉ يو نوم وليکﺉ"
 
 #: qtquick/qml/private/GridTileDelegate.qml:113
 #, fuzzy, kde-format
@@ -8942,9 +8951,6 @@ msgstr "%1 :رالېښنې"
 
 #~ msgid "No provider selected."
 #~ msgstr ".کوم برابروونی نه دی ټاکل شوی"
-
-#~ msgid "Please put in a name."
-#~ msgstr ".لورينه وکړﺉ يو نوم وليکﺉ"
 
 #~ msgid "Old upload information found, fill out fields?"
 #~ msgstr "د ورلېښنې زړې خبرتياوې وموندل شوې، ډګرونه ډکول غواړﺉ؟ "
