@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-27 00:42+0000\n"
+"POT-Creation-Date: 2022-09-08 00:42+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -621,35 +621,35 @@ msgstr ""
 msgid "Open &Menu"
 msgstr "اوسني &پرانيستل"
 
-#: ktipdialog.cpp:219
+#: ktipdialog.cpp:222
 #, fuzzy, kde-format
 #| msgid "Tip of the Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "د ورځې نکته"
 
-#: ktipdialog.cpp:235
+#: ktipdialog.cpp:238
 #, fuzzy, kde-format
 #| msgid "Did you know...?\n"
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "تاسو پوهېدﺉ...؟\n"
 
-#: ktipdialog.cpp:288
+#: ktipdialog.cpp:291
 #, fuzzy, kde-format
 #| msgid "&Show tips on startup"
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "په پېلنګ کې نکتې ښودل"
 
-#: ktipdialog.cpp:293
+#: ktipdialog.cpp:296
 #, fuzzy, kde-format
 #| msgid "&Previous"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "مخکنی"
 
-#: ktipdialog.cpp:298
+#: ktipdialog.cpp:301
 #, fuzzy, kde-format
 #| msgctxt "Opposite to Previous"
 #| msgid "&Next"
