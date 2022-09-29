@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-09-14 00:42+0000\n"
+"POT-Creation-Date: 2022-09-29 00:42+0000\n"
 "PO-Revision-Date: 2008-08-16 16:01-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -714,20 +714,20 @@ msgstr "سازول"
 msgid "Configure menu - %1"
 msgstr "...سازول %1"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:177
+#: kmoretools/kmoretoolsmenufactory.cpp:173
 #, fuzzy, kde-format
 #| msgid "Path to documents folder"
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
 msgstr "د لاسوندونو پوښۍ يونلور"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:184
+#: kmoretools/kmoretoolsmenufactory.cpp:182
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:198
+#: kmoretools/kmoretoolsmenufactory.cpp:195
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
