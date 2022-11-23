@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-21 00:55+0000\n"
+"POT-Creation-Date: 2022-11-23 00:57+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -22,11 +22,6 @@ msgstr ""
 #: src/ioslaves/file/kauth/file.actions:55
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
-msgstr ""
-
-#: src/ioslaves/telnet/ktelnetservice5.desktop:10
-msgctxt "Name"
-msgid "KTelnetService"
 msgstr ""
 
 #: src/ioslaves/trash/kcm_trash.desktop:7 src/ioslaves/trash/kcmtrash.desktop:1
@@ -248,6 +243,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Text File..."
 msgstr "دوتنه ورننويستل"
+
+#: src/schemehandlers/telnet/ktelnetservice5.desktop:10
+msgctxt "Name"
+msgid "KTelnetService"
+msgstr ""
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"
