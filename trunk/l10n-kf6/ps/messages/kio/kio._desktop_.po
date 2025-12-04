@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-29 00:49+0000\n"
+"POT-Creation-Date: 2025-12-04 00:50+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -228,7 +228,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:52
+#: src/urifilters/ikws/searchproviders/boo.desktop:53
 msgctxt "Query"
 msgid "https://bugzilla.opensuse.org/show_bug.cgi?id=\\\\{@}"
 msgstr ""
@@ -292,7 +292,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:52
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:53
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -429,7 +429,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:40
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:41
 msgctxt "Query"
 msgid "https://hub.docker.com/search?q=\\\\{@}"
 msgstr ""
@@ -449,7 +449,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:42
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:43
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr ""
@@ -545,7 +545,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:40
+#: src/urifilters/ikws/searchproviders/fedora.desktop:41
 msgctxt "Query"
 msgid "https://packages.fedoraproject.org/search?query=\\\\{@}"
 msgstr ""
@@ -784,7 +784,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:68
+#: src/urifilters/ikws/searchproviders/grec.desktop:67
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr ""
@@ -925,7 +925,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:40
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:41
 msgctxt "Query"
 msgid "https://store.kde.org/browse?tag=\\\\{@}"
 msgstr ""
@@ -1053,7 +1053,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:40
+#: src/urifilters/ikws/searchproviders/mdn.desktop:41
 msgctxt "Query"
 msgid "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
 msgstr ""
@@ -1166,7 +1166,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:40
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:41
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1199,7 +1199,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:40
+#: src/urifilters/ikws/searchproviders/npm.desktop:41
 msgctxt "Query"
 msgid "https://www.npmjs.com/search?q=\\\\{@}"
 msgstr ""
@@ -1260,7 +1260,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:51
+#: src/urifilters/ikws/searchproviders/pypi.desktop:52
 msgctxt "Query"
 msgid "https://pypi.org/search/?q=\\\\{@}"
 msgstr ""
@@ -1580,7 +1580,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:42
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:43
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr ""
@@ -1718,7 +1718,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:44
+#: templates/kioworker6/kioworker6.kdevtemplate:45
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
