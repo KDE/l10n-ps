@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-07-14 00:51+0000\n"
+"POT-Creation-Date: 2026-07-27 00:53+0000\n"
 "PO-Revision-Date: 2008-08-16 11:44-0800\n"
 "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
 "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
@@ -183,7 +183,7 @@ msgctxt "Name"
 msgid "ARD Mediathek"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/ard.desktop:37
+#: src/urifilters/ikws/searchproviders/ard.desktop:38
 msgctxt "Query"
 msgid "https://www.ardmediathek.de/suche/\\\\{@}"
 msgstr ""
@@ -576,7 +576,7 @@ msgctxt "Name"
 msgid "Flathub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/flathub.desktop:37
+#: src/urifilters/ikws/searchproviders/flathub.desktop:38
 msgctxt "Query"
 msgid "https://flathub.org/apps/search?q=\\\\{@}"
 msgstr ""
@@ -1496,7 +1496,7 @@ msgctxt "Name"
 msgid "Startpage"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/startpage.desktop:37
+#: src/urifilters/ikws/searchproviders/startpage.desktop:38
 msgctxt "Query"
 msgid "https://www.startpage.com/sp/search?query=\\\\{@}"
 msgstr ""
@@ -1750,7 +1750,7 @@ msgctxt "Name"
 msgid "ZDF Mediathek"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/zdf.desktop:36
+#: src/urifilters/ikws/searchproviders/zdf.desktop:37
 msgctxt "Query"
 msgid "https://www.zdf.de/suche?q=\\\\{@}"
 msgstr ""
